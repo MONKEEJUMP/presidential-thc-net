@@ -764,7 +764,7 @@ th {
     font-size: 1.5rem;
   }
 
-  .table-of-contents__column-end a::after {
+  .table-of-contents li.table-of-contents__column-end a::after {
     content: none;
   }
 }
