@@ -1,0 +1,185 @@
+{
+  "measuredAt": "2026-08-05T09:06:59.989Z",
+  "rows": [
+    {
+      "route": "/science",
+      "status": 200,
+      "bytes": 637649,
+      "mib": 0.608
+    },
+    {
+      "route": "/guides",
+      "status": 200,
+      "bytes": 625191,
+      "mib": 0.596
+    },
+    {
+      "route": "/formats",
+      "status": 200,
+      "bytes": 624999,
+      "mib": 0.596
+    },
+    {
+      "route": "/infusion",
+      "status": 200,
+      "bytes": 619089,
+      "mib": 0.59
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "bytes": 611819,
+      "mib": 0.583
+    },
+    {
+      "route": "/guides/beginners-guide",
+      "status": 200,
+      "bytes": 590051,
+      "mib": 0.563
+    },
+    {
+      "route": "/guides/what-to-look-for",
+      "status": 200,
+      "bytes": 583630,
+      "mib": 0.557
+    },
+    {
+      "route": "/science/reading-a-lab-report",
+      "status": 200,
+      "bytes": 583600,
+      "mib": 0.557
+    },
+    {
+      "route": "/science/cannabinoids",
+      "status": 200,
+      "bytes": 583558,
+      "mib": 0.557
+    },
+    {
+      "route": "/formats/infused-pre-rolls",
+      "status": 200,
+      "bytes": 582654,
+      "mib": 0.556
+    },
+    {
+      "route": "/science/decarboxylation",
+      "status": 200,
+      "bytes": 581832,
+      "mib": 0.555
+    },
+    {
+      "route": "/science/terpenes",
+      "status": 200,
+      "bytes": 581656,
+      "mib": 0.555
+    },
+    {
+      "route": "/infusion/why-infused-burns-differently",
+      "status": 200,
+      "bytes": 580934,
+      "mib": 0.554
+    },
+    {
+      "route": "/guides/how-to-store-infused-cannabis",
+      "status": 200,
+      "bytes": 580081,
+      "mib": 0.553
+    },
+    {
+      "route": "/science/live-resin",
+      "status": 200,
+      "bytes": 579870,
+      "mib": 0.553
+    },
+    {
+      "route": "/formats/vape-cartridges",
+      "status": 200,
+      "bytes": 579013,
+      "mib": 0.552
+    },
+    {
+      "route": "/formats/blunts",
+      "status": 200,
+      "bytes": 577104,
+      "mib": 0.55
+    },
+    {
+      "route": "/formats/moon-rocks",
+      "status": 200,
+      "bytes": 576428,
+      "mib": 0.55
+    },
+    {
+      "route": "/formats/mini-blunts",
+      "status": 200,
+      "bytes": 574959,
+      "mib": 0.548
+    },
+    {
+      "route": "/science/thca-vs-thc",
+      "status": 200,
+      "bytes": 574680,
+      "mib": 0.548
+    },
+    {
+      "route": "/guides/temperature-guide",
+      "status": 200,
+      "bytes": 574383,
+      "mib": 0.548
+    },
+    {
+      "route": "/science/liquid-diamonds",
+      "status": 200,
+      "bytes": 573621,
+      "mib": 0.547
+    },
+    {
+      "route": "/infusion/how-infusion-works",
+      "status": 200,
+      "bytes": 572946,
+      "mib": 0.546
+    },
+    {
+      "route": "/guides/how-to-smoke-moon-rocks",
+      "status": 200,
+      "bytes": 572856,
+      "mib": 0.546
+    },
+    {
+      "route": "/infusion/kief-and-trichomes",
+      "status": 200,
+      "bytes": 572701,
+      "mib": 0.546
+    },
+    {
+      "route": "/science/live-rosin",
+      "status": 200,
+      "bytes": 571274,
+      "mib": 0.545
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "bytes": 565505,
+      "mib": 0.539
+    },
+    {
+      "route": "/infusion/potency-by-format",
+      "status": 200,
+      "bytes": 564740,
+      "mib": 0.539
+    },
+    {
+      "route": "/infusion/surface-vs-saturation",
+      "status": 200,
+      "bytes": 563614,
+      "mib": 0.538
+    },
+    {
+      "route": "/science/distillate",
+      "status": 200,
+      "bytes": 563068,
+      "mib": 0.537
+    }
+  ]
+}
