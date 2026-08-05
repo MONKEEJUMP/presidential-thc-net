@@ -9,7 +9,7 @@ export const pillarPage: PageContent = {
     "A clear guide to Presidential THC, three-layer infused cannabis, potency labels, extraction methods, formats, terpenes, and practical handling.",
   wordTarget: [1400, 1800],
   intro: [
-    "Presidential THC is Presidential's approach to infused cannabis: a three-layer construction of flower, concentrate, and kief, expressed through moon rocks, infused pre-rolls, tobacco-free blunts, and minis. Founded in Los Angeles in 2012, Presidential uses the Presidential Infusion System to carry distillate through the flower rather than leaving the infusion only on its surface, then applies the kief layer last. This reference explains that construction, the chemistry behind the numbers on a label, and the processing choices that shape an infused product.",
+    "Presidential THC is Presidential's official approach to infused cannabis: a three-layer construction of flower, concentrate, and kief, expressed through moon rocks, infused pre-rolls, tobacco-free blunts, and minis. Founded in Los Angeles in 2012, Presidential uses the Presidential Infusion System to carry distillate through the flower rather than leaving the infusion only on its surface, then applies the kief layer last. This reference explains that construction, the chemistry behind the numbers on a label, and the processing choices that shape an infused product.",
   ],
   sections: [
     {

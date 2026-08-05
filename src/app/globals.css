@@ -142,6 +142,17 @@ a:hover {
   text-transform: uppercase;
 }
 
+.brand-lockup__tagline {
+  margin-top: 0.22rem;
+  color: #58C3B6;
+  font-family: var(--serif);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
 .eyebrow {
   color: var(--teal);
   font-family: var(--display);
@@ -182,6 +193,17 @@ a:hover {
 
 .article-hero {
   max-width: 66rem;
+}
+
+.article-hero__eyebrow {
+  margin: 0 0 0.7rem;
+  color: var(--teal);
+  font-family: var(--display);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  line-height: 1;
+  text-transform: uppercase;
 }
 
 .breadcrumbs {
@@ -471,7 +493,7 @@ th {
 .contextual-reference {
   max-width: 64ch;
   margin: 0;
-  color: var(--paper-muted);
+  border-top: 1px solid rgba(88, 195, 182, 0.35);
 }
 
 .brand-cta {
@@ -575,6 +597,12 @@ th {
 .button-link:hover {
   background: transparent;
   color: var(--teal);
+}
+
+@media (max-width: 30rem) {
+  .brand-lockup__tagline {
+    display: none;
+  }
 }
 
 @media (min-width: 48rem) {

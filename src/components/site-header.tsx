@@ -26,6 +26,9 @@ export function SiteHeader({ currentPath = "/" }: SiteHeaderProps) {
           />
           <span className="brand-lockup__text">
             <span className="brand-lockup__name">Presidential THC</span>
+            <span className="brand-lockup__tagline">
+              The Official Presidential Site
+            </span>
           </span>
         </Link>
 

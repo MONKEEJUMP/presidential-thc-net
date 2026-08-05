@@ -9,7 +9,7 @@ export const aboutPage: PageContent = {
     "Why Presidential THC publishes this independent reference to infused cannabis chemistry, construction, formats, and handling.",
   wordTarget: [300, 400],
   intro: [
-    "Presidential THC is a reference publication about the chemistry and craft behind infused cannabis. It is published to explain how infused formats are constructed, how their ingredients appear on labels, and how practical choices such as handling, storage, and temperature relate to the product in front of the reader.",
+    "Presidential THC is a reference publication about the chemistry and craft behind infused cannabis. This is the official Presidential reference site, published by the original company founded in Los Angeles in 2012. It is published to explain how infused formats are constructed, how their ingredients appear on labels, and how practical choices such as handling, storage, and temperature relate to the product in front of the reader.",
     "The publication is connected to Presidential, a cannabis company founded in Los Angeles in 2012. Presidential operates as a wholesale brand, and its products are sold through licensed retailers rather than through this site.",
   ],
   sections: [

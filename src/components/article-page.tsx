@@ -35,24 +35,30 @@ function Breadcrumbs({ page }: { page: PageContent }) {
 }
 
 function TableOfContents({ page }: { page: PageContent }) {
+  const links =
+    page.kind === "hub" && page.childLinks?.length
+      ? page.childLinks.map((link) => ({
+          href: link.href,
+          key: link.href,
+          label: link.label,
+        }))
+      : page.sections.map((section) => ({
+          href: `#${section.id}`,
+          key: section.id,
+          label: section.heading,
+        }));
+
   return (
     <nav className="table-of-contents" aria-labelledby="contents-heading">
       <p className="eyebrow" id="contents-heading">
         On this page
       </p>
       <ol>
-        {page.sections.map((section, index) => {
-          const lastChildIndex = Math.max((page.childLinks?.length ?? 1) - 1, 0);
-          const hubArticleHref = page.childLinks?.[Math.min(index, lastChildIndex)]?.href;
-
-          return (
-            <li key={section.id}>
-              <a href={page.kind === "hub" && hubArticleHref ? hubArticleHref : `#${section.id}`}>
-                {section.heading}
-              </a>
-            </li>
-          );
-        })}
+        {links.map((link) => (
+          <li key={link.key}>
+            <a href={link.href}>{link.label}</a>
+          </li>
+        ))}
       </ol>
     </nav>
   );
@@ -175,12 +181,13 @@ function LinkDirectory({ page }: { page: PageContent }) {
       ) : null}
 
       {page.externalLink ? (
-        <p className="contextual-reference">
-          Brand reference: {" "}
-          <a href={page.externalLink.href} rel="noopener noreferrer">
-            {page.externalLink.label}
-          </a>
-        </p>
+        <a
+          className="editorial-link contextual-reference"
+          href={page.externalLink.href}
+          rel="noopener noreferrer"
+        >
+          <span>{page.externalLink.label}</span>
+        </a>
       ) : null}
     </aside>
   );
@@ -203,7 +210,15 @@ function StructuredData({ page, images }: ArticlePageProps) {
     graph.unshift({
       "@type": "Organization",
       "@id": `${SITE_URL}/#organization`,
-      name: SITE_NAME,
+      name: "Presidential",
+      alternateName: ["Presidential THC", "Presidential Cannabis"],
+      foundingDate: "2012",
+      foundingLocation: {
+        "@type": "Place",
+        name: "Los Angeles, California",
+      },
+      description:
+        "Presidential is the official publisher of this infused cannabis reference, founded in Los Angeles in 2012.",
       url: SITE_URL,
       logo: {
         "@type": "ImageObject",
@@ -264,6 +279,9 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
         <article className={`publication publication--${page.kind}`}>
           <header className="article-hero">
             <Breadcrumbs page={page} />
+            {page.kind === "pillar" ? (
+              <p className="article-hero__eyebrow">THE OFFICIAL</p>
+            ) : null}
             <h1>{page.h1}</h1>
             <p className="article-hero__dek">{page.description}</p>
           </header>
