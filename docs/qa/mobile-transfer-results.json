@@ -1,6 +1,12 @@
 {
-  "measuredAt": "2026-08-05T09:06:59.989Z",
+  "measuredAt": "2026-08-05T09:08:26.500Z",
   "rows": [
+    {
+      "route": "/",
+      "status": 200,
+      "bytes": 700550,
+      "mib": 0.668
+    },
     {
       "route": "/science",
       "status": 200,
@@ -26,12 +32,6 @@
       "mib": 0.59
     },
     {
-      "route": "/",
-      "status": 200,
-      "bytes": 611819,
-      "mib": 0.583
-    },
-    {
       "route": "/guides/beginners-guide",
       "status": 200,
       "bytes": 590051,
@@ -54,6 +54,12 @@
       "status": 200,
       "bytes": 583558,
       "mib": 0.557
+    },
+    {
+      "route": "/infusion/how-infusion-works",
+      "status": 200,
+      "bytes": 583166,
+      "mib": 0.556
     },
     {
       "route": "/formats/infused-pre-rolls",
@@ -98,6 +104,12 @@
       "mib": 0.552
     },
     {
+      "route": "/guides/temperature-guide",
+      "status": 200,
+      "bytes": 578912,
+      "mib": 0.552
+    },
+    {
       "route": "/formats/blunts",
       "status": 200,
       "bytes": 577104,
@@ -108,6 +120,12 @@
       "status": 200,
       "bytes": 576428,
       "mib": 0.55
+    },
+    {
+      "route": "/infusion/potency-by-format",
+      "status": 200,
+      "bytes": 574960,
+      "mib": 0.548
     },
     {
       "route": "/formats/mini-blunts",
@@ -122,10 +140,10 @@
       "mib": 0.548
     },
     {
-      "route": "/guides/temperature-guide",
+      "route": "/infusion/surface-vs-saturation",
       "status": 200,
-      "bytes": 574383,
-      "mib": 0.548
+      "bytes": 573834,
+      "mib": 0.547
     },
     {
       "route": "/science/liquid-diamonds",
@@ -134,10 +152,10 @@
       "mib": 0.547
     },
     {
-      "route": "/infusion/how-infusion-works",
+      "route": "/science/distillate",
       "status": 200,
-      "bytes": 572946,
-      "mib": 0.546
+      "bytes": 573047,
+      "mib": 0.547
     },
     {
       "route": "/guides/how-to-smoke-moon-rocks",
@@ -162,24 +180,6 @@
       "status": 200,
       "bytes": 565505,
       "mib": 0.539
-    },
-    {
-      "route": "/infusion/potency-by-format",
-      "status": 200,
-      "bytes": 564740,
-      "mib": 0.539
-    },
-    {
-      "route": "/infusion/surface-vs-saturation",
-      "status": 200,
-      "bytes": 563614,
-      "mib": 0.538
-    },
-    {
-      "route": "/science/distillate",
-      "status": 200,
-      "bytes": 563068,
-      "mib": 0.537
     }
   ]
 }
