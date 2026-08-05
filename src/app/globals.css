@@ -752,6 +752,10 @@ th {
     column-gap: 4rem;
   }
 
+  .table-of-contents--rows-6 ol {
+    grid-template-rows: repeat(6, auto);
+  }
+
   .table-of-contents--rows-4 ol {
     grid-template-rows: repeat(4, auto);
   }

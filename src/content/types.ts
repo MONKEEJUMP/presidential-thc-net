@@ -23,7 +23,7 @@ export type PageLink = {
 export type PageContent = {
   path: string;
   kind: PageKind;
-  silo?: "science" | "infusion" | "formats" | "guides";
+  silo?: "science" | "infusion" | "formats" | "guides" | "states";
   h1: string;
   title: string;
   description: string;

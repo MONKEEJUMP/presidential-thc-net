@@ -5,6 +5,7 @@ import { infusionPages } from "./infusion";
 import { pillarPage } from "./pillar";
 import { scienceCorePages } from "./science-core";
 import { scienceExtractPages } from "./science-extracts";
+import { statesPages } from "./states";
 
 import type { PageContent } from "./types";
 
@@ -15,6 +16,7 @@ export const pages: PageContent[] = [
   ...infusionPages,
   ...formatsPages,
   ...guidesPages,
+  ...statesPages,
   aboutPage,
 ];
 

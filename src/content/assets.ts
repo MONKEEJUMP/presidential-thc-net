@@ -788,7 +788,16 @@ export const pageImages: Record<string, ContentImage[]> = {
       "alt": "Presidential Rainbow Belts blunt packaging artwork in a portrait layout",
       "caption": "Presidential Rainbow Belts blunt package artwork."
     }
-  ]
+  ],
+  "/states": [],
+  "/states/california": [],
+  "/states/oklahoma": [],
+  "/states/new-york": [],
+  "/states/nevada": [],
+  "/states/michigan": [],
+  "/states/arizona": [],
+  "/states/florida": [],
+  "/states/washington": []
 };
 
 export const contentImages = pageImages;

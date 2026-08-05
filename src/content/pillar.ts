@@ -7,11 +7,23 @@ export const pillarPage: PageContent = {
   title: "Presidential THC — The Chemistry and Craft of Infused Cannabis",
   description:
     "A clear guide to Presidential THC, three-layer infused cannabis, potency labels, extraction methods, formats, terpenes, and practical handling.",
-  wordTarget: [1400, 1800],
+  wordTarget: [2800, 3200],
   intro: [
     "Presidential THC is Presidential's official approach to infused cannabis: a three-layer construction of flower, concentrate, and kief, expressed through moon rocks, infused pre-rolls, tobacco-free blunts, and minis. Founded in Los Angeles in 2012, Presidential uses the Presidential Infusion System to carry distillate through the flower rather than leaving the infusion only on its surface, then applies the kief layer last. This reference explains that construction, the chemistry behind the numbers on a label, and the processing choices that shape an infused product.",
   ],
   sections: [
+    {
+      "id": "what-presidential-thc-means",
+      "heading": "What Presidential THC means",
+      "paragraphs": [
+        "Presidential THC is infused cannabis built on a single process: flower carried through with concentrate, finished with a coat of kief. That construction is the product. Every format the brand makes is the same idea arriving in a different shape.",
+        "The name describes a method, not a category. Infused cannabis is a broad shelf and most of it is surface work — concentrate applied to the outside of a nug where it stays. Presidential's process carries distillate through the flower rather than onto it, which changes how the finished product burns and how evenly it delivers from the first third to the last.",
+        "That single idea produces four formats. Moon Rocks are the flagship, the layered construction in its original form. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down. Nothing is added at the rolling stage that was not already in the Moon Rock.",
+        "Behind those formats sits a catalog of forty-seven products across six groupings, organised by what goes into them rather than by price tier. The extract determines the series, the series determines the character, and the character is what a buyer actually notices.",
+        "Presidential has been building infused product since 2012, out of Los Angeles, before the phrase premium cannabis meant anything. The company sells wholesale only, through licensed retailers, in eight states.",
+        "This site is the official reference for all of it — the chemistry, the process, the formats, and how to read what is printed on a package."
+      ]
+    },
     {
       id: "three-layer-construction",
       heading: "The three-layer construction",
@@ -69,6 +81,30 @@ export const pillarPage: PageContent = {
       },
     },
     {
+      "id": "how-to-read-a-label",
+      "heading": "How to read a label",
+      "paragraphs": [
+        "A cannabis label is mostly arithmetic, and the arithmetic trips people because two numbers on the same package can differ by ten points while describing the same material.",
+        "The plant does not make THC. It makes THCa — the acidic form, which is not intoxicating on its own. Heat converts it. That conversion is not one for one, because part of the molecule leaves as carbon dioxide, and the ratio of what remains is 0.877. So a package testing at ninety-nine percent THCa carries a theoretical maximum of about eighty-seven percent THC once it is fully converted. Both numbers are true. They are answering different questions.",
+        "That is why every accredited lab in the industry reports a Total THC figure calculated the same way, and why a label showing a raw THCa percentage beside a lower Total THC percentage is not a contradiction or a mistake. It is the conversion, stated properly.",
+        "Beyond the cannabinoid panel, a certificate of analysis carries a batch or lot number that ties the package to the specific run it came from, a test date, and the laboratory that performed the work. A terpene panel, where one is included, tells you more about how the product will smell and taste than the potency figure ever will.",
+        "What a certificate does not cover is worth knowing too. It reports on the batch that was submitted, at the moment it was tested. It says nothing about how the product was stored afterwards, and terpenes begin leaving from the day the plant is cut.",
+        "The full method — which columns to read in which order, and how to spot a report that is not saying what it appears to say — is covered in the reference guides on this site."
+      ]
+    },
+    {
+      "id": "the-three-series",
+      "heading": "The three series",
+      "paragraphs": [
+        "The Presidential catalog is organised by extract. Three series, three different starting materials, three different reasons to reach for one over another.",
+        "Silver is the Flavor Series — seven products, fruit-forward and vibrant, built on distillate. Distillate is refined until it is close to neutral in aroma, which is precisely what makes it the right base when flavour is being added deliberately rather than inherited from the plant. Blue Raspberry, Watermelon, Peach Mango, Pineapple, Strawberry, Tropical, Grape.",
+        "Gold is the Strain Series — nineteen products, cannabis-forward and full-spectrum, built on live resin. Live resin comes from material frozen at harvest instead of dried and cured, which preserves the aromatic fraction that a weeks-long cure would otherwise carry away. The result smells like the strain it came from. Presidential OG, Blue Dream, Skywalker, Cherry Gelato, Cap Junky, Gorilla Goo and more.",
+        "Rose Gold is the Connoisseur Series — five products, built on live rosin. Rosin is solventless: fresh-frozen material washed in ice water to collect trichomes, then pressed under heat and pressure. No chemical solvent touches it at any stage. It is the smallest yield and the most expensive way to make a concentrate, which is exactly why it sits where it does. Cereal Milk, Cosmic Cookies, God's Gift, Wedding Cake, White Walker.",
+        "Beyond the three sit the Presidential Line, the Presidential House Line, and the Presidential x THC Design collaboration, which is built on estate-grown flower cultivated by THC Design.",
+        "The series is the fastest way to know what you are holding. Silver means flavour was the intent. Gold means the strain was. Rose Gold means someone accepted a smaller yield to keep everything else intact."
+      ]
+    },
+    {
       id: "formats",
       heading: "One infusion idea, four Presidential formats",
       paragraphs: [
@@ -86,6 +122,29 @@ export const pillarPage: PageContent = {
         "Common reference points include caryophyllene at 266°F with a peppery aroma, pinene at 311°F with a pine-like profile, myrcene at 334°F with a musky or earthy profile, limonene at 349°F with bright citrus notes, and linalool at 388°F with a floral character. These boiling points are not simple device instructions. Research has shown that vaporizers can evaporate compounds over time while operating below their listed boiling points; a boiling point marks rapid phase change, not the first temperature at which evaporation occurs.",
         "For an infused product, aroma therefore records several decisions: the starting plant material, whether it was dried or frozen, how an extract was separated, how much heat it encountered, and how the finished package was stored. Potency and terpene character answer different questions. A higher THC number does not prove better aromatic preservation, and an aromatic extract is not necessarily the highest-potency extract.",
       ],
+    },
+    {
+      "id": "where-it-is-sold",
+      "heading": "Where it is sold",
+      "paragraphs": [
+        "Presidential is a wholesale brand. The product reaches people through licensed retailers and through no other route — not by mail, not by shipping, not from this site or any other.",
+        "That is a structural choice rather than a policy statement, and it carries a useful consequence: every package that reaches a customer travelled through a licensed, regulated channel. Anything sold as Presidential outside that channel did not come from Presidential.",
+        "The brand is carried across eight states, and the markets are genuinely different from one another. California is the origin market and by some distance the largest, with more than six hundred licensed doors. Oklahoma runs a medical-only programme under a license moratorium and carries close to two hundred. New York is adult-use under an entirely different regulator, with more than a hundred and fifty. Nevada and Michigan each carry around a hundred. Arizona is the smallest of the active markets. Florida and Washington are opening, with listings publishing as licensed retailers come online.",
+        "Those differences are not trivia. What is legal, who may buy, what a retailer may stock, and what a buyer needs to carry through the door all change at the state line — which is why each state has its own reference on this site rather than a shared page with the name swapped.",
+        "The state pages cover how buying works in each market, which formats land there, and how to find the nearest licensed door."
+      ]
+    },
+    {
+      "id": "how-to-know-it-is-authentic",
+      "heading": "How to know it is authentic",
+      "paragraphs": [
+        "Three checks, and any one of them will usually settle it.",
+        "The first is where you bought it. Presidential is sold through licensed retailers. If a package arrived in the mail, or came from a site with a checkout, it did not come from this company. There is no direct channel and there never has been.",
+        "The second is whether the product exists. Every genuine Presidential product appears in the catalog — forty-seven of them, across six groupings, in four formats. A product name that does not appear anywhere in that catalog is not a Presidential product, whatever the packaging says.",
+        "The third is the package itself. The construction is specific and consistent: flower carried through with concentrate, coated in kief, in the formats described on this page. The crest, the series marking, and the batch number tie a package back to the run it came from.",
+        "The official retail path is the store locator on the Presidential site. It covers every state where the brand is carried and returns licensed doors with real distances. If you are trying to establish whether something is genuine, that is the fastest route — find the nearest licensed retailer and buy it there.",
+        "Presidential has made this product since 2012. The brand, the process, and the catalog are all documented on this site, and everything published here comes from the company that manufactures it."
+      ]
     },
     {
       id: "reference-map",
@@ -161,6 +220,38 @@ export const pillarPage: PageContent = {
       href: "/guides/what-to-look-for",
       label: "What to Look For",
       description: "Evaluate construction and labeling.",
+    },
+    {
+      href: "/states/california",
+      label: "Presidential THC in California",
+    },
+    {
+      href: "/states/oklahoma",
+      label: "Presidential THC in Oklahoma",
+    },
+    {
+      href: "/states/new-york",
+      label: "Presidential THC in New York",
+    },
+    {
+      href: "/states/nevada",
+      label: "Presidential THC in Nevada",
+    },
+    {
+      href: "/states/michigan",
+      label: "Presidential THC in Michigan",
+    },
+    {
+      href: "/states/arizona",
+      label: "Presidential THC in Arizona",
+    },
+    {
+      href: "/states/florida",
+      label: "Presidential THC in Florida",
+    },
+    {
+      href: "/states/washington",
+      label: "Presidential THC in Washington",
     },
   ],
 };

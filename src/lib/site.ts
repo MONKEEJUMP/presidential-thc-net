@@ -9,6 +9,7 @@ export const primaryNavigation = [
   { href: "/infusion", label: "Infusion" },
   { href: "/formats", label: "Formats" },
   { href: "/guides", label: "Guides" },
+  { href: "/states", label: "States" },
   { href: "/about", label: "About" },
 ] as const;
 

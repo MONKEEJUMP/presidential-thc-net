@@ -16,6 +16,7 @@ export function SiteFooter() {
           <Link href="/infusion">Infusion methods</Link>
           <Link href="/formats">Format library</Link>
           <Link href="/guides">Practical use guides</Link>
+          <Link href="/states">States</Link>
           <Link href="/about">Publication details</Link>
         </nav>
         <p className="site-footer__legal">
