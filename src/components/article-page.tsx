@@ -48,15 +48,25 @@ function TableOfContents({ page }: { page: PageContent }) {
           key: section.id,
           label: section.heading,
         }));
+  const firstColumnRowCount = Math.ceil(links.length / 2);
+  const firstColumnEndIndex = firstColumnRowCount - 1;
 
   return (
-    <nav className="table-of-contents" aria-labelledby="contents-heading">
-      <p className="eyebrow" id="contents-heading">
-        On this page
+    <nav
+      className={`table-of-contents table-of-contents--rows-${firstColumnRowCount}`}
+      aria-labelledby="contents-heading"
+    >
+      <p className="table-of-contents__label" id="contents-heading">
+        CONTENTS
       </p>
       <ol>
-        {links.map((link) => (
-          <li key={link.key}>
+        {links.map((link, index) => (
+          <li
+            className={
+              index === firstColumnEndIndex ? "table-of-contents__column-end" : undefined
+            }
+            key={link.key}
+          >
             <a href={link.href}>{link.label}</a>
           </li>
         ))}
