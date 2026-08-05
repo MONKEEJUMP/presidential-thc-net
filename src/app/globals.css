@@ -21,7 +21,6 @@
 html {
   background: var(--ink);
   color-scheme: dark;
-  scroll-behavior: smooth;
   scroll-padding-top: 8rem;
 }
 
@@ -86,6 +85,9 @@ a:hover {
 }
 
 .site-header {
+  position: sticky;
+  z-index: 100;
+  top: 0;
   border-bottom: 3px solid transparent;
   border-image: var(--champagne) 1;
   background: rgba(7, 9, 8, 0.94);

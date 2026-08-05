@@ -33,18 +33,25 @@ function Breadcrumbs({ page }: { page: PageContent }) {
   );
 }
 
-function TableOfContents({ sections }: { sections: ContentSection[] }) {
+function TableOfContents({ page }: { page: PageContent }) {
   return (
     <nav className="table-of-contents" aria-labelledby="contents-heading">
       <p className="eyebrow" id="contents-heading">
         On this page
       </p>
       <ol>
-        {sections.map((section) => (
-          <li key={section.id}>
-            <a href={`#${section.id}`}>{section.heading}</a>
-          </li>
-        ))}
+        {page.sections.map((section, index) => {
+          const lastChildIndex = Math.max((page.childLinks?.length ?? 1) - 1, 0);
+          const hubArticleHref = page.childLinks?.[Math.min(index, lastChildIndex)]?.href;
+
+          return (
+            <li key={section.id}>
+              <a href={page.kind === "hub" && hubArticleHref ? hubArticleHref : `#${section.id}`}>
+                {section.heading}
+              </a>
+            </li>
+          );
+        })}
       </ol>
     </nav>
   );
@@ -253,7 +260,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
             {leadImage ? <ContentFigure image={leadImage} /> : null}
           </div>
 
-          {showContents ? <TableOfContents sections={page.sections} /> : null}
+          {showContents ? <TableOfContents page={page} /> : null}
 
           <div className="article-body">
             {page.sections.map((section, index) => (
