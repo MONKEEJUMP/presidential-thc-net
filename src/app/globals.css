@@ -90,7 +90,7 @@ a:hover {
   top: 0;
   border-bottom: 3px solid transparent;
   border-image: var(--champagne) 1;
-  background: rgba(7, 9, 8, 0.94);
+  background: #070908;
 }
 
 .site-header__inner,
