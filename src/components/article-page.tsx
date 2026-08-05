@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Fragment } from "react";
 
 import type { ContentImage, ContentSection, PageContent } from "@/content/types";
+import { productHrefForImage } from "@/content/product-links";
 import { absoluteUrl, escapeJsonLd, imageUrl, SITE_NAME, SITE_URL } from "@/lib/site";
 
 import { ContentFigure } from "./content-figure";
@@ -97,10 +98,12 @@ function DataTable({ section }: { section: ContentSection }) {
 function ArticleSection({
   section,
   image,
+  imageHref,
   reverse,
 }: {
   section: ContentSection;
   image?: ContentImage;
+  imageHref?: string;
   reverse: boolean;
 }) {
   return (
@@ -120,7 +123,7 @@ function ArticleSection({
           ) : null}
           <DataTable section={section} />
         </div>
-        {image ? <ContentFigure image={image} /> : null}
+        {image ? <ContentFigure href={imageHref} image={image} /> : null}
       </div>
     </section>
   );
@@ -294,7 +297,12 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
                 <p key={`intro-${index}`}>{paragraph}</p>
               ))}
             </div>
-            {leadImage ? <ContentFigure image={leadImage} /> : null}
+            {leadImage ? (
+              <ContentFigure
+                href={productHrefForImage(page.path, leadImage.src)}
+                image={leadImage}
+              />
+            ) : null}
           </div>
 
           {showContents ? <TableOfContents page={page} /> : null}
@@ -304,6 +312,11 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
               <Fragment key={section.id}>
                 <ArticleSection
                   image={usedSectionImages[index]}
+                  imageHref={
+                    usedSectionImages[index]
+                      ? productHrefForImage(page.path, usedSectionImages[index].src)
+                      : undefined
+                  }
                   reverse={index % 2 === 1}
                   section={section}
                 />
@@ -315,7 +328,11 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
           {remainingImages.length ? (
             <aside className="image-ledger" aria-label="Packaging details">
               {remainingImages.map((image) => (
-                <ContentFigure image={image} key={image.src} />
+                <ContentFigure
+                  href={productHrefForImage(page.path, image.src)}
+                  image={image}
+                  key={image.src}
+                />
               ))}
             </aside>
           ) : null}

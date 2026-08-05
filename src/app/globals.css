@@ -403,6 +403,19 @@ h2 {
   object-fit: contain;
 }
 
+.content-figure__link {
+  display: block;
+  outline: 2px solid transparent;
+  outline-offset: -2px;
+  transition: outline-color 160ms ease, opacity 160ms ease;
+}
+
+.content-figure__link:hover,
+.content-figure__link:focus-visible {
+  outline-color: var(--teal);
+  opacity: 0.86;
+}
+
 .content-figure figcaption {
   max-width: 48ch;
   margin-top: 0.75rem;
