@@ -1,10 +1,10 @@
 # 6121 SPUD — Product Image Links Report
 
-Date: 2026-08-05  
-Repository: `J:\presidential-thc-net`  
-Stable live URL: <https://presidential-thc-net.vercel.app>  
-Production deployment: <https://presidential-thc-7vj0byuck-paulie-pauliewoods-projects.vercel.app>  
-Vercel deployment ID: `dpl_9zRSyFXTgY55XGooZGmwc5yxoauC`  
+Date: 2026-08-05
+Repository: `J:\presidential-thc-net`
+Stable live URL: <https://presidential-thc-net.vercel.app>
+Production deployment: <https://presidential-thc-7vj0byuck-paulie-pauliewoods-projects.vercel.app>
+Vercel deployment ID: `dpl_9zRSyFXTgY55XGooZGmwc5yxoauC`
 Code commit: `73dac45d1d38fec95107d9f30eb5d1a182ccb673`
 
 ## Mandatory Map Gate
