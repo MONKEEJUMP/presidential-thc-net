@@ -468,12 +468,52 @@ th {
   font-size: 0.95rem;
 }
 
-.external-reference {
+.contextual-reference {
   max-width: 64ch;
   margin: 0;
-  padding: 1.25rem;
-  border-left: 3px solid var(--teal);
-  background: var(--ink-raised);
+  color: var(--paper-muted);
+}
+
+.brand-cta {
+  width: 100%;
+  margin-block: clamp(1rem, 4vw, 2rem) clamp(3.25rem, 9vw, 7rem);
+  padding-block: clamp(2rem, 6vw, 3.5rem);
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-image: var(--champagne) 1;
+}
+
+.brand-cta h2 {
+  margin-bottom: 1rem;
+  font-family: var(--display);
+}
+
+.brand-cta p {
+  max-width: 68ch;
+  margin: 0;
+  color: var(--paper-muted);
+  font-size: 1.08rem;
+}
+
+.brand-cta__button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 1rem 1.5rem;
+  border: 2px solid var(--teal);
+  background: var(--teal);
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 0.85rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.brand-cta__button:hover {
+  border-color: #f4e3a1;
+  background: #f4e3a1;
+  color: var(--ink);
 }
 
 .site-footer {

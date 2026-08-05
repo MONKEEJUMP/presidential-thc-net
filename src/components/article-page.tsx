@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { Fragment } from "react";
 
 import type { ContentImage, ContentSection, PageContent } from "@/content/types";
 import { absoluteUrl, escapeJsonLd, imageUrl, SITE_NAME, SITE_URL } from "@/lib/site";
@@ -119,6 +120,24 @@ function ArticleSection({
   );
 }
 
+function BrandCallToAction() {
+  return (
+    <aside className="brand-cta" aria-labelledby="brand-cta-heading">
+      <h2 id="brand-cta-heading">Presidential Moon Rocks</h2>
+      <p>
+        The official Presidential site — the full catalog and the licensed retailer locator.
+      </p>
+      <a
+        className="brand-cta__button"
+        href="https://presidentialmoonrocks.com"
+        rel="nofollow"
+      >
+        Visit the official site
+      </a>
+    </aside>
+  );
+}
+
 function LinkDirectory({ page }: { page: PageContent }) {
   const childLinks = page.childLinks ?? [];
   const relatedLinks = page.relatedLinks ?? [];
@@ -156,7 +175,7 @@ function LinkDirectory({ page }: { page: PageContent }) {
       ) : null}
 
       {page.externalLink ? (
-        <p className="external-reference">
+        <p className="contextual-reference">
           Brand reference: {" "}
           <a href={page.externalLink.href} rel="noopener noreferrer">
             {page.externalLink.label}
@@ -264,12 +283,14 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
 
           <div className="article-body">
             {page.sections.map((section, index) => (
-              <ArticleSection
-                image={usedSectionImages[index]}
-                key={section.id}
-                reverse={index % 2 === 1}
-                section={section}
-              />
+              <Fragment key={section.id}>
+                <ArticleSection
+                  image={usedSectionImages[index]}
+                  reverse={index % 2 === 1}
+                  section={section}
+                />
+                {index === 0 ? <BrandCallToAction /> : null}
+              </Fragment>
             ))}
           </div>
 
