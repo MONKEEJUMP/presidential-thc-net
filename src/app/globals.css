@@ -441,23 +441,45 @@ h2 {
   width: 100%;
   max-width: 34rem;
   margin: 0;
+  container-type: inline-size;
 }
 
 .content-figure__media {
-  --content-figure-frame-inset: 1rem;
+  --content-figure-frame-gap: min(
+    5.555556cqi,
+    max(0px, calc((100vw - 100cqi) / 2))
+  );
 
   position: relative;
   width: 100%;
   max-width: 100%;
+  margin-bottom: calc(
+    max(
+      0px,
+      var(--content-figure-frame-gap) - var(--content-figure-optical-bottom-clearance)
+    ) + 0.75rem
+  );
+  overflow: visible;
+  container-type: inline-size;
+}
+
+.content-figure__frame-shell {
+  position: absolute;
+  z-index: 1;
+  top: calc(var(--content-figure-optical-top) - var(--content-figure-frame-gap));
+  right: calc(var(--content-figure-optical-right) - var(--content-figure-frame-gap));
+  bottom: calc(var(--content-figure-optical-bottom) - var(--content-figure-frame-gap));
+  left: calc(var(--content-figure-optical-left) - var(--content-figure-frame-gap));
+  overflow: visible;
+  pointer-events: none;
 }
 
 .content-figure__frame {
   position: absolute;
-  z-index: 1;
-  inset: var(--content-figure-frame-inset);
+  inset: 0;
   display: block;
-  width: calc(100% - 2rem);
-  height: calc(100% - 2rem);
+  width: 100%;
+  height: 100%;
   overflow: visible;
   pointer-events: none;
 }
@@ -467,7 +489,7 @@ h2 {
   z-index: 2;
   left: 50%;
   display: block;
-  width: min(calc(40% - 0.8rem), 10rem);
+  width: min(38%, 10rem);
   height: auto;
   aspect-ratio: 10 / 1;
   overflow: visible;
@@ -476,12 +498,12 @@ h2 {
 }
 
 .content-figure__ornament--top {
-  top: var(--content-figure-frame-inset);
+  top: 0;
   transform: translate(-50%, -50%);
 }
 
 .content-figure__ornament--bottom {
-  bottom: var(--content-figure-frame-inset);
+  bottom: 0;
   transform: translate(-50%, 50%) scaleY(-1);
 }
 
@@ -507,7 +529,7 @@ h2 {
 
 .content-figure figcaption {
   max-width: 48ch;
-  margin-top: 0.75rem;
+  margin-top: 0;
   color: var(--paper-muted);
   font-family: var(--display);
   font-size: 0.72rem;

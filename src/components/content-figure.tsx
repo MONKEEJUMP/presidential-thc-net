@@ -1,5 +1,10 @@
+import type { CSSProperties } from "react";
 import Image from "next/image";
 
+import {
+  CONTENT_FIGURE_GAP_RATIO,
+  getContentFigureOpticalBounds,
+} from "@/content/optical-bounds";
 import type { ContentImage } from "@/content/types";
 
 type ContentFigureProps = {
@@ -12,6 +17,14 @@ type GoldOrnamentProps = {
   className: string;
   gradientId: string;
   position: "top" | "bottom";
+};
+
+type OpticalFrameStyle = CSSProperties & {
+  "--content-figure-optical-bottom-clearance": string;
+  "--content-figure-optical-bottom": string;
+  "--content-figure-optical-left": string;
+  "--content-figure-optical-right": string;
+  "--content-figure-optical-top": string;
 };
 
 function GoldOrnament({ className, gradientId, position }: GoldOrnamentProps) {
@@ -56,6 +69,15 @@ function GoldOrnament({ className, gradientId, position }: GoldOrnamentProps) {
 }
 
 export function ContentFigure({ href, image, priority = false }: ContentFigureProps) {
+  const opticalBounds = getContentFigureOpticalBounds(image.src);
+  const imageAspectHeight = image.height / image.width;
+  const opticalFrameStyle: OpticalFrameStyle = {
+    "--content-figure-optical-bottom-clearance": `${(1 - opticalBounds.bottom) * imageAspectHeight * 100}%`,
+    "--content-figure-optical-bottom": `${(1 - opticalBounds.bottom) * 100}%`,
+    "--content-figure-optical-left": `${opticalBounds.left * 100}%`,
+    "--content-figure-optical-right": `${(1 - opticalBounds.right) * 100}%`,
+    "--content-figure-optical-top": `${opticalBounds.top * 100}%`,
+  };
   const gradientIdBase = `content-figure-gold-${image.src.replace(/[^a-zA-Z0-9_-]/g, "-")}`;
   const frameGradientId = `${gradientIdBase}-rule`;
   const renderedImage = (
@@ -73,7 +95,15 @@ export function ContentFigure({ href, image, priority = false }: ContentFigurePr
 
   return (
     <figure className="content-figure">
-      <div className="content-figure__media">
+      <div
+        className="content-figure__media"
+        data-optical-bottom={opticalBounds.bottom}
+        data-optical-gap-ratio={CONTENT_FIGURE_GAP_RATIO}
+        data-optical-left={opticalBounds.left}
+        data-optical-right={opticalBounds.right}
+        data-optical-top={opticalBounds.top}
+        style={opticalFrameStyle}
+      >
         {href ? (
           <a className="content-figure__link" href={href}>
             {renderedImage}
@@ -81,43 +111,45 @@ export function ContentFigure({ href, image, priority = false }: ContentFigurePr
         ) : (
           renderedImage
         )}
-        <svg
-          aria-hidden="true"
-          className="content-figure__frame"
-          focusable="false"
-          preserveAspectRatio="none"
-          viewBox="0 0 100 100"
-        >
-          <defs>
-            <linearGradient id={frameGradientId} gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
-              <stop offset="0%" stopColor="#F4E3A1" />
-              <stop offset="50%" stopColor="#D4B96A" />
-              <stop offset="100%" stopColor="#8F6B24" />
-            </linearGradient>
-          </defs>
-
-          <g
-            fill="none"
-            stroke={`url(#${frameGradientId})`}
-            strokeLinecap="square"
-            strokeLinejoin="miter"
-            strokeWidth="1.5"
-            vectorEffect="non-scaling-stroke"
+        <div className="content-figure__frame-shell">
+          <svg
+            aria-hidden="true"
+            className="content-figure__frame"
+            focusable="false"
+            preserveAspectRatio="none"
+            viewBox="0 0 100 100"
           >
-            <path d="M 0 0 V 100 M 100 0 V 100" vectorEffect="non-scaling-stroke" />
-            <path d="M 0 0 H 30 M 70 0 H 100 M 0 100 H 30 M 70 100 H 100" vectorEffect="non-scaling-stroke" />
-          </g>
-        </svg>
-        <GoldOrnament
-          className="content-figure__ornament content-figure__ornament--top"
-          gradientId={`${gradientIdBase}-ornament-top`}
-          position="top"
-        />
-        <GoldOrnament
-          className="content-figure__ornament content-figure__ornament--bottom"
-          gradientId={`${gradientIdBase}-ornament-bottom`}
-          position="bottom"
-        />
+            <defs>
+              <linearGradient id={frameGradientId} gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
+                <stop offset="0%" stopColor="#F4E3A1" />
+                <stop offset="50%" stopColor="#D4B96A" />
+                <stop offset="100%" stopColor="#8F6B24" />
+              </linearGradient>
+            </defs>
+
+            <g
+              fill="none"
+              stroke={`url(#${frameGradientId})`}
+              strokeLinecap="square"
+              strokeLinejoin="miter"
+              strokeWidth="1.5"
+              vectorEffect="non-scaling-stroke"
+            >
+              <path d="M 0 0 V 100 M 100 0 V 100" vectorEffect="non-scaling-stroke" />
+              <path d="M 0 0 H 30 M 70 0 H 100 M 0 100 H 30 M 70 100 H 100" vectorEffect="non-scaling-stroke" />
+            </g>
+          </svg>
+          <GoldOrnament
+            className="content-figure__ornament content-figure__ornament--top"
+            gradientId={`${gradientIdBase}-ornament-top`}
+            position="top"
+          />
+          <GoldOrnament
+            className="content-figure__ornament content-figure__ornament--bottom"
+            gradientId={`${gradientIdBase}-ornament-bottom`}
+            position="bottom"
+          />
+        </div>
       </div>
       <figcaption>{image.caption}</figcaption>
     </figure>
