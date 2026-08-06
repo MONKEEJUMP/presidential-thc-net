@@ -199,14 +199,15 @@ a:hover {
   line-height: 1;
   text-decoration: none;
   text-transform: uppercase;
+  transition: background 200ms ease, color 200ms ease;
   white-space: nowrap;
 }
 
 .official-header-link:hover {
   background:
-    linear-gradient(rgba(212, 185, 106, 0.14), rgba(212, 185, 106, 0.14)) padding-box,
-    var(--champagne) border-box;
-  color: var(--paper);
+    linear-gradient(#070908, #070908) padding-box,
+    linear-gradient(90deg, #f4e3a1 0%, #f4e3a1 52%, #d4b96a 100%) border-box;
+  color: #f4e3a1;
 }
 
 .primary-nav a[aria-current="page"] {
