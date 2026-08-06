@@ -107,13 +107,63 @@ const PRODUCT_PATH_BY_PAGE_AND_FILENAME: Readonly<Record<string, string>> = {
   "/about|presidential-rainbow-belts-blunt-packaging.webp": "/moon-rocks/rainbow-belts",
 };
 
+const PRODUCT_PATH_BY_MENU_FILENAME: Readonly<Record<string, string>> = {
+  "presidential-cherry-gelato-moon-rocks-menu-label.webp": "/moon-rocks/cherry-gelato",
+  "presidential-blue-dream-infused-pre-roll-menu-label.webp": "/moon-rocks/blue-dream",
+  "presidential-cap-junky-blunt-menu-label.webp": "/moon-rocks/cap-junky",
+  "presidential-gorilla-goo-mini-blunt-menu-label.webp": "/moon-rocks/gorilla-goo",
+  "presidential-pink-cookies-mini-pre-roll-menu-label.webp": "/moon-rocks/pink-cookies",
+  "presidential-daniel-larusso-blunt-menu-label.webp": "/moon-rocks/presidential-line-daniel-larusso",
+  "presidential-grape-mini-blunt-menu-label.webp": "/moon-rocks/grape",
+  "presidential-cherry-gelato-infused-pre-roll-menu-label.webp": "/moon-rocks/cherry-gelato",
+  "presidential-skywalker-mini-pre-roll-menu-label.webp": "/moon-rocks/skywalker",
+  "presidential-gorilla-goo-moon-rocks-menu-label.webp": "/moon-rocks/gorilla-goo",
+  "presidential-grape-moon-rocks-menu-label.webp": "/moon-rocks/grape",
+  "presidential-garlic-cookies-blunt-menu-label.webp": "/moon-rocks/presidential-line-garlic-cookies",
+  "presidential-peach-mango-mini-blunt-menu-label.webp": "/moon-rocks/peach-mango",
+  "presidential-strawberry-mini-pre-roll-menu-label.webp": "/moon-rocks/strawberry",
+  "presidential-galactic-gas-infused-pre-roll-menu-label.webp": "/moon-rocks/galactic-gas",
+  "presidential-peach-mango-moon-rocks-menu-label.webp": "/moon-rocks/peach-mango",
+  "presidential-garlic-cookies-infused-pre-roll-menu-label.webp": "/moon-rocks/presidential-line-garlic-cookies",
+  "presidential-pink-cookies-mini-blunt-menu-label.webp": "/moon-rocks/pink-cookies",
+  "presidential-watermelon-mini-pre-roll-menu-label.webp": "/moon-rocks/watermelon",
+  "presidential-laura-charles-blunt-menu-label.webp": "/moon-rocks/presidential-line-laura-charles",
+  "presidential-pink-cookies-moon-rocks-menu-label.webp": "/moon-rocks/pink-cookies",
+  "presidential-ghost-train-haze-infused-pre-roll-menu-label.webp": "/moon-rocks/presidential-line-ghost-haze-train",
+  "presidential-nino-brown-blunt-menu-label.webp": "/moon-rocks/presidential-line-nino-brown",
+  "presidential-waui-mini-pre-roll-menu-label.webp": "/moon-rocks/waui",
+  "presidential-skywalker-mini-blunt-menu-label.webp": "/moon-rocks/skywalker",
+  "presidential-classic-moon-rocks-menu-label.webp": "/moon-rocks/presidential-moon-rocks",
+  "presidential-gorilla-goo-infused-pre-roll-menu-label.webp": "/moon-rocks/gorilla-goo",
+  "presidential-orange-push-pop-blunt-menu-label.webp": "/moon-rocks/orange-push-pop",
+  "presidential-watermelon-mini-blunt-menu-label.webp": "/moon-rocks/watermelon",
+  "presidential-cap-junky-mini-pre-roll-menu-label.webp": "/moon-rocks/cap-junky",
+  "presidential-rainbow-belts-blunt-menu-label.webp": "/moon-rocks/rainbow-belts",
+  "presidential-king-louis-infused-pre-roll-menu-label.webp": "/moon-rocks/king-louis",
+  "presidential-xj13-mini-blunt-menu-label.webp": "/moon-rocks/xj-13",
+  "presidential-cherry-gelato-mini-pre-roll-menu-label.webp": "/moon-rocks/cherry-gelato",
+  "presidential-skywalker-moon-rocks-menu-label.webp": "/moon-rocks/skywalker",
+  "presidential-strawberry-moon-rocks-menu-label.webp": "/moon-rocks/strawberry",
+  "presidential-nyc-diesel-infused-pre-roll-menu-label.webp": "/moon-rocks/nyc-diesel",
+  "presidential-blue-raspberry-mini-blunt-menu-label.webp": "/moon-rocks/blue-raspberry",
+  "presidential-grape-mini-pre-roll-menu-label.webp": "/moon-rocks/grape",
+  "presidential-sfv-og-blunt-menu-label.webp": "/moon-rocks/sfv-og",
+  "presidential-watermelon-moon-rocks-menu-label.webp": "/moon-rocks/watermelon",
+  "presidential-papaya-punch-infused-pre-roll-menu-label.webp": "/moon-rocks/papaya-punch",
+  "presidential-blue-raspberry-blunt-menu-label.webp": "/moon-rocks/blue-raspberry",
+  "presidential-classic-mini-pre-roll-menu-label.webp": "/moon-rocks/presidential-prerolls",
+  "presidential-cherry-gelato-mini-blunt-menu-label.webp": "/moon-rocks/cherry-gelato",
+};
+
 function filenameFromSource(source: string) {
   return source.split("/").pop() ?? source;
 }
 
 export function productHrefForImage(pagePath: string, imageSource: string) {
   const filename = filenameFromSource(imageSource);
-  const productPath = PRODUCT_PATH_BY_PAGE_AND_FILENAME[`${pagePath}|${filename}`];
+  const productPath =
+    PRODUCT_PATH_BY_PAGE_AND_FILENAME[`${pagePath}|${filename}`]
+    ?? PRODUCT_PATH_BY_MENU_FILENAME[filename];
 
   return productPath ? `${PRODUCT_SITE}${productPath}` : undefined;
 }

@@ -281,7 +281,9 @@ function StructuredData({ page, images }: ArticlePageProps) {
 
 export function ArticlePage({ page, images }: ArticlePageProps) {
   const showContents = page.kind === "pillar" || page.kind === "hub";
-  const [leadImage, ...sectionImages] = images;
+  const isStatesPage = page.silo === "states";
+  const leadImage = isStatesPage ? undefined : images[0];
+  const sectionImages = isStatesPage ? images : images.slice(1);
   const usedSectionImages = sectionImages.slice(0, page.sections.length);
   const remainingImages = sectionImages.slice(page.sections.length);
 
@@ -327,7 +329,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
                       ? productHrefForImage(page.path, usedSectionImages[index].src)
                       : undefined
                   }
-                  reverse={index % 2 === 1}
+                  reverse={isStatesPage ? false : index % 2 === 1}
                   section={section}
                 />
                 {index === 0 ? <BrandCallToAction /> : null}
