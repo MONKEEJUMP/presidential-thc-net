@@ -438,6 +438,11 @@ h2 {
 }
 
 .content-figure {
+  --content-figure-frame-gap: min(
+    5.555556cqi,
+    max(0px, calc((100vw - 100cqi) / 2))
+  );
+
   width: 100%;
   max-width: 34rem;
   margin: 0;
@@ -445,11 +450,6 @@ h2 {
 }
 
 .content-figure__media {
-  --content-figure-frame-gap: min(
-    5.555556cqi,
-    max(0px, calc((100vw - 100cqi) / 2))
-  );
-
   position: relative;
   width: 100%;
   max-width: 100%;
@@ -524,6 +524,12 @@ h2 {
 .content-figure figcaption {
   max-width: 48ch;
   margin-top: 0.75rem;
+  transform: translateY(
+    max(
+      0px,
+      calc(var(--content-figure-frame-gap) - var(--content-figure-optical-bottom-clearance))
+    )
+  );
   color: var(--paper-muted);
   font-family: var(--display);
   font-size: 0.72rem;
