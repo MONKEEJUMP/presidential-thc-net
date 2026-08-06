@@ -20,7 +20,6 @@ type GoldOrnamentProps = {
 };
 
 type OpticalFrameStyle = CSSProperties & {
-  "--content-figure-optical-bottom-clearance": string;
   "--content-figure-optical-bottom": string;
   "--content-figure-optical-left": string;
   "--content-figure-optical-right": string;
@@ -70,9 +69,7 @@ function GoldOrnament({ className, gradientId, position }: GoldOrnamentProps) {
 
 export function ContentFigure({ href, image, priority = false }: ContentFigureProps) {
   const opticalBounds = getContentFigureOpticalBounds(image.src);
-  const imageAspectHeight = image.height / image.width;
   const opticalFrameStyle: OpticalFrameStyle = {
-    "--content-figure-optical-bottom-clearance": `${(1 - opticalBounds.bottom) * imageAspectHeight * 100}%`,
     "--content-figure-optical-bottom": `${(1 - opticalBounds.bottom) * 100}%`,
     "--content-figure-optical-left": `${opticalBounds.left * 100}%`,
     "--content-figure-optical-right": `${(1 - opticalBounds.right) * 100}%`,

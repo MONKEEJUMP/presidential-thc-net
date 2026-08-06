@@ -453,12 +453,6 @@ h2 {
   position: relative;
   width: 100%;
   max-width: 100%;
-  margin-bottom: calc(
-    max(
-      0px,
-      var(--content-figure-frame-gap) - var(--content-figure-optical-bottom-clearance)
-    ) + 0.75rem
-  );
   overflow: visible;
   container-type: inline-size;
 }
@@ -529,7 +523,7 @@ h2 {
 
 .content-figure figcaption {
   max-width: 48ch;
-  margin-top: 0;
+  margin-top: 0.75rem;
   color: var(--paper-muted);
   font-family: var(--display);
   font-size: 0.72rem;
