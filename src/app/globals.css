@@ -443,17 +443,23 @@ h2 {
   margin: 0;
 }
 
-.content-figure__pinstripe {
-  padding: 0.5rem;
-  border: 1px solid var(--teal);
-  background: repeating-linear-gradient(
-    135deg,
-    rgba(88, 195, 182, 0.95) 0,
-    rgba(88, 195, 182, 0.95) 1px,
-    var(--ink) 1px,
-    var(--ink) 6px
-  );
-  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.32);
+.content-figure__media {
+  position: relative;
+}
+
+.content-figure__frame {
+  position: absolute;
+  z-index: 1;
+  inset: 1rem;
+  display: block;
+  width: calc(100% - 2rem);
+  height: calc(100% - 2rem);
+  overflow: visible;
+  pointer-events: none;
+}
+
+.content-figure__mobile-rule {
+  display: none;
 }
 
 .content-figure__image {
@@ -462,6 +468,17 @@ h2 {
   height: auto;
   background: var(--ink-soft);
   object-fit: contain;
+}
+
+@media (max-width: 639.98px) {
+  .content-figure__split-rule,
+  .content-figure__ornament {
+    display: none;
+  }
+
+  .content-figure__mobile-rule {
+    display: inline;
+  }
 }
 
 .content-figure__link {
