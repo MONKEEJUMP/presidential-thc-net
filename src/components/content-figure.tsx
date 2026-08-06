@@ -8,8 +8,56 @@ type ContentFigureProps = {
   priority?: boolean;
 };
 
+type GoldOrnamentProps = {
+  className: string;
+  gradientId: string;
+  position: "top" | "bottom";
+};
+
+function GoldOrnament({ className, gradientId, position }: GoldOrnamentProps) {
+  return (
+    <svg
+      aria-hidden="true"
+      className={className}
+      data-frame-ornament={position}
+      focusable="false"
+      viewBox="0 0 160 16"
+    >
+      <defs>
+        <linearGradient id={gradientId} gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="160" y2="0">
+          <stop offset="0%" stopColor="#F4E3A1" />
+          <stop offset="50%" stopColor="#D4B96A" />
+          <stop offset="100%" stopColor="#8F6B24" />
+        </linearGradient>
+      </defs>
+
+      <g fill={`url(#${gradientId})`}>
+        <polygon points="80,4.8 83.2,8 80,11.2 76.8,8" />
+        <polygon points="43.7,4.8 46.9,8 43.7,11.2 40.5,8" />
+        <polygon points="116.3,4.8 119.5,8 116.3,11.2 113.1,8" />
+        <polygon points="10.9,5.6 13.3,8 10.9,10.4 8.5,8" />
+        <polygon points="2.4,5.6 4.8,8 2.4,10.4 0,8" />
+        <polygon points="149.1,5.6 151.5,8 149.1,10.4 146.7,8" />
+        <polygon points="157.6,5.6 160,8 157.6,10.4 155.2,8" />
+      </g>
+      <g
+        fill="none"
+        stroke={`url(#${gradientId})`}
+        strokeLinejoin="miter"
+        strokeWidth="1.5"
+      >
+        <polygon points="72.6,8 61,5.7 49.4,8 61,10.3" vectorEffect="non-scaling-stroke" />
+        <polygon points="87.4,8 99,5.7 110.6,8 99,10.3" vectorEffect="non-scaling-stroke" />
+        <polygon points="38.7,8 27.55,5.8 16.4,8 27.55,10.2" vectorEffect="non-scaling-stroke" />
+        <polygon points="121.3,8 132.45,5.8 143.6,8 132.45,10.2" vectorEffect="non-scaling-stroke" />
+      </g>
+    </svg>
+  );
+}
+
 export function ContentFigure({ href, image, priority = false }: ContentFigureProps) {
-  const gradientId = `content-figure-gold-${image.src.replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+  const gradientIdBase = `content-figure-gold-${image.src.replace(/[^a-zA-Z0-9_-]/g, "-")}`;
+  const frameGradientId = `${gradientIdBase}-rule`;
   const renderedImage = (
     <Image
       className="content-figure__image"
@@ -41,7 +89,7 @@ export function ContentFigure({ href, image, priority = false }: ContentFigurePr
           viewBox="0 0 100 100"
         >
           <defs>
-            <linearGradient id={gradientId} gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
+            <linearGradient id={frameGradientId} gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0">
               <stop offset="0%" stopColor="#F4E3A1" />
               <stop offset="50%" stopColor="#D4B96A" />
               <stop offset="100%" stopColor="#8F6B24" />
@@ -50,65 +98,26 @@ export function ContentFigure({ href, image, priority = false }: ContentFigurePr
 
           <g
             fill="none"
-            stroke={`url(#${gradientId})`}
+            stroke={`url(#${frameGradientId})`}
             strokeLinecap="square"
             strokeLinejoin="miter"
             strokeWidth="1.5"
             vectorEffect="non-scaling-stroke"
           >
-            <path d="M 0.75 0.75 V 99.25 M 99.25 0.75 V 99.25" vectorEffect="non-scaling-stroke" />
-            <path className="content-figure__split-rule" d="M 0.75 0.75 H 34.3 M 65.7 0.75 H 99.25 M 0.75 99.25 H 34.3 M 65.7 99.25 H 99.25" vectorEffect="non-scaling-stroke" />
-            <path className="content-figure__mobile-rule" d="M 0.75 0.75 H 99.25 M 0.75 99.25 H 99.25" vectorEffect="non-scaling-stroke" />
-          </g>
-
-          <g className="content-figure__ornament" data-frame-ornament="top">
-            <g fill={`url(#${gradientId})`}>
-              <polygon points="50,0.15 50.6,0.75 50,1.35 49.4,0.75" />
-              <polygon points="43.15,0.3 43.75,0.75 43.15,1.2 42.55,0.75" />
-              <polygon points="56.85,0.3 57.45,0.75 56.85,1.2 56.25,0.75" />
-              <polygon points="36.95,0.4 37.4,0.75 36.95,1.1 36.5,0.75" />
-              <polygon points="35.35,0.4 35.8,0.75 35.35,1.1 34.9,0.75" />
-              <polygon points="63.05,0.4 63.5,0.75 63.05,1.1 62.6,0.75" />
-              <polygon points="64.65,0.4 65.1,0.75 64.65,1.1 64.2,0.75" />
-            </g>
-            <g
-              fill="none"
-              stroke={`url(#${gradientId})`}
-              strokeLinejoin="miter"
-              strokeWidth="1.5"
-              vectorEffect="non-scaling-stroke"
-            >
-              <polygon points="48.6,0.75 46.4,0.425 44.2,0.75 46.4,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="51.4,0.75 53.6,0.425 55.8,0.75 53.6,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="42.2,0.75 40.1,0.425 38,0.75 40.1,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="57.8,0.75 59.9,0.425 62,0.75 59.9,1.075" vectorEffect="non-scaling-stroke" />
-            </g>
-          </g>
-
-          <g className="content-figure__ornament" data-frame-ornament="bottom" transform="translate(0 100) scale(1 -1)">
-            <g fill={`url(#${gradientId})`}>
-              <polygon points="50,0.15 50.6,0.75 50,1.35 49.4,0.75" />
-              <polygon points="43.15,0.3 43.75,0.75 43.15,1.2 42.55,0.75" />
-              <polygon points="56.85,0.3 57.45,0.75 56.85,1.2 56.25,0.75" />
-              <polygon points="36.95,0.4 37.4,0.75 36.95,1.1 36.5,0.75" />
-              <polygon points="35.35,0.4 35.8,0.75 35.35,1.1 34.9,0.75" />
-              <polygon points="63.05,0.4 63.5,0.75 63.05,1.1 62.6,0.75" />
-              <polygon points="64.65,0.4 65.1,0.75 64.65,1.1 64.2,0.75" />
-            </g>
-            <g
-              fill="none"
-              stroke={`url(#${gradientId})`}
-              strokeLinejoin="miter"
-              strokeWidth="1.5"
-              vectorEffect="non-scaling-stroke"
-            >
-              <polygon points="48.6,0.75 46.4,0.425 44.2,0.75 46.4,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="51.4,0.75 53.6,0.425 55.8,0.75 53.6,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="42.2,0.75 40.1,0.425 38,0.75 40.1,1.075" vectorEffect="non-scaling-stroke" />
-              <polygon points="57.8,0.75 59.9,0.425 62,0.75 59.9,1.075" vectorEffect="non-scaling-stroke" />
-            </g>
+            <path d="M 0 0 V 100 M 100 0 V 100" vectorEffect="non-scaling-stroke" />
+            <path d="M 0 0 H 30 M 70 0 H 100 M 0 100 H 30 M 70 100 H 100" vectorEffect="non-scaling-stroke" />
           </g>
         </svg>
+        <GoldOrnament
+          className="content-figure__ornament content-figure__ornament--top"
+          gradientId={`${gradientIdBase}-ornament-top`}
+          position="top"
+        />
+        <GoldOrnament
+          className="content-figure__ornament content-figure__ornament--bottom"
+          gradientId={`${gradientIdBase}-ornament-bottom`}
+          position="bottom"
+        />
       </div>
       <figcaption>{image.caption}</figcaption>
     </figure>
