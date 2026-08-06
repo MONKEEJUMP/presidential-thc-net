@@ -551,22 +551,6 @@ h2 {
   opacity: 0.86;
 }
 
-.content-figure figcaption {
-  max-width: 48ch;
-  margin-top: 0.75rem;
-  transform: translateY(
-    max(
-      0px,
-      calc(var(--content-figure-frame-gap) - var(--content-figure-optical-bottom-clearance))
-    )
-  );
-  color: var(--paper-muted);
-  font-family: var(--display);
-  font-size: 0.72rem;
-  line-height: 1.45;
-  letter-spacing: 0.035em;
-}
-
 .table-scroll {
   max-width: 100%;
   margin-top: 2.25rem;

@@ -150,7 +150,6 @@ export function ContentFigure({ href, image, priority = false }: ContentFigurePr
           />
         </div>
       </div>
-      <figcaption>{image.caption}</figcaption>
     </figure>
   );
 }
