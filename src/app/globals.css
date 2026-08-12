@@ -118,7 +118,16 @@ a:hover {
   text-decoration: none;
 }
 
-.brand-lockup:hover {
+.brand-lockup__home {
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: inherit;
+  color: var(--paper);
+  text-decoration: none;
+}
+
+.brand-lockup__home:hover {
   color: var(--paper);
 }
 
@@ -160,8 +169,20 @@ a:hover {
   font-size: 0.7rem;
   letter-spacing: 0.14em;
   line-height: 1.1;
+  text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+}
+
+.brand-lockup__tagline:hover {
+  color: #58C3B6;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.brand-lockup__tagline:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 4px;
 }
 
 .eyebrow {

@@ -14,26 +14,32 @@ export function SiteHeader({ currentPath = "/" }: SiteHeaderProps) {
         Skip to the article
       </a>
       <div className="site-header__inner">
-        <Link className="brand-lockup" href="/" aria-label="Presidential THC home">
-          <span className="brand-lockup__real" aria-hidden="true">
-            THE REAL
-          </span>
-          <Image
-            className="brand-crest"
-            src="/images/presidential-crest.webp"
-            width={512}
-            height={512}
-            sizes="(max-width: 640px) 68px, 86px"
-            priority
-            alt="Presidential crest"
-          />
+        <div className="brand-lockup">
+          <Link className="brand-lockup__home" href="/" aria-label="Presidential THC home">
+            <span className="brand-lockup__real" aria-hidden="true">
+              THE REAL
+            </span>
+            <Image
+              className="brand-crest"
+              src="/images/presidential-crest.webp"
+              width={512}
+              height={512}
+              sizes="(max-width: 640px) 68px, 86px"
+              priority
+              alt="Presidential crest"
+            />
+          </Link>
           <span className="brand-lockup__text">
             <span className="brand-lockup__name">Presidential THC</span>
-            <span className="brand-lockup__tagline">
+            <a
+              aria-label="The official Presidential site"
+              className="brand-lockup__tagline"
+              href="https://presidentialmoonrocks.com"
+            >
               The Official Presidential Site
-            </span>
+            </a>
           </span>
-        </Link>
+        </div>
 
         <a
           className="official-header-link"
