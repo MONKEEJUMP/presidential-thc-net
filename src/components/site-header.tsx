@@ -15,6 +15,9 @@ export function SiteHeader({ currentPath = "/" }: SiteHeaderProps) {
       </a>
       <div className="site-header__inner">
         <Link className="brand-lockup" href="/" aria-label="Presidential THC home">
+          <span className="brand-lockup__real" aria-hidden="true">
+            THE REAL
+          </span>
           <Image
             className="brand-crest"
             src="/images/presidential-crest.webp"
