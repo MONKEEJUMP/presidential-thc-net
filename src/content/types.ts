@@ -20,6 +20,11 @@ export type PageLink = {
   description?: string;
 };
 
+export type FrequentlyAskedQuestion = {
+  question: string;
+  answer: string;
+};
+
 export type PageContent = {
   path: string;
   kind: PageKind;
@@ -33,6 +38,7 @@ export type PageContent = {
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
   externalLink?: PageLink;
+  faqs?: FrequentlyAskedQuestion[];
 };
 
 export type ContentImage = {

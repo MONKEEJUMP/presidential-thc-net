@@ -4,24 +4,21 @@ export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
   h1: "Presidential THC",
-  title: "Presidential THC — The Chemistry and Craft of Infused Cannabis",
+  title: "Presidential THC | Infused Cannabis Chemistry Guide",
   description:
-    "A clear guide to Presidential THC, three-layer infused cannabis, potency labels, extraction methods, formats, terpenes, and practical handling.",
+    "Presidential THC explained — three-layer infusion, Total THC labels, extracts, formats, and handling — the official chemistry reference from Presidential Cannabis.",
   wordTarget: [2800, 3200],
   intro: [
-    "Presidential THC is Presidential's official approach to infused cannabis: a three-layer construction of flower, concentrate, and kief, expressed through moon rocks, infused pre-rolls, tobacco-free blunts, and minis. Founded in Los Angeles in 2012, Presidential uses the Presidential Infusion System to carry distillate through the flower rather than leaving the infusion only on its surface, then applies the kief layer last. This reference explains that construction, the chemistry behind the numbers on a label, and the processing choices that shape an infused product.",
+    "Presidential THC is Presidential Cannabis's official approach to infused cannabis: flower carried through with concentrate and finished with kief, expressed as Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. This site is the chemistry and craft reference — how infusion works, how to read Total THC, what distillate, live resin and live rosin mean here, and how formats burn and handle.",
   ],
   sections: [
     {
-      "id": "what-presidential-thc-means",
-      "heading": "What Presidential THC means",
+      "id": "what-is-presidential-thc",
+      "heading": "What is Presidential THC?",
       "paragraphs": [
-        "Presidential THC is infused cannabis built on a single process: flower carried through with concentrate, finished with a coat of kief. That construction is the product. Every format the brand makes is the same idea arriving in a different shape.",
-        "The name describes a method, not a category. Infused cannabis is a broad shelf and most of it is surface work — concentrate applied to the outside of a nug where it stays. Presidential's process carries distillate through the flower rather than onto it, which changes how the finished product burns and how evenly it delivers from the first third to the last.",
-        "That single idea produces four formats. Moon Rocks are the flagship, the layered construction in its original form. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down. Nothing is added at the rolling stage that was not already in the Moon Rock.",
-        "Behind those formats sits a catalog of forty-seven products across six groupings, organised by what goes into them rather than by price tier. The extract determines the series, the series determines the character, and the character is what a buyer actually notices.",
-        "Presidential has been building infused product since 2012, out of Los Angeles, before the phrase premium cannabis meant anything. The company sells wholesale only, through licensed retailers, in eight states.",
-        "This site is the official reference for all of it — the chemistry, the process, the formats, and how to read what is printed on a package."
+        "Presidential THC is Presidential Cannabis's infusion system: flower carried through with concentrate and finished with kief. The system shapes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis available wholesale through licensed retailers.",
+        "Presidential OG, Guava Haze, XJ13, and the rest of the catalog are cultivars that run through the system. Each strain supplies the flower and cultivar profile; Presidential THC is the method Presidential Cannabis uses to turn that material into its infused formats.",
+        "Presidential Cannabis publishes brand and plant information at presidentialcannabis.net. Presidential Blunts provides dedicated depth on tobacco-free blunt formats at presidentialblunts.net. This site remains focused on the chemistry, infusion process, label math, extracts, and handling behind Presidential THC."
       ]
     },
     {
@@ -127,23 +124,21 @@ export const pillarPage: PageContent = {
       "id": "where-it-is-sold",
       "heading": "Where it is sold",
       "paragraphs": [
-        "Presidential is a wholesale brand. The product reaches people through licensed retailers and through no other route — not by mail, not by shipping, not from this site or any other.",
-        "That is a structural choice rather than a policy statement, and it carries a useful consequence: every package that reaches a customer travelled through a licensed, regulated channel. Anything sold as Presidential outside that channel did not come from Presidential.",
+        "Presidential Cannabis operates as a wholesale brand, with products available through licensed retailers. Each retailer provides the current local selection and market-specific availability.",
+        "The licensed-retail model connects Presidential products with regulated cannabis markets and gives each package a clear path through the state's established retail system.",
         "The brand is carried across eight states, and the markets are genuinely different from one another. California is the origin market and by some distance the largest, with more than six hundred licensed doors. Oklahoma runs a medical-only programme under a license moratorium and carries close to two hundred. New York is adult-use under an entirely different regulator, with more than a hundred and fifty. Nevada and Michigan each carry around a hundred. Arizona is the smallest of the active markets. Florida and Washington are opening, with listings publishing as licensed retailers come online.",
-        "Those differences are not trivia. What is legal, who may buy, what a retailer may stock, and what a buyer needs to carry through the door all change at the state line — which is why each state has its own reference on this site rather than a shared page with the name swapped.",
+        "Each state follows its own cannabis framework for eligibility, retailer licensing, and available formats, so every market has a dedicated reference on this site.",
         "The state pages cover how buying works in each market, which formats land there, and how to find the nearest licensed door."
       ]
     },
     {
-      "id": "how-to-know-it-is-authentic",
-      "heading": "How to know it is authentic",
+      "id": "official-presidential-catalog",
+      "heading": "The official Presidential catalog",
       "paragraphs": [
-        "Three checks, and any one of them will usually settle it.",
-        "The first is where you bought it. Presidential is sold through licensed retailers. If a package arrived in the mail, or came from a site with a checkout, it did not come from this company. There is no direct channel and there never has been.",
-        "The second is whether the product exists. Every genuine Presidential product appears in the catalog — forty-seven of them, across six groupings, in four formats. A product name that does not appear anywhere in that catalog is not a Presidential product, whatever the packaging says.",
-        "The third is the package itself. The construction is specific and consistent: flower carried through with concentrate, coated in kief, in the formats described on this page. The crest, the series marking, and the batch number tie a package back to the run it came from.",
-        "The official retail path is the store locator on the Presidential site. It covers every state where the brand is carried and returns licensed doors with real distances. If you are trying to establish whether something is genuine, that is the fastest route — find the nearest licensed retailer and buy it there.",
-        "Presidential has made this product since 2012. The brand, the process, and the catalog are all documented on this site, and everything published here comes from the company that manufactures it."
+        "The Presidential catalog brings together forty-seven products across six groupings and four infused formats. Each catalog entry connects its cultivar, series, format, package, and infusion context.",
+        "Presidential packages carry the crest, series marking, format name, cannabinoid information, and batch details that identify the specific product and production run.",
+        "Presidential Cannabis publishes the brand and plant catalog, while this site documents the chemistry and craft behind the Presidential Infusion System. Together, those official references connect each product with its cultivar, extract context, format, and label information.",
+        "Licensed retailers provide the current local path to Presidential products across the brand's active markets."
       ]
     },
     {
@@ -252,6 +247,43 @@ export const pillarPage: PageContent = {
     {
       href: "/states/washington",
       label: "Presidential THC in Washington",
+    },
+    {
+      href: "https://presidentialcannabis.net/",
+      label: "Explore Presidential Cannabis brand and plant information",
+      description: "Visit the official company reference for the Presidential catalog and cannabis plants.",
+    },
+    {
+      href: "https://presidentialblunts.net/",
+      label: "Read the Presidential blunt format guide",
+      description: "Explore the dedicated reference for Presidential tobacco-free blunts.",
+    },
+  ],
+  faqs: [
+    {
+      question: "What is Presidential THC?",
+      answer:
+        "Presidential THC is Presidential Cannabis's infusion system: flower carried through with concentrate and finished with kief across Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis available wholesale through licensed retailers.",
+    },
+    {
+      question: "Is Presidential THC a strain?",
+      answer:
+        "Presidential THC is the infusion system that Presidential Cannabis applies to cultivars. Presidential OG, Guava Haze, XJ13, and other strains supply the flower; Presidential THC is the method that carries concentrate through that flower and finishes it with kief.",
+    },
+    {
+      question: "How is Total THC calculated?",
+      answer:
+        "Total THC is calculated as (THCa × 0.877) + THC. The 0.877 conversion factor accounts for the molecular mass released when heat converts THCa into THC.",
+    },
+    {
+      question: "Where to buy?",
+      answer:
+        "Presidential Cannabis products are available through licensed retailers. The official Presidential Cannabis brand site provides current brand and licensed-retail information.",
+    },
+    {
+      question: "Does this site sell?",
+      answer:
+        "This site serves as Presidential Cannabis's chemistry and craft reference. Licensed retailers handle product sales and availability.",
     },
   ],
 };

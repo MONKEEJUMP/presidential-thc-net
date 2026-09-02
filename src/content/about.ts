@@ -3,14 +3,14 @@ import type { PageContent } from "./types";
 export const aboutPage: PageContent = {
   path: "/about",
   kind: "about",
-  h1: "About This Site",
-  title: "About Presidential THC",
+  h1: "About Presidential THC",
+  title: "About Presidential THC | Official Chemistry Reference",
   description:
-    "Why Presidential THC publishes this independent reference to infused cannabis chemistry, construction, formats, and handling.",
+    "About Presidential THC, the official chemistry and craft reference published by Presidential Cannabis for infusion, extracts, formats, labels, and handling.",
   wordTarget: [300, 400],
   intro: [
-    "Presidential THC is a reference publication about the chemistry and craft behind infused cannabis. This is the official Presidential reference site, published by the original company founded in Los Angeles in 2012. It is published to explain how infused formats are constructed, how their ingredients appear on labels, and how practical choices such as handling, storage, and temperature relate to the product in front of the reader.",
-    "The publication is connected to Presidential, a cannabis company founded in Los Angeles in 2012. Presidential operates as a wholesale brand, and its products are sold through licensed retailers rather than through this site.",
+    "Presidential THC is the official chemistry and craft reference published by Presidential Cannabis. It explains the Presidential Infusion System, infused-format construction, cannabinoid labels, extracts, handling, storage, and temperature in clear technical language.",
+    "Presidential Cannabis operates as a wholesale brand, with products available through licensed retailers. This publication connects that brand context with a focused educational map of flower, concentrate, kief, formats, and Total THC.",
   ],
   sections: [
     {
@@ -18,15 +18,15 @@ export const aboutPage: PageContent = {
       heading: "A Focused Reference Resource",
       paragraphs: [
         "This site goes deep on one subject. Its science section defines THCa, THC, decarboxylation, terpenes, cannabinoids, and major extract types. The infusion section examines the relationship among flower, concentrate, kief, distribution, density, and burn. Format articles explain moon rocks, infused pre-rolls, tobacco-free blunts, minis, and vape cartridges.",
-        "Practical guides turn those foundations into clear handling steps. Across every section, the editorial boundary is the same: describe what a product is, how it is made, what its package communicates, and what can be observed. The site does not make medical claims, promise effects, or substitute broad statements for product-specific labels.",
+        "Practical guides turn those foundations into clear handling steps. Across every section, the editorial method stays consistent: describe what a product is, how it is made, what its package communicates, and what a reader can observe from the product and label.",
       ],
     },
     {
       id: "presidential-context",
-      heading: "Presidential in Context",
+      heading: "Published by Presidential Cannabis",
       paragraphs: [
-        "Presidential makes Moon Rocks and other infused formats, including infused pre-rolls, tobacco-free blunts, and minis. The company is carried through licensed retail in California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida, and Washington. Availability varies by retailer and location.",
-        "This publication is not a storefront and does not present inventory, prices, direct ordering, delivery, or shipping. Readers looking for the brand itself can visit the official Presidential cannabis website; readers looking for education can stay here and follow the connected article silos from fundamentals to practical details.",
+        "Presidential Cannabis publishes this reference and makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the company's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida, and Washington, with availability shaped by each retailer and location.",
+        "Brand and plant information lives at the official Presidential Cannabis site. This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
       ],
     },
     {
@@ -38,11 +38,18 @@ export const aboutPage: PageContent = {
       ],
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com",
-    label: "visit the official Presidential cannabis website",
-    description: "Continue to the main brand property for official Presidential information.",
-  },
+  relatedLinks: [
+    {
+      href: "https://presidentialcannabis.net/",
+      label: "Visit the official Presidential Cannabis company reference",
+      description: "Explore the brand, plant catalog, and official company information.",
+    },
+    {
+      href: "https://presidentialblunts.net/",
+      label: "Explore Presidential tobacco-free blunt formats",
+      description: "Continue to the dedicated Presidential Blunts reference.",
+    },
+  ],
 };
 
 export default aboutPage;
