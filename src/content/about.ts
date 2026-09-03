@@ -50,6 +50,35 @@ export const aboutPage: PageContent = {
       description: "Continue to the dedicated Presidential Blunts reference.",
     },
   ],
+  contextualLinks: [
+    {
+      href: "/formats",
+      anchor: "blunts",
+      sectionId: "reference-purpose",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/states",
+      anchor: "brand",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/guides",
+      anchor: "guides",
+      sectionId: "reference-purpose",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/",
+      anchor: "THC",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/science",
+      anchor: "Cannabis",
+      paragraphIndex: 0,
+    },
+  ],
 };
 
 export default aboutPage;

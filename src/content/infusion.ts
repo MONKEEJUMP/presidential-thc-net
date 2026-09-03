@@ -10,8 +10,8 @@ export const infusionHub: PageContent = {
     "A practical guide to cannabis infusion, from concentrate distribution and kief to burn behavior and potency by format.",
   wordTarget: [400, 600],
   intro: [
-    "Cannabis infusion combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn.",
-    "This section follows that process from the inside out. It explains infusion as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers.",
+    "The cannabis infusion process combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn.",
+    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers.",
   ],
   sections: [
     {
@@ -87,6 +87,24 @@ export const infusionHub: PageContent = {
       href: "/",
       label: "Return to the Presidential THC reference",
       description: "Explore the complete map of infused cannabis science, formats, and practical guides.",
+    },
+  ],
+  contextualLinks: [
+    {
+      href: "/",
+      anchor: "THC",
+      sectionId: "potency-by-format",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/about",
+      anchor: "chemistry",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/science",
+      anchor: "cannabis",
+      paragraphIndex: 0,
     },
   ],
 };

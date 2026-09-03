@@ -11,7 +11,7 @@ export const scienceExtractPages: PageContent[] = [
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
     wordTarget: [400, 600],
     intro: [
-      "Cannabis extract science explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
+      "Cannabis chemistry explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
       "This section follows those ideas from the plant to the finished extract. It stays strictly chemical and descriptive, making terminology, composition, and process differences readable without assigning outcomes to the compounds.",
     ],
     sections: [
@@ -86,6 +86,19 @@ export const scienceExtractPages: PageContent[] = [
         label: "Return to Presidential THC",
         description:
           "Explore the complete reference map for infused cannabis chemistry, construction, formats, and practical handling.",
+      },
+    ],
+    contextualLinks: [
+      {
+        href: "/",
+        anchor: "THC",
+        sectionId: "how-to-use-this-section",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/about",
+        anchor: "chemistry",
+        paragraphIndex: 0,
       },
     ],
   },

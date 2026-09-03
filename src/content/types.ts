@@ -20,6 +20,13 @@ export type PageLink = {
   description?: string;
 };
 
+export type ContextualLink = {
+  href: string;
+  anchor: string;
+  paragraphIndex: number;
+  sectionId?: string;
+};
+
 export type FrequentlyAskedQuestion = {
   question: string;
   answer: string;
@@ -39,6 +46,7 @@ export type PageContent = {
   relatedLinks?: PageLink[];
   externalLink?: PageLink;
   faqs?: FrequentlyAskedQuestion[];
+  contextualLinks?: ContextualLink[];
 };
 
 export type ContentImage = {

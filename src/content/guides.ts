@@ -11,7 +11,7 @@ export const guidesHub: PageContent = {
   wordTarget: [400, 600],
   intro: [
     "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
-    "Start with the question in front of you, then use the connected guides to build a complete routine. The advice stays focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
+    "Start with the question in front of you, then use the connected guides to build a complete routine. The chemistry and advice stay focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
   ],
   sections: [
     {
@@ -87,6 +87,35 @@ export const guidesHub: PageContent = {
       href: "/",
       label: "Explore the Presidential THC reference pillar",
       description: "See how the science, infusion process, formats, and practical guides fit together.",
+    },
+  ],
+  contextualLinks: [
+    {
+      href: "/infusion",
+      anchor: "infused",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/formats",
+      anchor: "blunts",
+      sectionId: "beginner-path",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/",
+      anchor: "THC",
+      sectionId: "beginner-path",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/about",
+      anchor: "chemistry",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/science",
+      anchor: "cannabis",
+      paragraphIndex: 0,
     },
   ],
 };
