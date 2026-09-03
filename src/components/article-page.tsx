@@ -20,6 +20,10 @@ type ArticlePageProps = {
 };
 
 function findAnchorIndex(text: string, anchor: string) {
+  if (!anchor.length) {
+    throw new Error("Contextual link anchors cannot be empty.");
+  }
+
   let searchFrom = 0;
 
   while (searchFrom < text.length) {
@@ -48,6 +52,33 @@ function findAnchorIndex(text: string, anchor: string) {
   }
 
   return -1;
+}
+
+function validateContextualLinks(page: PageContent) {
+  for (const link of page.contextualLinks ?? []) {
+    const paragraphs =
+      link.sectionId === undefined
+        ? page.intro
+        : page.sections.find((section) => section.id === link.sectionId)?.paragraphs;
+    const location =
+      link.sectionId === undefined ? "intro" : `section "${link.sectionId}"`;
+
+    if (!paragraphs) {
+      throw new Error(
+        `Contextual link anchor "${link.anchor}" targets a missing ${location} on ${page.path}.`,
+      );
+    }
+
+    if (
+      !Number.isInteger(link.paragraphIndex) ||
+      link.paragraphIndex < 0 ||
+      link.paragraphIndex >= paragraphs.length
+    ) {
+      throw new Error(
+        `Contextual link anchor "${link.anchor}" targets invalid paragraph ${link.paragraphIndex} in ${location} on ${page.path}.`,
+      );
+    }
+  }
 }
 
 function renderContextualText(
@@ -432,6 +463,8 @@ function StructuredData({ page, images }: ArticlePageProps) {
 }
 
 export function ArticlePage({ page, images }: ArticlePageProps) {
+  validateContextualLinks(page);
+
   const showContents = page.kind === "pillar" || page.kind === "hub";
   const isStatesPage = page.silo === "states";
   const leadImage = isStatesPage ? undefined : images[0];
