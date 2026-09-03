@@ -92,6 +92,19 @@ export const formatsPages: PageContent[] = [
         description: "See how formats fit into the larger chemistry-and-craft reference.",
       },
     ],
+    contextualLinks: [
+      {
+        href: "/infusion",
+        anchor: "infused",
+        sectionId: "infused-pre-rolls",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science",
+        anchor: "cannabis",
+        paragraphIndex: 0,
+      },
+    ],
   },
   {
     path: "/formats/blunts",

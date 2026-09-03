@@ -107,7 +107,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Moon rocks make the three layers easiest to see: a flower core, concentrate integrated with it, and a kief finish. Their density also makes handling important. Cutting or breaking off a small piece preserves the coat better than grinding, and a slow light allows heat to move into the layered material.",
         "Infused pre-rolls arrange flower and concentrate inside paper, so even distribution along the length matters. A concentrated pocket can change airflow or cause one side to burn faster than the other. A well-constructed roll treats infusion as a continuous part of the fill rather than a single stripe that the flame reaches all at once.",
-        "Blunts use a broader wrap and should be distinguished by that construction, not treated as another name for a pre-roll. Presidential's blunts are tobacco-free. Minis apply the same general infused-format logic at a smaller scale, where the relationship among fill density, wrap, and airflow still determines how the format burns. Size changes the proportions and duration of the format; it does not eliminate the need for careful distribution.",
+        "A tobacco-free blunt uses a broader wrap and should be distinguished by that construction, not treated as another name for a pre-roll. Presidential's blunts are tobacco-free. Minis apply the same general infused-format logic at a smaller scale, where the relationship among fill density, wrap, and airflow still determines how the format burns. Size changes the proportions and duration of the format; it does not eliminate the need for careful distribution.",
         "Across all four, the package is the controlling record for the specific product. It identifies the format and should be read alongside its cannabinoid information and batch details. The format name tells you how the material is assembled; the lab numbers tell you what was measured in that batch.",
       ],
     },
@@ -284,6 +284,20 @@ export const pillarPage: PageContent = {
       question: "Does this site sell?",
       answer:
         "This site serves as Presidential Cannabis's chemistry and craft reference. Licensed retailers handle product sales and availability.",
+    },
+  ],
+  contextualLinks: [
+    {
+      href: "/formats",
+      anchor: "blunt",
+      sectionId: "formats",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/about",
+      anchor: "chemistry",
+      sectionId: "official-presidential-catalog",
+      paragraphIndex: 2,
     },
   ],
 };

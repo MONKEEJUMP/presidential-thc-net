@@ -19,7 +19,7 @@ export const statesPages: PageContent[] = [
         "heading": "Eight states, eight distinct markets",
         "paragraphs": [
           "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
-          "Six of those states run adult-use programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Two run medical programmes, where a state patient card opens the door.",
+          "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Two run medical programmes, where a state patient card opens the door.",
           "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers."
         ]
       },
@@ -44,7 +44,7 @@ export const statesPages: PageContent[] = [
         "id": "what-stays-the-same",
         "heading": "What stays the same everywhere",
         "paragraphs": [
-          "The construction does not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: forty-seven products across six groupings, organised by the extract behind them rather than by price.",
           "What changes is the route to the shelf, and that is what these eight references cover."
         ]
@@ -95,6 +95,26 @@ export const statesPages: PageContent[] = [
       {
         "href": "/",
         "label": "Presidential THC"
+      }
+    ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "blunts",
+        "sectionId": "what-stays-the-same",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/about",
+        "anchor": "chemistry",
+        "sectionId": "what-stays-the-same",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/science",
+        "anchor": "cannabis",
+        "sectionId": "the-eight-markets",
+        "paragraphIndex": 1
       }
     ]
   },

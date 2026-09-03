@@ -1,7 +1,12 @@
 import Link from "next/link";
 import { Fragment } from "react";
 
-import type { ContentImage, ContentSection, PageContent } from "@/content/types";
+import type {
+  ContentImage,
+  ContentSection,
+  ContextualLink,
+  PageContent,
+} from "@/content/types";
 import { productHrefForImage } from "@/content/product-links";
 import { absoluteUrl, escapeJsonLd, imageUrl, SITE_NAME, SITE_URL } from "@/lib/site";
 
@@ -13,6 +18,119 @@ type ArticlePageProps = {
   page: PageContent;
   images: ContentImage[];
 };
+
+function findAnchorIndex(text: string, anchor: string) {
+  if (!anchor.length) {
+    throw new Error("Contextual link anchors cannot be empty.");
+  }
+
+  let searchFrom = 0;
+
+  while (searchFrom < text.length) {
+    const index = text.indexOf(anchor, searchFrom);
+    if (index < 0) return -1;
+
+    const characterBefore = text[index - 1];
+    const characterAfter = text[index + anchor.length];
+    const startsWithWordCharacter = /[\p{L}\p{N}]/u.test(anchor[0]);
+    const endsWithWordCharacter = /[\p{L}\p{N}]/u.test(anchor[anchor.length - 1]);
+    const hasWordCharacterBefore = characterBefore
+      ? /[\p{L}\p{N}]/u.test(characterBefore)
+      : false;
+    const hasWordCharacterAfter = characterAfter
+      ? /[\p{L}\p{N}]/u.test(characterAfter)
+      : false;
+
+    if (
+      (!startsWithWordCharacter || !hasWordCharacterBefore) &&
+      (!endsWithWordCharacter || !hasWordCharacterAfter)
+    ) {
+      return index;
+    }
+
+    searchFrom = index + anchor.length;
+  }
+
+  return -1;
+}
+
+function validateContextualLinks(page: PageContent) {
+  for (const link of page.contextualLinks ?? []) {
+    const paragraphs =
+      link.sectionId === undefined
+        ? page.intro
+        : page.sections.find((section) => section.id === link.sectionId)?.paragraphs;
+    const location =
+      link.sectionId === undefined ? "intro" : `section "${link.sectionId}"`;
+
+    if (!paragraphs) {
+      throw new Error(
+        `Contextual link anchor "${link.anchor}" targets a missing ${location} on ${page.path}.`,
+      );
+    }
+
+    if (
+      !Number.isInteger(link.paragraphIndex) ||
+      link.paragraphIndex < 0 ||
+      link.paragraphIndex >= paragraphs.length
+    ) {
+      throw new Error(
+        `Contextual link anchor "${link.anchor}" targets invalid paragraph ${link.paragraphIndex} in ${location} on ${page.path}.`,
+      );
+    }
+  }
+}
+
+function renderContextualText(
+  text: string,
+  links: ContextualLink[],
+  keyPrefix: string,
+) {
+  if (!links.length) return text;
+
+  const positionedLinks = links
+    .map((link) => ({ ...link, index: findAnchorIndex(text, link.anchor) }))
+    .sort((left, right) => left.index - right.index);
+
+  for (const [index, link] of positionedLinks.entries()) {
+    if (link.index < 0) {
+      throw new Error(`Contextual link anchor "${link.anchor}" was not found in ${keyPrefix}.`);
+    }
+
+    const previousLink = positionedLinks[index - 1];
+    if (previousLink && link.index < previousLink.index + previousLink.anchor.length) {
+      throw new Error(`Contextual links overlap in ${keyPrefix}.`);
+    }
+  }
+
+  const content: React.ReactNode[] = [];
+  let cursor = 0;
+
+  positionedLinks.forEach((link, index) => {
+    content.push(text.slice(cursor, link.index));
+    content.push(
+      <Link href={link.href} key={`${keyPrefix}-link-${index}`}>
+        {link.anchor}
+      </Link>,
+    );
+    cursor = link.index + link.anchor.length;
+  });
+
+  content.push(text.slice(cursor));
+  return content;
+}
+
+function contextualLinksForParagraph(
+  page: PageContent,
+  paragraphIndex: number,
+  sectionId?: string,
+) {
+  return (page.contextualLinks ?? []).filter(
+    (link) =>
+      link.paragraphIndex === paragraphIndex &&
+      (link.sectionId ?? undefined) === sectionId,
+  );
+}
 
 function Breadcrumbs({ page }: { page: PageContent }) {
   const hubPath = page.silo ? `/${page.silo}` : undefined;
@@ -117,11 +235,13 @@ function DataTable({ section }: { section: ContentSection }) {
 }
 
 function ArticleSection({
+  page,
   section,
   image,
   imageHref,
   reverse,
 }: {
+  page: PageContent;
   section: ContentSection;
   image?: ContentImage;
   imageHref?: string;
@@ -133,7 +253,13 @@ function ArticleSection({
         <div className="article-section__copy">
           <h2>{section.heading}</h2>
           {section.paragraphs.map((paragraph, index) => (
-            <p key={`${section.id}-paragraph-${index}`}>{paragraph}</p>
+            <p key={`${section.id}-paragraph-${index}`}>
+              {renderContextualText(
+                paragraph,
+                contextualLinksForParagraph(page, index, section.id),
+                `${page.path}-${section.id}-${index}`,
+              )}
+            </p>
           ))}
           {section.bullets?.length ? (
             <ul>
@@ -337,6 +463,8 @@ function StructuredData({ page, images }: ArticlePageProps) {
 }
 
 export function ArticlePage({ page, images }: ArticlePageProps) {
+  validateContextualLinks(page);
+
   const showContents = page.kind === "pillar" || page.kind === "hub";
   const isStatesPage = page.silo === "states";
   const leadImage = isStatesPage ? undefined : images[0];
@@ -363,7 +491,13 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
           <div className={`article-lead${leadImage ? " article-lead--with-image" : ""}`}>
             <div className="article-lead__copy">
               {page.intro.map((paragraph, index) => (
-                <p key={`intro-${index}`}>{paragraph}</p>
+                <p key={`intro-${index}`}>
+                  {renderContextualText(
+                    paragraph,
+                    contextualLinksForParagraph(page, index),
+                    `${page.path}-intro-${index}`,
+                  )}
+                </p>
               ))}
             </div>
             {leadImage ? (
@@ -387,6 +521,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
                       : undefined
                   }
                   reverse={isStatesPage ? false : index % 2 === 1}
+                  page={page}
                   section={section}
                 />
                 {index === 0 ? <BrandCallToAction /> : null}
