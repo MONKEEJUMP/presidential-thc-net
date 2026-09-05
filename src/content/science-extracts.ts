@@ -263,6 +263,12 @@ export const scienceExtractPages: PageContent[] = [
         description: "Compare hydrocarbon extraction with a solventless wash-and-press route.",
       },
       {
+        href: "/science/distillate",
+        label: "Compare live resin with distillate",
+        description:
+          "See how vacuum refinement produces a narrower, more neutral cannabinoid fraction.",
+      },
+      {
         href: "/science/reading-a-lab-report",
         label: "Read the matching lab report",
         description: "Learn which batch details and analytical panels support label interpretation.",
