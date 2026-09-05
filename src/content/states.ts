@@ -37,7 +37,7 @@ export const statesPages: PageContent[] = [
         "heading": "How Presidential reaches retail",
         "paragraphs": [
           "Presidential is a wholesale brand. Every package reaches a customer through a licensed, regulated retailer, which means every package can be traced to a channel that can be verified.",
-          "Door counts vary by market. California carries the most by a wide margin. Oklahoma and New York follow. Nevada and Michigan each carry around a hundred. Arizona is a tightly licensed market where placement is genuinely won. Florida and Washington are opening, with listings publishing as licensed retailers come online."
+          "Retail availability varies by market and changes over time. Use current licensed-retailer listings for each state rather than relying on fixed door counts or market rankings."
         ]
       },
       {
@@ -124,7 +124,7 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC in California",
     "title": "Presidential THC in California — Official State Reference",
-    "description": "California is Presidential's origin market and its largest, with more than six hundred licensed doors. How adult-use retail works here.",
+    "description": "How adult-use cannabis retail works in California and how to verify current licensed-retailer listings for Presidential products.",
     "wordTarget": [
       450,
       600
@@ -154,7 +154,7 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in California",
         "paragraphs": [
           "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use, and long before premium cannabis meant anything to anyone.",
-          "It remains the brand's largest market by a considerable distance. More than six hundred licensed doors carry Presidential across the state, roughly three times the next largest market and more than every other market combined.",
+          "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be verified from current retailer information rather than a fixed statewide door count.",
           "That figure is the product of thirteen years in the same market, building the same product, in the state that has been the centre of American cannabis the entire time."
         ]
       },
@@ -253,8 +253,8 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in Oklahoma",
         "paragraphs": [
-          "Close to two hundred licensed doors carry Presidential across Oklahoma, making it the brand's second-largest market by door count.",
-          "That is a striking figure for a medical market, and it reflects how large and how engaged the Oklahoma patient base actually is. On a per-capita basis Oklahoma is among the strongest markets Presidential is in."
+          "Presidential products are listed through licensed Oklahoma retailers serving qualified patients. Participating locations and current formats change over time.",
+          "Verify current availability with a licensed retailer and confirm that the listing matches the product and package identifiers you are seeking."
         ]
       },
       {
@@ -316,7 +316,7 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in New York",
         "paragraphs": [
           "New York runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification.",
-          "New York also permits one of the highest personal possession limits in the United States — three ounces, three times the cap most legal states set and matched by only a small handful.",
+          "New York sets its own adult-use possession rules. Readers should confirm current limits and other requirements through the state's official cannabis regulator before relying on a summary.",
           "Legalisation passed in 2021, which makes this one of the newer regulated markets in the country and one of the fastest-moving. The licensed dispensary network has expanded steadily since retail opened, and it continues to."
         ]
       },
@@ -342,8 +342,8 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in New York",
         "paragraphs": [
-          "More than a hundred and fifty licensed doors carry Presidential across New York, placing it third among the brand's markets by door count.",
-          "New York is also among the fastest-growing markets Presidential is in. The door count has moved considerably as the state's licensed network has expanded, and the trajectory is upward."
+          "Presidential products are listed through licensed New York retailers. Participating locations and current formats change as the regulated market develops.",
+          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
         ]
       },
       {
@@ -431,8 +431,8 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in Nevada",
         "paragraphs": [
-          "Around a hundred licensed doors carry Presidential across Nevada, concentrated where the state's retail is concentrated.",
-          "For a state of Nevada's population that is a high number, and it reflects a retail sector serving a visitor volume many times the resident base. A brand that does well in Nevada is being seen by people from everywhere."
+          "Presidential products are listed through licensed Nevada retailers. Participating locations and current formats change, especially across destination retail markets.",
+          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
         ]
       },
       {
@@ -520,8 +520,8 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in Michigan",
         "paragraphs": [
-          "Around a hundred licensed doors carry Presidential across Michigan, placing it alongside Nevada in the brand's second tier by door count.",
-          "That number was earned in the toughest retail market in the country, which makes it one of the figures the company is most pleased with."
+          "Presidential products are listed through licensed Michigan retailers. Participating locations and current formats change over time.",
+          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
         ]
       },
       {

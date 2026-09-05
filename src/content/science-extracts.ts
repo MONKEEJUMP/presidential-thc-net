@@ -206,7 +206,7 @@ export const scienceExtractPages: PageContent[] = [
         id: "the-fresh-frozen-start",
         heading: "The fresh-frozen starting point",
         paragraphs: [
-          "Conventional cured resin begins with flower that has spent days or weeks drying and curing. Live-resin production interrupts that sequence. The harvested material is frozen within hours, commonly around −40°F, so water remains locked in the plant and the volatile fraction has less time to evaporate during postharvest handling.",
+          "Conventional cured resin begins with flower that has undergone drying and curing. Live-resin production instead uses fresh-frozen material so the volatile fraction has less time to change during ordinary postharvest handling. Exact timing and temperature controls vary by producer.",
           "Freezing is preservation, not purification. The plant still contains cannabinoids, terpenes, water, lipids, pigments, and structural material. The cold chain simply holds that chemical snapshot until extraction. If the material warms significantly before or during processing, some of the volatile-preservation advantage can be lost before the extractor performs the separation.",
         ],
       },
@@ -238,7 +238,7 @@ export const scienceExtractPages: PageContent[] = [
         id: "potency-and-aromatic-fidelity",
         heading: "Potency versus aromatic fidelity",
         paragraphs: [
-          "Typical cured-resin THC values fall around 70–90%, while live resin commonly falls around 65–85%. Those overlapping ranges show why live does not automatically mean stronger. Drying and curing can advance conversion from THCa toward THC, whereas rapid freezing is chosen mainly to retain volatile compounds that ordinary postharvest time can reduce.",
+          "A live or cured designation does not establish a universal THC range or make one extract automatically stronger. The terms describe source handling and processing choices; the batch label and corresponding test record establish composition.",
           "The cleanest way to recognize live resin is to read beyond the front label. Look for fresh-frozen source language, an identified extract type, a batch number, and a corresponding laboratory report. A terpene-rich aroma or pale color may be consistent with the process, but neither is proof by itself. The category is a production history expressed in the material, not a color grade.",
         ],
       },
@@ -323,7 +323,7 @@ export const scienceExtractPages: PageContent[] = [
         heading: "Pressure, bags, and temperature",
         paragraphs: [
           "A 25 micron press bag is a common standard for hash rosin, while 15–20 micron bags can create a tighter barrier when a producer prioritizes a cleaner result. The bag retains solid hash material as heated plates and pressure express resin through the mesh. Loading, pressure ramp, plate alignment, and temperature all influence output, so the temperature number never works alone.",
-          "Hash rosin is commonly pressed around 160–190°F. A colder range of roughly 130–170°F tends toward a lighter, buttery consistency and lower flow. Temperatures above 200°F can sacrifice volatile terpenes; a 200–220°F press generally increases flow and yield while producing darker rosin. These are process trade-offs rather than universal quality grades.",
+          "Hash-rosin producers adjust press conditions to balance consistency, flow, yield, color and retention of volatile compounds. Exact settings depend on the input material and producer, so they should not be inferred from the format name or treated as universal quality grades.",
         ],
       },
       {
@@ -369,7 +369,7 @@ export const scienceExtractPages: PageContent[] = [
       "How THCa crystallization creates diamonds, how terpene sauce is recombined, and why the resulting oil suits cartridges.",
     wordTarget: [700, 900],
     intro: [
-      "Liquid diamonds are a high-cannabinoid cannabis oil made by forming THCa crystals in a terpene-rich extract, separating the crystals from the surrounding sauce, then breaking them down and recombining the two fractions at a controlled ratio. Finished formulations commonly exceed 90% total cannabinoid, although methods and exact compositions vary meaningfully by producer.",
+      "Liquid-diamond cannabis oils are generally described in terms of a crystalline cannabinoid fraction and a terpene-rich sauce that are recombined for the intended formulation. Methods and exact compositions vary meaningfully by producer, so the product label and batch record must establish the finished material.",
       "The name describes a process relationship, not literal diamonds suspended in a cartridge. The crystalline fraction supplies concentrated THCa-derived material, while the sauce returns volatile and fluid components needed to make a uniform, workable oil.",
     ],
     sections: [
@@ -410,7 +410,7 @@ export const scienceExtractPages: PageContent[] = [
         heading: "Why liquid diamonds suit cartridges",
         paragraphs: [
           "Cartridge hardware needs oil that can move toward a heating element while remaining uniform enough that one portion of the reservoir does not contain a very different mixture from another. Recombining the reduced crystal fraction with sauce lets a producer adjust composition and flow before filling. Large intact crystals would not serve that hardware function, which is why the diamond fraction is converted into the liquid formulation.",
-          "To recognize the category, look for an ingredient or extract description that identifies liquid diamonds, a reported total-cannabinoid value, and a batch-matched laboratory report. Values above 90% total cannabinoid are common for the format, but the number does not establish the crystallization method on its own. Production documentation connects the laboratory percentage to the claimed process.",
+          "To recognize the category, look for an ingredient or extract description that identifies liquid diamonds, a reported cannabinoid result and a batch-matched laboratory report. A number alone does not establish the crystallization or formulation method; production documentation connects the laboratory result to the claimed process.",
           "A laboratory total also describes the submitted finished sample, not the purity of every intermediate fraction. The separated crystal may test near pure while the recombined oil measures differently because sauce has returned to the formula. Keeping those two measurements distinct prevents a crystal-purity figure from being misapplied to the complete cartridge oil.",
         ],
       },
