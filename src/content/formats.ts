@@ -5,8 +5,8 @@ export const formatsPages: PageContent[] = [
     path: "/formats",
     kind: "hub",
     silo: "formats",
-    h1: "The Formats",
-    title: "Infused Cannabis Formats Compared",
+    h1: "Infused Cannabis Formats",
+    title: "Infused Cannabis Formats Compared | Presidential THC",
     description:
       "Compare moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and vape cartridges by construction and format.",
     wordTarget: [400, 600],
@@ -110,7 +110,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats/blunts",
     kind: "article",
     silo: "formats",
-    h1: "Blunts",
+    h1: "Infused Blunts",
     title: "Infused Blunts and Tobacco-Free Hemp Wraps",
     description:
       "Compare infused blunts, paper pre-rolls, and mini blunts, with a clear look at tobacco-free hemp wraps and burn construction.",
@@ -204,8 +204,8 @@ export const formatsPages: PageContent[] = [
     path: "/formats/mini-blunts",
     kind: "article",
     silo: "formats",
-    h1: "Mini Blunts",
-    title: "Mini Blunts — The Smaller Format",
+    h1: "Mini Infused Blunts",
+    title: "Mini Infused Blunts | Presidential THC",
     description:
       "Learn how mini blunts preserve blunt construction at a smaller scale and what size changes about airflow, infusion, labels, and handling.",
     wordTarget: [700, 900],
@@ -290,7 +290,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats/moon-rocks",
     kind: "article",
     silo: "formats",
-    h1: "Moon Rocks",
+    h1: "Moon Rocks: Layered Cannabis Format",
     title: "Moon Rocks — The Layered Cannabis Format",
     description:
       "Learn how moon rocks combine flower, concentrate, and kief, why they are dense, how they differ from caviar, and how to handle them.",
@@ -376,8 +376,8 @@ export const formatsPages: PageContent[] = [
     path: "/formats/infused-pre-rolls",
     kind: "article",
     silo: "formats",
-    h1: "Infused Pre-Rolls",
-    title: "Infused Pre-Rolls Explained",
+    h1: "Infused Cannabis Pre-Rolls",
+    title: "Infused Cannabis Pre-Rolls Explained | Presidential THC",
     description:
       "See how infused pre-rolls combine flower and concentrate, how distribution affects the burn, and what construction and label details to inspect.",
     wordTarget: [700, 900],
@@ -462,8 +462,8 @@ export const formatsPages: PageContent[] = [
     path: "/formats/vape-cartridges",
     kind: "article",
     silo: "formats",
-    h1: "Vape Cartridges",
-    title: "What Is Inside a Vape Cartridge",
+    h1: "Cannabis Vape Cartridges",
+    title: "Cannabis Vape Cartridges Explained | Presidential THC",
     description:
       "Understand vape cartridge hardware, extract viscosity, liquid diamonds, temperature control, label checks, and responsible disposal.",
     wordTarget: [700, 900],

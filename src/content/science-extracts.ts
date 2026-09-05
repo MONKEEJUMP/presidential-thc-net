@@ -5,7 +5,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science",
     kind: "hub",
     silo: "science",
-    h1: "The Science",
+    h1: "Cannabis Extract Science",
     title: "Cannabis Extract Science — THCa, Terpenes and Potency",
     description:
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
@@ -106,8 +106,8 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/distillate",
     kind: "article",
     silo: "science",
-    h1: "Distillate",
-    title: "What Is Cannabis Distillate",
+    h1: "Cannabis Distillate",
+    title: "What Is Cannabis Distillate | Presidential THC",
     description:
       "How cannabis distillate is refined, why it is nearly odorless, and how its composition differs from broader plant extracts.",
     wordTarget: [700, 900],
@@ -357,8 +357,8 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/liquid-diamonds",
     kind: "article",
     silo: "science",
-    h1: "Liquid Diamonds",
-    title: "What Are Liquid Diamonds",
+    h1: "Cannabis Liquid Diamonds",
+    title: "What Are Cannabis Liquid Diamonds | Presidential THC",
     description:
       "How THCa crystallization creates diamonds, how terpene sauce is recombined, and why the resulting oil suits cartridges.",
     wordTarget: [700, 900],
