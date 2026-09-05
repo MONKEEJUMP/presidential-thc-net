@@ -294,8 +294,8 @@ export const statesPages: PageContent[] = [
       }
     ],
     "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/ok",
-      "label": "Find licensed retailers in Oklahoma"
+      "href": "https://presidentialthcoklahoma.com/",
+      "label": "Explore the official Presidential THC Oklahoma guide"
     }
   },
   {
