@@ -251,13 +251,13 @@ export const scienceCorePages: PageContent[] = [
     path: "/science/terpenes",
     kind: "article",
     silo: "science",
-    h1: "Terpenes",
-    title: "Terpenes — What They Are and Why They Decide Flavor",
+      h1: "Cannabis Terpenes: What Weed Terpenes Are",
+      title: "Cannabis Terpenes | Aroma, Flavor, and Volatility",
     description:
       "A precise guide to cannabis terpenes, their aroma vocabulary, reference boiling points, volatility, and processing tradeoffs.",
     wordTarget: [700, 900],
     intro: [
-      "Terpenes are volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
+        "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
       "Boiling points help compare compounds, but they are not device instructions. Evaporation begins below a listed boiling point and unfolds over time, so flavor cannot be reduced to one temperature on a dial.",
     ],
     sections: [
