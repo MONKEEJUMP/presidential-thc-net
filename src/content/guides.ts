@@ -4,8 +4,8 @@ export const guidesHub: PageContent = {
   path: "/guides",
   kind: "hub",
   silo: "guides",
-  h1: "Guides",
-  title: "Practical Guides to Infused Cannabis",
+  h1: "Infused Cannabis Guides",
+  title: "Practical Guides to Infused Cannabis | Presidential THC",
   description:
     "Practical, fact-based guides to handling, storing, heating, and evaluating infused cannabis formats.",
   wordTarget: [400, 600],

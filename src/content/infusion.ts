@@ -4,8 +4,8 @@ export const infusionHub: PageContent = {
   path: "/infusion",
   kind: "hub",
   silo: "infusion",
-  h1: "Infusion",
-  title: "How Cannabis Infusion Works",
+  h1: "Cannabis Infusion",
+  title: "How Cannabis Infusion Works | Presidential THC",
   description:
     "A practical guide to cannabis infusion, from concentrate distribution and kief to burn behavior and potency by format.",
   wordTarget: [400, 600],

@@ -342,8 +342,8 @@ export const scienceCorePages: PageContent[] = [
     path: "/science/cannabinoids",
     kind: "article",
     silo: "science",
-    h1: "Cannabinoids",
-    title: "Cannabinoids Beyond THC",
+    h1: "Cannabinoids in Infused Cannabis",
+    title: "Cannabinoids Beyond THC | Presidential THC",
     description:
       "A descriptive guide to THC, THCa, CBD, CBG, and CBN, including their plant chemistry and the way laboratories list them.",
     wordTarget: [700, 900],
