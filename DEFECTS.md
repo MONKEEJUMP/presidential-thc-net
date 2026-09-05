@@ -13,3 +13,8 @@ This file records workarounds and remaining proof gaps from build 6115.
 
 - **Problem:** The brief says “29 pages” and “23 articles,” but its explicit route tree contains 30 pages: 1 pillar, 4 hubs, 24 articles, and 1 about page. Omitting a route would violate the route-by-route build specification.
   **Workaround:** Built all 30 explicitly named routes and report the actual count as 30 pages / 24 articles. The image allocation was raised from 101 to 104 so every listed article still receives the required minimum of three images.
+
+## 2026-09-05 — Verification command drift
+
+- **Problem:** `AGENTS.md` still lists `npm run audit`, but the current `package.json` has no `audit` script.
+  **Workaround:** Reported the missing command without inventing a substitute and used the required Next.js production build, which passed TypeScript and all 44 outputs. A future maintenance pass should either restore the intended audit script or update `AGENTS.md` to the supported command set.

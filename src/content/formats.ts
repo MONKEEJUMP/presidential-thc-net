@@ -205,7 +205,7 @@ export const formatsPages: PageContent[] = [
     kind: "article",
     silo: "formats",
     h1: "Mini Infused Blunts",
-    title: "Mini Infused Blunts | Presidential THC",
+    title: "Mini Infused Blunts Guide | Presidential THC",
     description:
       "Learn how mini blunts preserve blunt construction at a smaller scale and what size changes about airflow, infusion, labels, and handling.",
     wordTarget: [700, 900],
