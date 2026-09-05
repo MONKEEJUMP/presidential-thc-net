@@ -7,7 +7,7 @@ export const guidesHub: PageContent = {
   h1: "Infused Cannabis Guides",
   title: "Practical Guides to Infused Cannabis | Presidential THC",
   description:
-    "Practical, fact-based guides to handling, storing, heating, and evaluating infused cannabis formats.",
+    "Practical Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
   wordTarget: [400, 600],
   intro: [
     "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
@@ -125,9 +125,9 @@ export const howToSmokeMoonRocks: PageContent = {
   kind: "article",
   silo: "guides",
   h1: "How to Smoke Moon Rocks",
-  title: "How to Smoke Moon Rocks Properly",
+  title: "How to Smoke Moon Rocks Properly | Presidential THC",
   description:
-    "A practical method for breaking apart, layering, lighting, and relighting moon rocks without using a grinder.",
+    "Learn how to prepare, layer, light, and relight Moon Rocks without a grinder while preserving airflow, concentrate, and the outer kief coating.",
   wordTarget: [700, 900],
   intro: [
     "Do not put a moon rock in a grinder. Break off a piece about the size of a pencil eraser by hand or with scissors, place it in a bowl with room for airflow, and light it slowly; for a steadier burn, layer the piece between ground flower. Glass is easier to manage than paper, and a relight is normal because the concentrate-rich piece is dense.",
@@ -214,9 +214,9 @@ export const howToStoreInfusedCannabis: PageContent = {
   kind: "article",
   silo: "guides",
   h1: "How to Store It",
-  title: "How to Store Infused Cannabis",
+  title: "How to Store Infused Cannabis | Presidential THC",
   description:
-    "A storage routine for protecting infused cannabis from heat, light, unnecessary handling, and time.",
+    "Learn how to store infused cannabis in a clean, closed container away from heat and light while limiting handling and monitoring product condition.",
   wordTarget: [700, 900],
   intro: [
     "Store infused cannabis in a clean, securely closed container in a cool, dark place. Heat, light, and time are the three main pressures to control, and terpenes are the first part of the product that heat and light take away. Keep different formats separated, minimize open-container time, and inspect the product before returning it to storage.",
@@ -304,9 +304,9 @@ export const temperatureGuide: PageContent = {
   kind: "article",
   silo: "guides",
   h1: "Temperature Guide",
-  title: "Temperature Guide for Cannabis Extracts",
+  title: "Temperature Guide for Cannabis Extracts | Presidential THC",
   description:
-    "A reference guide to compound boiling points and gradual temperature adjustment for cannabis extracts.",
+    "Compare cannabis extract temperature principles, boiling-point context, device adjustment, and label guidance without treating one setting as universal.",
   wordTarget: [700, 900],
   intro: [
     "Start an adjustable device low and work upward in small steps. Rosin belongs at the lower end of the practical range, resin in the middle, and diamond-based material higher, but a boiling-point chart does not translate directly into a perfect device setting. Heat level, exposure time, hardware, and the extract itself all shape what happens.",
@@ -412,7 +412,7 @@ export const whatToLookFor: PageContent = {
   kind: "article",
   silo: "guides",
   h1: "What to Look For",
-  title: "How to Judge Infused Cannabis Quality",
+  title: "How to Judge Infused Cannabis Quality | Presidential THC",
   description:
     "A practical framework for judging infused cannabis by construction, aroma, coating, labels, packaging, and burn behavior.",
   wordTarget: [700, 900],
@@ -501,7 +501,7 @@ export const beginnersGuide: PageContent = {
   kind: "article",
   silo: "guides",
   h1: "Beginner's Guide",
-  title: "A Beginner's Guide to Infused Cannabis",
+  title: "Beginner's Guide to Infused Cannabis | Presidential THC",
   description:
     "A plain-language introduction to infused cannabis, major formats, potency context, labels, handling, and next steps.",
   wordTarget: [700, 900],

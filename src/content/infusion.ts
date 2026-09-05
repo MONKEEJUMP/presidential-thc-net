@@ -115,7 +115,7 @@ export const infusionArticles: PageContent[] = [
     kind: "article",
     silo: "infusion",
     h1: "How Infusion Works",
-    title: "How Cannabis Infusion Actually Works",
+    title: "How Cannabis Infusion Actually Works | Presidential THC",
     description:
       "How cannabis infusion uses concentrate, controlled viscosity, and careful distribution to build a consistent layered format.",
     wordTarget: [700, 900],
@@ -203,7 +203,7 @@ export const infusionArticles: PageContent[] = [
     kind: "article",
     silo: "infusion",
     h1: "Surface vs Saturation",
-    title: "Surface-Coated vs Saturated Infusion",
+    title: "Surface-Coated vs Saturated Infusion | Presidential THC",
     description:
       "A direct comparison of surface-coated and saturated cannabis infusion, including process demands, tradeoffs, and burn behavior.",
     wordTarget: [700, 900],
@@ -294,7 +294,7 @@ export const infusionArticles: PageContent[] = [
     kind: "article",
     silo: "infusion",
     h1: "Kief and Trichomes",
-    title: "Kief and Trichomes Explained",
+    title: "Kief and Trichomes Explained | Presidential THC",
     description:
       "What cannabis trichomes are, how kief is collected, and the three practical jobs kief performs on an infused format.",
     wordTarget: [700, 900],
@@ -385,7 +385,7 @@ export const infusionArticles: PageContent[] = [
     kind: "article",
     silo: "infusion",
     h1: "Why Infused Burns Differently",
-    title: "Why Infused Cannabis Burns Differently",
+    title: "Why Infused Cannabis Burns Differently | Presidential THC",
     description:
       "Why added concentrate changes density, heat retention, airflow, relights, tunneling, and canoeing in infused cannabis.",
     wordTarget: [700, 900],

@@ -173,7 +173,7 @@ export const scienceCorePages: PageContent[] = [
     kind: "article",
     silo: "science",
     h1: "Reading a Lab Report",
-    title: "How to Read a Cannabis Lab Report",
+    title: "How to Read a Cannabis Lab Report | Presidential THC",
     description:
       "A field guide to cannabis Certificates of Analysis, including batch identity, cannabinoid math, terpene data, compliance results, and limits.",
     wordTarget: [700, 900],
