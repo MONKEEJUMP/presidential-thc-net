@@ -204,13 +204,13 @@ export const formatsPages: PageContent[] = [
     path: "/formats/mini-blunts",
     kind: "article",
     silo: "formats",
-    h1: "Mini Infused Blunts",
-    title: "Mini Infused Blunts Guide | Presidential THC",
+    h1: "Small Blunts: Mini Infused Blunts",
+    title: "Small Blunts | Mini Infused Blunts Guide",
     description:
       "Learn how mini blunts preserve blunt construction at a smaller scale and what size changes about airflow, infusion, labels, and handling.",
     wordTarget: [700, 900],
     intro: [
-      `A mini blunt is a shorter, smaller blunt-format roll built with cannabis fill, concentrate, and a substantial wrap. It preserves the essential wrapped construction while reducing the total amount of material and the length of the burn path. Smaller does not automatically mean weaker by weight; the tested label is the source for cannabinoid content.`,
+      `Small blunts are shorter blunt-format rolls built with cannabis fill, concentrate, and a substantial wrap. A mini infused blunt preserves the essential wrapped construction while reducing the total amount of material and the length of the burn path. Smaller does not automatically mean weaker by weight; the tested label is the source for cannabinoid content.`,
       `The format makes sense when the desired unit is more compact than a full blunt but the wrap-led structure is still the point. Scaling down requires its own decisions about fill, seam, airflow, and infusion distribution.`,
     ],
     sections: [
