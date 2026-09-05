@@ -304,7 +304,7 @@ export const formatsPages: PageContent[] = [
         id: "three-layers",
         heading: "The three-layer construction",
         paragraphs: [
-          `The center is a cured flower bud. Flower commonly falls around 15–25% THC, although the actual value belongs to the tested batch. A producer then applies cannabis concentrate around or into that flower. Concentrate used for the coating can reach as high as 90%, so both its amount and its distribution matter to the final composition.`,
+          `The center is a cured flower bud. Its cannabinoid profile belongs to the tested batch, not to a universal category range. A producer then applies cannabis concentrate around or into that flower, so both the amount and distribution of that input matter to the final composition.`,
           `Kief goes on last. Kief is a collection of trichomes, the resin glands that hold much of the plant’s cannabinoid and terpene content. It clings to the concentrate and leaves the recognizable granular surface. Each layer has a separate physical job: flower supplies structure, concentrate bonds and infuses, and kief completes the outer layer.`,
         ],
       },
@@ -320,8 +320,8 @@ export const formatsPages: PageContent[] = [
         id: "potency-as-a-blend",
         heading: "Potency is a weighted blend",
         paragraphs: [
-          `Finished moon rocks can reach as high as 70% THC, roughly three times the upper end of the supplied 15–25% flower range. That does not mean every example reaches the ceiling. The result is a weighted blend of all three layers: how much flower is present, how concentrated the coating is, how much coating was applied, and what the kief contributes.`,
-          `A high percentage printed for the concentrate ingredient cannot be transferred directly to the finished piece. If the coating is 90% but represents only part of the total weight, the flower and kief still influence the final tested value. The package’s cannabinoid statement is therefore more useful than calculating from appearance.`,
+          `A finished moon rock is a weighted blend of all three layers: how much flower is present, the tested composition and amount of the coating, and what the kief contributes. A category name does not establish a finished percentage.`,
+          `A percentage printed for one concentrate ingredient cannot be transferred directly to the finished piece. Flower and kief still contribute to the total weight and composition, so the finished package’s cannabinoid statement and associated batch record are more useful than estimating from appearance.`,
         ],
       },
       {
@@ -492,7 +492,7 @@ export const formatsPages: PageContent[] = [
         id: "liquid-diamonds",
         heading: "Why liquid diamonds suit cartridges",
         paragraphs: [
-          `Liquid diamonds begin with an extract that separates in a sealed vessel into THCa crystals and a terpene-rich sauce, a process often called diamond mining. The crystals are then broken down and reintroduced into the sauce at a controlled ratio. Production methods vary by producer, but the finished blend can exceed 90% total cannabinoids.`,
+          `Liquid-diamond formulations are generally described in terms of a crystalline cannabinoid fraction and a terpene-rich sauce that are recombined for the intended product. Production methods and finished composition vary by producer, so the package and batch record must establish what a particular cartridge contains.`,
           `That recombination gives a formulator direct control over the crystal-to-sauce ratio and a route to a cartridge-ready flow profile without relying on a generic thinning agent. It does not mean every product called liquid diamonds has the same recipe or viscosity. The formulation still has to suit its specific inlet, core, seal package, and operating range.`,
         ],
       },

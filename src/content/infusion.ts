@@ -50,7 +50,7 @@ export const infusionHub: PageContent = {
       id: "potency-by-format",
       heading: "Potency by format",
       paragraphs: [
-        "Flower commonly falls in the 15–25% THC range, while a concentrate coating can reach as high as 90%. Finished moon rocks can reach as high as 70%, and THCa diamonds may reach 99% and above before heat-driven conversion. Those figures describe different materials and should not be treated as interchangeable.",
+        "Flower, concentrate coatings, finished moon rocks and THCa-rich materials are different samples. Their reported THC and other cannabinoid values belong to the specific tested batch and should not be treated as interchangeable category figures.",
         "A layered format lands between its inputs because each layer contributes according to its share of the total weight. The label and batch report, not the strongest ingredient named in the construction, describe the finished product.",
       ],
     },
@@ -481,7 +481,7 @@ export const infusionArticles: PageContent[] = [
       "A careful potency comparison across flower, concentrate coatings, moon rocks, and THCa diamonds, with weighted-blend math.",
     wordTarget: [700, 900],
     intro: [
-      "Potency ranges differ sharply by cannabis format: flower commonly measures 15–25% THC, concentrate coatings can reach as high as 90%, finished moon rocks can reach as high as 70%, and THCa diamonds can reach 99% and above before decarboxylation. These numbers are not directly additive because a layered product's result is a weighted blend of every material in the finished mass.",
+      "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass.",
       "The format name tells you how the material is constructed. The batch label tells you what that particular finished product measured. Reading both prevents the highest ingredient percentage from being mistaken for the percentage of the whole.",
     ],
     sections: [
@@ -492,13 +492,13 @@ export const infusionArticles: PageContent[] = [
           "These verified Phase 6 values describe different inputs and finished formats. “As high as” is a ceiling, not a batch promise.",
         ],
         table: {
-          caption: "Verified potency references by cannabis material or format",
-          headers: ["Material or format", "Potency reference", "How to read it"],
+          caption: "How to read potency information by cannabis material or format",
+          headers: ["Material or format", "Reference to use", "How to read it"],
           rows: [
-            ["Flower", "15–25% THC", "The structural base used in an infused format"],
-            ["Concentrate coating", "As high as 90%", "One component, not the finished layered percentage"],
-            ["Finished moon rock", "As high as 70%", "The measured blend of flower, concentrate, and kief"],
-            ["THCa diamonds", "99% THCa and above", "An acidic precursor figure before heat-driven conversion"],
+            ["Flower", "Batch label or test record", "The structural base used in an infused format"],
+            ["Concentrate coating", "Input batch record", "One component, not the finished layered percentage"],
+            ["Finished moon rock", "Finished-batch result", "The measured blend of flower, concentrate and kief"],
+            ["THCa-rich material", "Batch label or test record", "Keep THCa distinct from calculated Total THC"],
           ],
         },
       },
@@ -508,14 +508,14 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "A moon rock contains flower, concentrate, and kief. If those percentages were simply added, the calculation would ignore the mass of each layer and could produce a result that has no physical meaning. A small amount of a high-percentage concentrate cannot make the entire object equal to the concentrate's percentage.",
           "The correct idea is a weighted blend. For each layer, multiply its potency by its share of the finished weight. Add those contributions, then divide by the total weight. In compact form: finished potency equals the sum of each layer's potency times its mass, divided by the total mass.",
-          "This is why a finished moon rock can reach as high as 70% while its concentrate coating alone can reach as high as 90%. The lower-potency flower and the kief remain part of the denominator. The coating raises the blend, but it does not erase the mass of the other layers.",
+          "The flower and kief remain part of the denominator even when a concentrate input reports a higher cannabinoid value. The coating can raise the blend, but it does not erase the mass of the other layers or substitute for a finished-batch result.",
         ],
       },
       {
         id: "flower-is-the-base",
         heading: "Flower sets the base",
         paragraphs: [
-          "Flower in the 15–25% THC range supplies the structure of a moon rock and much of its total mass. Potency is only one of the jobs the base performs.",
+          "Flower supplies the structure of a moon rock and much of its total mass. Its measured composition belongs to the source batch, and potency is only one of the jobs the base performs.",
           "Starting flower still matters after infusion. If two constructions use the same amount and type of concentrate but begin with flower at different measured percentages, their finished weighted results will differ. The label for the final batch accounts for that difference; a generic format range cannot.",
           "The flower figure should also be read as a range rather than a fixed definition. “Flower” identifies plant material, not one universal potency. Batch testing is what turns that broad category into a number for a specific product.",
         ],
@@ -524,7 +524,7 @@ export const infusionArticles: PageContent[] = [
         id: "concentrate-raises-the-blend",
         heading: "Concentrate raises the blend",
         paragraphs: [
-          "A concentrate coating can run as high as 90%, which is much higher than the supplied flower range. Adding it increases the amount of measured cannabinoid material relative to the finished mass. It also acts as the adhesive for a kief coat in a classic three-layer construction.",
+          "A concentrate coating can increase the amount of measured cannabinoid material relative to the finished mass. It also acts as the adhesive for a kief coat in a classic three-layer construction, but its input result cannot be assigned to the finished product.",
           "The coating's share of total weight determines how strongly its number pulls the blend upward. A thin, even application and a heavy application cannot be assumed to produce the same final percentage, even when the concentrate comes from the same source batch.",
           "Distribution changes construction and burn behavior, but it does not change the arithmetic rule. Concentrate in one thick pocket and the same mass spread evenly would contribute the same theoretical weight to the whole. The second construction may behave more consistently, while the finished potency still requires testing rather than visual estimation.",
         ],
@@ -543,7 +543,7 @@ export const infusionArticles: PageContent[] = [
         heading: "How to compare format labels",
         paragraphs: [
           "First identify whether the number refers to THC, THCa, Total THC, total cannabinoids, or one ingredient. Then check whether it describes raw material or the finished format. A concentrate input percentage belongs to the input; a moon rock batch result belongs to the complete three-layer blend.",
-          "Next look for the batch-specific measurement rather than relying on the category ceiling. A statement that moon rocks can reach as high as 70% does not establish the result for every moon rock. The same caution applies to flower, coatings, and diamonds.",
+          "Next look for the batch-specific measurement rather than relying on a category ceiling. The same caution applies to flower, coatings, finished moon rocks and THCa-rich materials.",
           "Finally, keep potency separate from construction quality. A percentage describes measured composition. Even distribution, layer adhesion, airflow, and burn behavior describe how the format was built. A careful comparison uses both kinds of information without asking either one to prove the other.",
         ],
       },

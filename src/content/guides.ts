@@ -50,7 +50,7 @@ export const guidesHub: PageContent = {
       id: "beginner-path",
       heading: "Begin With the Format and the Label",
       paragraphs: [
-        "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. It explains why infused products can sit well above the 15–25% THC range supplied for flower and why percentages from different formats need context.",
+        "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. It explains why THC percentages from different materials and finished formats need batch-specific context.",
         "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. Four sideways links lead to every other practical guide in this silo.",
       ],
     },
@@ -353,7 +353,7 @@ export const temperatureGuide: PageContent = {
       id: "matching-extracts",
       heading: "Match the Starting Range to the Extract",
       paragraphs: [
-        "Live rosin is the low-temperature starting point in this guide. Its production already uses controlled press temperatures: hash rosin is pressed at 160–190°F, with a 130–170°F cold-press range producing a buttery consistency, while temperatures above 200°F degrade terpenes and 200–220°F favors yield and darker rosin.",
+        "Live rosin is the lower-temperature starting point in this guide. Producers control press conditions to balance consistency, flow, yield and retention of volatile compounds, but exact settings vary with the material and process.",
         "Live resin sits in the middle because its fresh-frozen, low-temperature process is designed to preserve volatile material. Diamond-based extracts start higher in this relative sequence. The order is a practical comparison among these three extract families, not a universal number for every device or formulation.",
       ],
     },
@@ -458,7 +458,7 @@ export const whatToLookFor: PageContent = {
       heading: "Make the Package Explain the Product",
       paragraphs: [
         "Read the format name, cannabinoid information, batch identifiers, and any storage or hardware instructions shown on the package. The details should describe the same item visible inside. Keep the package with the product so those identifiers are available later instead of relying on memory.",
-        "Percentages require context. The supplied references place flower at 15–25% THC, finished moon rocks as high as 70%, and a concentrate coating as high as 90%. A moon rock is a weighted blend of its three layers, so its finished percentage is not the coating percentage copied onto the whole piece.",
+        "Percentages require context. Flower, concentrate and a finished moon rock are different samples. A moon rock is a weighted blend of its layers, so an ingredient percentage cannot be copied onto the whole piece; use the finished product label and associated batch record.",
       ],
     },
     {
@@ -530,7 +530,7 @@ export const beginnersGuide: PageContent = {
       id: "potency-context",
       heading: "Put Potency Numbers in Context",
       paragraphs: [
-        "The verified ranges supplied for this site place flower at 15–25% THC. A concentrate coating alone can run as high as 90%, while a finished moon rock can reach as high as 70%. The finished number sits below the coating ceiling because the product is a weighted blend of flower, concentrate, and kief.",
+        "Potency belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate and kief.",
         "Do not compare one layer with a complete format as though they are the same sample. Read the product's own label, keep the batch information with it, and remember that percentages describe composition. They do not explain every detail of construction, distribution, storage history, or hardware.",
       ],
     },
