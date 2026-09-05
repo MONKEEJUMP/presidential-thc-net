@@ -432,7 +432,7 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Nevada",
         "paragraphs": [
           "Presidential products are listed through licensed Nevada retailers. Participating locations and current formats change, especially across destination retail markets.",
-          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
+          "People searching for Presidential THC flower in North Las Vegas should begin with the official Nevada locator below, then verify current product availability with the retailer and use official state resources when confirming whether a store is licensed."
         ]
       },
       {
