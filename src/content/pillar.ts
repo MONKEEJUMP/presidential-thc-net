@@ -32,7 +32,7 @@ export const pillarPage: PageContent = {
       id: "extracts-and-labels",
       heading: "Extract vocabulary and Total THC labels",
       paragraphs: [
-        "Distillate, live resin, live rosin, and liquid diamonds describe different extract or formulation contexts. They do not establish a guaranteed potency, flavor, or effect. Use the dedicated science pages for definitions and the current product record for the material identified on a specific package.",
+        "The terms distillate, live resin, live rosin, and liquid diamonds describe different extract or formulation contexts. They do not establish a guaranteed potency, flavor, or effect. Use the dedicated science pages for definitions and the current product record for the material identified on a specific package.",
         "A label may report THCa and THC separately. Total THC is commonly calculated as (THCa × 0.877) + THC. That formula explains why a raw THCa value and a lower Total THC value can both describe the same tested material. Always match the calculation to the correct batch record.",
       ],
     },
@@ -92,6 +92,12 @@ export const pillarPage: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/science/distillate",
+      anchor: "distillate",
+      sectionId: "extracts-and-labels",
+      paragraphIndex: 0,
+    },
     {
       href: "/science/thca-vs-thc",
       anchor: "Total THC",
