@@ -8,7 +8,7 @@ export const infusionHub: PageContent = {
   title: "How Cannabis Infusion Works | Presidential THC",
   description:
     "A practical guide to cannabis infusion, from concentrate distribution and kief to burn behavior and potency by format.",
-  wordTarget: [400, 600],
+  wordTarget: [800, 1100],
   intro: [
     "The cannabis infusion process combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn.",
     "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers.",
@@ -54,6 +54,30 @@ export const infusionHub: PageContent = {
         "A layered format lands between its inputs because each layer contributes according to its share of the total weight. The label and batch report, not the strongest ingredient named in the construction, describe the finished product.",
       ],
     },
+    {
+      id: "read-infusion-as-construction",
+      heading: "Read infusion as a construction method",
+      paragraphs: [
+        "Infusion is a placement method. Flower supplies the structure while concentrate is added at a chosen depth and in a controlled pattern. Kief may finish the surface, but it does not replace the distribution work underneath. The how infusion works guide follows those inputs through viscosity, temperature, placement, and layer order. Use it when the product identity says infused but the visible build alone does not show how the added concentrate was arranged.",
+        "Depth is a separate variable. A surface treatment keeps more concentrate near the exterior, while saturation carries it farther into the flower. The surface-versus-saturation guide compares those points without treating either name as proof of uniformity. Check the placement that can be observed, then use the ingredient, batch, and cannabinoid information for composition. A cut section can show how far material travels; it cannot replace the label.",
+      ],
+    },
+    {
+      id: "follow-the-layers",
+      heading: "Follow each layer through the finished format",
+      paragraphs: [
+        "In a three-layer build, concentrate creates the interface between the flower and the final kief coat. The kief and trichomes guide explains what the collected trichome material is and why it belongs to a different construction step from the concentrate beneath it. Reading those layers separately makes it easier to compare the named ingredients with the visible piece and to notice when a finishing layer is sparse, clumped, or detached.",
+        "Burn behavior is a downstream construction check. The infused burn guide connects concentrate distribution with density, airflow, heat retention, tunneling, and canoeing. Use those observations to describe how the assembled format behaves under heat, not as a universal quality score. One batch can still differ from another because placement, flower structure, format size, and storage condition are specific to the product being examined.",
+      ],
+    },
+    {
+      id: "use-the-hub-in-order",
+      heading: "Use the hub in a practical order",
+      paragraphs: [
+        "Start with the product identity, identify the base and added material, and then choose the child page that matches the question. Process questions belong with the construction guide; depth questions belong with the coating comparison; loose trichome material belongs with the kief reference; and airflow questions belong with the burn guide. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
+        "Presidential THC publishes this hub as a chemistry and construction reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch identifiers carry different information. Keeping those terms separate lets the reader move from construction to label evidence without turning the brand name into a cultivar claim.",
+      ],
+    },
   ],
   childLinks: [
     {
@@ -90,6 +114,36 @@ export const infusionHub: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/infusion/how-infusion-works",
+      anchor: "how infusion works guide",
+      sectionId: "read-infusion-as-construction",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/surface-vs-saturation",
+      anchor: "surface-versus-saturation guide",
+      sectionId: "read-infusion-as-construction",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/infusion/kief-and-trichomes",
+      anchor: "kief and trichomes guide",
+      sectionId: "follow-the-layers",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/why-infused-burns-differently",
+      anchor: "infused burn guide",
+      sectionId: "follow-the-layers",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/infusion/potency-by-format",
+      anchor: "potency-by-format guide",
+      sectionId: "use-the-hub-in-order",
+      paragraphIndex: 0,
+    },
     {
       href: "/",
       anchor: "THC",
