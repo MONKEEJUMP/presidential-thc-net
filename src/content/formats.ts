@@ -9,7 +9,7 @@ export const formatsPages: PageContent[] = [
     title: "Infused Cannabis Formats Compared | Presidential THC",
     description:
       "Compare moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and vape cartridges by construction and format.",
-    wordTarget: [400, 600],
+    wordTarget: [800, 1100],
     intro: [
       `Infused cannabis formats are different ways of bringing flower and concentrate together, or of placing an extract into cartridge hardware. Moon rocks use three visible layers; pre-rolls, blunts, and minis package infused flower inside a wrap; vape cartridges pair a flowable extract with a heating core. The format determines construction, handling, airflow, and what information matters on the label.`,
       `This hub compares those structures without treating one as universally better. Start with the format you want to understand, then look at its components, distribution of concentrate, package information, and physical condition.`,
@@ -57,6 +57,30 @@ export const formatsPages: PageContent[] = [
           `Names are useful, but the physical build tells you more. For a combustible format, examine wrap integrity, fill uniformity, visible concentrate distribution, and package condition. For a cartridge, examine the reservoir, seals, ingredient statement, and hardware compatibility. In every category, use the labeled batch and cannabinoid information instead of assuming that size, color, or format name guarantees a particular composition.`,
         ],
       },
+      {
+        id: "match-name-to-construction",
+        heading: "Match the format name to the construction",
+        paragraphs: [
+          `The package name is a starting point, not the complete comparison. A loose layered piece should show the flower, concentrate, and kief that define the format. The moon rocks reference follows those components from the flower center to the outer coat, making it the useful branch when the product is not rolled or held in cartridge hardware. The label can then confirm the product identity, ingredients, net contents, and batch information for the piece being examined.`,
+          `An infused pre-roll belongs to a different construction family even though it also combines flower and concentrate. The infused pre-roll guide separates the paper, filter, prepared fill, and added extract so each part can be checked on its own. Begin with the seam and cylinder, then compare the ingredient statement and cannabinoid units with the named format. A familiar rolled shape does not remove the need to identify where the infusion sits or how the fill is arranged.`,
+        ],
+      },
+      {
+        id: "separate-wrap-from-scale",
+        heading: "Separate wrapper material from product scale",
+        paragraphs: [
+          `Blunt language describes a wrap-led format, but the name does not establish what the wrapper contains. The blunts guide compares substantial wraps with paper pre-rolls and explains why a tobacco-free hemp wrap is a composition statement rather than a health claim. Check the ingredient language, seam, diameter, fill, and net contents together. Those details identify the build more reliably than package styling or the blunt name by itself.`,
+          `Size is a separate question. The mini blunts guide shows how a shorter roll keeps the wrap, seam, infused fill, mouth end, and lighting end while changing their proportions. Compare a mini with a full blunt by unit size, package count, total net contents, wrapper material, and cannabinoid labeling. The word mini does not establish a standard weight or infusion ratio, so the specific package remains the reference for that batch.`,
+        ],
+      },
+      {
+        id: "follow-the-right-format-path",
+        heading: "Follow the path for the format in front of you",
+        paragraphs: [
+          `Cartridges move the comparison away from flower and wraps. The vape cartridge guide maps the reservoir, oil, intake openings, heating core, air path, mouthpiece, and battery connection as one system. For that format, inspect the seals and hardware condition, confirm the ingredient and batch information, and check that the cartridge is compatible with the intended battery. Wrapper and fill tests that make sense for a blunt do not answer those hardware questions.`,
+          `Use this hub as a routing page rather than a ranking. Identify whether the product is layered, paper-rolled, wrap-led, scaled as a mini, or built around extract hardware, then open the matching format reference. Presidential THC publishes this material as a chemistry and format reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar, extract, package, and batch names should be read as separate kinds of information.`,
+        ],
+      },
     ],
     childLinks: [
       {
@@ -93,6 +117,36 @@ export const formatsPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "/formats/moon-rocks",
+        anchor: "moon rocks reference",
+        sectionId: "match-name-to-construction",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/infused-pre-rolls",
+        anchor: "infused pre-roll guide",
+        sectionId: "match-name-to-construction",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/blunts",
+        anchor: "blunts guide",
+        sectionId: "separate-wrap-from-scale",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/mini-blunts",
+        anchor: "mini blunts guide",
+        sectionId: "separate-wrap-from-scale",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/vape-cartridges",
+        anchor: "vape cartridge guide",
+        sectionId: "follow-the-right-format-path",
+        paragraphIndex: 0,
+      },
       {
         href: "/infusion",
         anchor: "infused",
