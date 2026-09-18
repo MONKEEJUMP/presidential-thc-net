@@ -9,8 +9,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC by State — Where the Brand Is Carried",
     "description": "Presidential is carried across eight states through licensed retail. How each market works, and where to find the nearest licensed door.",
     "wordTarget": [
-      400,
-      550
+      800,
+      1100
     ],
     "intro": [],
     "sections": [
@@ -38,6 +38,31 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is a wholesale brand. Every package reaches a customer through a licensed, regulated retailer, which means every package can be traced to a channel that can be verified.",
           "Retail availability varies by market and changes over time. Use current licensed-retailer listings for each state rather than relying on fixed door counts or market rankings."
+        ]
+      },
+      {
+        "id": "use-the-state-directory",
+        "heading": "Use the directory as a route map",
+        "paragraphs": [
+          "A state page is a starting point for checking a market, not a permanent inventory list. Open the page for the state you are checking, identify the licensed-retail path described there, then confirm current participation with a licensed retailer or the current official listing. The California reference covers an established adult-use market, while the New York reference covers a newer retail network that can change quickly.",
+          "Use the pages in that order: choose the state, read its access and licensing notes, then check current retailer information. An old menu, a package photographed in another market, or a third-party directory does not establish present availability. The state page supplies durable context; a current licensed source supplies the last step."
+        ]
+      },
+      {
+        "id": "separate-market-from-product",
+        "heading": "Separate market access from product identity",
+        "paragraphs": [
+          "State rules determine how a licensed cannabis channel operates. They do not turn Presidential THC into a strain, and they do not define the construction inside a package. Presidential THC is the brand and chemistry publisher behind this reference library. State pages explain where the brand is carried and how each regulated market is organised; the science and format hubs explain materials, extract terms, and product construction.",
+          "That distinction keeps unlike questions apart. The Nevada reference explains a tourism-heavy licensed market, while the Michigan reference explains a mature and highly competitive retail network. Neither page changes what a format name means. Product name, ingredient language, net weight, cannabinoid information, and batch identifiers must still be read from the package in hand."
+        ]
+      },
+      {
+        "id": "verify-current-state-information",
+        "heading": "Verify the current path to the shelf",
+        "paragraphs": [
+          "State distribution can change without changing the brand. A retailer may add or remove a format, a new licensed location may open, or a listing may outlive the stock that produced it. For that reason, this directory avoids treating fixed door counts or old market rankings as permanent proof. The Arizona reference can explain the structure of its market without promising that a specific retailer has a specific package today.",
+          "Start with the state page, follow its current licensed-retail source, and confirm the exact product before making a trip. Match the product name and format, then compare the package's net weight, ingredient statement, and batch or lot identifier. Those checks connect the market-level directory to the actual package rather than assuming that brand presence guarantees every format at every location.",
+          "Presidential THC publishes this state context to connect the brand with its regulated distribution paths. It does not replace state regulator records or retailer menus. If a summary and a current licensed source disagree, use the current source and treat the page as background until its listing is refreshed."
         ]
       },
       {
@@ -115,6 +140,36 @@ export const statesPages: PageContent[] = [
         "anchor": "cannabis",
         "sectionId": "the-eight-markets",
         "paragraphIndex": 1
+      },
+      {
+        "href": "/states/california",
+        "anchor": "California reference",
+        "sectionId": "use-the-state-directory",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/new-york",
+        "anchor": "New York reference",
+        "sectionId": "use-the-state-directory",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada reference",
+        "sectionId": "separate-market-from-product",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/states/michigan",
+        "anchor": "Michigan reference",
+        "sectionId": "separate-market-from-product",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/states/arizona",
+        "anchor": "Arizona reference",
+        "sectionId": "verify-current-state-information",
+        "paragraphIndex": 0
       }
     ]
   },
