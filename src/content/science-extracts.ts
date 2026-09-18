@@ -9,10 +9,11 @@ export const scienceExtractPages: PageContent[] = [
     title: "Cannabis Extract Science — THCa, Terpenes and Potency",
     description:
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
-    wordTarget: [400, 600],
+    wordTarget: [800, 1100],
     intro: [
       "Cannabis chemistry explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
       "This section follows those ideas from the plant to the finished extract. It stays strictly chemical and descriptive, making terminology, composition, and process differences readable without assigning outcomes to the compounds.",
+      "Published by Presidential Cannabis, this is the official Presidential THC extract-science hub. Presidential THC identifies the brand's chemistry and infusion reference; cultivar names identify the plant material. Here, the useful questions are how an extract was made, what its label measures, and how its composition relates to the finished format.",
     ],
     sections: [
       {
@@ -21,6 +22,31 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Start with THCa, THC, and decarboxylation to understand why raw percentages do not translate directly into heated THC. Then move to laboratory reports, terpenes, and the wider cannabinoid family for the vocabulary used on labels. The four extract guides compare a highly refined distillate with three methods built around fresh-frozen material or controlled crystallization.",
           "No single percentage identifies an extract or proves how it was made. Process details, ingredient language, batch identification, and a matching laboratory report create a much clearer picture than color or texture alone.",
+        ],
+      },
+      {
+        id: "extraction-refinement-and-formulation",
+        heading: "Separate extraction, refinement, and formulation",
+        paragraphs: [
+          "Extraction separates compounds from plant material. Refinement then separates parts of that extract, while formulation combines selected ingredients into a finished mixture. Cannabis distillate belongs to the refinement stage: vacuum distillation collects a cannabinoid-rich fraction from an existing oil. The extract name describes a processing route; the ingredient statement identifies what ultimately went into the product.",
+          "Compare that route with live resin, which starts with fresh-frozen plant material and uses solvent extraction, and live rosin, which uses physical separation of resin glands followed by pressing. The shared word live concerns starting-material handling. Resin and rosin describe different separation methods. Keeping those distinctions clear helps readers compare process records without assuming that similar names indicate identical compositions.",
+          "An extract can also become one ingredient in an infused format. Flower, concentrate, and kief contribute different proportions of the finished mass. Read an ingredient's analysis as information about that ingredient, then use the finished batch's results when comparing the complete product.",
+        ],
+      },
+      {
+        id: "cannabinoids-and-measurement",
+        heading: "Read cannabinoid values in context",
+        paragraphs: [
+          "The cannabinoids listed on a laboratory panel identify individual compounds measured in the submitted sample. THCa and THC occupy separate entries because they are chemically distinct. Heating can remove carbon dioxide from THCa through decarboxylation. Total THC commonly combines measured THC with THCa multiplied by 0.877 to account for that change in molecular mass.",
+          "Keep the units consistent when reading that calculation. A percentage describes a proportion of the tested material; milligrams describe an amount. For example, 10% by mass corresponds to 100 milligrams per gram. Check whether the record describes a gram, the whole package, or another stated sample basis before comparing numbers. A calculated total is a label-reading tool, not a prediction of an individual's experience.",
+        ],
+      },
+      {
+        id: "aroma-and-batch-evidence",
+        heading: "Connect aroma and texture with batch evidence",
+        paragraphs: [
+          "Aromatic terpenes add another dimension to composition. Their proportions can change during extraction, drying, heating, and storage. An aroma description is therefore most useful alongside the identified extract and its processing history. Texture and color describe observable features, while a terpene panel records the compounds actually measured in that sample.",
+          "Start reading a lab report by matching its sample identifier and batch information to the package. Then check the reported units, test date, and which analytical panels are included. Compare cannabinoid results with cannabinoid results and terpene results with terpene results. This sequence keeps a striking number or familiar extract name connected to the evidence it represents.",
         ],
       },
     ],
@@ -89,6 +115,42 @@ export const scienceExtractPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "/science/distillate",
+        anchor: "distillate",
+        sectionId: "extraction-refinement-and-formulation",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/live-resin",
+        anchor: "live resin",
+        sectionId: "extraction-refinement-and-formulation",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/live-rosin",
+        anchor: "live rosin",
+        sectionId: "extraction-refinement-and-formulation",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/cannabinoids",
+        anchor: "cannabinoids",
+        sectionId: "cannabinoids-and-measurement",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/terpenes",
+        anchor: "terpenes",
+        sectionId: "aroma-and-batch-evidence",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/reading-a-lab-report",
+        anchor: "reading a lab report",
+        sectionId: "aroma-and-batch-evidence",
+        paragraphIndex: 1,
+      },
       {
         href: "/",
         anchor: "THC",
