@@ -6,7 +6,7 @@ export const aboutPage: PageContent = {
   h1: "About Presidential THC",
   title: "About Presidential THC | Official Chemistry Reference",
   description:
-    "About Presidential THC, the official chemistry and craft reference published by Presidential Cannabis for infusion, extracts, formats, labels, and handling.",
+    "About Presidential THC, the official chemistry and craft reference for the Presidential Cannabis brand, covering infusion, extracts, formats, labels, and handling.",
   wordTarget: [800, 1100],
   intro: [
     "Presidential THC publishes this official chemistry and craft reference for the Presidential Cannabis brand. It explains the Presidential Infusion System, infused-format construction, cannabinoid labels, extracts, handling, storage, and temperature in clear technical language.",
@@ -23,9 +23,9 @@ export const aboutPage: PageContent = {
     },
     {
       id: "presidential-context",
-      heading: "Published by Presidential Cannabis",
+      heading: "Presidential THC as publisher",
       paragraphs: [
-        "Presidential Cannabis publishes this reference and makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the company's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida, and Washington, with availability shaped by each retailer and location.",
+        "Presidential THC publishes this reference about the Presidential Cannabis brand. Presidential Cannabis makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the brand's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida, and Washington, with availability shaped by each retailer and location.",
         "Brand and plant information lives at the official Presidential Cannabis site. This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
       ],
     },
