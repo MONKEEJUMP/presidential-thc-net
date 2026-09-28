@@ -361,10 +361,11 @@ export const temperatureGuide: PageContent = {
   title: "Temperature Guide for Cannabis Extracts | Presidential THC",
   description:
     "Compare cannabis extract temperature principles, boiling-point context, device adjustment, and label guidance without treating one setting as universal.",
-  wordTarget: [700, 900],
+  wordTarget: [1100, 1250],
   intro: [
     "Start an adjustable device low and work upward in small steps. Rosin belongs at the lower end of the practical range, resin in the middle, and diamond-based material higher, but a boiling-point chart does not translate directly into a perfect device setting. Heat level, exposure time, hardware, and the extract itself all shape what happens.",
     "A 2022 study supplied for this project found that vaporizers operating well below listed boiling points could still evaporate compounds almost completely over time. Boiling point marks where a compound leaves quickly, not the first temperature at which it can leave.",
+    "This page is for adults twenty-one and older who want an educational operating routine, not medical advice or guaranteed effects. Keep the product label and device instructions nearby, follow local law, and treat each extract and hardware combination as its own controlled comparison instead of copying one setting across formats.",
   ],
   sections: [
     {
@@ -372,6 +373,8 @@ export const temperatureGuide: PageContent = {
       heading: "Reference Points for Major Compounds",
       paragraphs: [
         "The table organizes the verified reference values supplied for this site. Aromas identify the familiar scent family associated with each terpene; they are descriptions, not predictions about a person's experience. CBD is shown as a range because the underlying sources do not agree on one value.",
+        "Read the table as relative order and volatility context, not as a dial-matching checklist. A compound listed higher on the scale is generally less volatile under the same conditions, but the chamber does not heat every part of the material to one exact laboratory point.",
+        "Keep the table beside the package rather than treating either one as complete. The chemical references explain selected compounds; the label identifies the extract family, formulation, and hardware notes for the product in hand.",
       ],
       table: {
         caption: "Verified boiling-point references for selected cannabis compounds",
@@ -383,7 +386,7 @@ export const temperatureGuide: PageContent = {
           ["Myrcene", "334°F / 167°C", "Musky and earthy; common in cannabis"],
           ["Limonene", "349°F / 176°C", "Bright citrus"],
           ["Linalool", "388°F / 198°C", "Floral and lavender"],
-          ["CBD", "320–356°F / 160–180°C", "Range reflects disagreement among sources"],
+          ["CBD", "320-356°F / 160-180°C", "Range reflects disagreement among sources"],
         ],
       },
     },
@@ -393,6 +396,7 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "A boiling point is a laboratory reference for a compound, not a complete model of a cartridge or concentrate chamber. A device displays or implies a heat level, while the material experiences changing temperature across space and time. That difference is why the table should guide comparison instead of being treated as an exact recipe.",
         "Time matters alongside heat. A compound may leave gradually below its boiling point, and a higher setting can make that process happen faster. The sensible use of the table is to understand relative order and volatility while observing the behavior of the actual extract and hardware.",
+        "Hardware design widens the gap further. Coil or plate location, chamber size, airflow path, and dwell time all change what the extract experiences even when two devices show a similar number. Use boiling-point context to compare compounds, then verify on the hardware you own.",
       ],
     },
     {
@@ -401,6 +405,7 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "Beginning low creates a readable baseline. Allow the device to reach its setting, use the same operating method, and observe whether the material moves and vaporizes consistently. If it does not, raise the setting one small step rather than jumping across the control range.",
         "Change only temperature when comparing settings. A different draw length, hardware position, or amount of material makes the comparison harder to interpret. A gradual sequence helps separate a temperature issue from an airflow, contact, or loading issue.",
+        "Give each step enough time to stabilize before judging it. A cold chamber or short warm-up can look like a temperature problem when equilibration is incomplete. Record the starting setting so you can return to it if a higher step behaves worse.",
       ],
     },
     {
@@ -409,6 +414,7 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "Live rosin is the lower-temperature starting point in this guide. Producers control press conditions to balance consistency, flow, yield and retention of volatile compounds, but exact settings vary with the material and process.",
         "Live resin sits in the middle because its fresh-frozen, low-temperature process is designed to preserve volatile material. Diamond-based extracts start higher in this relative sequence. The order is a practical comparison among these three extract families, not a universal number for every device or formulation.",
+        "If the package names a blend or sauce ratio, treat that as part of the extract identity rather than forcing a single-family starting point. Begin on the lower side of the relative band for the dominant material, then adjust one step at a time while watching flow and aroma retention.",
       ],
     },
     {
@@ -417,6 +423,7 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "A too-low setting may leave the material moving slowly or inconsistently over the available time. Before raising it, confirm that the device has reached temperature, that airflow is open, and that the extract is contacting the heated area as intended. Temperature cannot correct a blocked path or poor loading.",
         "At the other extreme, unusually rapid material change, darkening, or a loss of distinct aroma are reasons to step back. These are observable process signals, not medical or effect claims. Reduce the setting, let the system stabilize, and compare one controlled step at a time.",
+        "When signals conflict, re-check non-temperature variables first. A clogged path can mimic a cold setting; overfilling can mimic hot behavior. Fix loading and airflow, return to the last readable setting, then resume the one-step sequence.",
       ],
     },
     {
@@ -425,6 +432,7 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "Use the same sequence each time: identify the extract, begin at the lower appropriate part of the device's range, allow time, observe material behavior, and make one small adjustment. Keep the compound table nearby for context, but do not chase a terpene's exact boiling point on the display.",
         "Device scales and production methods vary, especially for liquid diamonds, whose controlled crystal-to-sauce ratio differs by producer. The label and hardware instructions belong in the decision. The useful goal is stable operation with a gradual adjustment path, not the highest number a device can reach.",
+        "A short written routine helps more than memory. Note extract family, starting setting, one change, and what the material did. Repeating that loop builds a personal reference for that hardware without pretending one chart fits every cartridge or chamber.",
       ],
     },
     {
@@ -433,6 +441,24 @@ export const temperatureGuide: PageContent = {
       paragraphs: [
         "A simple written note can keep the comparison honest: identify the extract family, device setting, and observable material behavior. The purpose is not to create a universal chart from one product. It is to avoid forgetting which variable changed and then crediting temperature for a difference caused by hardware, airflow, or loading.",
         "Return to the supplied table as a chemical reference and to the package as the product reference. Together they provide better context than either one alone. The table orders selected compounds; the package identifies the actual extract and formulation being operated in the device.",
+        "Compare only under similar setup conditions. If piece size, warm-up, airflow, or battery state changes with the temperature dial, the result cannot isolate heat. Controlled notes keep each signal attached to the variable that actually changed.",
+      ],
+    },
+    {
+      id: "common-temperature-mistakes",
+      heading: "Avoid Common Temperature Mistakes",
+      paragraphs: [
+        "The most common mistake is treating a boiling-point chart as a device recipe. Laboratory reference points explain relative volatility; they do not map one-to-one onto every coil, chamber, or cartridge display.",
+        "Another frequent error is changing several variables at once — higher heat, longer draw, different loading, and a new airflow path in the same pass. When the result looks uneven, there is no clear lesson. Keep one change at a time and keep the package nearby.",
+        "Skipping warm-up and label checks also muddies judgment. A cold chamber or mismatched hardware notes can look like a heat problem when the real issue is preparation. Stabilize the setup before raising the dial.",
+      ],
+    },
+    {
+      id: "where-temperature-fits",
+      heading: "Place Temperature in the Wider Guide Loop",
+      paragraphs: [
+        "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine.",
+        "This page focuses on adjustable heat, observation, and controlled comparison. Move through the guides in the order the product requires. Availability stays on the official brand locator.",
       ],
     },
   ],
