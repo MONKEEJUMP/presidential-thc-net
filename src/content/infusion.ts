@@ -528,11 +528,12 @@ export const infusionArticles: PageContent[] = [
     h1: "Why Infused Burns Differently",
     title: "Why Infused Cannabis Burns Differently | Presidential THC",
     description:
-      "Why added concentrate changes density, heat retention, airflow, relights, tunneling, and canoeing in infused cannabis.",
-    wordTarget: [700, 900],
+      "Why added concentrate changes density, heat retention, airflow, relights, tunneling, and canoeing in infused cannabis—plus oil melt vs flower burn, ash cues, heat management, and what harsh usually means.",
+    wordTarget: [1100, 1250],
     intro: [
       "Infused cannabis burns differently because concentrate changes the flower's density, fuel distribution, heat retention, and available airflow. Those changes usually call for a slower light and can make relighting normal; when the infusion or packing is uneven, they can also produce tunneling through the center or canoeing along one side.",
       "The flame does not respond to the product name. It follows the physical construction in front of it. Where flower, concentrate, kief, and open space are distributed evenly, the burn has a better chance to advance evenly too.",
+      "This page is for adults twenty-one and older. It covers oil and resin melt versus flower burn, ash and canoeing cues, heat management, and what harsh usually means—educational framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -541,16 +542,25 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Broken flower contains irregular pieces and spaces between them. Those spaces form routes for air. In a bowl, pre-roll, or blunt, the packing decision can preserve those routes or compress them until the draw is restricted.",
           "Uninfused flower is not perfectly uniform, but its combustible material is broadly similar from one nearby piece to the next. Adding concentrate introduces a denser phase that does not occupy space or accept heat in the same way. Adding a kief coat changes the surface again.",
-          "An infused format must therefore balance more variables than flower alone. The material needs enough contact to carry heat forward, enough open space to admit oxygen, and a distribution that does not send one part of the flame front racing ahead of another.",
+          "An infused format must balance contact to carry heat, open space for oxygen, and distribution that does not send one part of the flame front racing ahead of another.",
+        ],
+      },
+      {
+        id: "oil-resin-melt-vs-flower-burn",
+        heading: "Oil and resin melt differently than flower burns",
+        paragraphs: [
+          "Plant material and concentrate do not answer heat the same way. Flower is a porous solid that chars and combusts along surfaces exposed to air. Distillate, resin, and similar concentrates soften, thin, and migrate under heat before they fully participate in combustion—so a coated area can look wet or glossy near the ember while neighboring flower is already ashing.",
+          "As oil or resin softens, it can soak into nearby flower, fill small air channels, or pool on a cooler face. Migration changes local density mid-session: an open spot can densify after heat arrives, and a coated spot can thin if concentrate drains away. The burn front is chasing a moving fuel map.",
+          "Kief on the exterior can darken quickly under direct flame while adhesive concentrate underneath is still softening. Melt versus char is a physical difference, not a potency claim—and it helps explain slower lights, sticky ash edges, and why an infused piece often needs a gentler approach than dry flower of the same size.",
         ],
       },
       {
         id: "density-and-heat-retention",
         heading: "Density and heat retention",
         paragraphs: [
-          "Concentrate adds material without adding the same open plant structure as flower. A concentrate-rich area can become physically denser, especially when pressure or excess application closes nearby spaces. That density changes the path available to moving air.",
-          "The added phase also holds and redistributes heat around the material it coats. This helps explain why the initial light can take longer and why a glowing area may continue to carry heat after the direct flame is removed. It also explains why an isolated heavy pocket can behave differently from the flower beside it.",
-          "More retained heat is not a guarantee that the entire format stays lit. Combustion still needs oxygen. A dense zone can be hot yet starved of the airflow needed to keep the burn advancing, while a more open neighboring route continues forward.",
+          "Concentrate adds material without the same open plant structure as flower. A concentrate-rich area can become denser when pressure or excess application closes nearby spaces, changing the path available to moving air.",
+          "The added phase holds and redistributes heat around the material it coats. That helps explain a slower initial light, residual glow after the flame is removed, and why an isolated heavy pocket can behave differently from the flower beside it.",
+          "More retained heat is not a guarantee that the entire format stays lit. Combustion still needs oxygen. A dense zone can be hot yet starved of airflow while a more open neighboring route continues forward.",
         ],
       },
       {
@@ -559,16 +569,34 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Imagine a cross-section with one side carrying more concentrate than the other. The two sides now differ in density, fuel, and air space. Even if they receive the same initial flame, they are not set up to advance at the same rate.",
           "A balanced surface coating reduces abrupt differences around the exterior. Deeper, even infusion aims to reduce them inside the flower as well. Neither method can make irregular plant material perfectly identical, but both can avoid large pools, bare stretches, and compacted knots.",
-          "This is why a glossy or heavily coated appearance is not enough to establish quality. The question is whether the extra material is placed consistently across the route the burn will follow. The answer becomes clearer over the full session than it is in a single product photograph.",
+          "A glossy or heavily coated appearance is not enough to establish quality. The question is whether the extra material is placed consistently across the route the burn will follow—something clearer over the full session than in a single product photograph.",
         ],
       },
       {
-        id: "tunneling-and-canoeing",
-        heading: "Tunneling and canoeing",
+        id: "tunneling-canoeing-and-ash",
+        heading: "Tunneling, canoeing, and ash cues",
         paragraphs: [
-          "Tunneling is a burn path that advances through the center while material around it remains behind. In an infused format, a relatively open central route can keep receiving air while denser surrounding areas lag. The visible outer material may look unfinished even though the center has moved forward.",
+          "Tunneling is a burn path that advances through the center while material around it remains behind. In an infused format, a relatively open central route can keep receiving air while denser surrounding areas lag.",
           "Canoeing is the side-to-side version of an uneven front. One edge advances while the opposite edge remains longer. Uneven concentrate distribution can contribute, but so can uneven packing or lighting. The pattern identifies imbalance; it does not, by itself, identify one single cause.",
-          "Corrections follow the same physical logic. A slower, more even initial light gives the full face time to establish. Preserving airflow avoids turning the densest section into a plug. A relight can reconnect a lagging area with the active burn instead of forcing more heat into the section already ahead.",
+          "Ash often tracks the same imbalance: a racing side may leave a longer ash rim while the lagging side stays dark, tacky, or partially unburned—especially near pooled concentrate. Corrections stay mechanical: a slower even light, preserved airflow, a relight on the lagging area, or rotating so the lagging side meets the flame first.",
+        ],
+      },
+      {
+        id: "heat-management",
+        heading: "Heat management tips for infused formats",
+        paragraphs: [
+          "Start cooler and slower than with dry flower alone. A brief, even pass around the full face lets flower, concentrate, and kief begin responding together. Holding a high flame on one spot is how canoeing often begins: one edge softens and lights while the opposite edge stays cold.",
+          "Keep draws moderate. A hard pull can force air through the most open channel and starve denser coated regions, encouraging a tunnel. Gentler draws give heat time to spread laterally into concentrate-rich zones instead of racing down the easiest air path.",
+          "If the ember fades, a patient relight on the lagging section usually beats torching the already-hot edge. Even packing with preserved air space needs less corrective heat than a compacted plug. These tips are mechanics for adults twenty-one and older—not dosing guidance or medical advice.",
+        ],
+      },
+      {
+        id: "what-harsh-usually-means",
+        heading: "What harsh usually means",
+        paragraphs: [
+          "In everyday talk, harsh often bundles several sensations: a hot draw, a scratchy throat feel, dense smoke, or an uneven ember that forces deeper pulls to keep the format lit. Those experiences can share a root in heat, airflow, and construction even when the cause is not one single ingredient.",
+          "Hot, rapid combustion through a small open channel can deliver a warmer hit than a slower, wider ember. A concentrate-heavy pocket that needs extra flame can raise local temperature the same way. Restricted airflow from overpacking can make each draw feel thicker because more material is heated with less cooling air.",
+          "Harsh is a weak label for extract quality or potency by itself. Treat it as a cue to check heat, packing, and distribution—not as a medical diagnosis or a lab substitute.",
         ],
       },
       {
@@ -585,7 +613,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What burn behavior can and cannot prove",
         paragraphs: [
           "A reasonably even burn is practical evidence that the construction, packing, light, and airflow are working together. Frequent severe runs, dense plugs, or repeated heavy pockets are reasons to examine distribution more closely.",
-          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of the assembled format. Used that way, it reveals something a percentage alone cannot: whether the flower and added concentrate were built to move through heat as one product.",
+          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. Read it with the rest of the infusion silo on presidentialthc.net; none of these pages is medical advice.",
         ],
       },
     ],
