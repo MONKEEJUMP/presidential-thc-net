@@ -168,10 +168,11 @@ export const formatsPages: PageContent[] = [
     title: "Infused Blunts and Tobacco-Free Hemp Wraps",
     description:
       "Compare infused blunts, paper pre-rolls, and mini blunts, with a clear look at tobacco-free hemp wraps and burn construction.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       `An infused blunt is cannabis flower and concentrate rolled in a broad, substantial wrap. Traditional blunt terminology comes from tobacco-wrapped products, but cannabis versions can use tobacco-free hemp wraps instead. In that case, tobacco-free describes the wrapper’s ingredients; it does not establish a health or safety advantage.`,
       `Compared with a paper pre-roll, a blunt puts more of the format’s identity in the wrap. Compared with a mini, a full blunt generally carries more total material and a longer burn path.`,
+      `This page is for adults twenty-one and older who want format and education framing: how a wrap-led roll is built, how to read package language, and how construction choices shape burn and handling. It is not medical advice, dosing guidance, or a claim that any wrapper or infusion pattern is safer or healthier.`,
     ],
     sections: [
       {
@@ -180,6 +181,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The federal tobacco definition of a cigar centers on a roll of tobacco wrapped in leaf tobacco or another tobacco-containing substance. Cannabis culture adapted the blunt shape and name for cannabis fill, creating a vocabulary that now covers more than one wrapper material. That history is why the ingredient statement matters more than the casual label.`,
           `In this publication, a tobacco-free hemp blunt means an infused cannabis roll whose wrap is made from hemp rather than tobacco leaf. It should not be described as a cigar, and tobacco-free should not be used as shorthand for harmless, safer, or healthier. It is a precise composition statement about what the wrap does not contain.`,
+          `Format identity therefore rests on materials and geometry, not on marketing nicknames. Diameter, wrap thickness, seam style, fill preparation, and how concentrate is placed inside the cylinder are the observable facts. When two packages both say blunt, those facts settle whether they describe the same build or only share a familiar word.`,
         ],
       },
       {
@@ -187,6 +189,7 @@ export const formatsPages: PageContent[] = [
         heading: "Blunt, pre-roll, and mini compared",
         paragraphs: [
           `A typical pre-roll uses thin rolling paper around prepared flower, with concentrate added for an infused version. A blunt uses a broader, heavier wrap and usually a wider cylinder. A mini blunt preserves that wrap-led construction at a shorter scale. There is overlap in market language, so the physical build and package identity settle the comparison.`,
+          `Reading across those three formats is a comparison of emphasis, not a ranking. Paper-led rolls put more of the story in flower grind, pack, and infusion placement. Wrap-led rolls add the wrapper as a major structural and burn variable. Minis keep the wrap-led idea while changing length, total material, and the ratio of wrap to fill. Choose by the construction you want to evaluate, then confirm that construction on the label and in the finished unit.`,
         ],
         table: {
           caption: "Structural differences among three rolled formats",
@@ -204,6 +207,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The wrap is both container and fuel boundary. Its thickness, moisture, overlap, and seam affect how heat travels around the cylinder. Inside, the grind and packing density create the channel through which air moves. Infusion adds another material that warms, flows, and burns on a different schedule from dry flower.`,
           `Those variables need balance. A tight seam around uneven fill can still produce a hard draw. A consistent fill inside a damaged wrap can still admit extra air along one side. Concentrate concentrated in one band can slow that section while the less-infused edge advances. Good construction is coordinated construction: wrap, fill, infusion, and airflow designed together.`,
+          `Burn language on packaging is still subordinate to that coordination. Words such as slow, even, or smooth describe intended behavior; they do not replace checking whether the cylinder is straight, the seam is continuous, and the ends are finished. When evaluating a unit, treat burn claims as prompts to inspect construction rather than as proof that construction succeeded.`,
         ],
       },
       {
@@ -212,6 +216,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Begin with the closed package. Confirm the product identity, net contents, ingredients, cannabinoid statement, batch or lot number, and package condition. If avoiding tobacco is the goal, verify the wrapper in the ingredient information rather than relying only on the word blunt. A hemp wrap and a tobacco leaf wrap are materially different even when the finished shapes resemble each other.`,
           `After opening, inspect the full seam for lifting or gaps. The cylinder should have a consistent profile without a rock-hard section beside a hollow one. The mouth end should remain open, and the lighting end should contain fill rather than empty wrap. Small visual variations are expected in plant material; abrupt structural changes are more informative than color alone.`,
+          `Handle the roll enough to judge rigidity, not enough to crease it. A brief roll between fingertips can reveal a soft void or a rigid plug that a glance misses. Return the unit to its rigid package promptly after inspection so the wrap does not sit under uneven pressure on a table or in a loose pouch.`,
         ],
       },
       {
@@ -220,6 +225,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `A blunt’s broader cross-section provides room for more than one infusion pattern, but extra room does not remove the need for control. Concentrate may be carried throughout the flower, placed along a defined interior route, or applied in another repeatable pattern. The relevant question is whether that placement stays compatible with the fill density and air channel.`,
           `A visible exterior sheen cannot answer that question on its own. Surface appearance may reflect the wrap, handling, or a deliberate coating. A cleaner assessment combines the label with construction: does the blunt keep its shape, does the seam remain closed, and is the fill arranged consistently from the lighting end to the mouth end?`,
+          `Infusion amount is likewise a label fact, not a visual guess. Package net contents and cannabinoid statements describe what was tested for that batch. Exterior gloss, stickiness, or aroma intensity can vary with wrap oils, humidity, and handling, so they are poor substitutes for the printed batch information when comparing products.`,
         ],
       },
       {
@@ -228,6 +234,15 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Keep an infused blunt cool, dark, and inside a rigid closed package. Heat can increase concentrate movement and alter the wrap’s feel. Pressure can crease the cylinder, split the seam, or compress the air path. Excess handling also transfers material from the wrap and can loosen the finished edge.`,
           `Storage does not improve a flawed roll, but it preserves the geometry a producer built. When the format remains straight, sealed, and evenly filled, the wrap and infusion have the best chance to advance together. That structural standard applies whether the package contains a single blunt or several individually protected pieces. Before storing a multipack, close its original seal fully and make sure no loose edge is trapped where the lid or closure can tear it.`,
+          `Transport deserves the same attention as shelf storage. A loose blunt in a bag can bend at mid-body, flatten one side, or catch a seam against a harder object. Keep units in their intended package until use, avoid hot vehicles, and do not stack heavy items on soft trays. The goal is unchanged geometry, not a claim about freshness theater or invented shelf-life numbers.`,
+        ],
+      },
+      {
+        id: "read-blunts-with-formats",
+        heading: "Read blunts with the rest of the formats silo",
+        paragraphs: [
+          `This article keeps the blunt in the vocabulary of wrap, fill, seam, infusion placement, and package identity. The mini blunts guide shows how the same wrap-led idea changes when length and total material shrink. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here.`,
+          `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Availability and brand-format details for Presidential’s tobacco-free blunt line remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
@@ -254,6 +269,7 @@ export const formatsPages: PageContent[] = [
       description: "Visit the official product page for the hemp-wrapped format.",
     },
   },
+
   {
     path: "/formats/mini-blunts",
     kind: "article",
