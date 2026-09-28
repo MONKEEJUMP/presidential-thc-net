@@ -380,10 +380,11 @@ export const infusionArticles: PageContent[] = [
     title: "Kief and Trichomes Explained | Presidential THC",
     description:
       "What cannabis trichomes are, how kief is collected, and the three practical jobs kief performs on an infused format.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Trichomes are the cannabis plant's resin glands, where most of its cannabinoids and terpenes are held. Kief is the loose material collected when those trichomes and trichome fragments separate from flower; on an infused product, that layer supplies a visual signature, makes a sticky concentrate surface easier to handle, and brings its own cannabinoid and terpene content.",
       "That makes kief more than an ornamental dusting. It is the final functional layer in the flower-concentrate-kief construction, and the way it is collected and applied affects how clearly and consistently that construction is expressed.",
+      "This page is for adults twenty-one and older. It covers trichome anatomy, collection, the coat's role in infusion finishing, and quality cues—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -396,12 +397,31 @@ export const infusionArticles: PageContent[] = [
         ],
       },
       {
+        id: "trichome-anatomy",
+        heading: "Trichome anatomy in plain terms",
+        paragraphs: [
+          "Glandular trichomes are often described as a stalk supporting a resin-filled head. The head holds most of the resin; the stalk anchors it to the plant surface. When collection works as intended, resin-bearing heads and fragments are the material of interest—not large leaf or stem pieces.",
+          "Cannabis also grows non-glandular hairs and smaller gland types that contribute less resin. For infusion finishing, the practical distinction is resin-rich gland material versus plant debris that slipped through a screen. A debris-heavy pile can still look dusty while carrying less of the character associated with intact resin heads.",
+          "Maturity and handling change appearance: intact heads can look glassy or cloudy, while broken material may clump differently. Those cues do not replace a finished-batch lab result and are not medical claims.",
+        ],
+      },
+      {
         id: "how-kief-is-collected",
         heading: "How kief is collected",
         paragraphs: [
           "Dry collection uses controlled movement to detach brittle trichome material from cannabis, then screens the loosened particles by size. The practical goal is separation: let the smaller collected fraction pass while retaining larger pieces of flower. Multiple passes or screen sizes can refine that separation.",
           "The screen does not identify every particle chemically. It sorts by physical size, which means handling discipline matters. Aggressive movement can break more plant material into particles small enough to join the kief. Gentler, controlled separation may reduce that carryover, although the exact process and resulting yield vary.",
+          "Temperature and dryness matter too. Cooler, drier flower tends to shed brittle resin heads more cleanly; warmer, stickier material can smear and drag plant fragments. Screen choice and agitation are matched to the material rather than forced from one recipe.",
           "For an infused product, consistency is more useful than a dramatic pile. A reasonably even particle texture spreads across the adhesive concentrate more predictably. Large clumps can build thick islands; very loose handling can leave the flower exposed in patches.",
+        ],
+      },
+      {
+        id: "role-in-infusion-coating",
+        heading: "Role in the infusion coating",
+        paragraphs: [
+          "In the classic three-layer build, concentrate creates the adhesive interface and kief is applied last. The coat does not replace infusion; it finishes it. Flower supplies structure, concentrate carries adhesion and most of the added mass, and kief completes the exterior so the layered format is readable and handleable.",
+          "Application depends on that middle layer being present where coverage is wanted. Thin or missing concentrate leaves bald patches; pooled concentrate gathers kief into ridges. Rolling or tumbling helps only when the adhesive underlayer is already distributed with intent.",
+          "Presidential describes its Infusion System as carrying distillate through the flower and applying kief last. That order keeps jobs distinct: infusion concerns where concentrate travels; the final coat concerns exterior finish, handling, and the resin share from collected trichomes. Confusing those jobs is how a dusty shell gets mistaken for deep saturation.",
         ],
       },
       {
@@ -432,10 +452,19 @@ export const infusionArticles: PageContent[] = [
         ],
       },
       {
+        id: "quality-cues",
+        heading: "Quality cues for the outer coat",
+        paragraphs: [
+          "Useful cues stay tied to construction. Even coverage, a coat that stays attached under careful handling, and a texture not dominated by obvious green plant fragments suggest finishing discipline. Loose dust clumps, sticky bare patches, or thick ridges over uneven concentrate point the other way.",
+          "Color alone is a weak verdict. Pale, golden, and darker coats can all be legitimate depending on source flower and collection. Judge color against particle consistency and adhesion—a dramatic look still cannot prove interior saturation or invent a lab percentage.",
+          "Keep conclusions narrow. Quality cues describe finishing; they are not medical claims, dosing guidance, or a substitute for finished-batch documentation.",
+        ],
+      },
+      {
         id: "read-the-final-layer",
         heading: "How to read the final layer",
         paragraphs: [
-          "Judge the kief coat as part of a three-layer system. Look for reasonably even coverage, an exterior that stays attached during careful handling, and a texture that does not appear dominated by obvious plant fragments. Then keep the conclusion narrow: those observations describe construction, not laboratory composition.",
+          "Judge the kief coat as part of a three-layer system. Even coverage, attachment under careful handling, and a texture not dominated by plant fragments describe construction—not laboratory composition.",
           "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works.",
         ],
       },
