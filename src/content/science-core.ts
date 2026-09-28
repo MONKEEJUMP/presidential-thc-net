@@ -97,10 +97,11 @@ export const scienceCorePages: PageContent[] = [
     title: "Decarboxylation — How Heat Turns THCa Into THC",
     description:
       "Learn what decarboxylation changes, why temperature and time work together, and how flames and vape coils drive THCa conversion.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Decarboxylation is the heat-driven reaction that converts THCa into THC by releasing a carboxyl group as carbon dioxide. It changes both the molecule and its mass, so it is the reason a laboratory must adjust THCa by 0.877 when calculating Total THC.",
       "A lighter and a vaporizer coil create very different heating environments, but both can supply the energy that moves this conversion forward. Temperature matters together with exposure time; neither number describes the whole process alone.",
+      "This page is for adults twenty-one and older who want educational chemistry framing, not medical advice, dosing guidance, or promises about personal outcomes. Keep the package label and matched laboratory report nearby, and treat Total THC as standardized chemical potential rather than a guarantee that one heating method fully reproduces the calculated total.",
     ],
     sections: [
       {
@@ -109,6 +110,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "THCa carries a carboxyl group that distinguishes it from THC. During decarboxylation, that portion departs as carbon dioxide. The remaining molecule has less mass: THCa is 358.47 grams per mole, while THC is 314.46 grams per mole. The molecular ratio, 314.46 divided by 358.47, is approximately 0.877.",
           "That mass change is easy to overlook because the label names differ by a single letter. Yet one gram of pure THCa cannot yield one gram of THC. Even under the formula’s ideal assumption of full conversion, only 87.7% of the starting THCa mass remains as theoretical THC. The lost portion did not vanish from the arithmetic; it left in a different chemical form.",
+          "The carboxyl group is also why the names THCa and THC are not interchangeable on a laboratory panel. One analyte still carries that acidic fragment; the other does not. Reporting systems that list both values are describing two related but distinct molecules, and the conversion factor exists precisely because those molecules do not share the same mass.",
         ],
       },
       {
@@ -117,6 +119,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "Decarboxylation is not best understood as a single switch temperature. Heat supplies energy, and time determines how long the sample experiences that energy. A shorter, hotter event and a longer, gentler event are different routes through the same general reaction, with different opportunities for conversion across the material.",
           "The important editorial distinction is between starting a reaction and completing it. Reaching a temperature for an instant does not prove that every THCa molecule in a dense or uneven sample has followed the same path. Conversely, lower heat sustained over time can continue changing the precursor. This is why device settings alone cannot be translated into an exact conversion percentage.",
+          "Uniform laboratory ovens are still a different heating history from consumer hardware. Controlled samples can be held at a chosen temperature for a defined interval, while flame and coil systems create gradients, brief peaks, and uneven contact. The chemistry is the same class of reaction; the heating profile is not interchangeable, so consumer settings should not be treated as oven recipes.",
         ],
       },
       {
@@ -125,6 +128,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "A lighter creates an intense, localized heat source. Material directly at the flame encounters a rapid temperature rise, while nearby material warms through the moving hot zone. The result is a gradient rather than a uniform laboratory oven: distance from the flame, density, and airflow all change the time spent under heat.",
           "That unevenness explains why “a flame was present” is not the same statement as “the entire sample converted completely.” The reaction may proceed at different rates from one part of the material to another. For label interpretation, the Total THC formula remains a theoretical comparison tool rather than a measurement of what one lighting event produced.",
+          "Airflow during lighting further reshapes the gradient. Moving air can carry heat away from one zone while another remains closer to the flame. Density and moisture also change how quickly heat penetrates. Those physical facts keep the lighter discussion descriptive: flame supplies energy, but distribution across the material is not automatic or complete.",
         ],
       },
       {
@@ -134,6 +138,7 @@ export const scienceCorePages: PageContent[] = [
           "A vape coil transfers controlled electrical heat into the extract around it. Instead of a visible flame touching plant material, the oil warms against hardware whose setting and heat delivery shape the exposure. Compounds can begin evaporating below their published boiling points and continue leaving the liquid over time, so a boiling-point chart should not be treated as an on-off control panel.",
           "The same caution applies to decarboxylation. A selected setting identifies the device’s target or operating level, not a guaranteed temperature for every microscopic part of the oil at every moment. Contact, flow, and duration determine the actual heating history. The coil’s job is energy transfer; the chemistry responds over time.",
           "Conversion and evaporation are related to heat but they are not synonyms. Decarboxylation describes a molecular reaction in which THCa loses carbon dioxide and becomes THC. Evaporation describes molecules moving into the vapor phase. A heated sample can be undergoing both processes during the same interval, and a boiling-point reference addresses the second process more directly than the first. Keeping those verbs separate makes temperature discussions much clearer.",
+          "Device displays report a control target, not a continuous map of every microliter of oil. Oil nearer the heated surface experiences a different history than oil farther away, and fresh material entering the heated zone during a draw changes the exposure again. Reading the setting as an average operating intention is more accurate than treating it as a laboratory set point for the whole chamber.",
         ],
       },
       {
@@ -142,6 +147,23 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "A potency estimate that adds THCa and THC directly overstates the converted total because it ignores the mass released as carbon dioxide. The useful label equation is Total THC = (THCa × 0.877) + THC. It first converts the precursor into a THC-equivalent amount, then adds THC already measured in the sample.",
           "For example, 70% THCa contributes a theoretical 61.39% THC after the mass adjustment. If the sample also contains 4% THC, its calculated Total THC is 65.39%. That number supports consistent label comparison and amount calculations. It still assumes full conversion of the THCa term, so it should be read as standardized chemical potential rather than a promise that every heating method will reproduce the total exactly.",
+          "Rounding on consumer labels can also shift displayed totals by small amounts even when the underlying formula is the same. Prefer the most precise values available on the matched report when checking arithmetic. If a package prints only Total THC without showing the THCa and THC inputs, the printed total still rests on that conversion logic, but the check cannot be reconstructed without the component rows.",
+        ],
+      },
+      {
+        id: "formula-limits",
+        heading: "What the formula does not measure",
+        paragraphs: [
+          "The Total THC equation answers a labeling and comparison question. It does not measure how much conversion occurred during one lighter pass, one vaporizer session, or one incomplete heating interval. Incomplete contact, short exposure, or uneven gradients can leave precursor unconverted even when the calculated potential looks high on paper.",
+          "It also does not invent dosing instructions. Chemical potential on a label is a standardized description of measured cannabinoids after the mass adjustment. Personal use decisions, product format choice, and legal limits belong to separate questions that this science page does not answer.",
+        ],
+      },
+      {
+        id: "reading-decarb-with-science",
+        heading: "Read decarboxylation with the rest of the science silo",
+        paragraphs: [
+          "This article explains the reaction and the mass factor. The THCa versus THC page works the same 0.877 arithmetic from molecular weights through a full Total THC example. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
+          "Temperature and terpene pages add a second distinction: volatility and boiling-point references describe evaporation more directly than decarboxylation. Keep those verbs separate when comparing extract heat, device settings, and label math. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
     ],
