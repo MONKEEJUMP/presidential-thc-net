@@ -172,10 +172,11 @@ export const scienceExtractPages: PageContent[] = [
     title: "What Is Cannabis Distillate | Presidential THC",
     description:
       "How cannabis distillate is refined, why it is nearly odorless, and how its composition differs from broader plant extracts.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Cannabis distillate is a cannabinoid-rich fraction produced by distilling a previously extracted cannabis oil under vacuum. The refinement separates target cannabinoids from much of the oil's volatile aroma material and heavier residue, so the finished liquid is commonly translucent, highly concentrated, and nearly odorless.",
       "That neutrality is the defining practical feature. Distillate provides a consistent base whose flavor can be shaped separately, while a less-refined extract carries more of the original plant's mixed chemical profile into the finished material.",
+      "This page is for adults twenty-one and older. It covers what distillate is, how vacuum refinement differs from live resin and live rosin, purity-versus-terpene tradeoffs, and how the neutral fraction shows up in cartridges, edibles, and infusion—educational framing, not medical advice.",
     ],
     sections: [
       {
@@ -184,6 +185,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Distillation does not pull cannabinoids directly from intact flower. An upstream extraction first produces crude cannabis oil containing cannabinoids alongside volatile compounds, pigments, waxes, residual solvent, and other plant-derived material. The exact extraction and cleanup sequence varies by processor, but the feed must be conditioned before it reaches a short-path or wiped-film still.",
           "A thin-film system spreads that feed across a heated surface. Vacuum lowers the pressure inside the equipment, allowing selected compounds to evaporate at lower operating temperatures than they would require at ordinary atmospheric pressure. The short distance between evaporation and condensation surfaces lets the separated vapor condense quickly into a collected fraction.",
+          "In other words, distillate answers a refinement question, not an extraction question. The still receives oil that already left plant material and sorts it into lighter, cannabinoid-rich, and heavier fractions under vacuum.",
         ],
       },
       {
@@ -208,6 +210,34 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "A neutral base lets a formulator separate cannabinoid concentration from flavor design. The same refined starting fraction can support different aroma profiles without asking the original cultivar to provide every flavor note. It can also be distributed through another cannabis material where a strong source-extract aroma would compete with the intended profile.",
           "Consistency is equally important. A narrow fraction gives a producer fewer compositional variables to manage than a broad extract. That does not make distillate inherently better; it makes it suited to products that prioritize repeatable concentration and deliberate flavor construction.",
+        ],
+      },
+      {
+        id: "refinement-vs-live-resin-rosin",
+        heading: "How refinement differs from live resin and live rosin",
+        paragraphs: [
+          "Live resin and live rosin start from fresh-frozen material and aim to keep a broader volatile fraction with the cannabinoids. Distillate starts from already extracted oil and aims to narrow it. Same plant family, opposite priorities: preserve a wide aromatic mix, or isolate a cannabinoid-heavy cut.",
+          "Live resin typically uses a hydrocarbon solvent on fresh-frozen biomass and recovers a resin that still carries much of the cultivar's terpene profile. Live rosin skips bulk solvent and relies on ice-water separation plus heat-and-pressure pressing. Both treat aroma compounds as material to retain, not as early light ends to strip away.",
+          "Vacuum distillation does the reverse after extraction. Light volatiles leave in earlier cuts; the cannabinoid fraction is taken later; heavier residue stays behind. Comparing labels means comparing process stories—fresh-frozen preservation versus post-extract fractionation—not a single quality ladder.",
+        ],
+      },
+      {
+        id: "purity-vs-terpene-tradeoffs",
+        heading: "Purity versus terpene tradeoffs",
+        paragraphs: [
+          "Refinement raises the share of targeted cannabinoids while reducing many co-extracted compounds, including native terpenes. That is the core tradeoff. Distillate can look and smell neutral because aromatics left with the light cut; a live extract can smell vivid because those volatiles were kept on purpose.",
+          "Neither outcome is automatically superior. Formats that need a blank flavor canvas or a tightly controlled cannabinoid input benefit from the narrow fraction. Formats that want native cultivar aroma in the finished oil benefit from less aggressive stripping. The right choice follows format design, not a universal purity score.",
+          "Reintroducing terpenes after distillation can restore aroma, but that profile is a formulation decision. Botanical or cannabis-derived blends may match the recipe; they do not prove the distillate retained the plant's full volatile set through the still.",
+        ],
+      },
+      {
+        id: "distillate-in-carts-edibles-infusion",
+        heading: "How distillate shows up in carts, edibles, and infusion",
+        paragraphs: [
+          "Cartridges often use distillate because a fluid, concentrated, low-aroma oil is easy to meter and flavor deliberately. Hardware and viscosity still matter: the same distillate can behave differently across devices, and added terpenes or thinning agents belong on the ingredient story even when the base is neutral.",
+          "Edible and ingestible makers use distillate when they want a measured cannabinoid input without forcing a strong cannabis aroma into the recipe. Distillate remains one ingredient among carriers, flavors, and finishing steps, so the package should still identify extract type, batch, and matched laboratory results rather than treating clarity as the full description.",
+          "Infusion on flower or pre-roll formats can use distillate as a coating or saturation input. A thin, even application raises cannabinoid share relative to uncoated flower, while flower mass remains part of the blend. Construction quality and finished-batch testing answer different questions than the distillate's own input percentage.",
+          "Across carts, edibles, and infusion, distillate is best read as a refined base, not a finished experience by itself. Flavor, format geometry, and companion materials decide how that base reaches the adult consumer.",
         ],
       },
       {
@@ -237,6 +267,11 @@ export const scienceExtractPages: PageContent[] = [
         href: "/science/live-resin",
         label: "Compare distillate with live resin",
         description: "See how a fresh-frozen extract preserves a broader volatile fraction.",
+      },
+      {
+        href: "/science/live-rosin",
+        label: "Compare distillate with live rosin",
+        description: "See how a solventless fresh-frozen route keeps aroma with the resin.",
       },
       {
         href: "/science/terpenes",
