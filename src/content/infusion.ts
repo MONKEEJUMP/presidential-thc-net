@@ -525,6 +525,8 @@ export const infusionArticles: PageContent[] = [
       description: "View an official wrapped format where fill distribution and burn geometry meet.",
     },
   },
+
+
   {
     path: "/infusion/potency-by-format",
     kind: "article",
@@ -533,10 +535,11 @@ export const infusionArticles: PageContent[] = [
     title: "Potency by Format — Flower to Concentrate",
     description:
       "A careful potency comparison across flower, concentrate coatings, moon rocks, and THCa diamonds, with weighted-blend math.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass.",
       "The format name tells you how the material is constructed. The batch label tells you what that particular finished product measured. Reading both prevents the highest ingredient percentage from being mistaken for the percentage of the whole.",
+      "This page is for adults twenty-one and older. It maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing—educational framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -544,6 +547,8 @@ export const infusionArticles: PageContent[] = [
         heading: "Potency ranges at a glance",
         paragraphs: [
           "These verified Phase 6 values describe different inputs and finished formats. “As high as” is a ceiling, not a batch promise.",
+          "Read the rows as a continuum rather than a ranking. Flower sits at the structural base; concentrate coatings and THCa-rich inputs sit farther toward concentrated material. Finished moon rocks land between those poles because they combine layers with different compositions and weight shares.",
+          "Moving from flower toward concentrate usually increases cannabinoid share per unit of mass, but only the finished-batch result states what a specific layered product measured.",
         ],
         table: {
           caption: "How to read potency information by cannabis material or format",
@@ -560,9 +565,19 @@ export const infusionArticles: PageContent[] = [
         id: "why-percentages-do-not-add",
         heading: "Why the three layer percentages do not add",
         paragraphs: [
-          "A moon rock contains flower, concentrate, and kief. If those percentages were simply added, the calculation would ignore the mass of each layer and could produce a result that has no physical meaning. A small amount of a high-percentage concentrate cannot make the entire object equal to the concentrate's percentage.",
+          "A moon rock contains flower, concentrate, and kief. Adding those percentages ignores each layer's mass and can produce a result with no physical meaning. A small amount of high-percentage concentrate cannot make the entire object equal to the concentrate's percentage.",
           "The correct idea is a weighted blend. For each layer, multiply its potency by its share of the finished weight. Add those contributions, then divide by the total weight. In compact form: finished potency equals the sum of each layer's potency times its mass, divided by the total mass.",
           "The flower and kief remain part of the denominator even when a concentrate input reports a higher cannabinoid value. The coating can raise the blend, but it does not erase the mass of the other layers or substitute for a finished-batch result.",
+          "That arithmetic is also why a lab percentage alone can mislead. A number without sample identity—input versus finished format, THCa versus Total THC, layer versus whole—invites assigning the strongest printed figure to the entire piece.",
+        ],
+      },
+      {
+        id: "flower-to-concentrate-continuum",
+        heading: "The flower-to-concentrate continuum",
+        paragraphs: [
+          "Flower establishes the structured end of the continuum. It contributes mass, airflow paths, and a batch result that belongs to plant material before any separate concentrate phase is added.",
+          "Concentrate inputs occupy the high-density end. Distillate, resin, and crystallized THCa materials raise cannabinoid content by removing plant structure flower still carries. Their input percentages describe those samples, not a finished three-layer object.",
+          "Infused formats occupy the middle because they combine those poles. A thin coating moves the blend modestly; a heavier concentrate share moves it farther toward the concentrate end—still a weighted blend that needs a finished-batch measurement. Comparing continuum points is a construction exercise, not a medical ranking.",
         ],
       },
       {
@@ -570,7 +585,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Flower sets the base",
         paragraphs: [
           "Flower supplies the structure of a moon rock and much of its total mass. Its measured composition belongs to the source batch, and potency is only one of the jobs the base performs.",
-          "Starting flower still matters after infusion. If two constructions use the same amount and type of concentrate but begin with flower at different measured percentages, their finished weighted results will differ. The label for the final batch accounts for that difference; a generic format range cannot.",
+          "Starting flower still matters after infusion. If two constructions use the same concentrate amount and type but begin with flower at different measured percentages, finished weighted results differ. The final-batch label accounts for that; a generic format range cannot.",
           "The flower figure should also be read as a range rather than a fixed definition. “Flower” identifies plant material, not one universal potency. Batch testing is what turns that broad category into a number for a specific product.",
         ],
       },
@@ -579,8 +594,17 @@ export const infusionArticles: PageContent[] = [
         heading: "Concentrate raises the blend",
         paragraphs: [
           "A concentrate coating can increase the amount of measured cannabinoid material relative to the finished mass. It also acts as the adhesive for a kief coat in a classic three-layer construction, but its input result cannot be assigned to the finished product.",
-          "The coating's share of total weight determines how strongly its number pulls the blend upward. A thin, even application and a heavy application cannot be assumed to produce the same final percentage, even when the concentrate comes from the same source batch.",
-          "Distribution changes construction and burn behavior, but it does not change the arithmetic rule. Concentrate in one thick pocket and the same mass spread evenly would contribute the same theoretical weight to the whole. The second construction may behave more consistently, while the finished potency still requires testing rather than visual estimation.",
+          "The coating's share of total weight determines how strongly its number pulls the blend upward. A thin application and a heavy application cannot be assumed to produce the same final percentage, even from the same concentrate source batch.",
+          "Distribution changes construction and burn behavior, but not the arithmetic rule. The same concentrate mass in one thick pocket or spread evenly contributes the same theoretical weight; the even build may behave more consistently, while finished potency still requires testing.",
+        ],
+      },
+      {
+        id: "how-infusion-multiplies-concentration",
+        heading: "How infusion concentrates the finished format",
+        paragraphs: [
+          "Infusion multiplies the cannabinoid share of a finished piece relative to flower alone by adding a higher-percentage component. The change is proportional: more concentrate mass at a higher measured percentage raises the weighted blend without erasing the flower and kief still present.",
+          "That is the educational sense of an effective concentration change. For the same finished mass, an infused format can carry more measured cannabinoid material than the uncoated flower core. Compare finished-batch with flower-batch results; do not invent a milligram schedule or treat the page as medical guidance.",
+          "Process choices shape how that change shows up. Even distribution keeps the raised blend consistent; pooled concentrate can leave one region denser while the whole-piece average stays the same. Construction quality and measured composition answer different questions.",
         ],
       },
       {
@@ -593,12 +617,29 @@ export const infusionArticles: PageContent[] = [
         ],
       },
       {
+        id: "why-lab-percent-alone-misleads",
+        heading: "Why a lab percentage alone misleads",
+        paragraphs: [
+          "A laboratory percentage answers a narrow question: what did this sample measure under the method used. It does not say which layer was sampled, whether the figure is THCa or Total THC, or how much of the finished product that sample represents.",
+          "Common misreads stack quickly: treating a concentrate input as the finished moon rock percentage, treating a THCa purity figure as interchangeable with THC, or treating a category ceiling as a batch promise.",
+          "Appearance compounds the problem. A glossy coat or crystalline look can suggest higher concentration without proving concentrate mass. Pair every percentage with analyte name, sample identity, and product scope.",
+        ],
+      },
+      {
         id: "how-to-compare-labels",
         heading: "How to compare format labels",
         paragraphs: [
           "First identify whether the number refers to THC, THCa, Total THC, total cannabinoids, or one ingredient. Then check whether it describes raw material or the finished format. A concentrate input percentage belongs to the input; a moon rock batch result belongs to the complete three-layer blend.",
           "Next look for the batch-specific measurement rather than relying on a category ceiling. The same caution applies to flower, coatings, finished moon rocks and THCa-rich materials.",
-          "Finally, keep potency separate from construction quality. A percentage describes measured composition. Even distribution, layer adhesion, airflow, and burn behavior describe how the format was built. A careful comparison uses both kinds of information without asking either one to prove the other.",
+          "Finally, keep potency separate from construction quality. A percentage describes measured composition; distribution, adhesion, airflow, and burn behavior describe how the format was built. Compare matching scopes: flower against flower, input against input, finished blend against finished blend.",
+        ],
+      },
+      {
+        id: "read-potency-with-infusion",
+        heading: "Read potency with the rest of the infusion silo",
+        paragraphs: [
+          "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic.",
+          "Stay on presidentialthc.net for these education pages. Official product details remain on the linked Presidential Moon Rocks resources. None of this silo is medical advice or a milligram schedule.",
         ],
       },
     ],
