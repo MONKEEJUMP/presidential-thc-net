@@ -359,10 +359,10 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC in New York",
     "title": "Presidential THC in New York — Official State Reference",
-    "description": "New York runs a fast-growing adult-use market with one of the highest possession limits in America. How it works, and where Presidential is carried.",
+    "description": "New York runs a fast-growing adult-use market whose licensed retail network is still being built out. How it works, and where Presidential is carried.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -370,9 +370,10 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in New York",
         "paragraphs": [
-          "New York runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification.",
-          "New York sets its own adult-use possession rules. Readers should confirm current limits and other requirements through the state's official cannabis regulator before relying on a summary.",
-          "Legalisation passed in 2021, which makes this one of the newer regulated markets in the country and one of the fastest-moving. The licensed dispensary network has expanded steadily since retail opened, and it continues to."
+          "New York runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
+          "New York sets its own adult-use possession and purchase rules. Those rules can change, and summaries drift out of date quickly in a market this new. Readers should confirm current limits and other requirements through the state's official cannabis regulator before relying on any secondary description.",
+          "Legalisation passed in 2021, which makes this one of the newer regulated markets in the country and one of the fastest-moving. The licensed dispensary network has expanded steadily since retail opened, and it continues to. That timeline matters for how you read this page: New York is not a settled, decade-old retail map — it is a buildout that still adds doors, neighbourhoods, and licensed operators.",
+          "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which boroughs or towns carry which brands on any given week."
         ]
       },
       {
@@ -381,7 +382,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "New York is where American cannabis retail is expanding most visibly right now.",
           "A state of nearly twenty million people opened licensed retail only recently, which means the network is still being built out across the boroughs, the Hudson Valley, Long Island, and upstate. New dispensaries open regularly, and a neighbourhood without a licensed door last year may well have one now.",
-          "For a buyer, the practical consequence is that it is worth checking again. Coverage that did not reach a particular area a few months ago frequently does today."
+          "That pace is the distinctive New York story. Older adult-use states already have a recognisable retail skeleton; New York is still drawing the skeleton in. For a buyer, the practical consequence is that it is worth checking again. Coverage that did not reach a particular area a few months ago frequently does today.",
+          "Growth also means unevenness. Dense corners of the city may feel fully stocked while other communities are only just seeing their first licensed storefronts. Use live licensed-retailer records rather than a memory of last summer's map — in New York, last summer's map is often already wrong."
         ]
       },
       {
@@ -389,8 +391,18 @@ export const statesPages: PageContent[] = [
         "heading": "How to recognise a licensed dispensary",
         "paragraphs": [
           "A licensed New York dispensary displays its state licence, appears in the state's official registry, and sells product that has been through compliance testing with a certificate tied to its batch.",
-          "Those three markers are easy to check and they are the whole test. The registry is public, the licence is displayed, and a certificate is available on request.",
-          "Buying at a licensed retailer is what lets a brand stand behind what is in the package. It is the reason Presidential sells through licensed retail exclusively, in New York and everywhere else."
+          "Those three markers are easy to check and they are the whole test. The registry is public, the licence is displayed, and a certificate is available on request. In a market still filling in, that checklist matters more — informal sources can look polished while failing the basic licence test.",
+          "Buying at a licensed retailer is what lets a brand stand behind what is in the package. It is the reason Presidential sells through licensed retail exclusively, in New York and everywhere else.",
+          "If a source cannot show a state licence, cannot be found in the official registry, or cannot produce batch-level testing information, it is not the channel this reference is describing. Stick to licensed doors even when a neighbourhood still feels underserved — the network is growing, and licensed options continue to appear."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed New York purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel while the state's retail network is still expanding.",
+          "Local practice can still vary by borough, by city, and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a New York adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source."
         ]
       },
       {
@@ -398,7 +410,9 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in New York",
         "paragraphs": [
           "Presidential products are listed through licensed New York retailers. Participating locations and current formats change as the regulated market develops.",
-          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
+          "In a buildout market, shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry.",
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The New York page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
@@ -407,7 +421,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
           "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that same material in a form you can light without preparation. The minis are the blunt at a shorter length.",
-          "The series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "The series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in New York is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in New York",
+        "paragraphs": [
+          "When Presidential product is available through a licensed New York retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits New York especially well. A fast-growing retail network already asks buyers to confirm licences and live stock carefully — and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -415,7 +439,8 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in New York",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries, which means every package traces to a regulated channel.",
-          "The official locator returns licensed doors carrying Presidential with real distances."
+          "The official locator returns licensed doors carrying Presidential with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
+          "Keep this page for durable market context: adult-use access at twenty-one, a newer regulated framework from 2021, and a retail network still expanding across the boroughs and beyond. Use the locator for live doors. Use the package for the final product check. That order keeps New York buying inside the regulated channel this reference describes."
         ]
       }
     ],
