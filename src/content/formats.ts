@@ -464,19 +464,20 @@ export const formatsPages: PageContent[] = [
     h1: "Infused Cannabis Pre-Rolls",
     title: "Infused Cannabis Pre-Rolls Explained | Presidential THC",
     description:
-      "See how infused pre-rolls combine flower and concentrate, how distribution affects the burn, and what construction and label details to inspect.",
-    wordTarget: [700, 900],
+      "See how infused pre-rolls combine flower and concentrate, which extract types are used, how burn and ash differ from plain rolls, and how to choose by construction and label.",
+    wordTarget: [1100, 1250],
     intro: [
       `An infused pre-roll is a ready-made paper roll that combines cannabis flower with cannabis concentrate. A standard pre-roll contains flower or shake; an infused version adds concentrate other than kief, whether through the fill, in a defined inner line, or as part of another controlled application. Its performance depends on how evenly those materials share space and air.`,
-      `The familiar shape can hide meaningful differences. Paper, filter, grind size, packing density, concentrate viscosity, and the placement of infusion all contribute to the finished roll.`,
+      `The familiar shape can hide meaningful differences. Paper, filter, grind size, packing density, concentrate viscosity, and the placement of infusion all contribute to the finished roll. This page is for adults twenty-one and older and covers construction and label reading, not effects, dosing, or medical use.`,
     ],
     sections: [
       {
         id: "standard-versus-infused",
-        heading: "Standard and infused pre-rolls",
+        heading: "What infusion adds to a pre-roll",
         paragraphs: [
-          `Both formats begin with prepared cannabis inside rolling paper, usually with a filter or crutch maintaining the mouth end. The distinction is the added concentrate. California’s cannabis regulations define an infused pre-roll as a pre-roll into which cannabis concentrate other than kief has been incorporated or added. That definition keeps a simple kief-only roll separate from one infused with an extract.`,
-          `Concentrate changes more than the cannabinoid total. It adds mass, can occupy pores between flower particles, and responds to heat differently from dry plant material. A sound design makes the flower, infusion, and air path work as one structure rather than treating the concentrate as an ornamental stripe.`,
+          `Both formats begin with prepared cannabis inside rolling paper, usually with a filter or crutch maintaining the mouth end. The distinction is the added concentrate. California's cannabis regulations define an infused pre-roll as a pre-roll into which cannabis concentrate other than kief has been incorporated or added. That definition keeps a simple kief-only roll separate from one infused with an extract.`,
+          `Concentrate changes more than a cannabinoid total on a label. It adds mass, can occupy pores between flower particles, and responds to heat differently from dry plant material. Infusion therefore changes density, airflow resistance, how the ember advances, and how residue looks after the burn. A sound design makes the flower, infusion, and air path work as one structure rather than treating the concentrate as an ornamental stripe.`,
+          `What infusion does not add is a substitute for package identity. Net contents, ingredient lists, batch or lot numbers, and cannabinoid statements remain the evidence for what was produced. Visual gloss or a dark paper ring can reflect handling as easily as extract amount.`,
         ],
       },
       {
@@ -484,7 +485,15 @@ export const formatsPages: PageContent[] = [
         heading: "Paper, filter, fill, and infusion",
         paragraphs: [
           `The paper forms the combustion boundary and should meet in a clean, closed seam. The filter keeps the draw end open and helps stop loose particles from migrating. The flower fill supplies the structural matrix. Its particle size should be consistent enough to pack without creating alternating hard plugs and empty pockets.`,
-          `The infusion can be distributed in several geometries. Blending it through the flower creates many small contact points. A narrow inner line concentrates it along one path. A surface application places it closer to the paper. These layouts are not automatically good or bad; each must be matched to the extract’s viscosity, the amount used, and the intended airflow.`,
+          `The infusion can be distributed in several geometries. Blending it through the flower creates many small contact points. A narrow inner line concentrates it along one path. A surface application places it closer to the paper. Each layout must match the extract's viscosity, the amount used, and the intended airflow.`,
+        ],
+      },
+      {
+        id: "concentrate-types",
+        heading: "Concentrate types used in infused pre-rolls",
+        paragraphs: [
+          `Producers may incorporate different cannabis concentrates depending on process and product design. Distillate is a refined cannabinoid-rich fraction that is often nearly odorless on its own, which makes it a common base when aroma is shaped separately. Broader extracts such as live resin start from fresh-frozen plant material and retain a wider set of plant-derived compounds; solventless live rosin follows a heat-and-pressure route instead of solvent extraction. Hash-oil style inputs and crystallized THCa materials can also appear where a denser concentrate is intended.`,
+          `Viscosity matters more for construction than marketing category names. A thinner oil can migrate through flower pores more readily when warm; a thicker or more crystalline input may stay closer to where it was placed if the fill supports that geometry. Package ingredient lists and product identity statements show which input family a unit claims and should be read with batch information.`,
         ],
       },
       {
@@ -496,11 +505,19 @@ export const formatsPages: PageContent[] = [
         ],
       },
       {
-        id: "what-to-inspect",
-        heading: "What to inspect before opening",
+        id: "burn-and-ash-versus-plain",
+        heading: "Burn and ash versus a plain pre-roll",
         paragraphs: [
-          `Read the label before using appearance as a shortcut. In California, manufactured-product labeling includes product identity, net weight or volume, a UID, a batch or lot number, an ingredient list, and cannabinoid information. Infused pre-roll cannabinoid labeling may present THC and CBD in milligrams per package, or the flower’s Total THC percentage alongside the added THC and CBD in milligrams.`,
-          `Check that the package is sealed and that its identity matches the format inside. On the roll, look for a straight seam, a filter seated squarely, and a cylinder without abrupt bulges or hollow sections. External oil stains, large tears, or loose ends can indicate that the structure or storage conditions changed after production.`,
+          `Compared with a plain flower pre-roll, an infused unit usually carries more non-plant mass in the same paper envelope. That extra mass can slow sections of the ember where concentrate is denser, hold heat longer after a draw, and leave a different residue pattern as oils and refined fractions combust alongside flower. Relights can be more common when a dense band cools unevenly or when airflow is restricted beside a richer infusion zone.`,
+          `Ash appearance is an imperfect signal. Plain flower often leaves a lighter, more uniform ash when the grind and pack are even. Infused rolls may show darker flecks, oil-tinted rings, or denser clumps where concentrate gathered along the burn path. Those differences describe materials and distribution, not purity or quality by color. Canoeing and tunneling still point back to geometry in both formats.`,
+        ],
+      },
+      {
+        id: "how-to-choose",
+        heading: "How to choose without guessing effects",
+        paragraphs: [
+          `Choose by construction evidence and package facts, not by imagined potency theater. Start with the closed package: product identity, net weight, ingredient list, UID where required, batch or lot number, and cannabinoid information. In California, infused pre-roll cannabinoid labeling may present THC and CBD in milligrams per package, or the flower's Total THC percentage alongside the added THC and CBD in milligrams. Those figures describe a tested batch; they are not dosing instructions or medical claims.`,
+          `Match the format to the structure you intend to evaluate. A paper-led infused pre-roll differs from a wrap-led blunt, a compact mini blunt, a layered moon rock, or a heated cartridge. Prefer sealed packages whose identity matches that format. After opening, look for a straight seam, a filter seated squarely, and a cylinder without abrupt bulges or hollow sections.`,
         ],
       },
       {
@@ -508,15 +525,23 @@ export const formatsPages: PageContent[] = [
         heading: "What quality means in this format",
         paragraphs: [
           `A useful quality judgment separates evidence from visual theater. An especially dark paper, a visible oil ring, or a heavy dusting does not by itself establish cannabinoid content or even distribution. The tested label describes the batch; the physical inspection describes assembly. Both matter, but they answer different questions.`,
-          `For construction, prioritize a continuous wrapper, stable filter, consistent diameter, and fill that does not slide when the roll is gently turned. For composition, prioritize the product identity, ingredient list, cannabinoid statement, and matching batch information. If a package makes a process claim, read it as a description to evaluate—not a substitute for those details.`,
+          `For construction, prioritize a continuous wrapper, stable filter, consistent diameter, and fill that does not slide when the roll is gently turned. For composition, prioritize the product identity, ingredient list, cannabinoid statement, and matching batch information. If appearance and label conflict, trust the package and batch record over gloss or color.`,
         ],
       },
       {
         id: "storage",
-        heading: "Keep the roll’s structure intact",
+        heading: "Keep the roll's structure intact",
         paragraphs: [
-          `Store infused pre-rolls cool, dark, and protected from crushing. Heat can make concentrate more mobile, while pressure can flatten the air channel or split the paper. Keep the roll in its original closed package or another rigid container until needed, and avoid leaving it where repeated temperature swings can move infusion toward one end.`,
-          `These precautions preserve geometry as much as aroma. A pre-roll is a small airflow device made from plant material, paper, and extract; bends, gaps, and migrated oil change that device. Checking it before lighting takes seconds and reveals more about likely burn consistency than the category name alone.`,
+          `Store infused pre-rolls cool, dark, and protected from crushing. Heat can make concentrate more mobile, while pressure can flatten the air channel or split the paper. Keep the roll in its original closed package or another rigid container until needed, and avoid leaving it where temperature swings can move infusion toward one end.`,
+          `These precautions preserve geometry as much as aroma. A pre-roll is a small airflow device made from plant material, paper, and extract; bends, gaps, and migrated oil change that device. Transport deserves the same attention: a loose roll in a soft pouch can crease at mid-body or catch a seam against a harder object.`,
+        ],
+      },
+      {
+        id: "read-infused-pre-rolls-with-formats",
+        heading: "Read infused pre-rolls with the rest of the formats silo",
+        paragraphs: [
+          `This article keeps the infused pre-roll in the vocabulary of paper, filter, fill, concentrate type, infusion placement, burn geometry, and package identity. Moon rocks move the comparison into layered flower, concentrate, and kief outside a paper cylinder. Mini blunts and full-size blunts shift emphasis to wrap-led construction and seam quality.`,
+          `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware. Availability and brand-format details for Presidential's infused pre-rolls remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
