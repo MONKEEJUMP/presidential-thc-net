@@ -480,10 +480,11 @@ export const scienceExtractPages: PageContent[] = [
     title: "What Are Cannabis Liquid Diamonds | Presidential THC",
     description:
       "How THCa crystallization creates diamonds, how terpene sauce is recombined, and why the resulting oil suits cartridges.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Liquid-diamond cannabis oils are generally described in terms of a crystalline cannabinoid fraction and a terpene-rich sauce that are recombined for the intended formulation. Methods and exact compositions vary meaningfully by producer, so the product label and batch record must establish the finished material.",
       "The name describes a process relationship, not literal diamonds suspended in a cartridge. The crystalline fraction supplies concentrated THCa-derived material, while the sauce returns volatile and fluid components needed to make a uniform, workable oil.",
+      "Reading the category as a production history helps more than reading it as a potency grade. Crystallization, fraction separation, and recombination are the steps the name implies. Finished cannabinoid percentages still belong to the batch label and matched laboratory report for that lot.",
     ],
     sections: [
       {
@@ -492,6 +493,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Production begins with a cannabinoid- and terpene-rich extract. Instead of purging away the entire volatile fraction, the producer uses a light purge that leaves enough of that liquid environment for controlled separation. The concentrated extract then rests in a sealed vessel for weeks under managed conditions.",
           "During that hold, the mixture does not become uniformly more solid. THCa molecules organize into crystals while a mobile, aromatic fraction remains around them. The industry calls this stage diamond mining. Time, concentration, pressure, temperature, and the makeup of the starting extract can alter the separation, which is one reason two products carrying the same category name may not share the same formula.",
+          "The starting extract therefore sets the ceiling for what crystallization can do. A leaner input may form fewer or smaller crystals, while a richer cannabinoid matrix can support a denser solid fraction. Process control still matters: vessel conditions and hold time decide whether that potential becomes an ordered lattice or remains dissolved.",
         ],
       },
       {
@@ -500,6 +502,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "A growing crystal lattice is selective. Its repeating structure readily accepts THCa molecules that fit the lattice, while solvents, lipids, terpenes, and other cannabinoids remain largely excluded in the surrounding liquid. Crystallization therefore performs a purification step through molecular organization rather than through a filter that sorts visible particles.",
           "That selectivity is why THCa diamonds can reach 99% purity and above. The number applies to the crystal fraction, not automatically to the recombined liquid or to converted THC after heating. THCa has a molecular weight of 358.47 g/mol; THC is 314.46 g/mol. The ratio, 0.877, accounts for mass lost when decarboxylation releases carbon dioxide, so 99% THCa has a theoretical maximum near 87% THC after complete conversion.",
+          "Purity language on packaging should name which material was measured. A crystal-fraction result, a sauce-fraction result, and a finished recombined-oil result answer different questions. Treating any one of those numbers as a universal grade for every liquid-diamond product collapses those distinctions.",
         ],
       },
       {
@@ -508,6 +511,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Once crystallization has progressed, the solid THCa and liquid sauce can be handled as distinct fractions. The sauce contains much of the volatile material that the crystal lattice rejected, along with cannabinoids that remained dissolved. Neither fraction alone describes the planned liquid-diamond formulation: the identity comes from their controlled recombination.",
           "This separation gives the producer two composition controls. Crystal purity can be evaluated on its own, and the liquid fraction can be assessed for aroma, cannabinoid content, and physical behavior. Batch records and analytical testing matter because a clear crystal and fragrant sauce do not reveal residual solvent, exact ratios, or the complete measured profile by sight.",
+          "Sauce is not a waste stream in this workflow. It is the aromatic and fluid counterpart that later makes the crystal fraction workable as an oil. How thoroughly the fractions are separated, rinsed, or otherwise handled before recombination still belongs in production documentation rather than in visual inspection alone.",
         ],
       },
       {
@@ -516,6 +520,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "For a liquid-diamond oil, the crystals are reduced and incorporated back into sauce at a selected ratio. Controlled heat and mixing create a continuous liquid phase rather than leaving large solid crystals in the blend. The formulation target is a cannabinoid-rich oil with enough of the sauce fraction to carry aroma and maintain workable flow.",
           "The ratio is not fixed across the industry. A formula with more crystal-derived material and one with more terpene-rich sauce can both use the liquid-diamonds name while differing in total cannabinoid percentage, aroma intensity, and viscosity. That variability makes the batch label and certificate of analysis more informative than the category name by itself.",
+          "Recombination is a formulation step, not a second extraction. The producer is choosing how much of each already-separated fraction to reunite and under what heat and mixing conditions. Two liquid-diamond oils can share the category name and still diverge in flow, aroma intensity, and measured cannabinoid totals because those formulation choices differ.",
         ],
       },
       {
@@ -525,6 +530,22 @@ export const scienceExtractPages: PageContent[] = [
           "Cartridge hardware needs oil that can move toward a heating element while remaining uniform enough that one portion of the reservoir does not contain a very different mixture from another. Recombining the reduced crystal fraction with sauce lets a producer adjust composition and flow before filling. Large intact crystals would not serve that hardware function, which is why the diamond fraction is converted into the liquid formulation.",
           "To recognize the category, look for an ingredient or extract description that identifies liquid diamonds, a reported cannabinoid result and a batch-matched laboratory report. A number alone does not establish the crystallization or formulation method; production documentation connects the laboratory result to the claimed process.",
           "A laboratory total also describes the submitted finished sample, not the purity of every intermediate fraction. The separated crystal may test near pure while the recombined oil measures differently because sauce has returned to the formula. Keeping those two measurements distinct prevents a crystal-purity figure from being misapplied to the complete cartridge oil.",
+        ],
+      },
+      {
+        id: "liquid-diamonds-versus-distillate",
+        heading: "How liquid diamonds differ from distillate",
+        paragraphs: [
+          "Distillate and liquid diamonds can both appear as cartridge oils, but they point to different process histories. Distillate typically emphasizes high refinement through distillation of a cannabinoid-rich oil. Liquid diamonds emphasize crystallization of a THCa fraction, preservation of a terpene-rich sauce, and recombination of those fractions into a workable liquid.",
+          "Shared hardware does not make the categories interchangeable. A distillate cartridge and a liquid-diamond cartridge can both flow through similar devices while reflecting different extraction and finishing paths. Side-by-side label reading still helps: check extract-type language, batch identifiers, and matched laboratory reports rather than assuming one universal oil grade.",
+        ],
+      },
+      {
+        id: "reading-a-liquid-diamonds-label",
+        heading: "How to read a liquid diamonds label",
+        paragraphs: [
+          "Start with the process words rather than marketing adjectives. Look for liquid diamonds or diamond-and-sauce language, an identified extract type, and a batch or lot identifier that can be matched to a laboratory report. If the package only says diamonds, ask whether the claim refers to intact crystals, a recombined oil, or another format entirely.",
+          "Then read the analytical sheet the same way you would for any regulated concentrate. Cannabinoid percentages describe measured composition for that finished batch. Residual-solvent and other required contaminant panels speak to compliance testing after processing. Neither turns the category name into a universal grade. These notes are educational process context for adult readers twenty-one and older — not medical guidance.",
         ],
       },
     ],
