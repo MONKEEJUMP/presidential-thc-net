@@ -271,8 +271,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in Oklahoma — Official State Reference",
     "description": "Oklahoma runs one of the most accessible patient programmes in America. How it works, and where Presidential is carried.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -280,19 +280,21 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Oklahoma",
         "paragraphs": [
-          "Oklahoma runs a medical programme, and it is one of the most accessible in the United States.",
+          "Oklahoma runs a medical programme, and it is one of the most accessible in the United States. A state patient licence opens the market. Adult-use retail is not the access path here: eligibility runs through the medical gate the state maintains.",
           "Unlike most medical states, Oklahoma maintains no list of qualifying conditions. A licensed physician determines that cannabis may benefit the patient, and that is the standard. That single design choice opened the programme to a far broader population than a conditions-based system reaches.",
-          "The result is one of the largest patient bases in the country relative to state size — a share of the population that most adult-use states would recognise as remarkable.",
-          "A state patient licence opens the market. For Oklahomans the process is straightforward, and visitors holding a medical card from another state can apply for a temporary Oklahoma licence and buy exactly as residents do."
+          "The result is one of the largest patient bases in the country relative to state size — a share of the population that most adult-use states would recognise as remarkable. For Oklahomans the licensing process is straightforward, and visitors holding a medical card from another state can apply for a temporary Oklahoma licence and buy exactly as residents do.",
+          "Exact patient counts, possession rules, temporary-licence details, and other programme requirements can change. Readers should confirm current requirements through the state's official medical cannabis resources before relying on any third-party description.",
+          "For a reference reader, the practical frame is simple. Eligible patients enter licensed dispensaries with the credentials the state requires; product on a licensed shelf has been through the compliance path Oklahoma sets for medical retail; and current licensed-retailer listings matter more than any fixed mental map of which brands sit where on any given week."
         ]
       },
       {
         "id": "the-most-generous-limits",
         "heading": "The most generous limits of any medical state",
         "paragraphs": [
-          "Oklahoma permits the highest personal possession limit of any medical state in the nation for licensed patients.",
+          "Oklahoma permits the highest personal possession limit of any medical state in the nation for licensed patients. That structural choice is part of why the programme feels expansive in practice even though it remains medical in name.",
           "The programme is medical in name and expansive in practice, and that gap between the label and the reality is the thing to understand about buying here. Patients in Oklahoma operate with latitude that patients in most medical states do not have.",
-          "The state also applies a modest sales tax to medical cannabis, which combined with a competitive retail sector keeps Oklahoma among the more affordable markets in the country."
+          "The state also applies a modest sales tax to medical cannabis, which combined with a competitive retail sector keeps Oklahoma among the more affordable markets in the country.",
+          "Because limits, taxes, and related rules can be revised, treat any secondary summary — including this page — as orientation rather than a substitute for the regulator's current text. Confirm the numbers that matter for your purchase through official state resources before you rely on them."
         ]
       },
       {
@@ -300,8 +302,18 @@ export const statesPages: PageContent[] = [
         "heading": "An established market",
         "paragraphs": [
           "Oklahoma grew faster than almost any cannabis market in America and has since settled into a mature phase. A licence moratorium holds the number of growers, processors and dispensaries steady, with existing licences transferable through the regulator.",
-          "For a buyer, that produces a strong position: a large field of established dispensaries, all competing for the same patients, in a state where nobody new is arriving to dilute the field.",
-          "Oklahoma has depth of retail that states several times its population do not, and the competition between them shows up as service and price."
+          "For a buyer, that produces a strong position: a large field of established dispensaries, all competing for the same patients, in a state where nobody new is arriving to dilute the field. Depth of retail shows up as service and price.",
+          "Maturity also means the retail map is more stable than in a brand-new adult-use buildout. Doors open and close less often than in faster-expanding markets, and the competitive set is largely fixed. That stability is useful when you are learning which licensed operators stock the formats you want.",
+          "Competition inside a capped licence pool still matters. Operators differentiate on menu breadth, freshness, staff knowledge, and batch-level testing clarity. Compare licensed doors with live menus and the package in hand."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Oklahoma purchase begins with medical eligibility. Licensed patients enter a licensed dispensary with the identification and patient credentials the state requires, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information Oklahoma requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated medical channel rather than relying on informal sources.",
+          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: an Oklahoma medical door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -309,16 +321,28 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Oklahoma",
         "paragraphs": [
           "Presidential products are listed through licensed Oklahoma retailers serving qualified patients. Participating locations and current formats change over time.",
-          "Verify current availability with a licensed retailer and confirm that the listing matches the product and package identifiers you are seeking."
+          "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their patients support, and formats rotate as inventory moves. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Verify current availability with a licensed retailer and confirm that the listing matches the product and package identifiers you are seeking. Use official state resources when confirming whether a store is licensed.",
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats, and Oklahoma dispensaries carry across the range.",
+          "Presidential builds one construction into four formats, and Oklahoma dispensaries carry across the range: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
           "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls are that material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt at a smaller size.",
-          "The series marking on a package tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "The series marking on a package tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Oklahoma is the licensed medical route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in Oklahoma",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Oklahoma retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits Oklahoma especially well. A mature, competitive medical market already asks buyers to compare licensed doors carefully — and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -326,7 +350,8 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Oklahoma",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries, and a patient licence opens the whole regulated market.",
-          "The official locator covers every licensed door in the state and returns the nearest with real distances."
+          "The official locator covers every licensed door in the state and returns the nearest with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
+          "Keep this page for durable market context: medical access through physician determination and a patient licence, expansive patient latitude relative to most medical states, and a mature retail field under a licence moratorium. Use the locator for live doors. Use the package for the final product check."
         ]
       }
     ],
