@@ -172,10 +172,11 @@ export const infusionArticles: PageContent[] = [
     title: "How Cannabis Infusion Actually Works | Presidential THC",
     description:
       "How cannabis infusion uses concentrate, controlled viscosity, and careful distribution to build a consistent layered format.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Cannabis infusion works by distributing concentrate onto or through flower, where the concentrate contributes potency and can serve as the adhesive for a final kief layer. A sound process controls viscosity, temperature, placement, and layer order so the added material is spread intentionally rather than left in heavy pockets.",
       "Infusion is therefore more than putting oil on flower. It is a construction method whose quality becomes visible in a cut section, apparent in handling, and especially clear once heat and airflow begin moving through the product.",
+      "This page is for adults twenty-one and older. It covers coating versus saturation, concentrate types used in infusion, burn and potency changes, and common misconceptions—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -216,8 +217,36 @@ export const infusionArticles: PageContent[] = [
         heading: "Surface coating and deeper saturation",
         paragraphs: [
           "Surface coating and saturation are endpoints on a spectrum, not two universal recipes. A surface-focused method makes the outer layer the main location of the concentrate. A deeper method carries concentrate through more of the flower structure. Neither label by itself proves careful work; both still depend on controlled placement.",
+          "Coating emphasizes an exterior film that can also hold kief. Saturation moves concentrate along interior paths so a cut section shows more than a shell. Many products sit between those poles: some material penetrates, some stays at the surface.",
           "The Presidential Infusion System is described as carrying distillate through the flower rather than coating only the surface, with kief applied last. That order keeps the distinction clear: infusion concerns the path of the concentrate, while the final kief coat completes the exterior.",
           "Understanding that separation makes product language easier to read. “Infused” identifies the combination of flower and concentrate, but it does not specify depth, uniformity, extract type, or finished potency. Those details have to come from the construction, the label, and the batch documentation.",
+        ],
+      },
+      {
+        id: "concentrate-types-in-infusion",
+        heading: "Concentrate types used in infusion",
+        paragraphs: [
+          "Infusion does not require one universal extract. Distillate is often chosen for a workable, consistent flow window through flower. Resin-style materials can carry more aromatic character into the added phase, though their handling window can differ from refined distillate.",
+          "Crystallized THCa and other high-density inputs sit at the concentrate end of the continuum as separate materials. Their input percentages describe those samples, not the finished layered object. In a classic moon-rock build the middle layer remains a concentrate phase for adhesion and raising the weighted blend.",
+          "Concentrate type changes how viscosity and temperature must be managed, not the rule that finished potency is a weight-share blend. Pair the extract name with sample identity—input versus finished format—so labels stay readable.",
+        ],
+      },
+      {
+        id: "what-changes-in-burn-and-potency",
+        heading: "What changes in burn and potency",
+        paragraphs: [
+          "Infusion changes two things readers often mix together. Potency change is measured composition: a higher-percentage concentrate raises cannabinoid share relative to flower alone in proportion to its finished-mass share. Burn change is physics: denser zones, altered airflow, and uneven fuel loads can make heat advance differently than in uncoated flower.",
+          "Even distribution keeps those effects more predictable. The same concentrate mass pooled in one pocket or spread evenly can contribute similarly to a whole-piece average while burning very differently. Tunneling and canoeing warn about local imbalance, not that saturation or coating is inherently better.",
+          "A finished-batch result answers potency for that product. Cross-section, handling, and burn consistency answer construction. Neither substitutes for the other, and neither is medical guidance or a milligram schedule.",
+        ],
+      },
+      {
+        id: "common-infusion-misconceptions",
+        heading: "Common misconceptions",
+        paragraphs: [
+          "A glossy coat does not prove deep saturation. Surface shine can come from an exterior film while the interior stays closer to uncoated flower. A cut section and burn behavior beat a single dramatic stripe.",
+          "Ingredient percentages do not add into the finished percentage. Flower, concentrate, and kief each keep mass in the denominator. Assigning the strongest input figure to the whole piece is the most common layered-format misread.",
+          "“Infused” is not a potency guarantee, depth claim, or burn promise. It names a construction that combines flower and concentrate. Depth, uniformity, extract type, and the finished-batch number still must be read separately—and none of that is medical advice.",
         ],
       },
       {
