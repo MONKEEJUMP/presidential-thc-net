@@ -500,8 +500,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in Nevada — Official State Reference",
     "description": "Nevada built its cannabis market for visitors, with licensed consumption lounges purpose-built for them. How it works, and where Presidential is carried.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -510,8 +510,9 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in Nevada",
         "paragraphs": [
           "Nevada runs an adult-use programme, and it is among the most welcoming in the country to people from out of state. Anyone twenty-one or older buys at a licensed dispensary with valid identification, and identification from any state is accepted.",
-          "That openness shapes the entire market. Nevada's retail is built to serve visitors as much as residents, concentrated around Las Vegas and Reno where the visitors are.",
-          "Dispensaries here are frequently larger, better staffed and open longer than in most states, because they are serving a customer volume many times what the resident population alone would produce."
+          "That openness shapes the entire market. Nevada's retail is built to serve visitors as much as residents, concentrated around Las Vegas and Reno where the visitors are. Destination density is not an accident of geography — it is how the licensing map and the tourism economy grew together.",
+          "Dispensaries here are frequently larger, better staffed and open longer than in most states, because they are serving a customer volume many times what the resident population alone would produce. First-time buyers are ordinary traffic, not an exception the floor has to invent a process for.",
+          "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path Nevada requires; and current retailer listings matter more than any fixed mental map of which Strip-adjacent or Reno doors carry which brands on any given week."
         ]
       },
       {
@@ -519,8 +520,9 @@ export const statesPages: PageContent[] = [
         "heading": "Licensed consumption lounges",
         "paragraphs": [
           "Nevada did something most states have not: it licensed consumption lounges — purpose-built venues where cannabis can be enjoyed legally on site.",
-          "For a visitor that is genuinely useful infrastructure. A lounge is a licensed, designed, social space built for exactly this, and it is one of the few places in America where that exists at all.",
-          "Nevada built the retail and then built the room. Knowing where the nearest lounge is, and checking a hotel's own policy before arrival, is the shortest route to a good visit."
+          "For a visitor that is genuinely useful infrastructure. A lounge is a licensed, designed, social space built for exactly this, and it is one of the few places in America where that exists at all. The lounge model closes a gap that hotel and public-space rules leave open in nearly every other adult-use state.",
+          "Nevada built the retail and then built the room. Knowing where the nearest lounge is, and checking a hotel's own policy before arrival, is the shortest route to a good visit. Lounge availability, hours, and house rules can change, so confirm the current licensed venue rather than relying on an old tip or a social post.",
+          "Treat lounge listings the same way you treat retailer listings: live, licensed sources beat memory. This page explains why the lounge layer matters; it does not replace the venue's own current rules or the state's licensing records."
         ]
       },
       {
@@ -529,7 +531,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Almost nowhere else in American cannabis is retail shaped this directly by people who do not live there.",
           "Las Vegas receives tens of millions of visitors a year, and the dispensary sector was built around that reality. The consequence for anyone arriving is a market that expects you: staff used to first-time buyers, hours that suit a trip rather than a commute, and locations chosen for where visitors actually are.",
-          "For a brand, Nevada is also the market where a product meets the widest range of customers from the widest range of places."
+          "Reno carries the same adult-use rules with its own visitor and resident mix. Exact store participation changes over time, so live licensed listings beat outdated screenshots or out-of-state menus when you are planning a stop.",
+          "For a brand, Nevada is also the market where a product meets the widest range of customers from the widest range of places. That breadth is structural context, not a guarantee that every format sits at every door on every day."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Nevada purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that serves visitors and residents under the same adult-use rules.",
+          "Local practice can still vary by city and by shop — hours, whether a lounge is attached or nearby, and how a particular retailer organises its floor. The constant is the licence itself: a Nevada adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -537,7 +549,9 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Nevada",
         "paragraphs": [
           "Presidential products are listed through licensed Nevada retailers. Participating locations and current formats change, especially across destination retail markets.",
-          "People searching for Presidential THC flower in North Las Vegas should begin with the official Nevada locator below, then verify current product availability with the retailer and use official state resources when confirming whether a store is licensed."
+          "People searching for Presidential THC flower in North Las Vegas should begin with the official Nevada locator below, then verify current product availability with the retailer and use official state resources when confirming whether a store is licensed.",
+          "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
@@ -546,7 +560,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential builds one construction into four formats, and the shorter formats suit a visit particularly well.",
           "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Minis are the blunt sized down, which is often the right choice for a trip.",
-          "The series marking tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "The series marking tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Nevada is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in Nevada",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Nevada retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits Nevada especially well. A visitor-heavy market already asks buyers to move quickly between doors, lounges, and hotels — and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -554,11 +578,12 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Nevada",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state.",
-          "The official locator returns the nearest licensed doors with real distances, which is worth using here — the right dispensary may be a few blocks off the Strip or a scenic drive away."
+          "The official locator returns the nearest licensed doors with real distances, which is worth using here — the right dispensary may be a few blocks off the Strip or a scenic drive away.",
+          "Keep this page for durable market context: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the locator for live doors. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes."
         ]
       }
     ],
-    "relatedLinks": [
+        "relatedLinks": [
       {
         "href": "/",
         "label": "Presidential THC"
