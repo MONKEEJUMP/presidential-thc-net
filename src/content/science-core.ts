@@ -9,10 +9,11 @@ export const scienceCorePages: PageContent[] = [
     title: "THCa vs THC — What the Label Actually Means",
     description:
       "Understand the chemical relationship between THCa and THC, the 0.877 conversion factor, and the correct way to calculate Total THC.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "THCa is the acidic precursor found in the living cannabis plant, while THC is the corresponding form produced when heat drives decarboxylation. A percentage of THCa is not interchangeable with the same percentage of THC: the label calculation must account for the mass lost during conversion, which is why Total THC uses a factor of 0.877.",
-      "That distinction explains why a concentrate reported as 99% THCa cannot become 99% THC. Its theoretical ceiling after complete conversion is about 87% THC before any practical losses are considered.",
+      "That distinction explains why a concentrate reported as 99% THCa cannot become 99% THC. Its theoretical ceiling after complete conversion is about 87% THC before any practical losses are considered. The same arithmetic applies whether the product is flower, an infused format, or a high-purity isolate—the molecule names stay separate, and the mass factor still belongs between them.",
+      "This page is for adults twenty-one and older who want label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined.",
     ],
     sections: [
       {
@@ -21,6 +22,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The lowercase “a” in THCa stands for acid. In the plant, the molecule carries a carboxyl group that THC does not. Applying heat can remove that group as carbon dioxide, leaving the lower-mass THC molecule behind. The names look nearly identical on a package, but the distinction is chemically meaningful and changes the arithmetic used to describe potency.",
           "A cannabinoid panel therefore keeps THCa and THC in separate rows. The THCa value reports how much precursor was measured in the sample, while the THC value reports how much THC was already present when the laboratory analyzed it. Neither row should be silently substituted for the other. Total THC is the calculated bridge between them.",
+          "Raw flower and many unfinished concentrates are often THCa-dominant on the panel because decarboxylation has not yet been driven to completion. Finished extracts and heated materials can show more THC already present. Those patterns describe heating and process history; they do not erase the need to convert residual THCa before comparing totals across products.",
         ],
       },
       {
@@ -29,6 +31,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "THCa has a molecular weight of 358.47 grams per mole. THC has a molecular weight of 314.46 grams per mole. Dividing the second number by the first gives approximately 0.877. In plain language, the THC portion retained after the carboxyl group leaves represents 87.7% of the starting THCa mass.",
           "The factor is a mass adjustment, not a prediction that a heating method will convert exactly 87.7% of every sample. It describes the theoretical relationship between the two molecules. Real handling introduces variables, while the label formula assumes conversion for the purpose of putting THCa and existing THC on one comparable line.",
+          "Keep the verbs separate. Decarboxylation is the reaction that removes the carboxyl group. The 0.877 factor is the mass correction applied when that reaction is assumed for labeling. Evaporation, airflow, and device settings describe how heat is delivered; they are related practical topics, but they are not substitutes for the molecular-weight math on the report.",
         ],
       },
       {
@@ -37,6 +40,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The standard calculation is Total THC = (THCa × 0.877) + THC. Multiply the reported THCa percentage by 0.877, then add the THC that the laboratory measured directly. Keep every input in the same unit: percentages with percentages, or milligrams with milligrams.",
           "Consider a sample reported at 82% THCa and 3% THC. The converted THCa contribution is 71.914% because 82 × 0.877 = 71.914. Add the existing 3% THC and the calculated Total THC is 74.914%, commonly rounded to 74.9%. The calculation does not add THCa and THC as though their molecular masses were equal.",
+          "If a package prints only Total THC, the printed figure still rests on that same conversion logic even when the THCa and THC rows are not shown on the face. Reconstructing the arithmetic requires the component values from the matched Certificate of Analysis. When those rows are available, check that the printed total agrees with the formula before treating the headline number as a free-standing fact.",
         ],
         table: {
           caption: "Worked Total THC calculation for an 82% THCa sample",
@@ -54,6 +58,16 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "THCa crystals can reach 99% purity and above because a growing crystal lattice accepts THCa molecules while solvents, lipids, and other cannabinoids remain in the surrounding liquid. That is a statement about the composition of the crystal before conversion. It is not a statement that all of that mass remains as THC afterward.",
           "At 99% THCa, the theoretical converted amount is 99 × 0.877, or 86.823% THC. If the report also lists a small amount of THC already present, that amount is added separately. This is why the largest number on a cannabinoid panel may not be the number that best represents the sample after heating.",
+          "High THCa purity is therefore useful information about the material as tested, not a promise that the same percentage will appear as THC after heat. Reading the analyte name beside the percentage keeps a purity claim, a converted estimate, and a Total THC line from collapsing into one interchangeable boast.",
+        ],
+      },
+      {
+        id: "common-mistakes",
+        heading: "Common label-reading mistakes",
+        paragraphs: [
+          "Adding THCa and THC without the 0.877 factor overstates the converted total because it treats two different molecular masses as equal. The corrected approach converts the precursor first, then adds measured THC. Skipping the factor is the most common arithmetic error when someone tries to rebuild Total THC by hand.",
+          "Another frequent mistake is treating the largest face percentage as Total THC without checking the analyte name. A package may highlight THCa, THC, or a calculated total. Typography and placement do not redefine chemistry. Match the printed figure to its label text, then to the corresponding laboratory row.",
+          "A third mistake is comparing products with mismatched units or mismatched batches. Percentage totals and milligram amounts cannot be mixed in one equation, and a Certificate of Analysis belongs to a specific production run. Confirm batch identity before using one report to interpret another package.",
         ],
       },
       {
@@ -63,6 +77,14 @@ export const scienceCorePages: PageContent[] = [
           "Start by identifying whether a prominent percentage is labeled THCa, THC, or Total THC. Next, locate the corresponding rows on the cannabinoid panel and check whether the printed total agrees with the formula. Finally, match the report to the product’s batch information so that the calculation belongs to the item being examined, not a different production run.",
           "For amount-based comparisons, use the calculated total rather than treating raw THCa as ready-made THC. Also keep “theoretical” in view: the formula standardizes label interpretation, but it does not certify that every heating device, flame, or sample converts the precursor completely. The result is a disciplined reading of the chemistry, not a guarantee about a particular use condition.",
           "Do not let typography decide which value matters. A package may display one figure prominently while the supporting report shows several related rows. The useful question is not simply “what is the biggest percentage?” but “what exactly was measured, and what was calculated?” Reading the analyte name beside its number prevents a THCa result, a THC result, and a Total THC result from collapsing into the same claim. Once those categories stay separate, products with different ratios can be compared on consistent terms.",
+        ],
+      },
+      {
+        id: "read-with-science-silo",
+        heading: "Read THCa versus THC with the rest of the science silo",
+        paragraphs: [
+          "This article separates the two forms and works the Total THC arithmetic. The decarboxylation page explains the heat-driven reaction that removes the carboxyl group and why temperature and time travel together. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
+          "Cannabinoid and terpene pages widen the panel without changing the THCa–THC rule: other analytes stay in their own rows, and boiling-point or volatility references describe evaporation more directly than conversion. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
     ],
