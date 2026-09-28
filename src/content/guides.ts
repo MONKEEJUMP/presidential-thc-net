@@ -469,10 +469,11 @@ export const whatToLookFor: PageContent = {
   title: "How to Judge Infused Cannabis Quality | Presidential THC",
   description:
     "A practical framework for judging infused cannabis by construction, aroma, coating, labels, packaging, and burn behavior.",
-  wordTarget: [700, 900],
+  wordTarget: [1100, 1250],
   intro: [
     "Judge infused cannabis with evidence you can inspect: the format should match its description, the construction should look intentional, the aroma should remain distinct, the package should identify what is inside, and the material should burn or operate consistently for that format. No single visual detail proves quality by itself, so compare several signals before reaching a conclusion.",
     "The point is not to reward the flashiest surface. It is to understand whether flower, concentrate, kief, wrap, or cartridge hardware appear to work as one coherent product and whether the package gives enough context to identify it.",
+    "This page is for adults twenty-one and older who want an educational inspection routine, not medical advice or guaranteed effects. Keep the label with the product, follow local law, and treat each batch as its own measured sample instead of assuming every package in a category looks or behaves the same.",
   ],
   sections: [
     {
@@ -481,6 +482,7 @@ export const whatToLookFor: PageContent = {
       paragraphs: [
         "A moon rock should present the three layers named in the format: flower, concentrate, and an outer coat of kief. An infused pre-roll, blunt, or mini places its material inside a wrap. A cartridge combines extract with hardware, so the oil path and the physical condition of the cartridge are part of the inspection.",
         "Do not apply the same surface test to every product. A visible kief coat is relevant to a moon rock but not to a sealed cartridge. Begin with what the format claims to be, then choose observations that make sense for that construction.",
+        "Name the format before comparing details. That prevents importing a moon-rock checklist onto a wrapped roll or treating cartridge hardware as if it were flower. Once the format is named, the rest of the inspection becomes a narrower set of questions.",
       ],
     },
     {
@@ -489,6 +491,7 @@ export const whatToLookFor: PageContent = {
       paragraphs: [
         "Look for deliberate distribution rather than one isolated patch doing all the work. On a moon rock, note whether the kief sits across the concentrate-coated flower and whether handling has exposed large bare areas. On a wrapped format, look for a straight, intact body without obvious compression at one point.",
         "Uniform does not mean machine-perfect. Flower has natural variation, kief has texture, and production methods differ. The useful question is whether the visible components support the named format, not whether every edge and granule looks identical.",
+        "Handle the piece as little as needed. Extra pressure can move concentrate, strip kief, or crease a wrap and confuse later judgments about original construction. If the product is sealed, inspect through the window or open briefly, then close it so aroma and moisture stay closer to the packaged state.",
       ],
     },
     {
@@ -497,6 +500,7 @@ export const whatToLookFor: PageContent = {
       paragraphs: [
         "Terpenes are volatile aroma compounds, and heat and light take them first. A distinct aroma that fits the package description is therefore a useful condition signal. Make the observation promptly rather than leaving the container open under room light for an extended comparison.",
         "Aroma alone cannot establish potency, extract method, or personal effects. It works best beside construction and label information. If the package describes an aromatic profile but the material is indistinct, record the mismatch without inventing a cause that the available evidence cannot prove.",
+        "Compare aroma against the package wording first, then against other products only if storage and opening time were similar. A jar left open beside a freshly sealed one is not a fair test. Treat smell as one checklist clue, not a substitute for the label or burn and draw behavior.",
       ],
     },
     {
@@ -505,6 +509,7 @@ export const whatToLookFor: PageContent = {
       paragraphs: [
         "Kief is collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. On a moon rock, it forms the third layer over concentrate-coated flower. The coat is both a visible signature and a physical surface that can be stripped by rough handling or a grinder.",
         "Look for coverage while allowing for natural texture and movement in the package. Loose kief is not automatically evidence that the whole product is poor, but extensive bare coating can show that the outer layer no longer sits where the three-layer design intends it to be.",
+        "Never grind a moon rock to judge the coat. A grinder removes the surface you are evaluating and can gum itself with concentrate. Separate a smaller piece later by hand or with scissors. For wrapped formats without an outer kief coat, skip this section rather than forcing an irrelevant signal.",
       ],
     },
     {
@@ -513,6 +518,7 @@ export const whatToLookFor: PageContent = {
       paragraphs: [
         "Read the format name, cannabinoid information, batch identifiers, and any storage or hardware instructions shown on the package. The details should describe the same item visible inside. Keep the package with the product so those identifiers are available later instead of relying on memory.",
         "Percentages require context. Flower, concentrate and a finished moon rock are different samples. A moon rock is a weighted blend of its layers, so an ingredient percentage cannot be copied onto the whole piece; use the finished product label and associated batch record.",
+        "If a laboratory report is available, match it to the same batch identifier on the package before treating any number as relevant. Do not invent missing figures or assume a category average applies. The package should explain what was made; the inspection should confirm the visible product still matches.",
       ],
     },
     {
@@ -522,6 +528,23 @@ export const whatToLookFor: PageContent = {
         "Infused material is denser than ordinary loose flower and may need a slower light or a relight. That expected difference should not be confused with random distribution that repeatedly blocks airflow or leaves one section untouched. For paper formats, note whether the burn moves through the body rather than racing down one side.",
         "For cartridges, inspect consistency through the oil path and use temperature gradually. Hardware, extract viscosity, and heat work together, so one difficult draw does not identify the cause by itself. A useful quality judgment combines appearance, package fit, aroma, and repeatable operation instead of turning one moment into the entire verdict.",
         "Repeat the observation under the same basic setup before comparing products. If packing density, piece size, temperature, or airflow changes at the same time, the result cannot isolate construction quality. A controlled comparison is slower, but it gives each visible signal a clearer meaning.",
+      ],
+    },
+    {
+      id: "common-inspection-mistakes",
+      heading: "Avoid Common Inspection Mistakes",
+      paragraphs: [
+        "The most common mistake is judging every format with one checklist. A bare patch that matters on a moon rock may be meaningless on a sealed cartridge, and a slow light that is normal for dense infused material can be misread as a defect.",
+        "Another frequent error is changing several variables at once while testing burn or draw — hotter flame, larger piece, different paper, and a new device setting in the same pass. When the result is uneven, there is no clear lesson. Keep one change at a time and keep the package nearby.",
+        "Rushing past storage also muddies quality signals. Heat, light, and open-air time strip aroma and can move coatings before you light or draw. Child-resistant, cool, dark storage protects the condition you inspected.",
+      ],
+    },
+    {
+      id: "where-quality-fits",
+      heading: "Place Quality Checks in the Wider Guide Loop",
+      paragraphs: [
+        "A quality inspection sits beside preparation, temperature, and storage rather than replacing them. Identify the format first, then use appearance, aroma, package, coating, and burn or hardware behavior together. For moon-rock preparation, continue to the smoking guide; for later use, follow the storage routine.",
+        "The temperature guide covers heat-related signals for adjustable hardware, while this page focuses on what you can see, smell, read, and repeat under a controlled setup. Move through the guides in the order the product requires. Availability stays on the official brand locator so education stays separate from retail lookup.",
       ],
     },
   ],
