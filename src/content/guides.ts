@@ -182,18 +182,28 @@ export const howToSmokeMoonRocks: PageContent = {
   title: "How to Smoke Moon Rocks Properly | Presidential THC",
   description:
     "Learn how to prepare, layer, light, and relight Moon Rocks without a grinder while preserving airflow, concentrate, and the outer kief coating.",
-  wordTarget: [700, 900],
+  wordTarget: [1100, 1250],
   intro: [
     "Do not put a moon rock in a grinder. Break off a piece about the size of a pencil eraser by hand or with scissors, place it in a bowl with room for airflow, and light it slowly; for a steadier burn, layer the piece between ground flower. Glass is easier to manage than paper, and a relight is normal because the concentrate-rich piece is dense.",
     "That method follows the format's construction. A moon rock has flower at its center, a concentrate layer around it, and kief on the outside. Preparation should keep those layers together while exposing enough surface for heat and air to move through the piece.",
+    "This page is for adults twenty-one and older who want an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim.",
   ],
   sections: [
+    {
+      id: "prep-before-you-break",
+      heading: "Set Up Preparation Before You Break",
+      paragraphs: [
+        "Prep starts before the first piece leaves the jar. Clear a clean, dry tray, have scissors or clean fingers ready, and open only the amount you plan to separate. Working over the tray keeps loose kief with the material instead of losing it to a table or carpet.",
+        "Confirm the bowl, pipe, or paper setup is dry and free of ash before you place the piece. Residual moisture or leftover debris can clog the air path and make the first light harder to read. Leave the remaining moon rocks in cool, dark storage while you work so heat and light do not strip volatile aroma compounds from an open jar.",
+      ],
+    },
     {
       id: "skip-the-grinder",
       heading: "Why the Grinder Stays on the Shelf",
       paragraphs: [
         "A grinder is designed to reduce dry flower into loose, fairly uniform pieces. A moon rock behaves differently: its concentrate coating can gum the teeth while the mechanical action strips kief from the surface. The result is harder to remove from the grinder and no longer preserves the intended three-layer construction.",
         "Use clean fingers for a piece that separates without much pressure. If the coating pulls or the center resists, small scissors offer more control. Work over a clean tray or the bowl itself so loose kief remains with the material instead of being left on a table.",
+        "The break technique aims for a clean separation, not a pulverized pile. Pinch or snip once, then check that the outer coat and concentrate layer still sit on the flower core. If the piece smears into sticky material with no structure, take a smaller cut from a firmer section rather than forcing soft material through more tools.",
       ],
     },
     {
@@ -202,14 +212,17 @@ export const howToSmokeMoonRocks: PageContent = {
       paragraphs: [
         "The supplied handling guidance starts with a piece around the size of a pencil eraser. That is a preparation reference, not a universal serving promise. Infused cannabis can vary by flower, concentrate, kief, batch, and how evenly those layers are distributed, so the package remains the source for the specific product.",
         "Keep the separated piece compact enough to preserve its layers but open enough at the edges to catch heat. Avoid compressing it into a hard plug. If additional material is used, add it in separate steps rather than turning the bowl into one dense mass with no air path.",
+        "When a rock is irregular, break from an edge rather than crushing the center. Edge cuts expose surface without collapsing the whole construction into one dense plug. If you need more material later, separate another small piece instead of stacking oversized chunks that choke airflow.",
       ],
     },
     {
-      id: "choose-glass",
-      heading: "Use Glass for Easier Control",
+      id: "pipe-joint-blunt",
+      heading: "Compare Pipe, Joint, and Blunt Setups",
       paragraphs: [
-        "A bowl makes the moon rock visible while it is being prepared and lit. It also keeps the dense piece supported when the concentrate softens. Paper can work, but the material is sticky, heavy, and less uniform than ground flower, which makes distribution and airflow harder to control inside a roll.",
-        "For a paper format, use the layering method: spread ground flower, place small moon-rock pieces along the center, then cover them with another light layer of flower. The surrounding flower helps carry the burn rather than asking one concentrate-rich line to stay lit by itself.",
+        "A glass pipe or bowl makes the moon rock visible while it is being prepared and lit. It also keeps the dense piece supported when the concentrate softens. That visibility makes airflow problems easier to spot and correct before the surface chars.",
+        "A joint can work when you use the layering method: spread ground flower, place small moon-rock pieces along the center, then cover them with another light layer of flower. The surrounding flower helps carry the burn rather than asking one concentrate-rich line to stay lit by itself.",
+        "A blunt follows the same layering logic but starts denser and can hold heat longer in the wrap. Keep moon-rock pieces small and spaced, and avoid packing so tight that air cannot move past the infused spots. If the wrap tunnels or canoees, pause, open the air path, and redistribute rather than chasing the burn with continuous flame.",
+        "Choose the setup that matches how much control you want on the first light. Glass favors observation. Paper and wraps favor even distribution of small pieces. The moon rock is the dense element; surrounding flower or open bowl space carries airflow.",
       ],
     },
     {
@@ -226,6 +239,16 @@ export const howToSmokeMoonRocks: PageContent = {
       paragraphs: [
         "Use a patient flame and aim for an even start rather than holding intense heat on one point. The outer kief catches first, while the concentrate beneath it warms and the flower core begins to burn. Moving too quickly can light the surface without establishing the center.",
         "A moon rock may go out and need to be lit again. That does not automatically identify a defect; the format is denser than loose flower and its three materials do not burn at identical rates. Relight the unburned edge and keep the air path open instead of repeatedly heating one charred spot.",
+        "Heat management is pacing, not intensity. Short, even passes with the flame let the layers warm together. Long, fixed heat on one corner can crisp the kief coat while the concentrate and core stay cold, which invites tunneling and repeated relights on the same damaged edge.",
+      ],
+    },
+    {
+      id: "common-mistakes",
+      heading: "Avoid Common Moon Rock Mistakes",
+      paragraphs: [
+        "The most common mistake is putting the whole rock in a grinder. That strips kief, gums the teeth, and destroys the three-layer construction the format is built around. Hand-break or scissors keep the piece intact.",
+        "Another frequent error is packing one oversized piece into a closed bowl or a tight roll with no air path. Dense concentrate needs space for heat and air. If the draw feels blocked, remove material or redistribute before applying more flame.",
+        "Chasing a stubborn spot with continuous heat is also a common failure mode. If a corner will not stay lit, check piece size, airflow, and whether the surface is already charred. Correct the setup, then relight the unburned edge instead of cooking the same point.",
       ],
     },
     {
