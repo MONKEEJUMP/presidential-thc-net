@@ -8,10 +8,10 @@ export const infusionHub: PageContent = {
   title: "How Cannabis Infusion Works | Presidential THC",
   description:
     "A practical guide to cannabis infusion, from concentrate distribution and kief to burn behavior and potency by format.",
-  wordTarget: [800, 1100],
+  wordTarget: [1100, 1250],
   intro: [
     "The cannabis infusion process combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn.",
-    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers.",
+    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers. Adults twenty-one and older can use this hub as a navigation map: each child page deepens one topic, while this page keeps placement, finishing, burn behavior, and sample identity in view—without medical advice or dosing guidance.",
   ],
   sections: [
     {
@@ -20,6 +20,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Infusion begins with a base material and a concentrate. The concentrate adds cannabinoid content while also acting as the adhesive that can hold an outer kief layer in place. Temperature and viscosity have to be controlled closely enough for the concentrate to move through the intended area without running away from it or collecting in isolated pockets.",
         "The result is judged by distribution, not simply by how much concentrate is visible. A balanced construction keeps the flower, concentrate, and any finishing layer working as one format instead of three disconnected ingredients.",
+        "Open the how infusion works guide when viscosity, temperature, placement, and layer order need a full walkthrough. The hub names the system; that child page follows concentrate through the construction step by step.",
       ],
     },
     {
@@ -28,6 +29,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Surface-coated and saturated products sit on a spectrum. A surface application concentrates material near the outside, while a more saturated approach carries it farther through the flower. Each approach changes the handling demands, the amount of process control required, and the way heat reaches the material when it is lit.",
         "The distinction is visible in a cut section and practical during the burn. Where concentrate is uneven, one area can receive more fuel and less airflow than the area beside it. Deeper, controlled distribution is intended to reduce that contrast.",
+        "The surface-versus-saturation guide compares those endpoints without treating either label as proof of uniformity. Use it when depth questions outrun what the exterior alone can show.",
       ],
     },
     {
@@ -36,6 +38,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Kief is collected trichome material. These resin glands hold most of the plant's cannabinoids and terpenes, which makes the layer functional rather than decorative. On an infused format, kief supplies a recognizable exterior, turns a sticky concentrate surface into something easier to handle, and contributes its own aromatic material.",
         "How that layer is collected and applied affects its consistency. A uniform coat communicates the construction clearly; bare patches or thick clumps signal that the layers may not be evenly distributed.",
+        "The kief and trichomes guide separates collection, adhesion, and the coat's three jobs from the concentrate path underneath. Read it when the outer finish is the question.",
       ],
     },
     {
@@ -44,6 +47,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Adding concentrate changes density, airflow, and heat retention. Those variables explain why infused flower often lights more slowly, may need a relight, and can burn unevenly if concentrate is concentrated on one side. Tunneling describes a hot path through the center, while canoeing describes one side advancing faster than the other.",
         "Good distribution cannot repeal those physical differences, but it can make them more manageable. The burn is the clearest practical test of whether the infusion was treated as a system.",
+        "The infused burn guide connects density, airflow, heat retention, tunneling, and canoeing to distribution. Treat burn behavior as a construction check under heat, not as a potency substitute.",
       ],
     },
     {
@@ -52,6 +56,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Flower, concentrate coatings, finished moon rocks and THCa-rich materials are different samples. Their reported THC and other cannabinoid values belong to the specific tested batch and should not be treated as interchangeable category figures.",
         "A layered format lands between its inputs because each layer contributes according to its share of the total weight. The label and batch report, not the strongest ingredient named in the construction, describe the finished product.",
+        "The potency-by-format guide keeps those sample identities separate so a strong ingredient figure is not assigned to the whole piece.",
       ],
     },
     {
@@ -76,6 +81,21 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Start with the product identity, identify the base and added material, and then choose the child page that matches the question. Process questions belong with the construction guide; depth questions belong with the coating comparison; loose trichome material belongs with the kief reference; and airflow questions belong with the burn guide. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
         "Presidential THC publishes this hub as a chemistry and construction reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch identifiers carry different information. Keeping those terms separate lets the reader move from construction to label evidence without turning the brand name into a cultivar claim.",
+      ],
+    },
+    {
+      id: "choose-which-infusion-guide",
+      heading: "Choose the infusion guide that matches the next question",
+      paragraphs: [
+        "Use this hub as a map, not as a checklist that must be completed in one sitting. If viscosity, temperature, and layer order are next, open the how infusion works page. If exterior coating versus deeper travel through flower is next, open the surface-versus-saturation page. If collected trichomes and the finishing coat are next, open the kief and trichomes page. If density, airflow, and uneven ember paths are next, open the infused burn page. If sample identity and weighted blends are next, open the potency-by-format page.",
+        "Naming the construction question first keeps a burn cue from being mistaken for a potency figure, and keeps a glossy exterior from being mistaken for deep saturation. Related hubs on science, formats, and guides sit beside this silo when the next question leaves infusion construction.",
+      ],
+    },
+    {
+      id: "what-this-hub-does-not-do",
+      heading: "What this hub does not do",
+      paragraphs: [
+        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of cannabis infusion by distribution, depth, trichome finishing, burn mechanics, and weighted potency.",
       ],
     },
   ],
@@ -112,8 +132,48 @@ export const infusionHub: PageContent = {
       label: "Return to the Presidential THC reference",
       description: "Explore the complete map of infused cannabis science, formats, and practical guides.",
     },
+    {
+      href: "/science",
+      label: "Open the extract-science hub",
+      description: "Move from infusion construction to molecules, labels, and extract process routes.",
+    },
+    {
+      href: "/formats",
+      label: "Compare finished infused formats",
+      description: "See how moon rocks, rolls, blunts, and cartridges package flower and concentrate differently.",
+    },
   ],
   contextualLinks: [
+    {
+      href: "/infusion/how-infusion-works",
+      anchor: "how infusion works guide",
+      sectionId: "how-infusion-works",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion/surface-vs-saturation",
+      anchor: "surface-versus-saturation guide",
+      sectionId: "surface-vs-saturation",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion/kief-and-trichomes",
+      anchor: "kief and trichomes guide",
+      sectionId: "kief-and-trichomes",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion/why-infused-burns-differently",
+      anchor: "infused burn guide",
+      sectionId: "burn-behavior",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion/potency-by-format",
+      anchor: "potency-by-format guide",
+      sectionId: "potency-by-format",
+      paragraphIndex: 2,
+    },
     {
       href: "/infusion/how-infusion-works",
       anchor: "how infusion works guide",
@@ -149,6 +209,54 @@ export const infusionHub: PageContent = {
       anchor: "THC",
       sectionId: "potency-by-format",
       paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/how-infusion-works",
+      anchor: "how infusion works page",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/surface-vs-saturation",
+      anchor: "surface-versus-saturation page",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/kief-and-trichomes",
+      anchor: "kief and trichomes page",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/why-infused-burns-differently",
+      anchor: "infused burn page",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/potency-by-format",
+      anchor: "potency-by-format page",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/science",
+      anchor: "science",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/formats",
+      anchor: "formats",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 1,
+    },
+    {
+      href: "/guides",
+      anchor: "guides",
+      sectionId: "choose-which-infusion-guide",
+      paragraphIndex: 1,
     },
     {
       href: "/about",
