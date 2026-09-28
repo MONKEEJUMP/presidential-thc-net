@@ -558,10 +558,11 @@ export const beginnersGuide: PageContent = {
   title: "Beginner's Guide to Infused Cannabis | Presidential THC",
   description:
     "A plain-language introduction to infused cannabis, major formats, potency context, labels, handling, and next steps.",
-  wordTarget: [700, 900],
+  wordTarget: [1100, 1250],
   intro: [
     "Infused cannabis combines flower or a finished format with cannabis concentrate, which changes the product's construction and can raise its reported potency above ordinary flower. Begin by identifying the format, reading its package, and using the preparation method made for that format. For moon rocks, start with a piece around the size of a pencil eraser, never use a grinder, and expect a slower burn.",
     "This guide explains the basic vocabulary without making promises about effects. Percentages describe tested material, while handling, temperature, storage, and physical construction explain how that material behaves as a product.",
+    "The audience is adults twenty-one and older who want educational context before they open a new package. Nothing here is medical advice, dosing instruction, or a guarantee of any outcome. Keep the label with the product, follow local law, and treat every batch as its own measured sample.",
   ],
   sections: [
     {
@@ -570,6 +571,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "Infusion brings cannabis concentrate into a flower-based or finished format. In a classic moon rock, the three visible layers are flower, concentrate, and kief. Kief is collected trichomes: the resin glands that hold most of the plant's cannabinoids and terpenes.",
         "The concentrate contributes more than a number on the label. It changes texture, density, airflow, and the way heat moves through the material. That is why infused formats need their own handling instructions instead of being treated as ordinary ground flower with a different name.",
+        "Think of infusion as a construction change first and a potency change second. The finished object has layers, coatings, wraps, or extract paths that ordinary flower does not. Naming those parts correctly makes the later guides easier to use, because each practical page assumes you already know which format is in hand.",
       ],
     },
     {
@@ -578,6 +580,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "Moon rocks make their layers visible around a flower center. Infused pre-rolls distribute flower and concentrate inside paper. Tobacco-free blunts use a non-tobacco wrap, while minis bring a similar wrapped construction into a smaller format. Vape cartridges pair an extract with hardware that heats and moves the material through a dedicated path.",
         "Size alone does not define the underlying material. A mini is smaller than a full blunt, and a cartridge uses hardware instead of a flower wrap, but each still needs a label that identifies what was made. Start with the format name and construction before comparing percentages across categories.",
+        "A short format checklist helps on a first pass: Is the product a coated flower piece, a filled paper roll, a wrapped blunt or mini, or a hardware cartridge? Does the package name a concentrate type such as resin, rosin, or diamonds? Once those answers are clear, move to the guide that matches the next practical question instead of jumping between unrelated formats.",
       ],
     },
     {
@@ -586,6 +589,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "Potency belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate and kief.",
         "Do not compare one layer with a complete format as though they are the same sample. Read the product's own label, keep the batch information with it, and remember that percentages describe composition. They do not explain every detail of construction, distribution, storage history, or hardware.",
+        "Two packages can share a category name and still report different totals because inputs, ratios, and finishing steps differ by batch. Treat the printed cannabinoid figures as a snapshot of the lot that was tested, not as a universal grade for every product in that category. If a laboratory report is available, match it to the same batch identifier printed on the package.",
       ],
     },
     {
@@ -594,6 +598,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "For moon rocks, separate a piece around the size of a pencil eraser by hand or with scissors. A grinder can gum its teeth with concentrate and strip the kief from the surface. Place the piece where air can pass around it, use a slow flame, and expect that the dense material may need to be lit again.",
         "Glass makes the piece easier to see and support. If paper is used, place small moon-rock pieces between layers of ground flower to help carry a more even burn. Whatever the format, change one preparation variable at a time so the result remains understandable.",
+        "Cartridges and other hardware formats follow a different first step: confirm the device is charged, compatible, and set to a conservative starting temperature before drawing. Wrapped formats such as blunts and minis need even lighting and patience rather than aggressive torching. The shared beginner principle is the same across formats — begin small, observe, and only then adjust one variable.",
       ],
     },
     {
@@ -602,6 +607,16 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "Keep the package with the product and read its format, cannabinoid information, batch identifiers, and printed handling directions. Store the product securely closed in a cool, dark place. Heat and light take volatile terpenes first, while unnecessary handling can move kief or concentrate away from the intended construction.",
         "For adjustable hardware, start low and work upward gradually. Rosin begins lower, resin in the middle, and diamonds higher in the relative sequence supplied for this guide set. Boiling points are reference values, not direct device recipes, because compounds can evaporate below those points over time.",
+        "Label, storage, and temperature form one loop rather than three separate chores. The label tells you what was made and which batch it belongs to. Storage protects that construction until you are ready to use it. Temperature and heat control then decide how the prepared material responds. Skipping any one of those steps makes the others harder to interpret.",
+      ],
+    },
+    {
+      id: "common-beginner-mistakes",
+      heading: "Avoid Common Beginner Mistakes",
+      paragraphs: [
+        "The most frequent early mistakes are format mix-ups and tool mismatches. Grinding a moon rock, treating a cartridge like flower, or comparing a concentrate-input percentage with a finished multi-layer product all create confusion that the label alone cannot fix. Identify the construction before choosing a tool or a comparison.",
+        "Another common error is changing several variables at once — larger piece size, hotter flame, different paper, and a new device setting in the same session. When the result is uneven, there is no clear lesson. Keep one change at a time, keep the package nearby, and write down the batch identifier if you plan to compare later purchases.",
+        "Rushing past storage and security also causes avoidable problems. Infused products can be sticky, aromatic, and potent relative to ordinary flower, so child-resistant storage and a cool, dark place are part of responsible adult use. Educational guidance does not replace local rules; it helps you read the product you already have.",
       ],
     },
     {
@@ -638,7 +653,6 @@ export const beginnersGuide: PageContent = {
     description: "Use the official locator after the format and handling questions are understood.",
   },
 };
-
 export const guidesPages: PageContent[] = [
   guidesHub,
   howToSmokeMoonRocks,
