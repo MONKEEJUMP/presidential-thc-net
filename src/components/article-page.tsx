@@ -365,7 +365,7 @@ function LinkDirectory({ page }: { page: PageContent }) {
 
 function StructuredData({ page, images }: ArticlePageProps) {
   const pageUrl = absoluteUrl(page.path);
-  const organizationId = "https://presidentialcannabis.net/#organization";
+  const organizationId = `${SITE_URL}/#organization`;
   const websiteId = `${SITE_URL}/#website`;
   const webPageId = `${pageUrl}#webpage`;
   const faqId = `${pageUrl}#faq`;
@@ -382,15 +382,15 @@ function StructuredData({ page, images }: ArticlePageProps) {
     {
       "@type": "Organization",
       "@id": organizationId,
-      name: "Presidential Cannabis",
-      alternateName: ["Presidential", "Presidential THC"],
-      url: "https://presidentialcannabis.net/",
+      name: "Presidential THC",
+      alternateName: ["Presidential", "Presidential Cannabis"],
+      url: `${SITE_URL}/`,
       logo: {
         "@type": "ImageObject",
         url: imageUrl(),
       },
       description:
-        "Presidential Cannabis publishes the Presidential THC chemistry and craft reference.",
+        "Presidential THC publishes this chemistry and craft reference.",
     },
     {
       "@type": "WebSite",
