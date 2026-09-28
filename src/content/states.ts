@@ -792,8 +792,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in Florida — Official State Reference",
     "description": "Florida runs one of the largest patient programmes in America, with a distinctive vertically integrated market. How it works.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -801,17 +801,20 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Florida",
         "paragraphs": [
-          "Florida runs a medical programme, and it is one of the largest in the United States by registered patients. A physician certification and a state patient card open the market.",
-          "The programme has grown steadily since it began, and Florida now has a patient population that rivals the customer base of many adult-use states. Access runs through a medical gate, but that gate has been opened by a very large number of people."
+          "Florida runs a medical programme, and it is one of the largest in the United States by registered patients. A physician certification and a state patient card open the market. Adult-use retail is not the access path here: eligibility runs through the medical gate the state maintains.",
+          "The programme has grown steadily since it began, and Florida now has a patient population that rivals the customer base of many adult-use states. Access runs through a medical gate, but that gate has been opened by a very large number of people.",
+          "Exact patient counts, possession limits, and certification rules can change, and secondary summaries drift out of date quickly. Readers should confirm current requirements through the state's official medical cannabis resources before relying on any third-party description.",
+          "For a reference reader, the practical frame is simple. Eligible patients enter licensed dispensaries with the credentials the state requires; product on a licensed shelf has been through the compliance path Florida sets for medical retail; and current licensed-operator listings matter more than any fixed mental map of which brands sit where on any given week."
         ]
       },
       {
         "id": "vertical-integration",
         "heading": "A vertically integrated market",
         "paragraphs": [
-          "Florida is structured differently from almost every other state. Licence holders are vertically integrated — the same company grows, processes and sells its own product — so a Florida dispensary carries what its own licence holder produced.",
-          "In most legal states a dispensary is a shop, buying from many brands and choosing what to stock. Walking into a California retailer means choosing between dozens of names.",
-          "Florida works as a set of complete operations instead. Because a licence holder produces what it sells, a Florida dispensary is closer to a brand's own storefront, and everything on the shelf came from one house."
+          "Florida is structured differently from almost every other state. Licence holders are vertically integrated - the same company grows, processes and sells its own product - so a Florida dispensary carries what its own licence holder produced.",
+          "In most legal states a dispensary is a shop, buying from many brands and choosing what to stock. Walking into a California retailer means choosing between dozens of names. Florida works as a set of complete operations instead.",
+          "Because a licence holder produces what it sells, a Florida dispensary is closer to a brand's own storefront, and everything on the shelf came from one house. That vertical model is the structural fact that shapes menus, expansion, and how buyers learn the market.",
+          "It also means the state's market moves differently from open multi-brand retail. Expansion happens at the licence-holder level rather than shop by shop, and a new door is usually another outlet of an existing vertically integrated operator rather than an independent retailer stocking a free-for-all catalogue."
         ]
       },
       {
@@ -820,7 +823,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "It is the single most useful thing to understand about buying cannabis in Florida, and it explains the shape of the whole market.",
           "Choosing a dispensary in Florida is closer to choosing a producer. The relationship between where you shop and what you get is more direct than anywhere else, and buyers here tend to develop a preference for a particular operation rather than for a product they hunt across shops.",
-          "It also means the state's market moves differently. Expansion happens at the licence-holder level rather than shop by shop."
+          "That preference pattern is rational in a vertically integrated system. If the same house grows, processes, and sells what is on the shelf, loyalty attaches to the operator whose construction and consistency you trust - not to a brand name that might appear at five unrelated doors with five different supply stories.",
+          "For someone arriving from an adult-use multi-brand state, the shift can feel unfamiliar at first. The useful habit is to treat each licensed Florida door as the face of a single production chain, then compare chains the way you would compare producers elsewhere - with live menus and the package in hand, not with assumptions borrowed from open retail."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Florida purchase begins with medical eligibility. Certified patients enter a licensed dispensary with the identification and patient credentials the state requires, browse a menu of tested product from that licence holder's operation, and leave with sealed packaging that carries the batch and labelling information Florida requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated medical channel rather than relying on informal sources.",
+          "Local practice can still vary by city and by shop - hours, delivery options if offered, and how a particular operator organises its floor. The constant is the licence itself: a Florida medical door should be able to show that it is licensed, and the product should trace to that licence holder's regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -828,7 +841,9 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Florida",
         "paragraphs": [
           "Presidential is opening in Florida. Licensed retailer listings will publish on the official locator as live records become available.",
-          "Everything that appears on the locator is verified first — every door listed is a real, licensed, confirmed retailer. That standard is why a buyer can trust what the locator returns, in Florida and in every other market."
+          "Everything that appears on the locator is verified first - every door listed is a real, licensed, confirmed retailer. That standard is why a buyer can trust what the locator returns, in Florida and in every other market.",
+          "Until live Florida doors appear, treat this page as market structure rather than a stock list. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact, and in Florida that fact also sits inside vertical integration - the door and the production chain are the same house.",
+          "Verify current availability with the licensed operator and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated medical channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry."
         ]
       },
       {
@@ -836,8 +851,18 @@ export const statesPages: PageContent[] = [
         "heading": "What Presidential builds",
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are the original — flower carried through with concentrate, finished in kief. The rolled formats carry that same material ready to light. Minis are the blunt at a shorter length.",
-          "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "Moon Rocks are the original - flower carried through with concentrate, finished in kief. The rolled formats carry that same material ready to light. Minis are the blunt at a shorter length.",
+          "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Florida is the licensed medical route to the shelf and the live retailer records that confirm it. When Florida doors list, match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in Florida",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Florida retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the operator's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits Florida especially well. A vertically integrated medical market already asks buyers to trust a single production chain over informal sources - and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -845,7 +870,8 @@ export const statesPages: PageContent[] = [
         "heading": "When Florida opens",
         "paragraphs": [
           "The official locator covers every state where Presidential is carried and updates as licensed retailers come online.",
-          "The Florida page reflects live records, so it will show doors the moment there are doors to show."
+          "The Florida page reflects live records, so it will show doors the moment there are doors to show. Use those live records - not archived posts or out-of-state menus - as the last step before you travel.",
+          "Keep this page for durable market context: medical access through physician certification and a patient card, vertical integration that makes each dispensary the face of one production chain, and a buyer habit of choosing an operator as much as a product. Use the locator for live doors. Use the package for the final product check. That order keeps Florida buying inside the regulated medical channel this reference describes."
         ]
       }
     ],
