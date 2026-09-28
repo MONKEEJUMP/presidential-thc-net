@@ -293,27 +293,40 @@ export const howToStoreInfusedCannabis: PageContent = {
   h1: "How to Store It",
   title: "How to Store Infused Cannabis | Presidential THC",
   description:
-    "Learn how to store infused cannabis in a clean, closed container away from heat and light while limiting handling and monitoring product condition.",
-  wordTarget: [700, 900],
+    "Learn how to store infused cannabis in a clean, airtight container away from heat, light, and humidity while limiting handling and monitoring freshness by format.",
+  wordTarget: [1100, 1250],
   intro: [
-    "Store infused cannabis in a clean, securely closed container in a cool, dark place. Heat, light, and time are the three main pressures to control, and terpenes are the first part of the product that heat and light take away. Keep different formats separated, minimize open-container time, and inspect the product before returning it to storage.",
+    "Store infused cannabis in a clean, airtight container in a cool, dark, dry place. Heat, light, humidity, and time are the main pressures to control, and terpenes are the first part of the product that heat and light take away. Keep different formats separated, minimize open-container time, and inspect the product before returning it to storage.",
     "Good storage does not freeze a product in its original state forever. It slows avoidable change and keeps the flower, concentrate, kief, or wrap from being exposed to conditions that work against its construction.",
+    "This page is for adults twenty-one and older who want an educational storage routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat each format as its own handling case instead of assuming one jar method fits every product.",
   ],
   sections: [
     {
       id: "three-storage-pressures",
-      heading: "Control Heat, Light, and Time",
+      heading: "Control Heat, Light, Humidity, and Time",
       paragraphs: [
-        "Heat can soften concentrate, alter how a coating sits on flower, and speed the loss of volatile aroma compounds. Light adds another source of exposure, while time allows small changes to accumulate. A consistently cool, dark location addresses the first two and makes the third easier to manage.",
-        "Consistency matters more than inventing a complicated ritual. Choose one suitable storage location, return the product there after handling, and avoid places that regularly heat up or sit in direct light. The goal is a stable environment, not frequent movement between extremes.",
+        "Heat can soften concentrate, alter how a coating sits on flower, and speed the loss of volatile aroma compounds. Light adds another source of exposure, while time allows small changes to accumulate. Humidity sits between those pressures: excess moisture can encourage sticking, soft wraps, and surface change, while overly dry air can leave flower brittle and coatings more likely to flake during handling.",
+        "A consistently cool, dark, dry location addresses heat, light, and humidity together and makes time easier to manage. Consistency matters more than inventing a complicated ritual. Choose one suitable storage location, return the product there after handling, and avoid places that regularly heat up, sit in direct light, or swing between damp and arid extremes.",
+        "Kitchen counters, car consoles, sunny windowsills, and bathroom cabinets are common problem spots because temperature and moisture change there throughout the day. A closed cabinet or drawer away from appliances and sunlight is usually more stable than a decorative jar left on an open shelf.",
       ],
     },
     {
-      id: "container-choice",
-      heading: "Choose a Container That Fits the Format",
+      id: "airtight-container-choice",
+      heading: "Choose an Airtight Container That Fits the Format",
       paragraphs: [
-        "A useful container closes securely, stays clean, and gives the product enough room to be removed without scraping away its surface. Moon rocks need space for the kief coat; pre-rolls and minis need support that does not bend the paper; a cartridge should remain protected from debris and impact.",
-        "An opaque container adds protection from light. If the container is clear, the storage location itself must provide darkness. Oversized containers leave material moving around, while an overly tight container can press or smear a concentrate coating, so fit is part of the decision.",
+        "An airtight seal limits exchange with room air, which helps control humidity swings and slows aroma loss when the container is closed correctly. A useful container closes securely, stays clean, and gives the product enough room to be removed without scraping away its surface. Glass with a tight lid is a common choice; food-grade jars and original sealed packaging can also work when they close fully and stay dry.",
+        "Moon rocks need space for the kief coat; pre-rolls and minis need support that does not bend the paper; a cartridge should remain protected from debris and impact. An opaque container adds protection from light. If the container is clear, the storage location itself must provide darkness.",
+        "Oversized containers leave material moving around, while an overly tight container can press or smear a concentrate coating, so fit is part of the decision. Confirm the lid seats evenly after each use. A lid that only appears closed still lets air and light reach the product between sessions.",
+      ],
+    },
+    {
+      id: "format-specific-storage",
+      heading: "Match Storage Tips to Flower, Concentrates, and Pre-Rolls",
+      paragraphs: [
+        "Infused flower and moon rocks favor a roomy airtight jar that protects the outer coat. Leave headspace so pieces do not grind against each other, and avoid stacking heavy items on top of coated flower. Keep the jar closed except when removing a piece, and return unused material promptly so the coating is not left open under room light.",
+        "Concentrates and coatings respond quickly to heat. Store them upright or in their intended tray when the package provides one, and keep them away from warm electronics or pockets for long periods. If a concentrate softens in a warm room, move the closed container to a cooler dark location and allow it to stabilize before handling rather than scraping soft material across tools.",
+        "Pre-rolls, blunts, and minis need support that preserves shape. Store them in a rigid tube, original sealed pack, or snug case so the paper or wrap does not bend, crease, or flatten. Keep humidity moderate: a wrap that sits in damp air can soften, while a wrap left in a hot dry spot can dry out and crack. Cartridges belong in a clean case that protects mouthpieces and connectors from lint and impact.",
+        "These format notes refine the same baseline. Cool, dark, dry, airtight storage still applies; the container and orientation change so the construction of each product stays intact between uses.",
       ],
     },
     {
@@ -329,24 +342,25 @@ export const howToStoreInfusedCannabis: PageContent = {
       heading: "Reduce Handling and Open Time",
       paragraphs: [
         "Plan the handling step before opening the container. Set out the clean tool or surface, remove only what is needed, and close the remaining product again. For moon rocks, use fingers or scissors instead of a grinder so the concentrate does not gum the teeth and the kief stays with the piece.",
-        "Repeated touching transfers material away from the product and onto hands or tools. It also gives heat and room light more opportunities to reach the exposed surface. A short, deliberate routine protects both the construction and the cleanliness of the stored portion.",
+        "Repeated touching transfers material away from the product and onto hands or tools. It also gives heat, humidity, and room light more opportunities to reach the exposed surface. A short, deliberate routine protects both the construction and the cleanliness of the stored portion.",
       ],
     },
     {
-      id: "signs-of-change",
-      heading: "Notice Changes Without Guessing",
+      id: "freshness-signs",
+      heading: "Read Freshness Signs Without Guessing",
       paragraphs: [
-        "Use observable comparisons: is the aroma less distinct than when the package was opened, has the concentrate shifted or softened, has the kief coat rubbed away, or has a paper format bent or loosened? Those details describe product condition without making claims about personal effects.",
-        "A single visual change does not explain its own cause. Warm storage, bright exposure, repeated handling, or simply time may contribute. Record what you can see and smell, compare it with the package description, and avoid treating an uncertain change as proof of one specific problem.",
+        "Use observable comparisons against the product as first opened: is the aroma less distinct, has the concentrate shifted or softened, has the kief coat rubbed away, has flower become unusually brittle or sticky, or has a paper format bent, loosened, or softened? Those details describe condition without making claims about personal effects.",
+        "Freshness signals differ by format. Infused flower may show a flatter aroma or a coating that no longer sits evenly. Concentrates may look oilier, drier, or more separated than when sealed. Pre-rolls may lose a crisp wrap edge or develop creases from poor support. Cartridges may collect debris on the mouthpiece or show hardware wear from loose storage.",
+        "A single visual change does not explain its own cause. Warm storage, bright exposure, humidity swing, repeated handling, or simply time may contribute. Record what you can see and smell, compare it with the package description, and avoid treating an uncertain change as proof of one specific problem.",
       ],
     },
     {
       id: "simple-routine",
       heading: "Use a Repeatable Storage Routine",
       paragraphs: [
-        "A reliable routine is short: verify the label, keep the product in a fitting container, store it cool and dark, open it only when needed, use clean handling, inspect it, and close it again. That sequence works across infused flower and wrapped formats while respecting their physical differences.",
+        "A reliable routine is short: verify the label, keep the product in a fitting airtight container, store it cool, dark, and dry, open it only when needed, use clean handling, inspect freshness signs, and close it again. That sequence works across infused flower, concentrates, and wrapped formats while respecting their physical differences.",
         "Keep the original package information with the product and follow any instructions printed there. General storage principles provide a baseline, but the specific format, container, and batch information remain relevant. When availability or replacement is the question, use the brand's official licensed-retailer path rather than treating this reference site as a store.",
-        "Review the location whenever the season or room conditions change. A place that stays cool and dark at one time may receive direct light or more heat at another. Moving the closed container to a more stable spot is a storage correction; repeatedly opening it to check conditions is not.",
+        "Review the location whenever the season or room conditions change. A place that stays cool and dark at one time may receive direct light, more heat, or higher humidity at another. Moving the closed container to a more stable spot is a storage correction; repeatedly opening it to check conditions is not.",
         "The container also needs to remain identifiable. Preserve the printed package or keep it directly with the inner container, especially when more than one infused format is stored. That small organizational step protects the connection among the material, its description, its batch, and its directions.",
       ],
     },
