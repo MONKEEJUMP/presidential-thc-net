@@ -404,10 +404,11 @@ export const scienceCorePages: PageContent[] = [
     title: "Cannabinoids Beyond THC | Presidential THC",
     description:
       "A descriptive guide to THC, THCa, CBD, CBG, and CBN, including their plant chemistry and the way laboratories list them.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Cannabinoids are a family of related compounds found in cannabis, and a laboratory panel separates them because each name represents a distinct analyte. THC and its acidic precursor THCa may dominate the label, but CBD, CBG, and CBN can appear in their own rows and should be read independently rather than folded into one generic potency number.",
       "The plant builds much of this chemistry in acidic forms. Heat can remove carbon dioxide from those precursors, while storage and oxidation can change the profile further; the label is therefore a measured snapshot of a particular batch.",
+      "This page is for adults twenty-one and older who want a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
     ],
     sections: [
       {
@@ -416,6 +417,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "Cannabigerolic acid, abbreviated CBGA, acts as a central branch point in cannabinoid biosynthesis. Plant enzymes can convert it into other acidic cannabinoids, including THCa and CBDA. Research that rebuilt the pathway in yeast demonstrated production of CBGA, THCa, and CBDA using the relevant biosynthetic machinery, helping establish the precursor relationships without relying on product folklore.",
           "Those acidic molecules can lose carbon dioxide through decarboxylation. THCa becomes THC, CBDA becomes CBD, and CBGA becomes CBG. The resulting names are not interchangeable with their precursors. A laboratory that measures both forms reports them separately because their molecular masses and chemical identities differ.",
+          "For infused products, the family tree matters because flower, extract, and coating layers can each contribute different mixes of precursors and neutrals. A label that lists THCa beside THC describes two measured forms across that stack, not a marketing synonym. CBGA’s branch-point role explains why CBDA, THCa, and related acids can appear together without implying that CBD or CBG are “kinds of THC.” Read each name as its own molecule on the pathway.",
         ],
       },
       {
@@ -424,6 +426,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "THCa is the acidic precursor present in the living plant. Heat converts it to THC by removing a carboxyl group as carbon dioxide. The mass change is the reason Total THC cannot be calculated by simply adding the two percentages: THCa has a molecular weight of 358.47 grams per mole, compared with 314.46 for THC.",
           "On a report, look for separate THCa, THC, and Total THC entries. The calculated relationship is Total THC = (THCa × 0.877) + THC. A sample with 50% THCa and 2% THC therefore has a theoretical Total THC of 45.85%, subject to the report’s rounding. The calculation standardizes the panel; it does not merge the underlying molecules into one laboratory result.",
+          "Infused formats make the distinction practical. A coating, distillate, or crystal fraction may contain more decarboxylated THC than the flower it coats, while another lot may report substantial THCa. Comparing packages by one headline potency number without checking whether the panel is THCa-heavy, THC-heavy, or already totaled with the 0.877 factor invites apples-to-oranges mistakes. When two products advertise high Total THC, open the COA and ask which share came from measured THC versus calculated conversion from THCa.",
         ],
       },
       {
@@ -432,6 +435,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "CBD is the neutral form associated with the acidic precursor CBDA. CBG is the neutral form associated with CBGA, the central precursor that can also feed other branches of the plant’s cannabinoid pathway. Describing those origins is more precise than calling either compound a different “type of THC.” They have their own structures and their own report lines.",
           "Some panels show both the acidic and neutral form for a cannabinoid, while others emphasize only compounds included in the laboratory’s method or detected above its reporting threshold. Read the exact analyte name and unit. A CBD value does not stand in for CBDA, and a CBG value does not reveal how much CBGA was present unless the corresponding acid row is also reported.",
+          "On infused-product panels, CBD and CBG usually appear as minor cannabinoids relative to the THC and THCa majority. That minor status does not make the rows optional footnotes. They remain independent analytes for batch comparison, not substitutes for Total THC math. If CBDA or CBGA also appear, treat those acids like THCa relative to THC—related by pathway, reported separately, never assumed from the neutral value alone.",
         ],
       },
       {
@@ -440,6 +444,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "CBN is cannabinol, another distinct cannabinoid that can appear on a panel. Primary analytical research describes CBN formation through oxidation of THC during storage and exposure to environmental factors. That makes CBN different from the simple acid-to-neutral pairs above: it is often discussed as part of a changing or aged chemical profile rather than as a direct synonym for THC.",
           "A CBN percentage still means only what the named row says. It should not be added into Total THC, and its presence does not authorize a medical or effects conclusion. The defensible statement is compositional: the laboratory measured a separate molecule in the submitted sample, under the method and reporting limits identified by the COA.",
+          "In an infused stack that has been stored, heated during manufacture, or held under light and air, a detectable CBN row can mark that the THC-related fraction has aged or oxidized relative to an earlier snapshot. That stays compositional. It does not license an effects claim about CBN, nor change how Total THC is calculated from THCa and THC.",
         ],
       },
       {
@@ -449,6 +454,15 @@ export const scienceCorePages: PageContent[] = [
           "Begin with the batch number so the report and package match. Then note every cannabinoid’s full name, whether it is acidic or neutral, its unit, and whether the value is a direct measurement or a calculated total. Percentages and milligrams per gram describe concentration on different scales and should be converted before comparison.",
           "Next, keep totals narrow. Total THC combines THCa after the 0.877 mass adjustment with measured THC; it does not mean “all cannabinoids.” CBD, CBG, and CBN remain separate unless the report provides a separately defined total for them. Finally, respect the panel’s scope: it describes analytes the laboratory tested and reported for that sample. It is a chemistry record, not a complete prediction about the product or the person encountering it.",
           "The suffix is part of the analyte name, not optional punctuation. THCa and THC occupy separate rows for the same reason CBDA and CBD can occupy separate rows: one is an acidic precursor and one is its decarboxylated counterpart. If a panel lists only one member of a pair, do not invent the missing value. Report what was measured, use a defined formula only where one is supplied, and leave unrelated cannabinoids out of that calculation.",
+          "For infused cannabis specifically, confirm that each cannabinoid row’s unit matches how the product is sold—percent by weight, milligrams per gram, or milligrams per serving—and that batch identity ties the package to the COA. Do not invent a medical story from a minor-cannabinoid percentage, and do not fold CBD, CBG, or CBN into Total THC. The panel records measured composition for adults twenty-one and older; it does not prescribe use, dose, or outcome.",
+        ],
+      },
+      {
+        id: "infused-products-and-silo",
+        heading: "Cannabinoids across infused products and the science silo",
+        paragraphs: [
+          "Infused flower, coated pre-rolls, and extract-heavy formats still resolve to the same panel grammar: THCa and THC for the dominant pathway, CBD/CBDA and CBG/CBGA as separate branch-point relatives, and CBN as a distinct oxidation-related analyte when reported. Distillate, liquid-diamonds, live-resin, and live-rosin pages explain how stacked materials are made; this article names the molecules the laboratory lists.",
+          "The THCa-versus-THC guide deepens the precursor math. Decarboxylation separates conversion from evaporation. The laboratory-report article places the cannabinoid group beside compliance sections on a Certificate of Analysis. Brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
     ],
