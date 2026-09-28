@@ -9,8 +9,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC by State — Where the Brand Is Carried",
     "description": "Presidential is carried across eight states through licensed retail. How each market works, and where to find the nearest licensed door.",
     "wordTarget": [
-      800,
-      1100
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -20,7 +20,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
           "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Two run medical programmes, where a state patient card opens the door.",
-          "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers."
+          "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers. Adult-use and medical are access rules, not style preferences."
         ]
       },
       {
@@ -29,7 +29,16 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
           "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
-          "Those are six different stories and they deserve six different pages. Florida and Washington add two more."
+          "Those are six different stories and they deserve six different pages. Florida and Washington add two more — one medical and vertically integrated, one adult-use and foundational."
+        ]
+      },
+      {
+        "id": "adult-use-and-medical-routes",
+        "heading": "Adult-use and medical routes",
+        "paragraphs": [
+          "Adult-use markets in this directory — California, New York, Nevada, Michigan, Arizona, and Washington — share a simple door rule: valid identification and age twenty-one or older at a licensed retailer. Beyond that shared gate, the markets diverge on licensing density, visitor design, competition, and how long regulated retail has been ordinary.",
+          "Medical markets here — Oklahoma and Florida — keep eligibility behind a patient credential. Oklahoma's physician-determination model and Florida's vertically integrated operators are not interchangeable medical stories; they answer different questions about who may buy and how a licensed shelf is stocked.",
+          "Start with the access route before comparing shelf depth or brand presence. The California reference and the New York reference both describe adult-use doors, yet one is an established deep shelf and the other is a fast-growing buildout. The Oklahoma reference and the Florida reference both describe medical gates, yet one is multi-brand retail and the other is operator-owned production chained to the storefront."
         ]
       },
       {
@@ -45,7 +54,8 @@ export const statesPages: PageContent[] = [
         "heading": "Use the directory as a route map",
         "paragraphs": [
           "A state page is a starting point for checking a market, not a permanent inventory list. Open the page for the state you are checking, identify the licensed-retail path described there, then confirm current participation with a licensed retailer or the current official listing. The California reference covers an established adult-use market, while the New York reference covers a newer retail network that can change quickly.",
-          "Use the pages in that order: choose the state, read its access and licensing notes, then check current retailer information. An old menu, a package photographed in another market, or a third-party directory does not establish present availability. The state page supplies durable context; a current licensed source supplies the last step."
+          "Use the pages in that order: choose the state, read its access and licensing notes, then check current retailer information. An old menu, a package photographed in another market, or a third-party directory does not establish present availability. The state page supplies durable context; a current licensed source supplies the last step.",
+          "When the question is medical access rather than adult-use density, open the Oklahoma reference or the Florida reference first. When the question is early-market structure and long-settled retail habits, open the Washington reference."
         ]
       },
       {
@@ -66,12 +76,21 @@ export const statesPages: PageContent[] = [
         ]
       },
       {
+        "id": "how-to-use-the-state-pages",
+        "heading": "How to use the state pages together",
+        "paragraphs": [
+          "Use the California reference when the question is a deep adult-use shelf and local municipal variation. Use the Nevada reference when visitor access, destination retail, or licensed consumption lounges shape the trip. Use the Michigan reference when competitive value and open licensing are the frame. Use the Arizona reference when capped licences and curated placement matter.",
+          "Use the New York reference when the licensed network is still expanding and last season's map is already stale. Use the Oklahoma reference when physician determination and a medical patient licence open multi-brand dispensaries. Use the Florida reference when vertical integration makes the storefront the face of one production chain. Use the Washington reference when early adult-use history and long-settled retail habits are the context.",
+          "Return to this hub whenever state names threaten to blur into one national story. Adult-use is not medical. Name the access route, read the state page for durable structure, then confirm the live door and the package."
+        ]
+      },
+      {
         "id": "what-stays-the-same",
         "heading": "What stays the same everywhere",
         "paragraphs": [
           "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: forty-seven products across six groupings, organised by the extract behind them rather than by price.",
-          "What changes is the route to the shelf, and that is what these eight references cover."
+          "What changes is the route to the shelf, and that is what these eight references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
         ]
       },
       {
@@ -154,6 +173,24 @@ export const statesPages: PageContent[] = [
         "paragraphIndex": 0
       },
       {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma reference",
+        "sectionId": "use-the-state-directory",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/florida",
+        "anchor": "Florida reference",
+        "sectionId": "use-the-state-directory",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/washington",
+        "anchor": "Washington reference",
+        "sectionId": "use-the-state-directory",
+        "paragraphIndex": 2
+      },
+      {
         "href": "/states/nevada",
         "anchor": "Nevada reference",
         "sectionId": "separate-market-from-product",
@@ -170,6 +207,90 @@ export const statesPages: PageContent[] = [
         "anchor": "Arizona reference",
         "sectionId": "verify-current-state-information",
         "paragraphIndex": 0
+      },
+      {
+        "href": "/states/california",
+        "anchor": "California reference",
+        "sectionId": "adult-use-and-medical-routes",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/new-york",
+        "anchor": "New York reference",
+        "sectionId": "adult-use-and-medical-routes",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma reference",
+        "sectionId": "adult-use-and-medical-routes",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/florida",
+        "anchor": "Florida reference",
+        "sectionId": "adult-use-and-medical-routes",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/states/california",
+        "anchor": "California reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/michigan",
+        "anchor": "Michigan reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/arizona",
+        "anchor": "Arizona reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/states/new-york",
+        "anchor": "New York reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/states/florida",
+        "anchor": "Florida reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/states/washington",
+        "anchor": "Washington reference",
+        "sectionId": "how-to-use-the-state-pages",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/formats",
+        "anchor": "formats",
+        "sectionId": "what-stays-the-same",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/science",
+        "anchor": "science",
+        "sectionId": "what-stays-the-same",
+        "paragraphIndex": 2
       }
     ]
   },
