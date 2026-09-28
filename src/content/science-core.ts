@@ -295,14 +295,15 @@ export const scienceCorePages: PageContent[] = [
     path: "/science/terpenes",
     kind: "article",
     silo: "science",
-      h1: "Cannabis Terpenes: What Weed Terpenes Are",
-      title: "Cannabis Terpenes | Aroma, Flavor, and Volatility",
+    h1: "Cannabis Terpenes: What Weed Terpenes Are",
+    title: "Cannabis Terpenes | Aroma, Flavor, and Volatility",
     description:
       "A precise guide to cannabis terpenes, their aroma vocabulary, reference boiling points, volatility, and processing tradeoffs.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
-        "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
+      "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
       "Boiling points help compare compounds, but they are not device instructions. Evaporation begins below a listed boiling point and unfolds over time, so flavor cannot be reduced to one temperature on a dial.",
+      "This page is for adults twenty-one and older who want science and education framing around aroma, flavor, and volatility—not medical advice, dosing guidance, or therapeutic claims about named terpenes. The useful skill is reading a terpene panel as a measured mixture, connecting that mixture to processing history, and keeping boiling-point references in proportion.",
     ],
     sections: [
       {
@@ -311,6 +312,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "A terpene panel describes a mixture. Caryophyllene is associated with pepper and clove, pinene with pine and rosemary, myrcene with musky and earthy notes, limonene with bright citrus, and linalool with floral or lavender character. Terpinolene adds citrus and fruity reference notes. Those descriptors are vocabulary for the compounds, not a guarantee that a finished product will smell like one isolated ingredient.",
           "Concentration and proportion shape the profile together. Two samples can contain the same named terpene yet present different overall aromas because the surrounding compounds and their ratios differ. This is why a complete panel is more useful than choosing one row and treating it as the identity of the material.",
+          "Aroma vocabulary also travels poorly when it is flattened into a single marketing word. “Citrus,” “pine,” or “earthy” can each arise from more than one compound, and several compounds can contribute to the same perceived note. The panel’s job is to list what was measured; sensory language is a translation aid, not a one-to-one map from one row to one smell.",
         ],
       },
       {
@@ -319,6 +321,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The table gives useful comparison points at standard pressure. Caryophyllene sits at the low end of this set, while linalool is highest among the five values supplied in the project research brief. Terpinolene is included to complete the six-terpene overview, using the boiling-point range reported in a primary analytical study and aroma vocabulary from primary flavoromics research.",
           "Read the order as a comparison of pure compounds under reference conditions, not as a ranked list of flavors or a recipe for a finished extract. Cannabis material is a mixture, and each component occupies only part of that mixture. The table can show that caryophyllene and linalool have widely separated reference points, but it cannot tell you the exact concentration of either compound in a product. That information belongs on a batch-specific terpene panel.",
+          "Reference boiling points also assume standard pressure and pure compounds. Real flower, resin, or oil is neither pure nor held at a single uniform temperature. Device settings, chamber geometry, airflow, and contact time change how heat reaches the material, so a chart is a comparison tool rather than a control panel for aroma delivery.",
         ],
         table: {
           caption: "Reference boiling points and aroma descriptors for six terpenes",
@@ -339,6 +342,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "A boiling point is where a compound leaves rapidly under the stated conditions, not the first temperature at which molecules enter the vapor phase. A 2022 study cited in the project research brief found that vaporizers operating well below published boiling points still evaporated the compounds almost completely over time. Duration and heat transfer belong in the explanation alongside temperature.",
           "That finding resolves a common chart-reading mistake. A device does not have to reach 388°F before any linalool can leave, nor does crossing 388°F mean every trace disappears at once. Published values organize volatility; actual delivery depends on the material, hardware, exposure, and time.",
+          "Keep evaporation separate from decarboxylation when reading heat discussions. Evaporation describes aromatic molecules moving into the vapor phase. Decarboxylation describes an acidic cannabinoid losing carbon dioxide and becoming its neutral form. Both respond to heat, but a boiling-point chart answers the first question more directly than the second. Mixing those verbs produces confused temperature advice.",
         ],
       },
       {
@@ -348,6 +352,7 @@ export const scienceCorePages: PageContent[] = [
           "Volatile compounds can change during drying, curing and storage, which is why processing choices are part of flavor science. Live-resin production uses fresh-frozen material and controlled extraction conditions intended to retain compounds that ordinary postharvest handling can reduce. Exact settings vary by producer.",
           "Storage continues the same contest after extraction. Heat and light take terpenes first, so a profile measured at production is not protected from later handling. A cool, dark environment slows the conditions that strip away the most volatile part of the composition. The point is preservation of measured material, not the invention of aroma after the fact.",
           "This gives terpene preservation a chain rather than a single checkpoint. Harvest timing establishes the starting material, processing determines which volatile fraction carries forward, and storage affects what remains when the container is opened. A strong result at one stage cannot erase losses at another. When comparing extract styles, ask which steps were designed to retain the original aromatic fraction and which steps deliberately favor another goal, such as a different consistency or a more neutral base.",
+          "Loss figures from postharvest research are ranges, not fixed rules for every cultivar and every lot. The project research record notes that terpene loss across drying, curing, and storage can reach half of the starting total. That upper-bound language explains why process history matters; it does not license a claim that every dried sample lost exactly fifty percent. Batch panels remain the evidence for what a specific product still contains.",
         ],
       },
       {
@@ -356,6 +361,15 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The entourage effect proposes that multiple cannabis compounds may interact in ways that are not captured by considering one molecule alone. It remains a working hypothesis, not settled science. A terpene panel can establish which compounds a laboratory measured and in what amounts; it cannot, by itself, prove a particular combined biological outcome.",
           "That boundary does not make terpene data unimportant. The panel is valuable for composition, aroma comparison, quality control, and tracking what processing preserved. It simply should not be stretched into medical or effects claims. The defensible reading is chemical and sensory: identify the mixture, note its volatility, and compare it with the product’s processing history.",
+          "Named terpenes on a label therefore support identification and comparison, not invented outcome stories. Avoid translating a single row into a mood, a medical use, or a dosing instruction. The educational value of the panel is that it records composition at a point in time; interpretation stays inside aroma, flavor, volatility, and process evidence.",
+        ],
+      },
+      {
+        id: "read-terpenes-with-science",
+        heading: "Read terpenes with the rest of the science silo",
+        paragraphs: [
+          "This article keeps terpenes in the vocabulary of mixture, volatility, and process history. The laboratory-report guide shows where a terpene panel sits beside cannabinoid and compliance sections on a Certificate of Analysis. The decarboxylation page separates heat-driven conversion of THCa from evaporation of aromatic compounds.",
+          "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
     ],
