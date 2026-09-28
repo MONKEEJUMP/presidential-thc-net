@@ -278,10 +278,11 @@ export const formatsPages: PageContent[] = [
     title: "Small Blunts | Mini Infused Blunts Guide",
     description:
       "Learn how mini blunts preserve blunt construction at a smaller scale and what size changes about airflow, infusion, labels, and handling.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       `Small blunts are shorter blunt-format rolls built with cannabis fill, concentrate, and a substantial wrap. A mini infused blunt preserves the essential wrapped construction while reducing the total amount of material and the length of the burn path. Smaller does not automatically mean weaker by weight; the tested label is the source for cannabinoid content.`,
       `The format makes sense when the desired unit is more compact than a full blunt but the wrap-led structure is still the point. Scaling down requires its own decisions about fill, seam, airflow, and infusion distribution.`,
+      `This page is for adults twenty-one and older who want format and education framing: how a mini keeps blunt architecture at reduced size, how infusion and session length change with geometry, and how to read package language. It is not medical advice, dosing guidance, or a claim that any size or infusion pattern is safer or healthier.`,
     ],
     sections: [
       {
@@ -293,11 +294,30 @@ export const formatsPages: PageContent[] = [
         ],
       },
       {
-        id: "when-format-fits",
-        heading: "When the compact format fits",
+        id: "size-vs-full-blunt",
+        heading: "Size compared with a full blunt",
         paragraphs: [
-          `The practical reason to choose a mini is format size. A full blunt contains more total wrap and fill and creates a longer continuous session by construction. A mini packages the same general idea into a smaller single unit. That is a logistical distinction, not a promise about effects, convenience, or precise intake.`,
-          `Package count matters too. One package may contain a single mini or multiple units, so compare net contents and cannabinoid values at the package level. Do not assume that two products using the word mini share the same weight, diameter, infusion ratio, or labeling format. The name is a category; the package identifies the actual unit.`,
+          `A full blunt generally carries more total wrap and fill and presents a longer continuous burn path. A mini packages the same wrap-led idea into a shorter unit with less total material. Those are physical differences you can measure on the package: unit length, diameter when disclosed, net contents, and package count.`,
+          `The word mini does not establish a single industry weight or infusion ratio. Two products labeled mini can differ in fill grams, wrap type, cannabinoid totals, and how many pieces sit in one package. Compare net contents and cannabinoid statements at the package level rather than treating the category name as a standardized size.`,
+          `Because a shorter body changes the ratio of wrap to fill, a mini is not simply a truncated full blunt. Seam width, tip length, and end finishing occupy more of the total length, so evaluating size means evaluating proportions.`,
+        ],
+      },
+      {
+        id: "when-format-fits",
+        heading: "When the compact format fits better",
+        paragraphs: [
+          `The practical reason to choose a mini is format size and session structure. A full blunt is built for a longer continuous run of wrap and fill. A mini fits when a shorter single unit better matches the planned session length, shared pacing among fewer people, or a preference for finishing one compact piece rather than managing a longer cylinder.`,
+          `Minis also fit multipack logistics. Several smaller units can let each session start with a fresh sealed or individually protected piece, while a single full blunt commits the entire longer format at once. That is a packaging and pacing distinction, not a claim about effects or precise intake.`,
+          `Choose by construction and package facts. If the wrap-led blunt style is the point but the longer body is more material than the session needs, the mini is the size match. Neither size ranks above the other; they answer different unit-scale questions.`,
+        ],
+      },
+      {
+        id: "session-pacing",
+        heading: "Session pacing and unit length",
+        paragraphs: [
+          `Session pacing here means how continuous burn length and unit count structure a sitting, not how much anyone should consume. A longer blunt creates one extended path from lighting end to mouth end. A mini shortens that path, so the unit ends sooner by construction. That difference is geometry and total material, not a potency ranking.`,
+          `Sharing changes the arithmetic without changing the rule. Passing a mini among fewer people still finishes the short path faster than sharing a full blunt of greater length and fill. Restarting with another mini from a multipack begins a new sealed or protected unit rather than continuing the same longer cylinder.`,
+          `Do not invent dosing from length or count. Cannabinoid content belongs on the tested label for that batch. Unit size describes how much wrap and fill are present and how long the designed burn path runs; it does not authorize calculating intake targets.`,
         ],
       },
       {
@@ -310,10 +330,11 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "infusion-at-mini-scale",
-        heading: "Infusion at mini scale",
+        heading: "Infusion options at mini scale",
         paragraphs: [
           `Concentrate has less distance over which to be distributed, but uniformity is still not automatic. One oversized pocket of extract can dominate a large fraction of the short burn path. Carrying smaller amounts through the fill, or using another controlled placement suited to the geometry, helps prevent a single point from becoming the structural bottleneck.`,
-          `The outside cannot reveal the complete distribution. A neat cylinder may hide an uneven interior, while a naturally varied hemp wrap can enclose a carefully controlled fill. Use visible construction to assess the seam and shape, and use the product label to assess ingredients and cannabinoid content. Do not turn wrapper color into a potency test.`,
+          `Common placement patterns still apply at mini scale: concentrate blended through the flower, a defined interior line along the cylinder, or another repeatable layout matched to viscosity and pack density. The shorter body leaves less room for error, so a pocket size that works on a long blunt can crowd a mini if it is not adjusted.`,
+          `The outside cannot reveal the complete distribution. A neat cylinder may hide an uneven interior, while a naturally varied hemp wrap can enclose a carefully controlled fill. Use visible construction to assess the seam and shape, and use the product label to assess ingredients and cannabinoid content. Do not turn wrapper color or aroma into a potency or infusion test.`,
         ],
       },
       {
@@ -329,7 +350,14 @@ export const formatsPages: PageContent[] = [
         heading: "Inspect and store a mini without crushing it",
         paragraphs: [
           `A compact roll can be easy to damage because the fingers naturally grip more of its total length. Handle it near the supported tip rather than pinching the center. Check the seam, both ends, the consistency of the cylinder, and the wrapper for splits. Confirm the batch or lot number, net contents, ingredients, and cannabinoid statement on the package.`,
-          `Keep minis in a rigid, closed container away from heat and light. Separate compartments or intact internal packaging help stop several units from pressing against one another. Good storage preserves the designed air channel and reduces concentrate migration. It also keeps the wrap from being flattened before the short, carefully proportioned burn path has a chance to function as intended.`,
+          `Keep minis in a rigid, closed container away from heat and light. Separate compartments or intact internal packaging help stop several units from pressing against one another. Good storage preserves the designed air channel and reduces concentrate migration before the short burn path can function as intended.`,
+        ],
+      },
+      {
+        id: "read-minis-with-formats",
+        heading: "Read minis with the rest of the formats silo",
+        paragraphs: [
+          `This article keeps the mini blunt in the vocabulary of wrap, fill, seam, reduced scale, infusion placement, session unit length, and package identity. The blunts guide shows the same wrap-led idea at full size. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
@@ -356,6 +384,7 @@ export const formatsPages: PageContent[] = [
       description: "Use the official locator when checking local format availability.",
     },
   },
+
   {
     path: "/formats/moon-rocks",
     kind: "article",
