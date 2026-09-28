@@ -628,8 +628,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in Arizona — Official State Reference",
     "description": "Arizona built adult-use retail on a decade of medical infrastructure, in a tightly licensed market. How it works, and where Presidential is carried.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -637,9 +637,10 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Arizona",
         "paragraphs": [
-          "Arizona runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification.",
+          "Arizona runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
           "Arizona reached adult use from a strong position. The state ran a medical programme for a decade first, so when voters approved adult use in 2020 the existing dispensaries converted rather than a retail sector being built from nothing. Arizona opened quickly and ran smoothly from the first day because the infrastructure was already proven.",
-          "The medical programme continues alongside adult use, and registered patients keep their advantages including a lower tax rate."
+          "The medical programme continues alongside adult use, and registered patients keep their advantages including a lower tax rate. For a reference reader, the practical split is simple: adult-use buyers enter with identification and age eligibility; patients keep the medical path they already use. Both routes reach licensed shelves rather than informal sources.",
+          "That conversion story still shapes how buying feels here. Arizona did not invent regulated cannabis from a blank map in 2020 — it extended a working medical network into adult-use retail. For someone arriving from a newer market, the difference shows up as settled storefront habits, staff who already knew compliance workflows, and packaging expectations that were not being written for the first time."
         ]
       },
       {
@@ -648,7 +649,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Arizona licenses a limited number of retailers, which produces a distinctive market: fewer dispensaries, established operators, and a retail network concentrated around Phoenix and Tucson.",
           "For a buyer, that means the shelf has been curated. A limited set of retailers choosing from every brand available means what makes it onto an Arizona shelf got there by being selected.",
-          "Those dispensaries also tend to be larger and more established than in open-licence states, with the staff experience that comes from a decade of operating under a medical programme before adult use arrived."
+          "Those dispensaries also tend to be larger and more established than in open-licence states, with the staff experience that comes from a decade of operating under a medical programme before adult use arrived.",
+          "Coverage follows where people already live and shop. Metro Phoenix and the Tucson corridor carry the densest licensed network; other communities follow the same adult-use rules where local licensing allows. Exact participation changes over time, so current listings matter more than any fixed mental map of the state."
         ]
       },
       {
@@ -657,7 +659,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Shelf space in a capped market carries different weight.",
           "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona there is a finite number of doors, every one of them chooses carefully, and a product that appears in a meaningful share of them was chosen repeatedly by people whose shelf space is their scarcest asset.",
-          "Placement is genuinely contested here, and it means more when it is won."
+          "Placement is genuinely contested here, and it means more when it is won. A buyer walking an Arizona floor is not browsing an infinite catalogue of whoever managed to open a shop last month — they are looking at what established operators decided was worth carrying in a limited footprint.",
+          "That is why this reference treats Arizona placement as structural context rather than a marketing slogan. A capped licence map does not guarantee every format at every door on every day, but it does explain why presence across many licensed doors is a stronger signal here than the same raw count would be in a wide-open retail market."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Arizona purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that already spent a decade practising medical retail before adult use arrived.",
+          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: an Arizona adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -665,7 +677,9 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Arizona",
         "paragraphs": [
           "More than fifty licensed doors carry Presidential across Arizona.",
-          "In a state that caps its licence numbers, that figure represents a meaningful share of the available retail — a larger share than the raw number suggests when set against markets where anyone can open a shop."
+          "In a state that caps its licence numbers, that figure represents a meaningful share of the available retail — a larger share than the raw number suggests when set against markets where anyone can open a shop.",
+          "That presence is the product of retailers choosing the brand onto limited shelves, not of an open-door market absorbing every listing that arrives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Use live licensed-retailer records rather than screenshots, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Arizona page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
@@ -673,8 +687,18 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down.",
-          "The series marking identifies what is behind it — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
+          "The series marking identifies what is behind it — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Arizona is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in Arizona",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Arizona retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits Arizona especially well. A curated, capped retail network already asks buyers to trust licensed doors over informal sources — and the sealed package is the last verification step those doors are built around."
         ]
       },
       {
@@ -682,7 +706,8 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Arizona",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state, concentrated around Phoenix and Tucson.",
-          "The official locator returns the nearest licensed doors with real distances."
+          "The official locator returns the nearest licensed doors with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
+          "Keep this page for durable market context: adult-use access at twenty-one, a converted medical infrastructure, limited licensing, and curated shelf space. Use the locator for live doors. Use the package for the final product check. That order keeps Arizona buying inside the regulated channel this reference describes."
         ]
       }
     ],
