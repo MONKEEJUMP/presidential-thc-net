@@ -220,10 +220,11 @@ export const scienceCorePages: PageContent[] = [
     title: "How to Read a Cannabis Lab Report | Presidential THC",
     description:
       "A field guide to cannabis Certificates of Analysis, including batch identity, cannabinoid math, terpene data, compliance results, and limits.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "A cannabis laboratory report, commonly called a Certificate of Analysis or COA, records results for a specific tested batch. Read it in this order: confirm the product and batch identity, inspect the cannabinoid panel and Total THC math, review the terpene panel when present, then check the compliance sections and the laboratory’s report details.",
       "A COA can tell you what the submitted sample measured and whether listed tests passed or failed. It cannot, by itself, describe every unit in a batch, predict flavor from one number, or replace the need to match the report to the package in hand.",
+      "This page is for adults twenty-one and older who want an educational walkthrough of Certificates of Analysis for infused cannabis—not medical advice, dosing guidance, or therapeutic claims. Match batch identity, read potency and terpene panels in their own units, and treat residual solvent and pesticide sections as scope-limited compliance records.",
     ],
     sections: [
       {
@@ -240,6 +241,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The cannabinoid panel separates analytes such as THCa and THC because the acidic precursor and the converted molecule are not identical. Reports may express concentration as a percentage, milligrams per gram, or another clearly labeled unit. Before comparing numbers, confirm that the units match; a percentage and a milligram value should not be placed side by side as though they use the same scale.",
           "Find THCa, then THC, then the reported Total THC. The check is Total THC = (THCa × 0.877) + THC. If a sample lists 60% THCa and 5% THC, the calculated total is 57.62%: 60 × 0.877 equals 52.62, plus 5. Small differences can come from displayed rounding, so calculate with the most precise values available on the report.",
+          "A potency panel lists measured cannabinoid rows plus any calculated totals the laboratory defines—not a single headline number. Read each analyte name, its unit, and whether the value is measured or calculated. Minor cannabinoids such as CBD, CBG, or CBN stay on their own lines; they are not folded into Total THC unless the report defines a separate aggregate. For infused flower, coated pre-rolls, or extract-heavy formats, the stack can mix precursor-heavy and decarboxylated fractions, so compare row-by-row composition rather than one marketing percentage.",
         ],
       },
       {
@@ -248,6 +250,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "A terpene panel lists volatile aromatic compounds individually. Names such as caryophyllene, pinene, myrcene, limonene, and linalool are more informative together than as a single “total terpenes” figure because their proportions describe the measured composition. The panel is an analytical profile, not a flavor guarantee detached from storage and processing.",
           "Terpenes can be lost through drying, curing, and storage, with losses reaching half of the total. That volatility makes the report date and batch match especially important. A terpene result documents the tested sample at a point in time; subsequent exposure to heat, light, or extended storage is outside the measurement printed on that page.",
+          "When a COA includes a terpene section, read it as composition evidence: which compounds were detected, in what units, and relative to one another. A high total with a missing named list is less informative than a complete profile with lower absolute totals. Infused products may carry terpenes from flower, a concentrate coating, or both; the panel records what the submitted sample contained at test time, not a guarantee that every unit will smell identical months later.",
         ],
       },
       {
@@ -256,6 +259,15 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "Potency occupies visual attention, but a compliance COA can contain much more. California’s Department of Cannabis Control lists required testing categories that include cannabinoids and terpenes, residual solvents and processing chemicals, residual pesticides, heavy metals, microbial impurities, mycotoxins, moisture content and water activity, and foreign material. The COA records a pass or fail for the substances covered by the applicable test.",
           "Check each named section instead of assuming one overall potency result means every compliance category was analyzed. Also distinguish a numeric result, a reporting limit, and a pass/fail conclusion; they answer different questions. A blank field should not be interpreted as zero without the report’s legend explaining what the notation means.",
+          "Residual solvents and processing chemicals appear when extraction or manufacturing can leave solvent residues; pesticide panels list residues the laboratory’s method covers. Neither invents a universal pass/fail threshold—limits belong to the applicable regulatory program and the laboratory’s method, printed on the report. Read the analyte name, the result, the reporting or action limit beside it, and the laboratory’s conclusion. A “not detected” or “below reporting limit” notation is not a blank cell, and a solvents pass does not imply a pesticides pass if that panel was never run.",
+        ],
+      },
+      {
+        id: "infused-numbers",
+        heading: "What the numbers mean on infused products",
+        paragraphs: [
+          "Infused cannabis packages often display a single potency figure on the front while the COA carries the full panel. Treat that figure as shorthand that still needs batch matching and unit confirmation. Ask whether it is Total THC after the 0.877 conversion, measured THC alone, or another defined total. Then verify that the package batch identifier matches the sample identifier on the report before comparing products.",
+          "Stacked formats—flower plus coating, distillate-heavy wraps, or extract layers—can produce panels that differ from uncoated flower even when the strain name matches. A high Total THC may reflect a decarboxylated coating more than residual THCa in the flower, or the reverse. Milligrams per serving, milligrams per package, and percent by weight answer different questions; convert only when bases match. Match identity, respect units, separate potency from compliance, and keep each section inside what the laboratory actually tested.",
         ],
       },
       {
@@ -265,6 +277,7 @@ export const scienceCorePages: PageContent[] = [
           "A COA is evidence about the sample a licensed laboratory received, the methods it used, and the analytes it reported. It does not narrate how every package was handled after sampling, and it does not turn a limited panel into an unlimited screen for every possible compound. The scope is the set of tests actually shown.",
           "Finish with three checks: correct batch, understandable units, and complete relevant sections. Recalculate Total THC when the component rows are available, read terpenes as a composition rather than a verdict, and retain the qualifiers printed by the laboratory. That sequence turns a dense report into a traceable record without asking it to answer questions it was not designed to test.",
           "When two displayed values appear inconsistent, pause before calling the report wrong. First check whether one row uses a different unit, whether the total applies the 0.877 conversion factor, and whether the document rounds its visible numbers. If the mismatch remains after those checks, the report itself should control the interpretation rather than an assumption based on front-label shorthand. A transparent comparison records the exact rows used and preserves the laboratory’s notation.",
+          "The THCa-versus-THC and cannabinoids guides deepen potency-panel math. The terpenes article places named aroma rows in a volatility context. Distillate, liquid-diamonds, live-resin, and live-rosin pages describe how stacked materials are made; this article stays on reading the laboratory document. Brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
     ],
@@ -291,6 +304,7 @@ export const scienceCorePages: PageContent[] = [
       description: "Connect laboratory composition with the structure of an infused product.",
     },
   },
+
   {
     path: "/science/terpenes",
     kind: "article",
