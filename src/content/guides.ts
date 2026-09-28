@@ -8,10 +8,11 @@ export const guidesHub: PageContent = {
   title: "Practical Guides to Infused Cannabis | Presidential THC",
   description:
     "Practical Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
-  wordTarget: [800, 1100],
+  wordTarget: [1100, 1250],
   intro: [
     "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
     "Start with the question in front of you, then use the connected guides to build a complete routine. The chemistry and advice stay focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
+    "This hub is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample.",
   ],
   sections: [
     {
@@ -20,6 +21,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Moon rocks combine flower, concentrate, and kief, so a grinder is the wrong preparation tool. The guide explains how to separate a small piece by hand or with scissors, place it where air can still move, and use a slow flame without stripping away the outer kief layer.",
         "It also compares glass with paper and shows why surrounding a moon-rock piece with ground flower can produce a more even burn. Expect a dense infused piece to need patience and an occasional relight.",
+        "Open the how to smoke moon rocks guide when preparation is next. Skip the grinder, separate a small piece, leave an air path, and light slowly.",
       ],
     },
     {
@@ -28,6 +30,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Storage begins with three pressures: heat, light, and time. Terpenes are volatile, and the supplied research notes that heat and light take them first, so cool, dark storage and a securely closing container are the basic priorities.",
         "The storage guide covers container fit, separation between formats, handling practices, and visible changes worth noticing. It also offers a simple routine for opening, inspecting, and returning the product to storage promptly.",
+        "Continue to how to store infused cannabis when the product will sit between sessions. Match the container to the format and close it after a short check.",
       ],
     },
     {
@@ -36,6 +39,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "A boiling point is not an on-off switch. Compounds can evaporate below their listed boiling points over time, which means a device setting should be treated as one part of a heat-and-time system rather than a promise of exact internal temperature.",
         "The temperature guide organizes the supplied reference points for caryophyllene, pinene, THC, myrcene, limonene, linalool, and CBD. It then explains the practical start-low, adjust-gradually method for rosin, resin, and diamond-based extracts.",
+        "Use the cannabis extract temperature guide when adjustable hardware is involved. Begin low, change one step at a time, and keep the package beside the device.",
       ],
     },
     {
@@ -44,6 +48,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Quality inspection is strongest when it uses visible and checkable signals. Appearance, aroma, kief coverage, construction, package information, and burn consistency can be described without guessing how a product will affect a particular person.",
         "The quality guide turns those signals into a repeatable inspection sequence. It also separates an unusual but explainable feature from a real mismatch between the package description, the stated format, and the product inside.",
+        "Open how to judge infused cannabis quality when you need an evidence checklist. Name the format first, then compare construction, aroma, packaging, and burn or hardware behavior.",
       ],
     },
     {
@@ -52,6 +57,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. It explains why THC percentages from different materials and finished formats need batch-specific context.",
         "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. Four sideways links lead to every other practical guide in this silo.",
+        "Start with the beginner's guide to infused cannabis when vocabulary or first-session order is unclear. Identify the format, keep batch identifiers with the product, then open the child guide that matches the next question.",
       ],
     },
     {
@@ -60,6 +66,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Each guide answers one practical question. Begin with the format named on the package, then identify the layers or extract ingredients involved. Move to the handling, storage, or temperature page only after that construction is clear. This order keeps a moon rock, an infused pre-roll, and a cartridge from being treated as interchangeable products merely because each includes concentrate.",
         "For a new package, record the format, batch identifier, ingredient language, net weight, and cannabinoid units before opening it. The beginner's guide helps interpret the format, batch identifiers, and cannabinoid information. The quality guide then helps compare what the label says with visible construction, coating, aroma, and condition. These checks describe the product in front of you without turning appearance into a potency claim.",
+        "A useful sequence is identify, prepare, control heat, inspect, and store. Skip steps that do not apply, but do not test heat or burn before the package has been read.",
       ],
     },
     {
@@ -68,6 +75,7 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Construction determines which routine makes sense. Loose kief calls for gentle handling; a dense coated piece needs airflow; a wrapped infused format needs an even path through the material. The moon-rock handling guide focuses on separating and placing a layered piece without using a grinder. That method belongs to moon rocks and should not be generalized to every infused format.",
         "Storage questions start with the same construction map. Heat can soften or move concentrate, light can affect volatile compounds, and a poorly fitted container can expose more surface area than necessary. The storage guide organizes those variables into a repeatable check: close the container, limit heat and light, keep unlike formats separated, inspect the product, and return it promptly.",
+        "Wrapped formats and cartridges inherit the same principles with different tools. Return to the matching guide when the construction changes rather than forcing one method across every product.",
       ],
     },
     {
@@ -76,6 +84,22 @@ export const guidesHub: PageContent = {
       paragraphs: [
         "Temperature guidance works best when the material and device are known. A listed boiling point does not mean a device holds the product itself at that exact temperature, and time changes what heat does. The temperature guide treats settings as controls to adjust in small steps, not as guarantees about the temperature inside an extract.",
         "Presidential THC publishes these guides as a chemistry and format reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch numbers carry different information. Keeping those labels separate makes it easier to follow a guide, compare batches, and return to the correct science or infusion reference when a term needs a definition.",
+        "Read the package as the product record and the guides as the handling map. If a label term is unfamiliar, check the science or infusion hubs, then return to the practical page for the next action.",
+      ],
+    },
+    {
+      id: "choose-which-guide",
+      heading: "Choose the Guide That Matches the Next Question",
+      paragraphs: [
+        "Use this hub as a map, not as a checklist that must be completed in one sitting. If the product is a moon rock and preparation is next, open the smoking guide. If the jar will sit unused, open the storage guide. If a device dial is the question, open the temperature guide. If the package and the product seem mismatched, open the quality guide.",
+        "When vocabulary is unclear, begin with the beginner's path, then branch sideways. Naming the format first keeps a cartridge temperature note from being applied to a coated flower piece.",
+      ],
+    },
+    {
+      id: "what-this-hub-does-not-do",
+      heading: "What This Hub Does Not Do",
+      paragraphs: [
+        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want clear educational routines for handling, storing, heating, and inspecting infused cannabis formats.",
       ],
     },
   ],
@@ -145,6 +169,66 @@ export const guidesHub: PageContent = {
       paragraphIndex: 0,
     },
     {
+      href: "/guides/how-to-smoke-moon-rocks",
+      anchor: "how to smoke moon rocks",
+      sectionId: "smoking-moon-rocks",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/guides/how-to-store-infused-cannabis",
+      anchor: "how to store infused cannabis",
+      sectionId: "storing-infused-cannabis",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/guides/temperature-guide",
+      anchor: "cannabis extract temperature guide",
+      sectionId: "temperature-control",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/guides/what-to-look-for",
+      anchor: "how to judge infused cannabis quality",
+      sectionId: "quality-signals",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/guides/beginners-guide",
+      anchor: "beginner's guide to infused cannabis",
+      sectionId: "beginner-path",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/guides/how-to-smoke-moon-rocks",
+      anchor: "smoking guide",
+      sectionId: "choose-which-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/guides/how-to-store-infused-cannabis",
+      anchor: "storage guide",
+      sectionId: "choose-which-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/guides/temperature-guide",
+      anchor: "temperature guide",
+      sectionId: "choose-which-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/guides/what-to-look-for",
+      anchor: "quality guide",
+      sectionId: "choose-which-guide",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/guides/beginners-guide",
+      anchor: "beginner's path",
+      sectionId: "choose-which-guide",
+      paragraphIndex: 1,
+    },
+    {
       href: "/infusion",
       anchor: "infused",
       paragraphIndex: 0,
@@ -170,6 +254,18 @@ export const guidesHub: PageContent = {
       href: "/science",
       anchor: "cannabis",
       paragraphIndex: 0,
+    },
+    {
+      href: "/science",
+      anchor: "science",
+      sectionId: "labels-temperature-and-publisher",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion",
+      anchor: "infusion",
+      sectionId: "labels-temperature-and-publisher",
+      paragraphIndex: 2,
     },
   ],
 };
