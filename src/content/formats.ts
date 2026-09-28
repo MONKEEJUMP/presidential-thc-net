@@ -1,7 +1,7 @@
 import type { PageContent } from "./types";
 
 export const formatsPages: PageContent[] = [
-  {
+    {
     path: "/formats",
     kind: "hub",
     silo: "formats",
@@ -9,10 +9,11 @@ export const formatsPages: PageContent[] = [
     title: "Infused Cannabis Formats Compared | Presidential THC",
     description:
       "Compare moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and vape cartridges by construction and format.",
-    wordTarget: [800, 1100],
+    wordTarget: [1100, 1250],
     intro: [
       `Infused cannabis formats are different ways of bringing flower and concentrate together, or of placing an extract into cartridge hardware. Moon rocks use three visible layers; pre-rolls, blunts, and minis package infused flower inside a wrap; vape cartridges pair a flowable extract with a heating core. The format determines construction, handling, airflow, and what information matters on the label.`,
       `This hub compares those structures without treating one as universally better. Start with the format you want to understand, then look at its components, distribution of concentrate, package information, and physical condition.`,
+      `This hub is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample. Format names describe construction; they are not dosing guidance or medical claims.`,
     ],
     sections: [
       {
@@ -20,13 +21,15 @@ export const formatsPages: PageContent[] = [
         heading: "Moon rocks: three layers in one piece",
         paragraphs: [
           `A moon rock starts with flower, adds a concentrate layer, and finishes with collected kief. That exterior makes the piece dense, tacky beneath the kief, and poorly suited to a grinder. The moon rocks guide explains the format’s California origins, its distinction from cannabis caviar, its potency range, and the careful handling its layered construction requires.`,
+          `Open that guide when the product is a loose layered piece rather than a roll or cartridge. Confirm flower, concentrate, and kief before treating the category name as proof of that build.`,
         ],
       },
       {
         id: "infused-pre-rolls",
         heading: "Infused pre-rolls: infusion inside a familiar shape",
         paragraphs: [
-          `An infused pre-roll combines prepared flower with cannabis concentrate in a paper roll. Its important variables are the distribution of concentrate, the consistency of the fill, the paper and filter, and the open path for air. The full article shows how those details separate an infused roll from a standard flower-only pre-roll.`,
+          `An infused pre-roll combines prepared flower with cannabis concentrate in a paper roll. Its important variables are the distribution of concentrate, the consistency of the fill, the paper and filter, and the open path for air. The infused pre-rolls guide shows how those details separate an infused roll from a standard flower-only pre-roll.`,
+          `Continue there when paper, filter, fill, and extract placement are the next questions. A familiar rolled shape still needs those parts identified one by one.`,
         ],
       },
       {
@@ -34,6 +37,7 @@ export const formatsPages: PageContent[] = [
         heading: "Blunts: a broader wrap-led format",
         paragraphs: [
           `A blunt uses a broader, heavier wrap than a typical pre-roll. Traditional blunt language is associated with tobacco leaf, while a tobacco-free cannabis blunt can use a hemp wrap instead. That is a material distinction, not a health or safety claim. Construction, seam quality, diameter, and infusion uniformity all shape how the roll burns.`,
+          `Open the blunts guide when wrap material, seam, diameter, and infusion uniformity are the comparison points. Treat tobacco-free language as a composition statement about the wrap, not a health claim.`,
         ],
       },
       {
@@ -41,13 +45,15 @@ export const formatsPages: PageContent[] = [
         heading: "Mini blunts: the same idea at a shorter scale",
         paragraphs: [
           `A mini blunt keeps the core blunt architecture—wrap, infused cannabis fill, and a finished seam—but reduces the total size. Scaling down changes the ratio among wrap, fill, and airflow, so a mini is more than a full blunt cut in half. Compare dimensions, net contents, construction, and cannabinoid labeling rather than judging it by the name alone.`,
+          `Use the mini blunts guide when length and total material shrink but wrap-led construction remains the point. Compare proportions and package facts rather than inventing a standard mini weight.`,
         ],
       },
       {
         id: "vape-cartridges",
         heading: "Vape cartridges: extract meets hardware",
         paragraphs: [
-          `A vape cartridge replaces flower and wrap with a reservoir, cannabis oil, a heating core, air inlets, and a mouthpiece. Oil viscosity must suit the cartridge so the liquid can reach the heater without flooding it. The cartridge guide explains this hardware relationship, liquid-diamond formulation, temperature control, label reading, and end-of-life handling.`,
+          `A vape cartridge replaces flower and wrap with a reservoir, cannabis oil, a heating core, air inlets, and a mouthpiece. Oil viscosity must suit the cartridge so the liquid can reach the heater without flooding it. The vape cartridges guide explains this hardware relationship, liquid-diamond formulation, temperature control, label reading, and end-of-life handling.`,
+          `Open that guide when the product leaves flower and wrap behind. Match oil viscosity, seals, ingredient language, and battery compatibility before applying combustible-format checks.`,
         ],
       },
       {
@@ -55,6 +61,7 @@ export const formatsPages: PageContent[] = [
         heading: "Compare construction before category names",
         paragraphs: [
           `Names are useful, but the physical build tells you more. For a combustible format, examine wrap integrity, fill uniformity, visible concentrate distribution, and package condition. For a cartridge, examine the reservoir, seals, ingredient statement, and hardware compatibility. In every category, use the labeled batch and cannabinoid information instead of assuming that size, color, or format name guarantees a particular composition.`,
+          `A useful habit is to name the construction first, then open the matching child page. Layered pieces belong with moon rocks; paper-led rolls belong with infused pre-rolls; wrap-led full and mini builds belong with blunts and minis; extract-plus-hardware belongs with cartridges.`,
         ],
       },
       {
@@ -79,6 +86,21 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Cartridges move the comparison away from flower and wraps. The vape cartridge guide maps the reservoir, oil, intake openings, heating core, air path, mouthpiece, and battery connection as one system. For that format, inspect the seals and hardware condition, confirm the ingredient and batch information, and check that the cartridge is compatible with the intended battery. Wrapper and fill tests that make sense for a blunt do not answer those hardware questions.`,
           `Use this hub as a routing page rather than a ranking. Identify whether the product is layered, paper-rolled, wrap-led, scaled as a mini, or built around extract hardware, then open the matching format reference. Presidential THC publishes this material as a chemistry and format reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar, extract, package, and batch names should be read as separate kinds of information.`,
+        ],
+      },
+      {
+        id: "choose-which-format-guide",
+        heading: "Choose the format guide that matches the next question",
+        paragraphs: [
+          `Use this hub as a map, not as a checklist that must be completed in one sitting. If the product is layered flower with concentrate and kief, open the moon rocks page. If paper, filter, and fill placement are next, open the infused pre-rolls page. If wrap material and seam are next, open the blunts page. If the same wrap-led idea appears at reduced length, open the mini blunts page. If reservoir, oil, and heater are next, open the vape cartridges page.`,
+          `Naming the construction first keeps a cartridge viscosity note from being applied to a coated flower piece, and keeps a blunt wrap check from being applied to a paper pre-roll. When vocabulary is unclear, return here, identify the build, then branch sideways into the matching child guide.`,
+        ],
+      },
+      {
+        id: "what-this-hub-does-not-do",
+        heading: "What this hub does not do",
+        paragraphs: [
+          `This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of infused cannabis formats by construction, package language, and observable physical form.`,
         ],
       },
     ],
@@ -119,6 +141,54 @@ export const formatsPages: PageContent[] = [
     contextualLinks: [
       {
         href: "/formats/moon-rocks",
+        anchor: "moon rocks guide",
+        sectionId: "moon-rocks",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/infused-pre-rolls",
+        anchor: "infused pre-rolls guide",
+        sectionId: "infused-pre-rolls",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/blunts",
+        anchor: "blunts guide",
+        sectionId: "blunts",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/mini-blunts",
+        anchor: "mini blunts guide",
+        sectionId: "mini-blunts",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/vape-cartridges",
+        anchor: "vape cartridges guide",
+        sectionId: "vape-cartridges",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/moon-rocks",
+        anchor: "moon rocks",
+        sectionId: "compare-by-construction",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/infused-pre-rolls",
+        anchor: "infused pre-rolls",
+        sectionId: "compare-by-construction",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/vape-cartridges",
+        anchor: "cartridges",
+        sectionId: "compare-by-construction",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats/moon-rocks",
         anchor: "moon rocks reference",
         sectionId: "match-name-to-construction",
         paragraphIndex: 0,
@@ -145,6 +215,36 @@ export const formatsPages: PageContent[] = [
         href: "/formats/vape-cartridges",
         anchor: "vape cartridge guide",
         sectionId: "follow-the-right-format-path",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/moon-rocks",
+        anchor: "moon rocks page",
+        sectionId: "choose-which-format-guide",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/infused-pre-rolls",
+        anchor: "infused pre-rolls page",
+        sectionId: "choose-which-format-guide",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/blunts",
+        anchor: "blunts page",
+        sectionId: "choose-which-format-guide",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/mini-blunts",
+        anchor: "mini blunts page",
+        sectionId: "choose-which-format-guide",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/vape-cartridges",
+        anchor: "vape cartridges page",
+        sectionId: "choose-which-format-guide",
         paragraphIndex: 0,
       },
       {
