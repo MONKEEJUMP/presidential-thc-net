@@ -350,10 +350,11 @@ export const scienceExtractPages: PageContent[] = [
     title: "What Is Live Rosin — Solventless Extraction",
     description:
       "How ice-water washing, micron separation, freeze-drying, and controlled pressing turn fresh-frozen cannabis into live rosin.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Live rosin is a solventless concentrate made by washing fresh-frozen cannabis in ice water, collecting separated trichome heads, freeze-drying the hash, and pressing it with heat and pressure. No hydrocarbon solvent performs the separation; water, screens, mechanical movement, temperature control, and the press do the work.",
       "Its selectivity also explains its cost. Only a fraction of the starting plant becomes pressable hash, each separation step leaves material behind, and cold storage, freeze-drying, careful fraction handling, and pressing all add time and equipment before the finished rosin exists.",
+      "The category name combines two claims. Live points to fresh-frozen starting material rather than dried and cured flower. Rosin points to a physical wash-and-press route rather than a chemical-solvent extraction. Both parts matter: changing either one changes the production history the label is meant to describe.",
     ],
     sections: [
       {
@@ -362,6 +363,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Fresh-frozen cannabis goes into very cold water, where gentle mechanical movement separates brittle glandular trichome heads from the plant surface. The water is a transport medium: it carries detached resin glands through a sequence of filter bags while larger plant pieces remain above. Calling the method solventless distinguishes it from chemical-solvent extraction, even though water is plainly part of the physical process.",
           "Cold control matters because the goal is to keep the resin heads firm and the plant material less likely to break into small contaminants. The wash is therefore a separation problem, not a cooking step. Aggressive movement may release more material, but it can also send more non-resin particles toward the collection screens.",
+          "The frozen harvest is the other half of the wash design. Material moved into the freezer soon after harvest holds a different postharvest timeline than flower that first spends days drying and curing. Live-rosin production uses that frozen input so the wash begins from a cold, resin-rich surface rather than from cured biomass that already passed through ordinary room-temperature handling.",
         ],
       },
       {
@@ -370,6 +372,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "A common wash-bag sequence uses 220, 160, 120, 90, 73, 45, and 25 micron screens. Micron numbers describe opening size, not an automatic quality score. Cannabis trichome heads commonly span about 25–160 microns, so different screens capture different size bands as the wash water moves through the stack.",
           "The 220 and 160 micron bags catch larger plant material and oversized particles. The 120, 90, 73, 45, and 25 micron bags divide the resin-rich material into narrower fractions, with 90, 73, and 45 micron collections often combined for a premium blend. Cultivar, maturity, wash conditions, and the actual cleanliness of a fraction still matter; a number printed on a bag cannot replace inspection.",
+          "Producers often keep fractions separate long enough to judge color, texture, and visible contamination before deciding what to press together. A cleaner mid-range cut can outperform a larger but dirtier collection from the same wash. Stack language on a label is a process clue, not a universal grade.",
         ],
       },
       {
@@ -378,6 +381,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Collected hash leaves the wash saturated with water. It must be dried before pressing, but ordinary warm-air drying creates more opportunity for oxidation, aroma loss, and uneven moisture removal. A freeze dryer removes water under reduced pressure while keeping the material cold, typically completing this stage in about 18–24 hours.",
           "Drying is a production gate because trapped water can change texture and storage stability. The dried hash should remain separated into workable particles rather than a wet mass. Only after this stage can a producer load a press bag evenly and apply controlled pressure across the material.",
+          "Freeze-drying is an active process step, not a pause between wash and press. Chamber conditions and load thickness affect how the hash behaves under pressure later. Incomplete drying shows up before the plates close: wet or clumped hash loads unevenly and makes texture harder to control.",
         ],
       },
       {
@@ -386,6 +390,23 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "A 25 micron press bag is a common standard for hash rosin, while 15–20 micron bags can create a tighter barrier when a producer prioritizes a cleaner result. The bag retains solid hash material as heated plates and pressure express resin through the mesh. Loading, pressure ramp, plate alignment, and temperature all influence output, so the temperature number never works alone.",
           "Hash-rosin producers adjust press conditions to balance consistency, flow, yield, color and retention of volatile compounds. Exact settings depend on the input material and producer, so they should not be inferred from the format name or treated as universal quality grades.",
+          "Even loading matters as much as the setpoint. A thin, even puck lets pressure travel through the hash more uniformly than a thick or uneven pack. Pressure is usually built in stages rather than slammed to a peak so resin can migrate through the mesh without forcing excess solids with it.",
+        ],
+      },
+      {
+        id: "live-rosin-versus-other-rosin",
+        heading: "Live rosin versus flower-pressed rosin",
+        paragraphs: [
+          "Rosin is the broader family name for concentrate expressed by heat and pressure without a chemical solvent doing the separation. Flower rosin is pressed directly from dried cannabis. Hash rosin is pressed from ice-water or dry-sift hash. Live rosin is the narrower claim that the hash came from fresh-frozen material before that solventless press.",
+          "Those distinctions are easy to blur on a menu because every option can still be called rosin in casual speech. For process readers, the useful questions are what entered the press and how that input was prepared. Appearance alone rarely settles it: color and softness vary with cultivar, fraction cleanliness, press temperature, and finishing.",
+        ],
+      },
+      {
+        id: "live-rosin-versus-live-resin",
+        heading: "How live rosin differs from live resin",
+        paragraphs: [
+          "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
+          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
         ],
       },
       {
@@ -395,6 +416,14 @@ export const scienceExtractPages: PageContent[] = [
           "The economics begin with fresh-frozen biomass, which requires freezer capacity and contains substantial water weight. Washing selects only detached trichome fractions, fine screens discard or separate more of the mass, freeze-drying adds a dedicated equipment cycle, and the press leaves additional solids in the bag. The saleable concentrate is therefore a selective output from a much larger input.",
           "A label reading live rosin should indicate both parts of the identity: fresh-frozen starting material and a solventless hash-rosin process. Rosin pressed directly from dried flower is still rosin, but it is not the same production path. Color and softness vary with source material and press choices, so documented process language is more reliable than appearance alone.",
           "Solventless also does not mean unprocessed or self-verifying. The material has passed through water, screens, drying, heat, pressure, and handling surfaces. A batch-matched report remains the appropriate place to check measured cannabinoids and any required contaminant panels, while production records establish the fresh-frozen and wash-and-press history.",
+        ],
+      },
+      {
+        id: "reading-a-live-rosin-label",
+        heading: "How to read a live rosin label",
+        paragraphs: [
+          "Start with the process words rather than the marketing adjectives. Look for fresh-frozen or live source language, solventless or hash-rosin method language, and a batch or lot identifier that can be matched to a laboratory report. If the package only says rosin, ask whether the input was washed fresh-frozen hash or pressed dried flower.",
+          "Then read the analytical sheet the same way you would for any regulated concentrate. Cannabinoid percentages describe measured composition for that batch. Required contaminant panels speak to compliance testing. Neither turns the category name into a universal grade. These notes are educational process context for adult readers twenty-one and older — not medical guidance.",
         ],
       },
     ],
