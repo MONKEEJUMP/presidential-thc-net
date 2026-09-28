@@ -364,10 +364,11 @@ export const formatsPages: PageContent[] = [
     title: "Moon Rocks — The Layered Cannabis Format",
     description:
       "Learn how moon rocks combine flower, concentrate, and kief, why they are dense, how they differ from caviar, and how to handle them.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       `Moon rocks are cannabis flower covered with concentrate and finished in kief. The three layers create a dense, textured piece whose exterior looks dusty or crystalline while the concentrate beneath remains tacky. Because the format is built as a bonded whole, it should be handled differently from ordinary loose flower.`,
       `The name describes construction, not one required strain or extract recipe. Flower provides the core, concentrate raises the cannabinoid share and binds the surface, and kief forms the final coat.`,
+      `This page is for adults twenty-one and older who want format and education framing: how the three layers are assembled, how to read package language, and how construction choices shape density, handling, and storage. It is not medical advice, dosing guidance, or a claim that any layer combination is safer or healthier.`,
     ],
     sections: [
       {
@@ -376,6 +377,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The center is a cured flower bud. Its cannabinoid profile belongs to the tested batch, not to a universal category range. A producer then applies cannabis concentrate around or into that flower, so both the amount and distribution of that input matter to the final composition.`,
           `Kief goes on last. Kief is a collection of trichomes, the resin glands that hold much of the plant’s cannabinoid and terpene content. It clings to the concentrate and leaves the recognizable granular surface. Each layer has a separate physical job: flower supplies structure, concentrate bonds and infuses, and kief completes the outer layer.`,
+          `Format identity therefore rests on that sequence and on whether all three layers remain present in the finished piece. A thick oil coat without kief is a different build. A heavy kief dusting without a bonding concentrate is a different build. When two packages both say moon rocks, the observable stack—flower core, concentrate bond, outer kief—settles whether they describe the same format or only share a familiar name.`,
         ],
       },
       {
@@ -384,6 +386,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `An intact moon rock may hide most of its flower beneath the kief coat. Small green or brown areas can remain visible, but a consistent exterior should look deliberately covered rather than accidentally dusted. Inside, the concentrate occupies space among the flower’s folds and adds mass without increasing the piece’s dimensions very much. That is why a moon rock can feel unexpectedly heavy for its size.`,
           `Texture varies with the concentrate, room temperature, and storage. A warmer piece may feel softer because the coating has become more mobile. A cool piece may feel firmer. Neither texture alone proves quality or potency; those judgments require the label, batch information, and a look at how evenly the layers were assembled.`,
+          `Density language on packaging is still subordinate to that inspection. Words such as heavy, dense, or coated describe intended construction; they do not replace checking whether the core is coherent, the concentrate is distributed rather than pooled in one fold, and the kief coat belongs to the piece. Treat appearance claims as prompts to examine structure, not as proof that the three-layer build succeeded.`,
         ],
       },
       {
@@ -392,6 +395,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `A finished moon rock is a weighted blend of all three layers: how much flower is present, the tested composition and amount of the coating, and what the kief contributes. A category name does not establish a finished percentage.`,
           `A percentage printed for one concentrate ingredient cannot be transferred directly to the finished piece. Flower and kief still contribute to the total weight and composition, so the finished package’s cannabinoid statement and associated batch record are more useful than estimating from appearance.`,
+          `Visual cues are likewise poor substitutes for the printed batch information. Exterior gloss, stickiness, or aroma intensity can vary with concentrate style, humidity, and handling. When comparing products, read net contents and cannabinoid statements for that batch rather than ranking pieces by how crystalline or tacky they look on the surface.`,
         ],
       },
       {
@@ -400,6 +404,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The modern format emerged in California during the 2010s and was popularized by Kurupt’s Moonrock brand. Girl Scout Cookies became the strain most closely associated with early versions. Since then, producers have varied the center flower, concentrate type, kief, and the method used to distribute the infusion.`,
           `Cannabis caviar and moon rocks are related but not interchangeable terms. Caviar is flower coated in oil. A moon rock adds the outer kief layer, making the three-part assembly its defining feature. A product with no kief coat may still be infused flower, but it does not match the full layered definition used here.`,
+          `That distinction matters for reading menus and labels across markets. Some retailers use caviar, moon rocks, and infused flower loosely. Ask for the construction: is there a discrete outer kief coat, or only an oil finish on flower? The answer places the product in this silo’s vocabulary without inventing numbers or ranking one history as superior to another.`,
         ],
       },
       {
@@ -408,6 +413,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Do not put a moon rock in a grinder. The concentrate can gum the teeth while the grinding action strips kief from the surface and leaves valuable material inside the grinder. Break off a small piece by hand or use clean scissors. A piece around the size of a pencil eraser is a practical starting unit for handling the dense material.`,
           `The layers retain heat and do not behave like evenly ground flower. Place small pieces between ground flower in a bowl or roll so air can move around them. Apply the flame patiently and expect a relight. These are construction responses, not potency promises: smaller pieces and supporting flower simply expose more edges and create a more continuous burn path.`,
+          `Handle the piece enough to judge cohesion, not enough to smear the coat. A brief press between clean fingers can reveal whether the kief is bonded or sliding off as loose dust. Work over a clean surface so any flakes that fall can be recovered, then return unused material to its closed container promptly so the concentrate does not sit exposed to warm air or uneven pressure.`,
         ],
       },
       {
@@ -416,6 +422,15 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Store moon rocks in a closed container in a cool, dark place. Heat and light take the volatile terpenes first and can soften the concentrate enough to shift the outer coat. Avoid pressing pieces together, because contact can flatten the kief and make separate pieces adhere.`,
           `Before opening, read the product identity, net contents, ingredients, batch or lot number, package date where provided, and cannabinoid labeling. After opening, look for a coherent flower core, an intentional concentrate layer, and a kief coat that belongs to the piece rather than a loose pile at the bottom. Those observations describe construction; the batch label remains the evidence for composition.`,
+          `Transport deserves the same attention as shelf storage. Loose pieces in a soft pouch can crush together, smear concentrate onto the bag wall, or leave the kief coat behind as dust. Keep units in a rigid closed container until use, avoid hot vehicles, and do not stack heavy items on soft trays. The goal is unchanged geometry, not a claim about freshness theater or invented shelf-life numbers.`,
+        ],
+      },
+      {
+        id: "read-moon-rocks-with-formats",
+        heading: "Read moon rocks with the rest of the formats silo",
+        paragraphs: [
+          `This article keeps the moon rock in the vocabulary of flower core, concentrate bond, kief coat, package identity, and handling. Infused pre-rolls move the comparison into paper-led construction and infusion placement inside a cylinder. Blunts and mini blunts shift emphasis to wrap-led geometry and seam quality.`,
+          `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware. Availability and brand-format details for Presidential’s moon rocks line remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
