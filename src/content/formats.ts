@@ -604,11 +604,11 @@ export const formatsPages: PageContent[] = [
     h1: "Cannabis Vape Cartridges",
     title: "Cannabis Vape Cartridges Explained | Presidential THC",
     description:
-      "Understand vape cartridge hardware, extract viscosity, liquid diamonds, temperature control, label checks, and responsible disposal.",
-    wordTarget: [700, 900],
+      "Understand vape cartridge hardware, distillate versus live resin oils, extract viscosity, temperature control, label checks, and responsible disposal.",
+    wordTarget: [1100, 1250],
     intro: [
       `A cannabis vape cartridge is a small reservoir of cannabis extract connected to a heating core, air path, and mouthpiece. A compatible battery supplies electrical power; the heater transfers that energy to the oil and produces an aerosol. The extract and hardware must be designed together because viscosity, inlet size, power, and airflow determine how material reaches the heater.`,
-      `A cartridge is therefore not just a container for oil. It is a matched delivery assembly whose formula, seals, contacts, and heating behavior all affect whether it functions consistently.`,
+      `A cartridge is therefore not just a container for oil. It is a matched delivery assembly whose formula, seals, contacts, and heating behavior all affect consistent function. This page is for adults twenty-one and older and covers hardware, oil families, viscosity, temperature, and label reading—not medical advice, dosing, or effects claims.`,
     ],
     sections: [
       {
@@ -617,6 +617,16 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The reservoir holds the extract. Small intake openings feed oil toward a porous ceramic or wick structure surrounding the heating element. The center post carries the vapor path toward the mouthpiece, while seals keep oil out of places intended for air or electrical contact. A threaded or press-fit base joins these parts and connects the heater to a battery.`,
           `Each component constrains the others. Intake openings sized for one viscosity may feed a thinner oil too quickly or a thicker oil too slowly. A heater with more available power can warm material faster, but the oil still must replace what leaves the core. A clear tank is useful for inspection, yet appearance alone cannot identify the formula.`,
+          `Hardware basics also include the battery interface. Threaded bases, magnetic adapters, and proprietary pods change how contact is made and how power is limited. Confirm cartridge style matches the intended battery before first use. Keep the connection clean and dry; oil on the contact can interrupt heating even when the reservoir still holds oil.`,
+        ],
+      },
+      {
+        id: "distillate-versus-live-resin",
+        heading: "Distillate versus live resin cartridge oils",
+        paragraphs: [
+          `Cartridge oils are often described by extract family. Distillate is a refined cannabinoid-rich fraction separated from much of the plant's broader compound set. On its own it is often nearly odorless, so producers commonly reintroduce botanical or cannabis-derived terpenes to shape aroma. That route can yield a consistent flow window for hardware designed around a predictable viscosity.`,
+          `Live resin starts from fresh-frozen plant material and uses solvent extraction intended to retain a wider set of plant-derived compounds, including aromatic fractions that can make the oil more fragrant and sometimes more temperature-sensitive. Live-resin carts therefore depend on a matched inlet, core, and power range, because a richer terpene fraction can change how freely the oil moves as it warms.`,
+          `Neither label is a potency rank or a medical claim. Category names describe process and composition context. The ingredient list, product identity, and batch record establish what a cartridge contains. Compare those fields with hardware compatibility rather than treating the category name as a full specification.`,
         ],
       },
       {
@@ -625,6 +635,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Viscosity describes resistance to flow. Oil that moves too slowly for the inlet and core can fail to replenish the heated zone. Oil that moves too freely for the same hardware can flood the air path or escape a seal. Temperature also changes flow, which is why a cartridge may behave differently after sitting in a hot car or another unsuitable storage location.`,
           `Formulators can adjust a cartridge blend through the choice and proportion of cannabis-derived components, but a vague claim that an oil was thinned does not tell a reader what was added. The ingredient list is the useful evidence. It should be read together with the product identity and batch information rather than replaced by assumptions based on bubble speed or color.`,
+          `Viscosity and temperature travel together. Cooler oil thickens and can starve the core at a setting that worked when warmer; warmer oil thins and can overfeed the same inlets. Let a cold cartridge return toward room conditions before judging hardware, and avoid heating the reservoir with an external flame. Match power to current flow within the manufacturer's supported range.`,
         ],
       },
       {
@@ -639,16 +650,18 @@ export const formatsPages: PageContent[] = [
         id: "temperature-control",
         heading: "Temperature control is power control",
         paragraphs: [
-          `Many batteries expose voltage or power settings rather than the oil’s exact temperature. The heater’s resistance, duration of activation, airflow, and oil supply all influence the temperature reached during a draw. Laboratory work on cannabinoid vaping has shown that coil power and oil composition can change thermal transformation, so a higher setting is not merely a faster version of a lower one.`,
-          `Use the cartridge and battery manufacturer’s compatible range. Begin at the lower supported setting and avoid repeated activation when little oil is reaching the core. The supplied terpene research also matters here: compounds can evaporate below their listed boiling points over time, so a boiling-point chart should not be treated as a set of mandatory device temperatures.`,
+          `Many batteries expose voltage or power settings rather than the oil's exact temperature. The heater's resistance, duration of activation, airflow, and oil supply all influence the temperature reached during a draw. Laboratory work on cannabinoid vaping has shown that coil power and oil composition can change thermal transformation, so a higher setting is not merely a faster version of a lower one.`,
+          `Use the cartridge and battery manufacturer's compatible range. Begin at the lower supported setting and avoid repeated activation when little oil reaches the core. Supplied terpene research also matters: compounds can evaporate below listed boiling points over time, so a boiling-point chart should not be treated as mandatory device temperatures.`,
+          `Oil viscosity and power interact on every draw. A short, moderate draw at a lower setting often lets oil rewet the core; long, high-power draws can outpace replenishment and leave residue on the heater. If the draw tastes scorched or suddenly harsh, stop, check oil level and seals, and return to a lower supported setting rather than raising power to force output.`,
         ],
       },
       {
         id: "quality-check",
-        heading: "How to judge a cartridge",
+        heading: "How to read the label and judge a cartridge",
         paragraphs: [
-          `Start with traceable information. Check the product identity, ingredients, cannabinoid statement, net contents, UID, and batch or lot number. Confirm that the package is closed and that the cartridge style is compatible with the intended battery. California labeling rules also require the universal cannabis symbol on the product itself at a minimum specified size.`,
-          `Inspect the cartridge for cracks, displaced seals, oil in the center air path, or residue around the electrical contact. The oil should appear physically uniform for its stated formulation, but darkness or clarity is not a universal purity scale. Extract type, terpene content, processing, and storage can all affect appearance, so the label and batch remain central.`,
+          `Start with traceable information on the closed package. Check product identity, ingredients, cannabinoid statement, net contents, UID where required, and batch or lot number. Confirm the package is closed and the cartridge style matches the intended battery. California labeling rules also require the universal cannabis symbol on the product itself at a minimum specified size.`,
+          `Label reading is comparative work. Match stated extract language—distillate, live resin, liquid diamonds, or another named input—to the ingredient list rather than to color alone. Note added terpene sources if listed. Cannabinoid figures describe a tested batch; they are not dosing instructions or medical claims. Missing or inconsistent identifiers are a packaging problem to resolve before opening.`,
+          `Inspect for cracks, displaced seals, oil in the center air path, or residue around the electrical contact. Oil should appear physically uniform for its stated formulation, but darkness or clarity is not a universal purity scale. Extract type, terpene content, processing, and storage all affect appearance, so the label and batch remain central.`,
         ],
       },
       {
@@ -657,6 +670,13 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Store a cartridge upright when practical, away from heat, direct light, and pressure that could crack the reservoir. Keep protective caps in place until use and avoid touching the air inlet or contact with loose material. If oil has entered the airway, the cartridge is visibly damaged, or the seal has failed, do not treat continued heating as a repair method.`,
           `A spent cartridge should not be placed in household trash or ordinary recycling. California requires cannabis cartridge messaging directing people to a household hazardous-waste facility or another approved facility. Local programs differ, so follow the package and local waste authority. This disposal rule reflects the combined oil residue, metal, and electronic-device context—not a claim about product effects.`,
+        ],
+      },
+      {
+        id: "read-carts-with-formats",
+        heading: "Read cartridges with the rest of the formats silo",
+        paragraphs: [
+          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo, and use linked official Presidential Moon Rocks resources for brand-format availability rather than lookalike domains.`,
         ],
       },
     ],
@@ -682,5 +702,5 @@ export const formatsPages: PageContent[] = [
       label: "Explore Presidential vape formats",
       description: "Visit the official collection page for current cartridge products.",
     },
-  },
+  }
 ];
