@@ -9,19 +9,20 @@ export const scienceExtractPages: PageContent[] = [
     title: "Cannabis Extract Science — THCa, Terpenes and Potency",
     description:
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
-    wordTarget: [800, 1100],
+    wordTarget: [1100, 1250],
     intro: [
       "Cannabis chemistry explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
-      "This section follows those ideas from the plant to the finished extract. It stays strictly chemical and descriptive, making terminology, composition, and process differences readable without assigning outcomes to the compounds.",
-      "Published by Presidential THC, this is the official extract-science hub. Presidential THC identifies the brand's chemistry and infusion reference; cultivar names identify the plant material. Here, the useful questions are how an extract was made, what its label measures, and how its composition relates to the finished format.",
+      "This section follows those ideas from the plant to the finished extract. It stays strictly chemical and descriptive, making terminology, composition, and process differences readable without assigning outcomes to the compounds. Adults twenty-one and older can use it as a navigation map: each child page deepens one topic, while this hub keeps the relationships among molecules, labels, and materials in view.",
+      "Published by Presidential THC, this is the official extract-science hub. Presidential THC identifies the brand's chemistry and infusion reference; cultivar names identify the plant material. Here, the useful questions are how an extract was made, what its label measures, and how its composition relates to the finished format—not medical advice, dosing guidance, or claims about personal outcomes.",
     ],
     sections: [
       {
         id: "how-to-use-this-section",
         heading: "A map from molecules to materials",
         paragraphs: [
-          "Start with THCa, THC, and decarboxylation to understand why raw percentages do not translate directly into heated THC. Then move to laboratory reports, terpenes, and the wider cannabinoid family for the vocabulary used on labels. The four extract guides compare a highly refined distillate with three methods built around fresh-frozen material or controlled crystallization.",
-          "No single percentage identifies an extract or proves how it was made. Process details, ingredient language, batch identification, and a matching laboratory report create a much clearer picture than color or texture alone.",
+          "Start with THCa, THC, and decarboxylation to understand why raw percentages do not translate directly into heated THC. Then move to reading a lab report, terpenes, and the wider cannabinoid family for the vocabulary used on labels. The four extract guides compare a highly refined distillate with three methods built around fresh-frozen material or controlled crystallization. The THCa versus THC page then works the conversion arithmetic in full.",
+          "No single percentage identifies an extract or proves how it was made. Process details, ingredient language, batch identification, and a matching laboratory report create a much clearer picture than color or texture alone. Treat this hub as the orientation layer: it names the distinctions, then points to the child pages that work each distinction in full.",
+          "A reliable path through the silo is molecules first, measurement second, materials third. Resolve the acidic-versus-neutral cannabinoid distinction before comparing Total THC across packages. Confirm how a Certificate of Analysis is structured before trusting a front-label shorthand. Only then compare distillate, live resin, live rosin, and liquid diamonds as processing routes rather than as interchangeable potency synonyms.",
         ],
       },
       {
@@ -30,7 +31,16 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Extraction separates compounds from plant material. Refinement then separates parts of that extract, while formulation combines selected ingredients into a finished mixture. Cannabis distillate belongs to the refinement stage: vacuum distillation collects a cannabinoid-rich fraction from an existing oil. The extract name describes a processing route; the ingredient statement identifies what ultimately went into the product.",
           "Compare that route with live resin, which starts with fresh-frozen plant material and uses solvent extraction, and live rosin, which uses physical separation of resin glands followed by pressing. The shared word live concerns starting-material handling. Resin and rosin describe different separation methods. Keeping those distinctions clear helps readers compare process records without assuming that similar names indicate identical compositions.",
-          "An extract can also become one ingredient in an infused format. Flower, concentrate, and kief contribute different proportions of the finished mass. Read an ingredient's analysis as information about that ingredient, then use the finished batch's results when comparing the complete product.",
+          "Liquid diamonds add a crystallization step: THCa crystals can separate from a terpene-rich sauce and later recombine into a uniform oil. That sequence is still a process record, not a guarantee about flavor intensity or personal outcome. An extract can also become one ingredient in an infused format. Flower, concentrate, and kief contribute different proportions of the finished mass. Read an ingredient's analysis as information about that ingredient, then use the finished batch's results when comparing the complete product.",
+        ],
+      },
+      {
+        id: "four-extract-routes",
+        heading: "Four extract routes at a glance",
+        paragraphs: [
+          "Distillate is best understood as a refined cannabinoid-rich fraction. Vacuum distillation separates lighter and heavier material from an existing oil, which is why the finished fraction often presents a relatively neutral aroma and an adaptable base for later formulation. Its educational value is the refinement lens: the name points to how the oil was fractionated, not to a single universal purity claim.",
+          "Live resin and live rosin both advertise a cold-chain intention around fresh-frozen starting material, but they part company on separation chemistry. Live resin uses solvent extraction and a controlled purge. Live rosin uses ice-water washing, freeze-drying, and a heated press without adding a solvent for the press step. Comparing them means comparing process histories—volatile retention goals, micron selection, press temperature—not treating “live” as a potency ranking.",
+          "Liquid diamonds center on selective THCa crystallization and recombination with sauce. Crystal purity and sauce composition are separate measurements that only become one oil after a controlled mix. Across all four routes, the defensible comparison is still the matched batch record: how the material was made, which analytes the laboratory reported, and which ingredient roles the extract plays in a finished format.",
         ],
       },
       {
@@ -39,6 +49,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "The cannabinoids listed on a laboratory panel identify individual compounds measured in the submitted sample. THCa and THC occupy separate entries because they are chemically distinct. Heating can remove carbon dioxide from THCa through decarboxylation. Total THC commonly combines measured THC with THCa multiplied by 0.877 to account for that change in molecular mass.",
           "Keep the units consistent when reading that calculation. A percentage describes a proportion of the tested material; milligrams describe an amount. For example, 10% by mass corresponds to 100 milligrams per gram. Check whether the record describes a gram, the whole package, or another stated sample basis before comparing numbers. A calculated total is a label-reading tool, not a prediction of an individual's experience.",
+          "Minor cannabinoids such as CBD, CBG, and CBN remain on their own rows when the laboratory reports them. They are not folded into Total THC unless the report defines a separate aggregate. Reading the panel as a family of named analytes—rather than as one marketing percentage—keeps precursor math, minor-cannabinoid composition, and compliance sections from collapsing into a single boast.",
         ],
       },
       {
@@ -47,6 +58,16 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Aromatic terpenes add another dimension to composition. Their proportions can change during extraction, drying, heating, and storage. An aroma description is therefore most useful alongside the identified extract and its processing history. Texture and color describe observable features, while a terpene panel records the compounds actually measured in that sample.",
           "Start reading a lab report by matching its sample identifier and batch information to the package. Then check the reported units, test date, and which analytical panels are included. Compare cannabinoid results with cannabinoid results and terpene results with terpene results. This sequence keeps a striking number or familiar extract name connected to the evidence it represents.",
+          "Boiling-point charts help compare pure compounds under reference conditions; they are not device on-off switches. Evaporation can begin below a listed boiling point and continue over time, and decarboxylation is a different heat-driven process than aroma loss. Keeping those verbs separate makes temperature talk on extract pages clearer and keeps sensory language from outrunning the batch evidence.",
+        ],
+      },
+      {
+        id: "how-to-use-the-child-pages",
+        heading: "How to use the child pages together",
+        paragraphs: [
+          "Use the THCa versus THC and decarboxylation pages when a label percentage needs arithmetic context. Use the laboratory-report guide when batch identity, units, or compliance sections need a reading order. Use the terpenes and cannabinoids pages when a panel lists more than a headline Total THC figure and those extra rows need plain-language placement.",
+          "Use the distillate, live resin, live rosin, and liquid diamonds guides when the question shifts from measurement to manufacturing route. Each extract page stays inside process description: starting material, separation method, refinement or crystallization choices, and what those choices typically change in composition. None of them invent dosing instructions or medical claims.",
+          "Return to this hub whenever similar names threaten to blur. Live resin is not live rosin. Distillate refinement is not the same act as fresh-frozen extraction. Crystal purity is not identical to a recombined oil’s finished panel. The educational habit is the same throughout the silo: name the process, read the matched report, and keep every percentage attached to the analyte and sample it actually describes.",
         ],
       },
     ],
@@ -116,6 +137,30 @@ export const scienceExtractPages: PageContent[] = [
     ],
     contextualLinks: [
       {
+        href: "/science/decarboxylation",
+        anchor: "decarboxylation",
+        sectionId: "how-to-use-this-section",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/reading-a-lab-report",
+        anchor: "reading a lab report",
+        sectionId: "how-to-use-this-section",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/thca-vs-thc",
+        anchor: "THCa versus THC",
+        sectionId: "how-to-use-this-section",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/",
+        anchor: "THC",
+        sectionId: "how-to-use-this-section",
+        paragraphIndex: 0,
+      },
+      {
         href: "/science/distillate",
         anchor: "distillate",
         sectionId: "extraction-refinement-and-formulation",
@@ -134,8 +179,44 @@ export const scienceExtractPages: PageContent[] = [
         paragraphIndex: 1,
       },
       {
+        href: "/science/liquid-diamonds",
+        anchor: "Liquid diamonds",
+        sectionId: "extraction-refinement-and-formulation",
+        paragraphIndex: 2,
+      },
+      {
+        href: "/science/distillate",
+        anchor: "Distillate",
+        sectionId: "four-extract-routes",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/live-resin",
+        anchor: "Live resin",
+        sectionId: "four-extract-routes",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/live-rosin",
+        anchor: "live rosin",
+        sectionId: "four-extract-routes",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/liquid-diamonds",
+        anchor: "Liquid diamonds",
+        sectionId: "four-extract-routes",
+        paragraphIndex: 2,
+      },
+      {
         href: "/science/cannabinoids",
         anchor: "cannabinoids",
+        sectionId: "cannabinoids-and-measurement",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/decarboxylation",
+        anchor: "decarboxylation",
         sectionId: "cannabinoids-and-measurement",
         paragraphIndex: 0,
       },
@@ -152,10 +233,52 @@ export const scienceExtractPages: PageContent[] = [
         paragraphIndex: 1,
       },
       {
-        href: "/",
-        anchor: "THC",
-        sectionId: "how-to-use-this-section",
+        href: "/science/thca-vs-thc",
+        anchor: "THCa versus THC",
+        sectionId: "how-to-use-the-child-pages",
         paragraphIndex: 0,
+      },
+      {
+        href: "/science/decarboxylation",
+        anchor: "decarboxylation",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/terpenes",
+        anchor: "terpenes",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/cannabinoids",
+        anchor: "cannabinoids",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/distillate",
+        anchor: "distillate",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/live-resin",
+        anchor: "live resin",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/live-rosin",
+        anchor: "live rosin",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/liquid-diamonds",
+        anchor: "liquid diamonds",
+        sectionId: "how-to-use-the-child-pages",
+        paragraphIndex: 1,
       },
       {
         href: "/about",
