@@ -289,10 +289,11 @@ export const infusionArticles: PageContent[] = [
     title: "Surface-Coated vs Saturated Infusion | Presidential THC",
     description:
       "A direct comparison of surface-coated and saturated cannabis infusion, including process demands, tradeoffs, and burn behavior.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Surface-coated infusion keeps most of the concentrate near the outside of the flower, while saturated infusion carries it farther through the flower structure. The difference changes where added material is concentrated, how much process control the construction requires, and how evenly heat and air can move once the product is lit.",
       "These are not rigid categories. Many infused products land between them, with some material penetrating the flower and some remaining at the surface. The useful comparison is therefore a spectrum of distribution rather than a choice between two labels.",
+      "This page is for adults twenty-one and older. It compares coating with deeper saturation, how each tends to look and burn, how potency is distributed, and when each approach is typically used—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -323,12 +324,39 @@ export const infusionArticles: PageContent[] = [
         ],
       },
       {
+        id: "how-each-looks",
+        heading: "How each construction tends to look",
+        paragraphs: [
+          "A coating-led piece usually announces itself at the exterior. Before kief, the outer film can look glossy or tacky; after finishing, a cut often shows shell-and-core contrast, with the center closer to the flower's original color and open texture.",
+          "A saturation-led piece is harder to judge from the outside alone because the kief finish can look similar either way. A clean cross-section is the better check: concentrate should appear along interior paths, not only as a thin ring under the coat.",
+          "Neither look proves uniformity. Clumps, bare patches, or one-sided shine can appear on either method, so compare several cut faces and outer adhesion before treating appearance as a verdict.",
+        ],
+      },
+      {
+        id: "potency-distribution",
+        heading: "How potency is distributed across the piece",
+        paragraphs: [
+          "Distribution and finished potency answer different questions. Finished potency is a weight-share blend of every material in the tested sample; distribution describes where those materials sit. The same concentrate mass can yield a similar whole-piece average whether it sits mostly outside or travels farther in.",
+          "Local concentration still matters. In a surface-heavy build, the outer shell can carry more of the added cannabinoid material than the core. In a deeper build, adjacent interior sections should present a closer share of flower and concentrate to heat and air.",
+          "A dramatic exterior cannot replace a finished-batch result, and a saturation claim cannot invent a percentage. The label describes the blend; cut sections and burn behavior show whether the concentrate path matches the named method.",
+        ],
+      },
+      {
+        id: "when-each-method-is-used",
+        heading: "When each method is typically used",
+        paragraphs: [
+          "Surface coating is often chosen when the goal is a clearly layered exterior—especially when concentrate must also adhere a final kief coat. Process attention stays on coverage, runoff control, and finishing when the format is meant to show distinct layers rather than an integrated interior.",
+          "Deeper saturation is typically used when concentrate should travel through more of the flower so the interior participates rather than staying close to the uncoated base. Process descriptions that separate the concentrate path from the finishing coat—including builds that apply kief last after distillate moves through flower—reflect that choice.",
+          "Many products sit between the poles because flower geometry, viscosity, and handling time rarely yield a pure endpoint. Method selection is about intended depth and control, not which label sounds more advanced.",
+        ],
+      },
+      {
         id: "what-happens-when-lit",
         heading: "How the difference appears when lit",
         paragraphs: [
           "Combustion advances where heat, fuel, and oxygen meet. Infusion changes both the fuel distribution and the spaces available for airflow. A heavy surface patch can hold heat at the edge while a dense inner pocket can slow air through the center.",
           "Tunneling occurs when the center advances while surrounding material lags. Canoeing occurs when one side burns ahead of the other. Neither pattern belongs exclusively to coating or saturation. Both are warnings that material distribution, packing, or airflow has become uneven somewhere in the format.",
-          "A surface-coated piece can burn steadily when its coat is balanced and the format preserves airflow. A saturated piece can burn unevenly when concentrate pools in one region. Method names describe where the process tries to put the concentrate; actual distribution decides the result.",
+          "A surface-coated piece can burn steadily when its coat is balanced and airflow is preserved; an uneven shell is more likely to leave one edge racing. A saturated piece can burn more evenly when interior paths share a similar fuel load, yet it can still canoe or tunnel when concentrate pools. Method names describe intended placement; distribution decides the result.",
         ],
       },
       {
@@ -372,6 +400,7 @@ export const infusionArticles: PageContent[] = [
       description: "See the brand's layered moon rock format in its official product context.",
     },
   },
+
   {
     path: "/infusion/kief-and-trichomes",
     kind: "article",
