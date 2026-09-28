@@ -258,10 +258,11 @@ export const scienceExtractPages: PageContent[] = [
     title: "What Is Live Resin — Fresh-Frozen Extraction",
     description:
       "How fresh-frozen cannabis, a controlled cold chain, hydrocarbon extraction, and vacuum purging produce live resin.",
-    wordTarget: [700, 900],
+    wordTarget: [1100, 1250],
     intro: [
       "Live resin is a cannabis extract made from material that is flash-frozen at harvest instead of being dried and cured first. It is processed cold in a closed-loop hydrocarbon system and then vacuum-purged, with the method designed to retain more of the volatile aromatic profile present near harvest.",
       "The word live refers to the condition of the starting material, not to a living finished product. The extract is defined by fresh-frozen feedstock and temperature-controlled processing; potency, color, or texture alone cannot establish that identity.",
+      "The category name therefore joins two claims. Live points to harvest handling that skips ordinary dry-and-cure time. Resin points to a solvent extraction route rather than a wash-and-press path. Changing either claim changes the production history the label is meant to describe.",
     ],
     sections: [
       {
@@ -270,6 +271,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Conventional cured resin begins with flower that has undergone drying and curing. Live-resin production instead uses fresh-frozen material so the volatile fraction has less time to change during ordinary postharvest handling. Exact timing and temperature controls vary by producer.",
           "Freezing is preservation, not purification. The plant still contains cannabinoids, terpenes, water, lipids, pigments, and structural material. The cold chain simply holds that chemical snapshot until extraction. If the material warms significantly before or during processing, some of the volatile-preservation advantage can be lost before the extractor performs the separation.",
+          "Producers treat the freezer as the first process vessel, not as temporary storage. Material that thaws and refreezes, sits in warm transfer bins, or waits too long between harvest and freeze no longer matches the harvest-day volatile snapshot the category name implies. Fresh-frozen language on a label is therefore a handling claim that begins at the plant, not only at the extractor.",
         ],
       },
       {
@@ -278,6 +280,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Low temperature matters after the freezer as well as before it. Frozen biomass, extraction solvent, collection equipment, and transfer steps are managed as one chain because terpenes begin evaporating below their published boiling points. A boiling point marks rapid phase change at a stated pressure; it is not a threshold below which evaporation stops.",
           "Experimental postharvest research confirms that drying conditions change cannabis volatile profiles and that controlled methods can preserve different groups of terpenes differently. Live-resin processing takes a more direct route by omitting the ordinary dry-and-cure interval altogether. That choice is why source handling is central to the category name.",
+          "Keeping the chain intact also protects process consistency. A cold solvent contacting cold biomass behaves differently from a warm solvent contacting partly thawed material. Temperature control is therefore part of separation design: it shapes which compounds dissolve readily, how much plant debris follows them, and how much of the aromatic fraction survives into the collected oil.",
         ],
       },
       {
@@ -286,6 +289,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "The frozen plant material enters a sealed extraction column. A chilled hydrocarbon solvent passes through it and dissolves selected resin compounds while most solid plant structure stays in the column. The loaded solvent then moves through a closed system to a collection vessel, where recovery equipment separates and recaptures the solvent from the extract.",
           "A closed loop describes contained solvent movement and recovery. It does not mean the finished resin skips testing or finishing. Producers still control time, temperature, pressure, and material handling, and those choices change which compounds transfer from the plant and how much unwanted material follows them.",
+          "Hydrocarbon solvents are chosen because they dissolve cannabinoids and many aromatic compounds efficiently at low temperature. The closed system is meant to keep that solvent circulating inside equipment rather than venting freely to the room. Recovery returns usable solvent to the process and leaves behind a concentrated resin that still needs finishing before it becomes a labeled batch.",
         ],
       },
       {
@@ -294,6 +298,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "After recovery, the concentrated resin is vacuum-purged. Reduced pressure helps remaining solvent leave the viscous material without relying on the same heat that would be needed at atmospheric pressure. The aim is to remove process solvent while limiting unnecessary loss or alteration of the aromatic fraction.",
           "Finishing conditions can produce different consistencies, so live resin may not share one universal texture. Visual cues can describe the sample, but they do not verify fresh-frozen input, closed-loop processing, or residual-solvent results. Those points belong in production records and batch-specific analytical documentation.",
+          "Purge time, temperature, vessel geometry, and how the resin is spread all influence how completely residual solvent leaves and how the aromatic fraction behaves afterward. Two batches from the same cultivar can finish softer, firmer, clearer, or cloudier without leaving the live-resin category. Texture is an outcome of finishing choices layered on top of the fresh-frozen extraction route.",
         ],
       },
       {
@@ -302,6 +307,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "A live or cured designation does not establish a universal THC range or make one extract automatically stronger. The terms describe source handling and processing choices; the batch label and corresponding test record establish composition.",
           "The cleanest way to recognize live resin is to read beyond the front label. Look for fresh-frozen source language, an identified extract type, a batch number, and a corresponding laboratory report. A terpene-rich aroma or pale color may be consistent with the process, but neither is proof by itself. The category is a production history expressed in the material, not a color grade.",
+          "Aromatic fidelity is likewise batch-specific. Fresh freezing can reduce one set of postharvest losses, but extraction, recovery, purge, storage, and packaging still move volatile compounds. A fragrant jar may support the process story; only a matched terpene panel and production record connect that aroma to measured composition for that lot.",
         ],
       },
       {
@@ -310,6 +316,22 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "The same cultivar can present a different measured volatile profile after fresh freezing than after drying and curing because postharvest time changes the material before extraction begins. Research on cannabis drying has found that preservation varies by drying method and by cultivar, while the supplied project record notes that terpene loss across drying, curing, and storage can reach half of the starting total. That figure is a possible loss, not a fixed rule for every batch.",
           "Cured resin and live resin are therefore parallel categories rather than a ladder. One begins after a managed dry-and-cure stage; the other begins with a frozen harvest. Laboratory percentages and aroma profiles can compare the outputs, but neither category name guarantees a specific number without batch evidence.",
+        ],
+      },
+      {
+        id: "live-resin-versus-live-rosin",
+        heading: "How live resin differs from live rosin",
+        paragraphs: [
+          "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
+          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
+        ],
+      },
+      {
+        id: "reading-a-live-resin-label",
+        heading: "How to read a live resin label",
+        paragraphs: [
+          "Start with the process words rather than marketing adjectives. Look for fresh-frozen or live source language, hydrocarbon or closed-loop extraction language, and a batch or lot identifier that can be matched to a laboratory report. If the package only says resin, ask whether the input was fresh-frozen or dried and cured before extraction.",
+          "Then read the analytical sheet the same way you would for any regulated concentrate. Cannabinoid percentages describe measured composition for that batch. Residual-solvent and other required contaminant panels speak to compliance testing after purge. Neither turns the category name into a universal grade. These notes are educational process context for adult readers twenty-one and older — not medical guidance.",
         ],
       },
     ],
