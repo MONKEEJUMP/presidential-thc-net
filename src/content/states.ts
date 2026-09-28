@@ -181,8 +181,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in California — Official State Reference",
     "description": "How adult-use cannabis retail works in California and how to verify current licensed-retailer listings for Presidential products.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -191,8 +191,9 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in California",
         "paragraphs": [
           "California runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — no card, no certification, no registration. A driver's licence is the whole requirement.",
-          "The state runs a medical programme alongside it, which carries its own advantages for registered patients, and either route reaches the same licensed shelf.",
-          "California legalised adult use in 2016 and opened licensed retail in 2018. That makes it one of the most established regulated markets in the country, and the difference shows in every direction: more retailers, more brands, more formats, and a customer base that has had years to develop a real sense of what it wants."
+          "The state runs a medical programme alongside it, which carries its own advantages for registered patients, and either route reaches the same licensed shelf. Adult-use buyers do not need a medical credential; the adult-use path is the default door for anyone twenty-one or older with valid ID.",
+          "California legalised adult use in 2016 and opened licensed retail in 2018. That makes it one of the most established regulated markets in the country, and the difference shows in every direction: more retailers, more brands, more formats, and a customer base that has had years to develop a real sense of what it wants.",
+          "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path California requires; and current retailer listings matter more than any fixed mental map of which brands sit where on any given week."
         ]
       },
       {
@@ -201,7 +202,27 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing between more brands than exist in most entire countries.",
           "That abundance is a real advantage, and it rewards knowing what you are looking at. The difference between two products at the same potency is almost always the extract behind them and how the material was built — which is exactly what the reference guides on this site cover.",
-          "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label."
+          "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label.",
+          "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them."
+        ]
+      },
+      {
+        "id": "local-rules",
+        "heading": "Local rules still shape the map",
+        "paragraphs": [
+          "California lets municipalities set their own terms for retail, delivery, hours, and where licensed doors can open. The statewide adult-use frame is consistent; the street-level map is not identical from city to city.",
+          "That local layer is why a Bay Area stop, a Los Angeles basin stop, a San Diego stop, or a Central Valley stop can feel different even under the same state licence rules. Store hours, delivery availability, and density vary because cities set their own terms — not because the adult-use age gate changes.",
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains the statewide structure; a live licensed source supplies the last step for the city you are actually in."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed California purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed California shelf has been through compliance testing, and the certificate for a given batch is available on request. That is a genuine benefit of a mature regulated market and it is worth using.",
+          "Retail density is the other advantage. Across most of the state — the whole Los Angeles basin, the Bay Area, San Diego, the Central Valley, the coast — a licensed door is often close by. Exact store participation still changes over time, so live listings beat a fixed mental map.",
+          "If a source cannot show that it is licensed and that the product traces to a regulated batch, it is not the channel this reference is describing. The constant is the licence itself; local practice can still vary by city and by shop."
         ]
       },
       {
@@ -210,16 +231,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use, and long before premium cannabis meant anything to anyone.",
           "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be verified from current retailer information rather than a fixed statewide door count.",
-          "That figure is the product of thirteen years in the same market, building the same product, in the state that has been the centre of American cannabis the entire time."
-        ]
-      },
-      {
-        "id": "what-buying-looks-like",
-        "heading": "What buying looks like here",
-        "paragraphs": [
-          "Every product on a licensed California shelf has been through compliance testing, and the certificate for a given batch is available on request. That is a genuine benefit of a mature regulated market and it is worth using.",
-          "Retail density is the other advantage. Across most of the state — the whole Los Angeles basin, the Bay Area, San Diego, the Central Valley, the coast — a licensed door carrying Presidential is close by.",
-          "Store hours, delivery availability and local rules vary by city, because California lets municipalities set their own terms. The locator accounts for it by returning what is actually open near you."
+          "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
@@ -228,7 +241,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential builds one construction into four formats, and California carries the range.",
           "Moon Rocks are the original: flower carried through with concentrate and finished in kief. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down for a shorter occasion.",
-          "Across the catalog, the series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "Across the catalog, the series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in California is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in California",
+        "paragraphs": [
+          "When Presidential product is available through a licensed California retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits California especially well. A deep shelf already asks buyers to choose among many brands and formats — and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -236,7 +259,8 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in California",
         "paragraphs": [
           "Presidential is sold through licensed retailers, which means every package traces to a regulated channel.",
-          "The official locator covers every licensed door in the state and returns the nearest with real distances."
+          "The official locator covers licensed doors in the state and returns the nearest with real distances.",
+          "Keep this page for durable market context: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the locator for live doors. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes."
         ]
       }
     ],
