@@ -539,8 +539,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in Michigan — Official State Reference",
     "description": "Michigan runs the most competitive adult-use market in America, with real value on the shelf. How it works, and where Presidential is carried.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -548,9 +548,10 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Michigan",
         "paragraphs": [
-          "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification.",
-          "Michigan also permits home cultivation, which most legal states do not. Residents may grow a limited number of plants for personal use in an enclosed, locked space, which puts Michigan among the more open adult-use frameworks in the country.",
-          "The state's licensing has been comparatively accessible from the start, and the retail network reaches well beyond the major cities into towns that would not have a dispensary in most states."
+          "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
+          "Michigan also permits home cultivation, which most legal states do not. Residents may grow a limited number of plants for personal use in an enclosed, locked space, which puts Michigan among the more open adult-use frameworks in the country. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
+          "The state's licensing has been comparatively accessible from the start, and the retail network reaches well beyond the major cities into towns that would not have a dispensary in most states. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
+          "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which towns carry which brands on any given week."
         ]
       },
       {
@@ -558,8 +559,9 @@ export const statesPages: PageContent[] = [
         "heading": "The best value shelf in America",
         "paragraphs": [
           "Michigan is widely regarded as the most competitive cannabis retail market in the country. Licence availability has been open, supply is abundant, and the result is real value — Michigan shelves are consistently among the most affordable in any legal state.",
-          "For a buyer that is close to ideal. Legal, tested, plentiful and keenly priced is a rare combination, and Michigan has held it for years.",
-          "The upside compounds: when a market is that competitive, retailers work harder for the customer, and the person behind the counter tends to know the products well because they have to."
+          "For a buyer that is close to ideal. Legal, tested, plentiful and keenly priced is a rare combination, and Michigan has held it for years. Competition shows up as wider menus, sharper pricing, and retailers who cannot coast on scarcity or a closed licence map.",
+          "The upside compounds: when a market is that competitive, retailers work harder for the customer, and the person behind the counter tends to know the products well because they have to. A crowded shelf is not only a price story — it is also a selection story, and buyers benefit from both.",
+          "Coverage follows that open-licence pattern across the state. Detroit and Grand Rapids carry dense licensed networks; other communities carry the same adult-use rules where local licensing allows. Exact participation changes over time, so live listings beat outdated screenshots or out-of-state menus."
         ]
       },
       {
@@ -568,7 +570,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "For a brand, Michigan is the market that proves the point.",
           "When price is competitive across an entire state, what wins is what is actually in the package. There is no premium to hide behind and no shortage to trade on. A product either holds up against everything else on a crowded shelf or it does not.",
-          "Michigan rewards construction, and that is exactly the ground Presidential prefers to compete on. Earning shelf space here means earning it against the sharpest competition in American cannabis."
+          "Michigan rewards construction, and that is exactly the ground Presidential prefers to compete on. Earning shelf space here means earning it against the sharpest competition in American cannabis — not against an empty aisle created by limited licensing.",
+          "That is why this reference treats Michigan placement as structural context rather than a marketing slogan. An open, value-driven market does not guarantee every format at every door on every day, but it does explain why presence that lasts here is a stronger signal of product substance than the same listing would be in a market where few brands can get a door at all."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Michigan purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that has been serving adult-use customers at competitive prices for years.",
+          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a Michigan adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -576,7 +588,9 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Michigan",
         "paragraphs": [
           "Presidential products are listed through licensed Michigan retailers. Participating locations and current formats change over time.",
-          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed."
+          "In a market this competitive, shelf space is not a courtesy listing — retailers stock what moves and what holds up against a deep field of alternatives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+          "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry.",
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Michigan page explains market structure; a current licensed source supplies the last step."
         ]
       },
       {
@@ -584,8 +598,18 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are flower carried through with concentrate and finished in kief. The rolled formats are that material ready to light. Minis are the blunt at a shorter length.",
-          "The series tells you what is behind the product — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
+          "The series marking identifies what is behind it — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Michigan is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package in Michigan",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Michigan retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit fits Michigan especially well. A competitive, value-driven retail network already asks buyers to compare options carefully — and the sealed package is the last verification step those licensed doors are built around."
         ]
       },
       {
@@ -593,7 +617,8 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Michigan",
         "paragraphs": [
           "Presidential is sold through licensed retailers across the state, from Detroit and Grand Rapids out to smaller towns.",
-          "The official locator returns the nearest licensed doors with real distances."
+          "The official locator returns the nearest licensed doors with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
+          "Keep this page for durable market context: adult-use access at twenty-one, home cultivation alongside licensed retail, open licensing, and a competitive value shelf. Use the locator for live doors. Use the package for the final product check. That order keeps Michigan buying inside the regulated channel this reference describes."
         ]
       }
     ],
