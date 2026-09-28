@@ -803,10 +803,10 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC in Washington",
     "title": "Presidential THC in Washington — Official State Reference",
-    "description": "Washington was one of the first two states in America to legalise cannabis. How its market works, and Presidential's status there.",
+    "description": "Washington was one of the first two states in America to legalise cannabis. How its adult-use market works, what a licensed purchase looks like, and Presidential's status there.",
     "wordTarget": [
-      450,
-      600
+      1100,
+      1250
     ],
     "intro": [],
     "sections": [
@@ -814,8 +814,9 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Washington",
         "paragraphs": [
-          "Washington runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification.",
-          "Washington holds a particular place in American cannabis: alongside Colorado, it was one of the first two states in the country to legalise adult use, both in November 2012. Every regulated market that came afterwards was built partly on what those two states worked out first."
+          "Washington runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
+          "Washington holds a particular place in American cannabis: alongside Colorado, it was one of the first two states in the country to legalise adult use, both in November 2012. Every regulated market that came afterwards was built partly on what those two states worked out first.",
+          "That early start still shapes how buying feels here. The licensed network has had more than a decade to settle into ordinary retail habits — storefronts, menus, staff who know the products, and a customer base that treats a dispensary trip like any other regulated purchase rather than an experiment. For someone arriving from a newer market, the difference is less about spectacle and more about routine: identification at the door, tested inventory on the shelf, and packaging that already assumes you will read it."
         ]
       },
       {
@@ -824,7 +825,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "More than a decade of regulated retail has made Washington one of the most established cannabis markets anywhere in the world.",
           "Washington's regulators were writing rules before anyone had a working model to copy. Testing standards, packaging requirements, licensing structures, seed-to-sale tracking — much of what other states later adopted was worked out here first, by people solving the problem for the first time.",
-          "The state has been running a legal, tested, regulated market longer than almost anywhere on earth, and that experience shows in how smoothly it operates."
+          "The state has been running a legal, tested, regulated market longer than almost anywhere on earth, and that experience shows in how smoothly it operates. When a buyer asks for a batch certificate, expects clear package labelling, or assumes the shop is in a public licence registry, those expectations were normalised here early.",
+          "For a reference reader, the practical takeaway is simple: Washington is not a speculative new market learning its first compliance lesson. It is a mature adult-use framework whose basic rules other states studied and adapted. That history does not answer every local question by itself — hours, stock, and municipal details still belong to the retailer and the current licence record — but it does explain why Washington pages emphasise process over novelty."
         ]
       },
       {
@@ -833,7 +835,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Thirteen years of continuous operation produces something a newer market cannot manufacture: a retail sector where the operators have been doing this a long time.",
           "Washington dispensaries are staffed by people who have worked in legal cannabis for a decade. The customer base is well informed. The supply chain is settled. Product quality standards are high because the market has had years to sort out what works.",
-          "Shelf space in Washington is earned over years rather than won in a season, which makes it one of the more meaningful markets to be carried in."
+          "Shelf space in Washington is earned over years rather than won in a season, which makes it one of the more meaningful markets to be carried in. Brands that last here tend to last because retailers and customers already know how to compare construction, extract type, and labelling rather than chasing novelty alone.",
+          "Coverage concentrates where people already shop — the Seattle metro, Tacoma, the southern Puget Sound corridor, Spokane, and other population centres — with licensed doors elsewhere following the same adult-use rules. Exact participation changes, so current listings matter more than any fixed mental map of the state."
+        ]
+      },
+      {
+        "id": "what-buying-looks-like",
+        "heading": "What buying looks like here",
+        "paragraphs": [
+          "A licensed Washington purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
+          "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a long-running regulated channel.",
+          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a Washington adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
         ]
       },
       {
@@ -841,7 +853,8 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Washington",
         "paragraphs": [
           "Presidential is opening in Washington. Licensed retailer listings will publish on the official locator as live records become available.",
-          "Every door that appears on the locator has been verified. That standard holds in every market, and it is what makes the locator worth using."
+          "Every door that appears on the locator has been verified. That standard holds in every market, and it is what makes the locator worth using. Until a live Washington listing appears, treat any third-party claim, screenshot, or out-of-state menu as unverified for this market.",
+          "When listings do publish, confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact."
         ]
       },
       {
@@ -850,7 +863,17 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are flower carried through with concentrate, finished in kief. The pre-rolls and blunts carry that same material ready to light. Minis are the blunt sized down for a shorter occasion.",
-          "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin."
+          "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Those format and series names travel with the brand; they do not change at a state line. What changes in Washington is only the licensed route to the shelf and the live retailer records that confirm it."
+        ]
+      },
+      {
+        "id": "read-the-package",
+        "heading": "How to read the package once stock lands",
+        "paragraphs": [
+          "When Presidential product is available through a licensed Washington retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
+          "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
+          "That package-first habit is especially useful in a mature market like Washington, where customers already expect clear labelling and where retailers are used to answering batch questions without ceremony."
         ]
       },
       {
@@ -858,7 +881,8 @@ export const statesPages: PageContent[] = [
         "heading": "When Washington opens",
         "paragraphs": [
           "The official locator reflects live records across every state where Presidential is carried.",
-          "The Washington page will show licensed doors as soon as there are doors to show."
+          "The Washington page will show licensed doors as soon as there are doors to show. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
+          "Until then, this reference remains the durable context for how Washington adult-use retail works and how Presidential intends to appear in it: through licensed channels only, with verified doors published when they are real. Keep this page for market structure; use the locator for live doors; use the package for the final product check."
         ]
       }
     ],
