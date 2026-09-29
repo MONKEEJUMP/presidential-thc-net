@@ -313,7 +313,7 @@ export const scienceCorePages: PageContent[] = [
     title: "Cannabis Terpenes | Aroma, Flavor, and Volatility",
     description:
       "A precise guide to cannabis terpenes, their aroma vocabulary, reference boiling points, volatility, and processing tradeoffs.",
-    wordTarget: [1100, 1250],
+    wordTarget: [1250, 1350],
     intro: [
       "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
       "Boiling points help compare compounds, but they are not device instructions. Evaporation begins below a listed boiling point and unfolds over time, so flavor cannot be reduced to one temperature on a dial.",
@@ -327,6 +327,7 @@ export const scienceCorePages: PageContent[] = [
           "A terpene panel describes a mixture. Caryophyllene is associated with pepper and clove, pinene with pine and rosemary, myrcene with musky and earthy notes, limonene with bright citrus, and linalool with floral or lavender character. Terpinolene adds citrus and fruity reference notes. Those descriptors are vocabulary for the compounds, not a guarantee that a finished product will smell like one isolated ingredient.",
           "Concentration and proportion shape the profile together. Two samples can contain the same named terpene yet present different overall aromas because the surrounding compounds and their ratios differ. This is why a complete panel is more useful than choosing one row and treating it as the identity of the material.",
           "Aroma vocabulary also travels poorly when it is flattened into a single marketing word. “Citrus,” “pine,” or “earthy” can each arise from more than one compound, and several compounds can contribute to the same perceived note. The panel’s job is to list what was measured; sensory language is a translation aid, not a one-to-one map from one row to one smell.",
+          "A panel also carries units and detection limits. Milligrams per gram, percent by weight, and other reporting styles are not interchangeable without conversion, and a compound below the laboratory's reporting limit may simply be absent from the printed list. Treat missing rows as measurement outcomes for that submission, not as proof that the plant never produced the compound.",
         ],
       },
       {
@@ -367,6 +368,7 @@ export const scienceCorePages: PageContent[] = [
           "Storage continues the same contest after extraction. Heat and light take terpenes first, so a profile measured at production is not protected from later handling. A cool, dark environment slows the conditions that strip away the most volatile part of the composition. The point is preservation of measured material, not the invention of aroma after the fact.",
           "This gives terpene preservation a chain rather than a single checkpoint. Harvest timing establishes the starting material, processing determines which volatile fraction carries forward, and storage affects what remains when the container is opened. A strong result at one stage cannot erase losses at another. When comparing extract styles, ask which steps were designed to retain the original aromatic fraction and which steps deliberately favor another goal, such as a different consistency or a more neutral base.",
           "Loss figures from postharvest research are ranges, not fixed rules for every cultivar and every lot. The project research record notes that terpene loss across drying, curing, and storage can reach half of the starting total. That upper-bound language explains why process history matters; it does not license a claim that every dried sample lost exactly fifty percent. Batch panels remain the evidence for what a specific product still contains.",
+          "Live-resin and live-rosin routes are useful comparisons because they advertise process choices aimed at aromatic retention. They do not invent a new class of molecules; they change which fraction of an already-present volatile set is more likely to survive into the finished extract. When a label names those process families, read the claim as processing history first, then confirm composition on the batch panel.",
         ],
       },
       {
@@ -384,6 +386,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "This article keeps terpenes in the vocabulary of mixture, volatility, and process history. The laboratory-report guide shows where a terpene panel sits beside cannabinoid and compliance sections on a Certificate of Analysis. The decarboxylation page separates heat-driven conversion of THCa from evaporation of aromatic compounds.",
           "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "Reading a lab report completes the literacy loop: the terpene section sits beside cannabinoid totals and compliance results on the same Certificate of Analysis. Use this page for aroma and volatility vocabulary; use the laboratory-report guide when the next question is how those rows appear on a printed certificate.",
         ],
       },
     ],
