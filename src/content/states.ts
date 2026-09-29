@@ -305,8 +305,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC in California — Official State Reference",
     "description": "How adult-use cannabis retail works in California and how to verify current licensed-retailer listings for Presidential products.",
     "wordTarget": [
-      1100,
-      1250
+      1250,
+      1350
     ],
     "intro": [],
     "sections": [
@@ -327,7 +327,8 @@ export const statesPages: PageContent[] = [
           "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing between more brands than exist in most entire countries.",
           "That abundance is a real advantage, and it rewards knowing what you are looking at. The difference between two products at the same potency is almost always the extract behind them and how the material was built — which is exactly what the reference guides on this site cover.",
           "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label.",
-          "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them."
+          "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them.",
+          "That deep-shelf shape is why this page emphasises process over novelty. An established adult-use market already assumes tested inventory, clear packaging, and a licence you can ask about — habits that matter in Los Angeles, the Bay Area, San Diego, or any licensed community under the same regulated channel."
         ]
       },
       {
@@ -346,7 +347,8 @@ export const statesPages: PageContent[] = [
           "A licensed California purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed California shelf has been through compliance testing, and the certificate for a given batch is available on request. That is a genuine benefit of a mature regulated market and it is worth using.",
           "Retail density is the other advantage. Across most of the state — the whole Los Angeles basin, the Bay Area, San Diego, the Central Valley, the coast — a licensed door is often close by. Exact store participation still changes over time, so live listings beat a fixed mental map.",
-          "If a source cannot show that it is licensed and that the product traces to a regulated batch, it is not the channel this reference is describing. The constant is the licence itself; local practice can still vary by city and by shop."
+          "If a source cannot show that it is licensed and that the product traces to a regulated batch, it is not the channel this reference is describing. The constant is the licence itself; local practice can still vary by city and by shop.",
+          "Use that licence-first habit the same way you use live stock checks: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Los Angeles basin, Bay Area, San Diego, or coastal door you are visiting."
         ]
       },
       {
@@ -384,7 +386,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is sold through licensed retailers, which means every package traces to a regulated channel.",
           "The official locator covers licensed doors in the state and returns the nearest with real distances.",
-          "Keep this page for durable market context: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the locator for live doors. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes."
+          "Keep this page for durable market context: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the locator for live doors. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes.",
+          "Reading the market this way keeps California buys inside the same literacy loop: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. A mature deep shelf makes that loop familiar — it does not replace confirming the live licensed source."
         ]
       }
     ],
