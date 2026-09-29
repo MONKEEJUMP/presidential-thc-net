@@ -740,7 +740,7 @@ export const beginnersGuide: PageContent = {
   title: "Beginner's Guide to Infused Cannabis | Presidential THC",
   description:
     "A plain-language introduction to infused cannabis, major formats, potency context, labels, handling, and next steps.",
-  wordTarget: [1100, 1250],
+  wordTarget: [1250, 1350],
   intro: [
     "Infused cannabis combines flower or a finished format with cannabis concentrate, which changes the product's construction and can raise its reported potency above ordinary flower. Begin by identifying the format, reading its package, and using the preparation method made for that format. For moon rocks, start with a piece around the size of a pencil eraser, never use a grinder, and expect a slower burn.",
     "This guide explains the basic vocabulary without making promises about effects. Percentages describe tested material, while handling, temperature, storage, and physical construction explain how that material behaves as a product.",
@@ -754,6 +754,7 @@ export const beginnersGuide: PageContent = {
         "Infusion brings cannabis concentrate into a flower-based or finished format. In a classic moon rock, the three visible layers are flower, concentrate, and kief. Kief is collected trichomes: the resin glands that hold most of the plant's cannabinoids and terpenes.",
         "The concentrate contributes more than a number on the label. It changes texture, density, airflow, and the way heat moves through the material. That is why infused formats need their own handling instructions instead of being treated as ordinary ground flower with a different name.",
         "Think of infusion as a construction change first and a potency change second. The finished object has layers, coatings, wraps, or extract paths that ordinary flower does not. Naming those parts correctly makes the later guides easier to use, because each practical page assumes you already know which format is in hand.",
+        "Use the same vocabulary the package uses. If the label names a wrap, a cartridge, or a coated flower piece, keep that name in the next guide so beginner reading does not turn into format mix-ups.",
       ],
     },
     {
@@ -772,6 +773,7 @@ export const beginnersGuide: PageContent = {
         "Potency belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate and kief.",
         "Do not compare one layer with a complete format as though they are the same sample. Read the product's own label, keep the batch information with it, and remember that percentages describe composition. They do not explain every detail of construction, distribution, storage history, or hardware.",
         "Two packages can share a category name and still report different totals because inputs, ratios, and finishing steps differ by batch. Treat the printed cannabinoid figures as a snapshot of the lot that was tested, not as a universal grade for every product in that category. If a laboratory report is available, match it to the same batch identifier printed on the package.",
+        "When a package lists both a concentrate input and a finished-product total, read them as two different snapshots — not interchangeable grades. Name which number belongs to which sample before any cross-category comparison.",
       ],
     },
     {
@@ -808,6 +810,7 @@ export const beginnersGuide: PageContent = {
         "If the immediate task is preparation, continue to the moon-rock smoking guide. If the product will be kept for later, use the storage routine. The temperature guide explains compound reference points and gradual adjustment, while the quality guide organizes appearance, aroma, package, coating, and burn observations.",
         "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop. When the next question is where Presidential products are available, the official brand locator points to licensed retailers and keeps availability separate from educational guidance.",
         "Move through the guides in the order the product requires, not as a checklist that must be completed every time. A stored moon rock may need handling guidance next; a cartridge may send the reader directly to temperature and quality checks. The format decides the useful path.",
+        "If the question is still what the product is, stay here until format and label terms are clear. Once it is how to prepare, store, heat, or inspect a known format, open the matching child guide.",
       ],
     },
   ],
