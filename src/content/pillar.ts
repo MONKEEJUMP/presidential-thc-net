@@ -7,7 +7,7 @@ export const pillarPage: PageContent = {
   title: "Presidential THC | Infused Cannabis Chemistry Guide",
   description:
     "Presidential THC explained — flower, concentrate, kief, Total THC labels, extracts, formats, and the official licensed-retailer path.",
-  wordTarget: [1100, 1250],
+  wordTarget: [1250, 1350],
   intro: [
     "Presidential THC is the official chemistry and craft reference for Presidential Cannabis's infused products. It explains the flower, concentrate, and kief construction behind Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis without treating Presidential THC as a strain name or a universal potency claim.",
     "Use this home page as the map. When a label term is unfamiliar, open the science hub. When material arrangement is the question, open the infusion hub. When physical form is the question, open the formats hub. When storage, temperature, or package reading is the question, open the guides hub. When licensed retail context by market matters, open the states hub. For publisher identity and editorial scope, open the about page.",
@@ -82,6 +82,7 @@ export const pillarPage: PageContent = {
       heading: "What this home page does not do",
       paragraphs: [
         "This home page does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of chemistry, construction, formats, handling, and market context around the Presidential Cannabis brand.",
+        "It also does not invent one potency figure for every Presidential format. Construction names, extract vocabulary, and hub links are here so a reader can open the matching reference, then confirm batch facts on the current package or with a licensed retailer.",
       ],
     },
   ],
