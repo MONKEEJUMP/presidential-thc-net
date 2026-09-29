@@ -9,8 +9,8 @@ export const statesPages: PageContent[] = [
     "title": "Presidential THC by State — Where the Brand Is Carried",
     "description": "Presidential is carried across eight states through licensed retail. How each market works, and where to find the nearest licensed door.",
     "wordTarget": [
-      1100,
-      1250
+      1250,
+      1350
     ],
     "intro": [],
     "sections": [
@@ -29,7 +29,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
           "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
-          "Those are six different stories and they deserve six different pages. Florida and Washington add two more — one medical and vertically integrated, one adult-use and foundational."
+          "Those are six different stories and they deserve six different pages. Florida and Washington add two more — one medical and vertically integrated, one adult-use and foundational.",
+          "That is why this hub emphasises process over a single national story. Adult-use density, medical gates, visitor design, and early-market history are different literacy questions; each state page answers the one that market actually poses."
         ]
       },
       {
@@ -46,7 +47,8 @@ export const statesPages: PageContent[] = [
         "heading": "How Presidential reaches retail",
         "paragraphs": [
           "Presidential is a wholesale brand. Every package reaches a customer through a licensed, regulated retailer, which means every package can be traced to a channel that can be verified.",
-          "Retail availability varies by market and changes over time. Use current licensed-retailer listings for each state rather than relying on fixed door counts or market rankings."
+          "Retail availability varies by market and changes over time. Use current licensed-retailer listings for each state rather than relying on fixed door counts or market rankings.",
+          "That wholesale-to-retail path is why this hub talks about markets rather than shopping carts. A state page can explain access rules and retail structure without claiming that a particular menu line is in stock today. Confirm the licensed door and the package when you are ready to buy."
         ]
       },
       {
@@ -97,7 +99,8 @@ export const statesPages: PageContent[] = [
         "id": "the-eight",
         "heading": "The eight states",
         "paragraphs": [
-          "Each reference covers the legal framework, how buying works in that market, what the market is like, and where to find the nearest licensed door."
+          "Each reference covers the legal framework, how buying works in that market, what the market is like, and where to find the nearest licensed door.",
+          "Open the child page for the market you are checking, read its access route and retail shape, then confirm current participation with a licensed retailer or the current official listing. Treat this hub as the map; treat the state page and the live licensed source as the last two steps."
         ]
       }
     ],
