@@ -713,6 +713,14 @@ export const statesPages: PageContent[] = [
           "Keep this page for durable market context: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the locator for live doors. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
           "Reading the market this way keeps trips and local buys inside the same literacy loop: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive."
         ]
+      },
+      {
+        "id": "door-lounge-package",
+        "heading": "What each Nevada check does not cover",
+        "paragraphs": [
+          "The adult-use door, the lounge, and the package answer different questions, and none of them covers the other two. Anyone twenty-one or older buys at a licensed dispensary, and identification from any state is accepted. That eligibility does not set a hotel's policy, and it does not make a public space a consumption site. Nevada licensed purpose-built lounges because hotel and public-space rules leave that gap, and it built the rooms after the retail was already built. A lounge is the on-site venue. It is not another name for the dispensary, even when a lounge is attached or nearby. Hours, how a floor is organised, and a lounge's hours and house rules can still differ by city and by shop, and both the door and the venue can change. The current licensed source matters more than an old tip or a social post.",
+          "Testing and the package sit on the product, not on the room. Product on a licensed shelf has been through the compliance testing Nevada requires, and asking for the certificate tied to a batch is ordinary, not a special request. That certificate does not list which formats a door stocks today. Format and series names travel with the brand and do not change at the state line. What changes in Nevada is the licensed adult-use route and the live retailer record, whether the door is a few blocks off the Strip or farther out. After the door or the lounge, match the product name and format on the menu to the unit in hand, then read net weight, ingredient language, cannabinoid information, and the batch or lot identifier. A photo from another market, or a verbal description, loses when it disagrees with that package and with the retailer's current inventory. Current stock remains a retailer-level fact, not a promise that every format is at every door. This page still does not replace the venue's rules or the state's licensing records."
+        ]
       }
     ],
         "relatedLinks": [
