@@ -3,7 +3,7 @@ import type { PageContent } from "./types";
 export const aboutPage: PageContent = {
   path: "/about",
   kind: "about",
-  h1: "About Presidential THC",
+  h1: "About Presidential THC | Official Chemistry Reference",
   title: "About Presidential THC | Official Chemistry Reference",
   description:
     "About Presidential THC, the official chemistry and craft reference for the Presidential Cannabis brand, covering infusion, extracts, formats, labels, and handling.",

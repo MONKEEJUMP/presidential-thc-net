@@ -5,7 +5,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science",
     kind: "hub",
     silo: "science",
-    h1: "Cannabis Extract Science",
+    h1: "Cannabis Extract Science — THCa, Terpenes and Potency",
     title: "Cannabis Extract Science — THCa, Terpenes and Potency",
     description:
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
@@ -291,7 +291,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/distillate",
     kind: "article",
     silo: "science",
-    h1: "Cannabis Distillate",
+    h1: "What Is Cannabis Distillate",
     title: "What Is Cannabis Distillate | Presidential THC",
     description:
       "How cannabis distillate is refined, why it is nearly odorless, and how its composition differs from broader plant extracts.",
@@ -412,7 +412,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/live-resin",
     kind: "article",
     silo: "science",
-    h1: "Live Resin",
+    h1: "What Is Live Resin — Fresh-Frozen Extraction",
     title: "What Is Live Resin — Fresh-Frozen Extraction",
     description:
       "How fresh-frozen cannabis, a controlled cold chain, hydrocarbon extraction, and vacuum purging produce live resin.",
@@ -526,7 +526,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/live-rosin",
     kind: "article",
     silo: "science",
-    h1: "Live Rosin",
+    h1: "What Is Live Rosin — Solventless Extraction",
     title: "What Is Live Rosin — Solventless Extraction",
     description:
       "How ice-water washing, micron separation, freeze-drying, and controlled pressing turn fresh-frozen cannabis into live rosin.",
@@ -634,7 +634,7 @@ export const scienceExtractPages: PageContent[] = [
     path: "/science/liquid-diamonds",
     kind: "article",
     silo: "science",
-    h1: "Cannabis Liquid Diamonds",
+    h1: "What Are Cannabis Liquid Diamonds",
     title: "What Are Cannabis Liquid Diamonds | Presidential THC",
     description:
       "How THCa crystallization creates diamonds, how terpene sauce is recombined, and why the resulting oil suits cartridges.",

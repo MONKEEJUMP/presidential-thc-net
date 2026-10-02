@@ -5,7 +5,7 @@ export const scienceCorePages: PageContent[] = [
     path: "/science/thca-vs-thc",
     kind: "article",
     silo: "science",
-    h1: "THCa vs THC",
+    h1: "THCa vs THC — What the Label Actually Means",
     title: "THCa vs THC — What the Label Actually Means",
     description:
       "Understand the chemical relationship between THCa and THC, the 0.877 conversion factor, and the correct way to calculate Total THC.",
@@ -115,7 +115,7 @@ export const scienceCorePages: PageContent[] = [
     path: "/science/decarboxylation",
     kind: "article",
     silo: "science",
-    h1: "Decarboxylation",
+    h1: "Decarboxylation — How Heat Turns THCa Into THC",
     title: "Decarboxylation — How Heat Turns THCa Into THC",
     description:
       "Learn what decarboxylation changes, why temperature and time work together, and how flames and vape coils drive THCa conversion.",
