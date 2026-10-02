@@ -4,7 +4,7 @@ export const guidesHub: PageContent = {
   path: "/guides",
   kind: "hub",
   silo: "guides",
-  h1: "Infused Cannabis Guides",
+  h1: "Practical Guides to Infused Cannabis",
   title: "Practical Guides to Infused Cannabis | Presidential THC",
   description:
     "Practical Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
@@ -490,7 +490,7 @@ export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
   kind: "article",
   silo: "guides",
-  h1: "Temperature Guide",
+  h1: "Temperature Guide for Cannabis Extracts",
   title: "Temperature Guide for Cannabis Extracts | Presidential THC",
   description:
     "Compare cannabis extract temperature principles, boiling-point context, device adjustment, and label guidance without treating one setting as universal.",
@@ -736,7 +736,7 @@ export const beginnersGuide: PageContent = {
   path: "/guides/beginners-guide",
   kind: "article",
   silo: "guides",
-  h1: "Beginner's Guide",
+  h1: "Beginner's Guide to Infused Cannabis",
   title: "Beginner's Guide to Infused Cannabis | Presidential THC",
   description:
     "A plain-language introduction to infused cannabis, major formats, potency context, labels, handling, and next steps.",

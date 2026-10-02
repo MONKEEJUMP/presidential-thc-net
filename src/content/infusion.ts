@@ -4,7 +4,7 @@ export const infusionHub: PageContent = {
   path: "/infusion",
   kind: "hub",
   silo: "infusion",
-  h1: "Cannabis Infusion",
+  h1: "How Cannabis Infusion Works",
   title: "How Cannabis Infusion Works | Presidential THC",
   description:
     "A practical guide to cannabis infusion, from concentrate distribution and kief to burn behavior and potency by format.",
@@ -276,7 +276,7 @@ export const infusionArticles: PageContent[] = [
     path: "/infusion/how-infusion-works",
     kind: "article",
     silo: "infusion",
-    h1: "How Infusion Works",
+    h1: "How Cannabis Infusion Actually Works",
     title: "How Cannabis Infusion Actually Works | Presidential THC",
     description:
       "How cannabis infusion uses concentrate, controlled viscosity, and careful distribution to build a consistent layered format.",
@@ -393,7 +393,7 @@ export const infusionArticles: PageContent[] = [
     path: "/infusion/surface-vs-saturation",
     kind: "article",
     silo: "infusion",
-    h1: "Surface vs Saturation",
+    h1: "Surface-Coated vs Saturated Infusion",
     title: "Surface-Coated vs Saturated Infusion | Presidential THC",
     description:
       "A direct comparison of surface-coated and saturated cannabis infusion, including process demands, tradeoffs, and burn behavior.",
@@ -513,7 +513,7 @@ export const infusionArticles: PageContent[] = [
     path: "/infusion/kief-and-trichomes",
     kind: "article",
     silo: "infusion",
-    h1: "Kief and Trichomes",
+    h1: "Kief and Trichomes Explained",
     title: "Kief and Trichomes Explained | Presidential THC",
     description:
       "What cannabis trichomes are, how kief is collected, and the three practical jobs kief performs on an infused format.",
@@ -754,7 +754,7 @@ export const infusionArticles: PageContent[] = [
     path: "/infusion/potency-by-format",
     kind: "article",
     silo: "infusion",
-    h1: "Potency by Format",
+    h1: "Potency by Format — Flower to Concentrate",
     title: "Potency by Format — Flower to Concentrate",
     description:
       "A careful potency comparison across flower, concentrate coatings, moon rocks, and THCa diamonds, with weighted-blend math.",

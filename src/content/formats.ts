@@ -5,7 +5,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats",
     kind: "hub",
     silo: "formats",
-    h1: "Infused Cannabis Formats",
+    h1: "Infused Cannabis Formats Compared",
     title: "Infused Cannabis Formats Compared | Presidential THC",
     description:
       "Compare moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and vape cartridges by construction and format.",
@@ -264,7 +264,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats/blunts",
     kind: "article",
     silo: "formats",
-    h1: "Infused Blunts",
+    h1: "Infused Blunts and Tobacco-Free Hemp Wraps",
     title: "Infused Blunts and Tobacco-Free Hemp Wraps",
     description:
       "Compare infused blunts, paper pre-rolls, and mini blunts, with a clear look at tobacco-free hemp wraps and burn construction.",
@@ -590,7 +590,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats/infused-pre-rolls",
     kind: "article",
     silo: "formats",
-    h1: "Infused Cannabis Pre-Rolls",
+    h1: "Infused Cannabis Pre-Rolls Explained",
     title: "Infused Cannabis Pre-Rolls Explained | Presidential THC",
     description:
       "See how infused pre-rolls combine flower and concentrate, which extract types are used, how burn and ash differ from plain rolls, and how to choose by construction and label.",
@@ -701,7 +701,7 @@ export const formatsPages: PageContent[] = [
     path: "/formats/vape-cartridges",
     kind: "article",
     silo: "formats",
-    h1: "Cannabis Vape Cartridges",
+    h1: "Cannabis Vape Cartridges Explained",
     title: "Cannabis Vape Cartridges Explained | Presidential THC",
     description:
       "Understand vape cartridge hardware, distillate versus live resin oils, extract viscosity, temperature control, label checks, and responsible disposal.",

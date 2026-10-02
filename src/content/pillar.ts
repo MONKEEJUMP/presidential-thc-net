@@ -3,7 +3,7 @@ import type { PageContent } from "./types";
 export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
-  h1: "Presidential THC",
+  h1: "Presidential THC | Infused Cannabis Chemistry Guide",
   title: "Presidential THC | Infused Cannabis Chemistry Guide",
   description:
     "Presidential THC explained — flower, concentrate, kief, Total THC labels, extracts, formats, and the official licensed-retailer path.",

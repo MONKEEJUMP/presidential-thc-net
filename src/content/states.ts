@@ -302,7 +302,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in California",
-    "title": "Presidential THC in California — Official State Reference",
+    "title": "Adult-Use Cannabis Retail in California",
     "description": "How adult-use cannabis retail works in California and how to verify current licensed-retailer listings for Presidential products.",
     "wordTarget": [
       1250,
@@ -419,7 +419,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Oklahoma",
-    "title": "Presidential THC in Oklahoma — Official State Reference",
+    "title": "Accessible Patient Programmes in Oklahoma",
     "description": "Oklahoma runs one of the most accessible patient programmes in America. How it works, and where Presidential is carried.",
     "wordTarget": [
       1100,
@@ -534,7 +534,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in New York",
-    "title": "Presidential THC in New York — Official State Reference",
+    "title": "New York Fast-Growing Adult-Use Market",
     "description": "New York runs a fast-growing adult-use market whose licensed retail network is still being built out. How it works, and where Presidential is carried.",
     "wordTarget": [
       1100,
@@ -648,7 +648,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Nevada",
-    "title": "Presidential THC in Nevada — Official State Reference",
+    "title": "Nevada Cannabis Market for Visitors and Licensed Consumption Lounges",
     "description": "Nevada built its cannabis market for visitors, with licensed consumption lounges purpose-built for them. How it works, and where Presidential is carried.",
     "wordTarget": [
       1250,
@@ -765,7 +765,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Michigan",
-    "title": "Presidential THC in Michigan — Official State Reference",
+    "title": "Most Competitive Adult-Use Market in Michigan",
     "description": "Michigan runs the most competitive adult-use market in America, with real value on the shelf. How it works, and where Presidential is carried.",
     "wordTarget": [
       1100,
@@ -879,7 +879,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Arizona",
-    "title": "Presidential THC in Arizona — Official State Reference",
+    "title": "Arizona Adult-Use Retail on Medical Infrastructure",
     "description": "Arizona built adult-use retail on a decade of medical infrastructure, in a tightly licensed market. How it works, and where Presidential is carried.",
     "wordTarget": [
       1250,
@@ -996,7 +996,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Florida",
-    "title": "Presidential THC in Florida — Official State Reference",
+    "title": "Florida Vertically Integrated Patient Programmes",
     "description": "Florida runs one of the largest patient programmes in America, with a distinctive vertically integrated market. How it works.",
     "wordTarget": [
       1100,
@@ -1110,7 +1110,7 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Washington",
-    "title": "Presidential THC in Washington — Official State Reference",
+    "title": "Washington Adult-Use Market, One of the First States to Legalise Cannabis",
     "description": "Washington was one of the first two states in America to legalise cannabis. How its adult-use market works, what a licensed purchase looks like, and Presidential's status there.",
     "wordTarget": [
       1250,
