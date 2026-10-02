@@ -11,7 +11,7 @@ export const scienceExtractPages: PageContent[] = [
       "A practical map of cannabis chemistry, lab labels, terpenes, distillate, live resin, live rosin, and liquid diamonds.",
     wordTarget: [1100, 1250],
     intro: [
-      "Cannabis chemistry explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
+      "This extract-science hub is published by Presidential THC. Cannabis chemistry explains what is in a concentrate, how processing changes it, and what a laboratory result actually measures. The essential ideas are straightforward: cannabinoids can appear in acidic or neutral forms, aromatic terpenes are volatile, and each extraction or refinement method preserves a different portion of the starting material.",
       "This section follows those ideas from the plant to the finished extract. It stays strictly chemical and descriptive, making terminology, composition, and process differences readable without assigning outcomes to the compounds. Adults twenty-one and older can use it as a navigation map: each child page deepens one topic, while this hub keeps the relationships among molecules, labels, and materials in view.",
       "Published by Presidential THC, this is the official extract-science hub. Presidential THC identifies the brand's chemistry and infusion reference; cultivar names identify the plant material. Here, the useful questions are how an extract was made, what its label measures, and how its composition relates to the finished format—not medical advice, dosing guidance, or claims about personal outcomes.",
     ],
@@ -136,6 +136,11 @@ export const scienceExtractPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "https://presidentialthc.net/",
+        anchor: "Presidential THC",
+        paragraphIndex: 0,
+      },
       {
         href: "/science/decarboxylation",
         anchor: "decarboxylation",
