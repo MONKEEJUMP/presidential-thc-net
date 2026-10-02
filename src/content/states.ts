@@ -7,7 +7,7 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC by state",
     "title": "Presidential THC by State — Where the Brand Is Carried",
-    "description": "Presidential is carried across eight states through licensed retail. How each market works, and where to find the nearest licensed door.",
+    "description": "Presidential is carried across seven states through licensed retail. How each market works, and where to find the nearest licensed door.",
     "wordTarget": [
       1250,
       1350
@@ -16,10 +16,10 @@ export const statesPages: PageContent[] = [
     "sections": [
       {
         "id": "the-eight-markets",
-        "heading": "Eight states, eight distinct markets",
+        "heading": "Seven states, seven distinct markets",
         "paragraphs": [
-          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
-          "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Two run medical programmes, where a state patient card opens the door.",
+          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
+          "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
           "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers. Adult-use and medical are access rules, not style preferences."
         ]
       },
@@ -29,7 +29,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
           "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
-          "Those are six different stories and they deserve six different pages. Florida and Washington add two more — one medical and vertically integrated, one adult-use and foundational.",
+          "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
           "That is why this hub emphasises process over a single national story. Adult-use density, medical gates, visitor design, and early-market history are different literacy questions; each state page answers the one that market actually poses."
         ]
       },
@@ -38,8 +38,8 @@ export const statesPages: PageContent[] = [
         "heading": "Adult-use and medical routes",
         "paragraphs": [
           "Adult-use markets in this directory — California, New York, Nevada, Michigan, Arizona, and Washington — share a simple door rule: valid identification and age twenty-one or older at a licensed retailer. Beyond that shared gate, the markets diverge on licensing density, visitor design, competition, and how long regulated retail has been ordinary.",
-          "Medical markets here — Oklahoma and Florida — keep eligibility behind a patient credential. Oklahoma's physician-determination model and Florida's vertically integrated operators are not interchangeable medical stories; they answer different questions about who may buy and how a licensed shelf is stocked.",
-          "Start with the access route before comparing shelf depth or brand presence. The California reference and the New York reference both describe adult-use doors, yet one is an established deep shelf and the other is a fast-growing buildout. The Oklahoma reference and the Florida reference both describe medical gates, yet one is multi-brand retail and the other is operator-owned production chained to the storefront."
+          "Medical markets here — Oklahoma — keep eligibility behind a patient credential. Oklahoma's physician-determination model answers who may buy and how a licensed shelf is stocked.",
+          "Start with the access route before comparing shelf depth or brand presence. The California reference and the New York reference both describe adult-use doors, yet one is an established deep shelf and the other is a fast-growing buildout. The Oklahoma reference describes a medical gate and multi-brand retail."
         ]
       },
       {
@@ -57,7 +57,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "A state page is a starting point for checking a market, not a permanent inventory list. Open the page for the state you are checking, identify the licensed-retail path described there, then confirm current participation with a licensed retailer or the current official listing. The California reference covers an established adult-use market, while the New York reference covers a newer retail network that can change quickly.",
           "Use the pages in that order: choose the state, read its access and licensing notes, then check current retailer information. An old menu, a package photographed in another market, or a third-party directory does not establish present availability. The state page supplies durable context; a current licensed source supplies the last step.",
-          "When the question is medical access rather than adult-use density, open the Oklahoma reference or the Florida reference first. When the question is early-market structure and long-settled retail habits, open the Washington reference."
+          "When the question is medical access rather than adult-use density, open the Oklahoma reference first. When the question is early-market structure and long-settled retail habits, open the Washington reference."
         ]
       },
       {
@@ -82,7 +82,7 @@ export const statesPages: PageContent[] = [
         "heading": "How to use the state pages together",
         "paragraphs": [
           "Use the California reference when the question is a deep adult-use shelf and local municipal variation. Use the Nevada reference when visitor access, destination retail, or licensed consumption lounges shape the trip. Use the Michigan reference when competitive value and open licensing are the frame. Use the Arizona reference when capped licences and curated placement matter.",
-          "Use the New York reference when the licensed network is still expanding and last season's map is already stale. Use the Oklahoma reference when physician determination and a medical patient licence open multi-brand dispensaries. Use the Florida reference when vertical integration makes the storefront the face of one production chain. Use the Washington reference when early adult-use history and long-settled retail habits are the context.",
+          "Use the New York reference when the licensed network is still expanding and last season's map is already stale. Use the Oklahoma reference when physician determination and a medical patient licence open multi-brand dispensaries. Use the Washington reference when early adult-use history and long-settled retail habits are the context.",
           "Return to this hub whenever state names threaten to blur into one national story. Adult-use is not medical. Name the access route, read the state page for durable structure, then confirm the live door and the package."
         ]
       },
@@ -92,12 +92,12 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: forty-seven products across six groupings, organised by the extract behind them rather than by price.",
-          "What changes is the route to the shelf, and that is what these eight references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
+          "What changes is the route to the shelf, and that is what these seven references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
         ]
       },
       {
         "id": "the-eight",
-        "heading": "The eight states",
+        "heading": "The seven states",
         "paragraphs": [
           "Each reference covers the legal framework, how buying works in that market, what the market is like, and where to find the nearest licensed door.",
           "Open the child page for the market you are checking, read its access route and retail shape, then confirm current participation with a licensed retailer or the current official listing. Treat this hub as the map; treat the state page and the live licensed source as the last two steps."
@@ -128,10 +128,6 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/arizona",
         "label": "Presidential THC in Arizona"
-      },
-      {
-        "href": "/states/florida",
-        "label": "Presidential THC in Florida"
       },
       {
         "href": "/states/washington",
@@ -182,12 +178,6 @@ export const statesPages: PageContent[] = [
         "paragraphIndex": 2
       },
       {
-        "href": "/states/florida",
-        "anchor": "Florida reference",
-        "sectionId": "use-the-state-directory",
-        "paragraphIndex": 2
-      },
-      {
         "href": "/states/washington",
         "anchor": "Washington reference",
         "sectionId": "use-the-state-directory",
@@ -230,12 +220,6 @@ export const statesPages: PageContent[] = [
         "paragraphIndex": 2
       },
       {
-        "href": "/states/florida",
-        "anchor": "Florida reference",
-        "sectionId": "adult-use-and-medical-routes",
-        "paragraphIndex": 2
-      },
-      {
         "href": "/states/california",
         "anchor": "California reference",
         "sectionId": "how-to-use-the-state-pages",
@@ -268,12 +252,6 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/oklahoma",
         "anchor": "Oklahoma reference",
-        "sectionId": "how-to-use-the-state-pages",
-        "paragraphIndex": 1
-      },
-      {
-        "href": "/states/florida",
-        "anchor": "Florida reference",
         "sectionId": "how-to-use-the-state-pages",
         "paragraphIndex": 1
       },
@@ -398,7 +376,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/nevada",
@@ -513,7 +491,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/new-york",
@@ -627,7 +605,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/michigan",
@@ -744,7 +722,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/california",
@@ -858,7 +836,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/new-york",
@@ -975,7 +953,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/california",
@@ -995,9 +973,9 @@ export const statesPages: PageContent[] = [
     "path": "/states/florida",
     "kind": "article",
     "silo": "states",
-    "h1": "Presidential THC in Florida",
-    "title": "Florida Vertically Integrated Patient Programmes",
-    "description": "Florida runs one of the largest patient programmes in America, with a distinctive vertically integrated market. How it works.",
+    "h1": "Florida",
+    "title": "Florida",
+    "description": "Florida is not a Presidential market.",
     "wordTarget": [
       1100,
       1250
@@ -1045,12 +1023,9 @@ export const statesPages: PageContent[] = [
       },
       {
         "id": "presidential-here",
-        "heading": "Presidential in Florida",
+        "heading": "Florida is not a Presidential market",
         "paragraphs": [
-          "Presidential is opening in Florida. Licensed retailer listings will publish on the official locator as live records become available.",
-          "Everything that appears on the locator is verified first - every door listed is a real, licensed, confirmed retailer. That standard is why a buyer can trust what the locator returns, in Florida and in every other market.",
-          "Until live Florida doors appear, treat this page as market structure rather than a stock list. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact, and in Florida that fact also sits inside vertical integration - the door and the production chain are the same house.",
-          "Verify current availability with the licensed operator and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated medical channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry."
+          "Florida is not a Presidential market. Presidential is not carried in Florida."
         ]
       },
       {
@@ -1060,25 +1035,15 @@ export const statesPages: PageContent[] = [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are the original - flower carried through with concentrate, finished in kief. The rolled formats carry that same material ready to light. Minis are the blunt at a shorter length.",
           "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
-          "Those format and series names travel with the brand; they do not change at a state line. What changes in Florida is the licensed medical route to the shelf and the live retailer records that confirm it. When Florida doors list, match the menu line to the package in hand before you buy."
+          "Those format and series names travel with the brand; they do not change at a state line."
         ]
       },
       {
         "id": "read-the-package",
         "heading": "How to read the package in Florida",
         "paragraphs": [
-          "When Presidential product is available through a licensed Florida retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the operator's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
           "That package-first habit fits Florida especially well. A vertically integrated medical market already asks buyers to trust a single production chain over informal sources - and the sealed package is the last verification step those licensed doors are built around."
-        ]
-      },
-      {
-        "id": "finding-it",
-        "heading": "When Florida opens",
-        "paragraphs": [
-          "The official locator covers every state where Presidential is carried and updates as licensed retailers come online.",
-          "The Florida page reflects live records, so it will show doors the moment there are doors to show. Use those live records - not archived posts or out-of-state menus - as the last step before you travel.",
-          "Keep this page for durable market context: medical access through physician certification and a patient card, vertical integration that makes each dispensary the face of one production chain, and a buyer habit of choosing an operator as much as a product. Use the locator for live doors. Use the package for the final product check. That order keeps Florida buying inside the regulated medical channel this reference describes."
         ]
       }
     ],
@@ -1089,7 +1054,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/oklahoma",
@@ -1099,11 +1064,7 @@ export const statesPages: PageContent[] = [
         "href": "/states/washington",
         "label": "Washington"
       }
-    ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/fl",
-      "label": "Find licensed retailers in Florida"
-    }
+    ]
   },
   {
     "path": "/states/washington",
@@ -1204,16 +1165,12 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All eight states"
+        "label": "All seven states"
       },
       {
         "href": "/states/california",
         "label": "California"
       },
-      {
-        "href": "/states/florida",
-        "label": "Florida"
-      }
     ],
     "externalLink": {
       "href": "https://presidentialmoonrocks.com/find-us/wa",

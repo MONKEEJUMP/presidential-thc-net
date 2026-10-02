@@ -26,7 +26,7 @@ export const aboutPage: PageContent = {
       id: "presidential-context",
       heading: "Presidential THC as publisher",
       paragraphs: [
-        "Presidential THC publishes this reference about the Presidential Cannabis brand. Presidential Cannabis makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the brand's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, Florida, and Washington, with availability shaped by each retailer and location.",
+        "Presidential THC publishes this reference about the Presidential Cannabis brand. Presidential Cannabis makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the brand's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, and Washington, with availability shaped by each retailer and location.",
         "Brand and plant information lives at the official Presidential Cannabis site. This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
         "That split matters. A brand site answers catalog and company questions. This publisher answers construction, extract vocabulary, label interpretation, handling, and market-context questions so a package claim is not read as shelf status.",
       ],
