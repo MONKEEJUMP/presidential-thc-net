@@ -354,6 +354,14 @@ export const formatsPages: PageContent[] = [
           `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Availability and brand-format details for Presidential’s tobacco-free blunt line remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
+      {
+        id: "the-nickname-stops-before-the-cylinder",
+        heading: "The nickname stops before the cylinder",
+        paragraphs: [
+          `Blunt names the family, not the unit. A tobacco-free hemp wrap states what the wrapper is made from. It does not turn the roll into a cigar, and it does not settle diameter, wrap thickness, seam style, fill, or where the concentrate sits. Two packages can share the word and still be different builds. A paper pre-roll and a shorter mini are different emphases in that comparison, not smaller copies of the same cylinder.`,
+          `Later cues stop at their own questions. An exterior sheen can come from the wrap, from handling, or from a coating, so it does not show whether concentrate runs through the flower or sits in one band. Slow, even, or smooth describes intended behavior. It does not prove the seam is continuous or the fill is even from the lighting end to the mouth end. Heat and pressure can move concentrate, crease the cylinder, or close the air path, and keeping the package cool and rigid does not repair a roll that was already uneven. Net contents, ingredients, the cannabinoid statement, and the batch or lot number stay the printed record.`,
+        ],
+      },
     ],
     relatedLinks: [
       {
