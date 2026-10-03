@@ -604,7 +604,15 @@ export const statesPages: PageContent[] = [
           "The official locator returns licensed doors carrying Presidential with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
           "Keep this page for durable market context: adult-use access at twenty-one, a newer regulated framework from 2021, and a retail network still expanding across the boroughs and beyond. Use the locator for live doors. Use the package for the final product check. That order keeps New York buying inside the regulated channel this reference describes."
         ]
-      }
+      },
+      {
+        "id": "new-door-is-not-a-new-product",
+        "heading": "A new door is not a new product",
+        "paragraphs": [
+          "A new licensed door changes the route, not the catalog. Legalisation in 2021 and the buildout across the boroughs, the Hudson Valley, Long Island, and upstate can put a storefront where last summer's map had none. That door still has to display a state licence, appear in the official registry, and sell product with a certificate tied to the batch. Opening day does not add a format, and a polished informal source in a thin part of the map is still outside the channel this page describes.",
+          "The product side stays put while the map moves. Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis remain the formats, and Silver, Gold, and Rose Gold still mark distillate, live resin, and solventless live rosin. A neighbourhood that gained a retailer did not rename those series, and a neighbourhood that still has no licensed door did not remove them from the state. Shelf presence stays a retailer-level fact. Match the menu line to the package in hand — product name, format, net weight, ingredient language, cannabinoid information, and the batch or lot identifier. A photo from another market or a verbal tip does not settle the door or the unit."
+        ]
+      },
     ],
     "relatedLinks": [
       {
