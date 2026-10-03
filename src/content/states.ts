@@ -102,7 +102,15 @@ export const statesPages: PageContent[] = [
           "Each reference covers the legal framework, how buying works in that market, what the market is like, and where to find the nearest licensed door.",
           "Open the child page for the market you are checking, read its access route and retail shape, then confirm current participation with a licensed retailer or the current official listing. Treat this hub as the map; treat the state page and the live licensed source as the last two steps."
         ]
-      }
+      },
+      {
+        "id": "same-product-different-door",
+        "heading": "Identical product, different door",
+        "paragraphs": [
+          "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate and finished with kief, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for all seven states. Forty-seven products across six groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
+          "The door is the part that changes. Adult-use markets in this directory ask for identification and age twenty-one or older at a licensed retailer. Oklahoma asks for a state patient card. That split is an access rule, not a style preference and not a different brand. Past the shared gate, each state still has its own regulator, retail structure, and answer to what a buyer brings through the door, which is why the stories are not one national page. This hub still does not treat fixed door counts, market rankings, or an old menu as proof of today's stock. Read the state page for durable structure, then confirm the licensed listing and the package in hand."
+        ]
+      },
     ],
     "childLinks": [
       {
