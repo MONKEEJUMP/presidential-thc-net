@@ -87,6 +87,14 @@ export const scienceCorePages: PageContent[] = [
           "Cannabinoid and terpene pages widen the panel without changing the THCa–THC rule: other analytes stay in their own rows, and boiling-point or volatility references describe evaporation more directly than conversion. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
         ],
       },
+      {
+        id: "the-factor-does-not-describe-the-flame",
+        heading: "The factor does not describe the flame",
+        paragraphs: [
+          "The 0.877 factor answers a label question only. It puts a measured THCa row and a measured THC row on one line by accounting for the mass lost when the carboxyl group leaves. Decarboxylation is still the reaction, and temperature, time, airflow, and device settings still describe how heat is delivered. Those practical details do not replace the molecular-weight correction, and they do not rename a THCa result as THC.",
+          "The arithmetic already on this page shows where the label stops. For the 82% THCa and 3% THC sample, 82 × 0.877 is 71.914, and adding the measured 3% gives 74.914% before the common rounding to 74.9%. Skipping the factor would treat the two masses as equal. A 99% THCa crystal still converts, in theory, to 86.823% THC before any THC already listed is added and before practical losses. Those results belong to the matched report and batch. They are not a reading of a different production run, and they are not a claim about personal effects.",
+        ],
+      },
     ],
     relatedLinks: [
       {
