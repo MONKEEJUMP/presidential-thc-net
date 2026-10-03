@@ -714,6 +714,14 @@ export const scienceExtractPages: PageContent[] = [
           "Reading the label this way closes the literacy loop: process words identify crystallization and recombination, the batch identifier ties the package to a laboratory report, and the finished-oil totals describe the sample that was submitted — not every intermediate crystal or sauce fraction along the way.",
         ],
       },
+      {
+        id: "crystal-math-is-not-the-oil",
+        heading: "Keep the crystal math off the finished oil",
+        paragraphs: [
+          "A crystal-fraction result, the converted-THC estimate from that crystal, and a finished-oil total can all be true without being one grade. The lattice result belongs to the solid THCa fraction. The structure accepts THCa and leaves solvents, lipids, terpenes, and other cannabinoids largely in the surrounding liquid, which is why diamonds can reach 99% purity and above. The 0.877 factor uses the molecular weights already stated here, 358.47 g/mol for THCa and 314.46 g/mol for THC, to estimate what remains after decarboxylation releases carbon dioxide. Near 87% THC is the theoretical maximum after complete conversion of 99% THCa. That estimate is still about the crystal fraction. It is not a sauce measurement, and it is not the recombined oil.",
+          "The finished-oil total answers a later step. Recombination puts the reduced crystal back into sauce, and the laboratory result describes the submitted sample, which can differ from the crystal because volatile and fluid material the lattice excluded is back in the formula. A sauce-fraction result sits apart from both: aroma, cannabinoids that remained dissolved, and physical behavior. A clear crystal and a fragrant sauce still do not show residual solvent, the exact ratio, or the full measured profile. If the package only says diamonds, ask whether that word means intact crystals, a recombined oil, or another format, and do not treat the crystal percentage, the 0.877 conversion of that crystal, or the finished-oil total as the same grade. These notes stay process context for adults twenty-one and older, not medical guidance.",
+        ],
+      },
     ],
     relatedLinks: [
       {
