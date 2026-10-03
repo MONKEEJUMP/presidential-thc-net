@@ -98,6 +98,14 @@ export const infusionHub: PageContent = {
         "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of cannabis infusion by distribution, depth, trichome finishing, burn mechanics, and weighted potency.",
       ],
     },
+    {
+      id: "a-cue-stops-at-its-layer",
+      heading: "A visible cue stops at its own layer",
+      paragraphs: [
+        "A cut section answers a placement question only. It can show whether concentrate stayed near the outside or traveled farther through the flower, and it can show material that ran away from the intended area or collected in pockets. It does not prove the kief coat is even, and it does not assign the finished piece the cannabinoid figure of its strongest input. Composition still comes from the label and the batch report.",
+        "The coat and the ember stop at their own questions too. A uniform kief layer can show a recognizable exterior and a surface that is easier to handle; bare patches or thick clumps suggest the finishing layer was not evenly applied. Neither reading proves saturation underneath. A slower light, a relight, tunneling, or canoeing describes density, airflow, and heat retention under heat. Those burn cues are not a potency figure. The finished format still lands between its inputs by weight share, and this batch can still differ because placement, flower structure, format size, and storage condition belong to the piece being examined.",
+      ],
+    },
   ],
   childLinks: [
     {
