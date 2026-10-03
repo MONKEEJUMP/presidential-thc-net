@@ -97,6 +97,15 @@ export const formatsPages: PageContent[] = [
         ],
       },
       {
+        id: "label-fields-follow-the-format",
+        heading: "Let the format pick the label fields",
+        paragraphs: [
+          `The format decides which package fields can answer a comparison, and those fields do not travel from one build to another. A loose layered piece is confirmed as flower, concentrate, and kief, then read by identity, ingredients, net contents, and batch. A paper roll is read by paper, filter, fill consistency, and where the concentrate sits. A broader wrap is read by material, seam, diameter, and infusion uniformity, with tobacco-free language kept as a composition statement rather than a health claim. A shorter wrap-led roll is read again as a change in the ratio among wrap, fill, and airflow, together with unit size, package count, and net contents, because the word mini does not set a standard weight or infusion ratio. A cartridge is read by reservoir, oil, seals, viscosity that can reach the heater without flooding it, and battery compatibility. Wrapper and fill tests do not answer those hardware questions, and a viscosity note does not describe a coated flower piece.`,
+          `A shared format name still leaves the sample on the unit in hand. Cannabinoid labeling and the batch identifier belong to that package, not to the format as a class. Color, size, and the category name do not guarantee a particular composition. On this hub, Presidential THC is the publisher and brand name, not a cannabis strain, so cultivar, extract, package, and batch stay separate kinds of information.`,
+        ],
+      },
+
+      {
         id: "what-this-hub-does-not-do",
         heading: "What this hub does not do",
         paragraphs: [
