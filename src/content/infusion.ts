@@ -509,6 +509,14 @@ export const infusionArticles: PageContent[] = [
 
   {
     path: "/infusion/kief-and-trichomes",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "what-a-trichome-is",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "infusion",
     h1: "Kief and Trichomes Explained",

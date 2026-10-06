@@ -271,6 +271,14 @@ export const formatsPages: PageContent[] = [
   },
   {
     path: "/formats/blunts",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "what-defines-a-blunt",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "formats",
     h1: "Infused Blunts and Tobacco-Free Hemp Wraps",
@@ -532,6 +540,14 @@ export const formatsPages: PageContent[] = [
 
   {
     path: "/formats/moon-rocks",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "three-layers",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "formats",
     h1: "Moon Rocks: Layered Cannabis Format",
@@ -628,6 +644,14 @@ export const formatsPages: PageContent[] = [
   },
   {
     path: "/formats/infused-pre-rolls",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "standard-versus-infused",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "formats",
     h1: "Infused Cannabis Pre-Rolls Explained",
@@ -734,6 +758,14 @@ export const formatsPages: PageContent[] = [
   },
   {
     path: "/formats/vape-cartridges",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "distillate-versus-live-resin",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "formats",
     h1: "Cannabis Vape Cartridges Explained",

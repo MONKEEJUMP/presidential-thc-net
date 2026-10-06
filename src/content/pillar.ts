@@ -16,7 +16,7 @@ export const pillarPage: PageContent = {
   sections: [
     {
       id: "what-is-presidential-thc",
-      heading: "What is Presidential THC?",
+      heading: "Brand framework, not a strain or a measurement",
       paragraphs: [
         "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
         "“World's Strongest” is Presidential's brand slogan, not a measurement. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",

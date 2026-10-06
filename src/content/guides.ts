@@ -777,6 +777,14 @@ export const whatToLookFor: PageContent = {
 
 export const beginnersGuide: PageContent = {
   path: "/guides/beginners-guide",
+  contextualLinks: [
+    {
+      href: "/science",
+      anchor: "cannabis",
+      sectionId: "what-infused-means",
+      paragraphIndex: 0,
+    },
+  ],
   kind: "article",
   silo: "guides",
   h1: "Beginner's Guide to Infused Cannabis",
