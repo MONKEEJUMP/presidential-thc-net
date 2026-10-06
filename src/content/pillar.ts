@@ -78,6 +78,21 @@ export const pillarPage: PageContent = {
       ],
     },
     {
+      id: "what-are-presidential-blunts-wrapped-in",
+      heading: "What are Presidential blunts wrapped in?",
+      paragraphs: [
+        "A tobacco-free hemp wrap. The wrap is both the container and the fuel boundary of a blunt, and it is a heavier layer than the thin rolling paper of an infused pre-roll. Inside it sits the same flower, concentrate, and kief construction described above, and minis bring the rolled formats into a smaller presentation.",
+        "At a licensed dispensary, read the wrap statement beside the product identity, ingredients, and batch. A hemp or other non-tobacco wrap statement describes ingredients only; it is not a claim of reduced risk.",
+      ],
+    },
+    {
+      id: "how-infused-formats-are-smoked",
+      heading: "How are Presidential infused formats smoked?",
+      paragraphs: [
+        "Slowly, and according to the format. Concentrate makes infused material denser, so it usually lights more slowly than flower alone and a relight is normal. A moon rock is broken by hand or with scissors, never in a grinder, and placed in a bowl or layered between ground flower so air can move. Infused pre-rolls, blunts, and minis need an even, patient light and moderate draws so the ember does not race down one side. These are handling mechanics for adults twenty-one and older, not dosing guidance.",
+      ],
+    },
+    {
       id: "what-this-home-does-not-do",
       heading: "What this home page does not do",
       paragraphs: [
