@@ -388,6 +388,22 @@ export const howToSmokeMoonRocks: PageContent = {
         "Some retailers use caviar, moon rocks, and infused flower loosely, so ask the dispensary whether the product has a discrete outer kief coat or only an oil finish on flower. The about page sets out the chemistry focus of this reference.",
       ],
     },
+      {
+        id: "moon-rocks-sun-rocks-caviar",
+        heading: "Moon rocks vs sun rocks vs caviar: what's the difference?",
+        paragraphs: [
+          "The difference is the outer layer. What makes moon rocks is the full three-part build: cannabis flower at the center, a cannabis concentrate such as hash oil around it, and a discrete coat of kief on the outside. Cannabis caviar is flower coated in oil without that outer kief layer, so it is infused flower that does not match the full moon rock definition.",
+          "Sun rocks is another retail nickname used for infused flower, and the name alone does not tell you which build is in the jar. Because some retailers use caviar, moon rocks, sun rocks, and infused flower loosely, ask whether the product has a discrete outer kief coat or only an oil finish on flower, and treat the package as the record for the specific product.",
+        ],
+      },
+      {
+        id: "smoking-moon-rocks-versus-buds",
+        heading: "Why smoking moon rocks differs from smoking plain buds",
+        paragraphs: [
+          "Plain buds are dry flower, so a grinder can turn them into loose, fairly uniform pieces. Cannabis moon rocks are denser: concentrate surrounds the flower core and kief clings to the outside, so the material softens, gums a grinder, and does not burn at one even rate.",
+          "That is why smoking moon rocks starts with smaller pieces separated by hand or with scissors. Smaller pieces expose more edges to heat, and spreading them between ground buds in a bowl, joint, or blunt lets the surrounding flower carry the burn while air still moves past the infused spots.",
+        ],
+      },
     {
       id: "why-the-cautions",
       heading: "Why the cautions follow the three layers",
