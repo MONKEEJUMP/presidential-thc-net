@@ -7,6 +7,7 @@ import type {
   ContextualLink,
   PageContent,
 } from "@/content/types";
+import { pageEntities } from "@/content/entity-schema";
 import { absoluteUrl, escapeJsonLd, imageUrl, SITE_NAME, SITE_URL } from "@/lib/site";
 
 import { ContentFigure } from "./content-figure";
@@ -338,6 +339,7 @@ function StructuredData({ page, images }: ArticlePageProps) {
   const websiteId = `${SITE_URL}/#website`;
   const webPageId = `${pageUrl}#webpage`;
   const faqId = `${pageUrl}#faq`;
+  const entities = pageEntities[page.path];
   const imageObjects = images.map((image) => ({
     "@type": "ImageObject",
     contentUrl: imageUrl(image),
@@ -378,7 +380,10 @@ function StructuredData({ page, images }: ArticlePageProps) {
       name: page.title,
       description: page.description,
       isPartOf: { "@id": websiteId },
-      about: { "@id": organizationId },
+      about: entities?.about?.length
+        ? [{ "@id": organizationId }, ...entities.about]
+        : { "@id": organizationId },
+      mentions: entities?.mentions?.length ? entities.mentions : undefined,
       publisher: { "@id": organizationId },
       inLanguage: "en-US",
       mainEntity: page.faqs?.length ? { "@id": faqId } : undefined,

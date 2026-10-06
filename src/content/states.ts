@@ -399,6 +399,14 @@ export const statesPages: PageContent[] = [
         "label": "Washington"
       }
     ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
+      }
+    ],
   },
   {
     "path": "/states/oklahoma",
@@ -508,6 +516,14 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/michigan",
         "label": "Michigan"
+      }
+    ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
       }
     ],
   },
@@ -626,6 +642,14 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/oklahoma",
         "label": "Oklahoma"
+      }
+    ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
       }
     ],
   },
@@ -753,6 +777,14 @@ export const statesPages: PageContent[] = [
         "label": "Washington"
       }
     ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
+      }
+    ],
   },
   {
     "path": "/states/michigan",
@@ -861,6 +893,14 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/nevada",
         "label": "Nevada"
+      }
+    ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
       }
     ],
   },
@@ -974,6 +1014,14 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/nevada",
         "label": "Nevada"
+      }
+    ],
+    "contextualLinks": [
+      {
+        "href": "/formats",
+        "anchor": "four formats",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
       }
     ],
   },
