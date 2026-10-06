@@ -352,7 +352,7 @@ function StructuredData({ page, images }: ArticlePageProps) {
       "@type": "Organization",
       "@id": organizationId,
       name: "Presidential THC",
-      alternateName: ["Presidential", "Presidential Cannabis"],
+      alternateName: ["Presidential"],
       url: `${SITE_URL}/`,
       logo: {
         "@type": "ImageObject",

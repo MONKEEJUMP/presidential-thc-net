@@ -838,13 +838,6 @@ export const pageImages: Record<string, ContentImage[]> = {
     { "src": "/images/presidential-cherry-gelato-mini-pre-roll-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Cherry Gelato mini pre-roll vertical menu label artwork", "caption": "" },
     { "src": "/images/presidential-skywalker-moon-rocks-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Skywalker Moon Rocks vertical menu label artwork", "caption": "" }
   ],
-  "/states/florida": [
-    { "src": "/images/presidential-strawberry-moon-rocks-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Strawberry Moon Rocks vertical menu label artwork", "caption": "" },
-    { "src": "/images/presidential-nyc-diesel-infused-pre-roll-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential NYC Diesel infused pre-roll vertical menu label artwork", "caption": "" },
-    { "src": "/images/presidential-blue-raspberry-mini-blunt-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Blue Raspberry mini blunt vertical menu label artwork", "caption": "" },
-    { "src": "/images/presidential-grape-mini-pre-roll-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Grape mini pre-roll vertical menu label artwork", "caption": "" },
-    { "src": "/images/presidential-sfv-og-blunt-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential SFV OG blunt vertical menu label artwork", "caption": "" }
-  ],
   "/states/washington": [
     { "src": "/images/presidential-watermelon-moon-rocks-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Watermelon Moon Rocks vertical menu label artwork", "caption": "" },
     { "src": "/images/presidential-papaya-punch-infused-pre-roll-menu-label.webp", "width": 1080, "height": 1350, "alt": "Presidential Papaya Punch infused pre-roll vertical menu label artwork", "caption": "" },
