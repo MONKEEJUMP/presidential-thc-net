@@ -39,6 +39,8 @@ export type PageContent = {
   h1: string;
   title: string;
   description: string;
+  /** Optional on-page dek; meta description stays `description`. */
+  dek?: string;
   wordTarget: [number, number];
   intro: string[];
   sections: ContentSection[];

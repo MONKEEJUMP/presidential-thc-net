@@ -457,7 +457,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
               <p className="article-hero__eyebrow">THE OFFICIAL</p>
             ) : null}
             <h1>{page.h1}</h1>
-            <p className="article-hero__dek">{page.description}</p>
+            <p className="article-hero__dek">{page.dek ?? page.description}</p>
           </header>
 
           <div className="gold-seam" aria-hidden="true" />
