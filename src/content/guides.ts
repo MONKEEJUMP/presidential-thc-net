@@ -282,7 +282,7 @@ export const howToSmokeMoonRocks: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "Do not put a moon rock in a grinder. Break off a piece about the size of a pencil eraser by hand or with scissors, place it in a bowl with room for airflow, and light it slowly; for a steadier burn, layer the piece between ground flower. Glass is easier to manage than paper, and a relight is normal because the concentrate-rich piece is dense.",
-    "That method follows the format's construction. A moon rock has cannabis flower at its center, a cannabis concentrate layer around it, and kief on the outside. Preparation should keep those layers together while exposing enough surface for heat and air to move through the piece.",
+    "That method follows the format's construction. A moon rock has cannabis flower at its center, a cannabis concentrate layer around it, and kief on the outside. Some menus describe the same build as flower coated in hash oil and rolled in kief. Preparation should keep those layers together while exposing enough surface for heat and air to move through the piece.",
     "This page is for adults twenty-one and older who want an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim.",
   ],
   sections: [
