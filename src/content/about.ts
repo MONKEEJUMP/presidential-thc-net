@@ -85,18 +85,6 @@ export const aboutPage: PageContent = {
       ],
     },
   ],
-  relatedLinks: [
-    {
-      href: "https://presidentialcannabis.net/",
-      label: "Visit the official Presidential Cannabis company reference",
-      description: "Explore the brand, plant catalog, and official company information.",
-    },
-    {
-      href: "https://presidentialblunts.net/",
-      label: "Explore Presidential tobacco-free blunt formats",
-      description: "Continue to the dedicated Presidential Blunts reference.",
-    },
-  ],
   contextualLinks: [
     {
       href: "/formats",

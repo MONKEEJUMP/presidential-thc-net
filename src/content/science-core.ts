@@ -113,11 +113,6 @@ export const scienceCorePages: PageContent[] = [
         description: "Place THC and THCa alongside CBD, CBG, and CBN.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/presidential-thc",
-      label: "See Presidential’s THC reference page",
-      description: "Continue with the brand’s own overview of Presidential THC.",
-    },
   },
   {
     path: "/science/decarboxylation",
@@ -214,11 +209,6 @@ export const scienceCorePages: PageContent[] = [
         description: "Read the acidic, neutral, and calculated cannabinoid rows.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/different-extracts-need-different-heat",
-      label: "Compare heat across extract types",
-      description: "Read the official guide to how extract formats meet temperature.",
-    },
   },
   {
     path: "/science/reading-a-lab-report",
@@ -306,11 +296,6 @@ export const scienceCorePages: PageContent[] = [
         description: "Understand why CBD, CBG, and CBN remain separate analytes.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/infusion-science",
-      label: "Explore the official infusion science overview",
-      description: "Connect laboratory composition with the structure of an infused product.",
-    },
   },
 
   {
@@ -415,11 +400,6 @@ export const scienceCorePages: PageContent[] = [
         description: "Distinguish terpene volatility from THCa decarboxylation.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/flavor-science",
-      label: "Read Presidential’s flavor science guide",
-      description: "Continue with the official site’s discussion of flavor construction.",
-    },
   },
   {
     path: "/science/cannabinoids",
@@ -508,10 +488,5 @@ export const scienceCorePages: PageContent[] = [
         description: "Learn how crystallization separates THCa from surrounding sauce.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn",
-      label: "Browse Presidential’s official learning library",
-      description: "Continue with the brand’s collection of extract and infusion references.",
-    },
   },
 ];

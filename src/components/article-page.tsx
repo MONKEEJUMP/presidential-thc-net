@@ -7,7 +7,6 @@ import type {
   ContextualLink,
   PageContent,
 } from "@/content/types";
-import { productHrefForImage } from "@/content/product-links";
 import { absoluteUrl, escapeJsonLd, imageUrl, SITE_NAME, SITE_URL } from "@/lib/site";
 
 import { ContentFigure } from "./content-figure";
@@ -238,13 +237,11 @@ function ArticleSection({
   page,
   section,
   image,
-  imageHref,
   reverse,
 }: {
   page: PageContent;
   section: ContentSection;
   image?: ContentImage;
-  imageHref?: string;
   reverse: boolean;
 }) {
   return (
@@ -270,27 +267,9 @@ function ArticleSection({
           ) : null}
           <DataTable section={section} />
         </div>
-        {image ? <ContentFigure href={imageHref} image={image} /> : null}
+        {image ? <ContentFigure image={image} /> : null}
       </div>
     </section>
-  );
-}
-
-function BrandCallToAction() {
-  return (
-    <aside className="brand-cta" aria-labelledby="brand-cta-heading">
-      <h2 id="brand-cta-heading">Presidential Moon Rocks</h2>
-      <p>
-        The official Presidential site — the full catalog and the licensed retailer locator.
-      </p>
-      <a
-        className="brand-cta__button"
-        href="https://presidentialmoonrocks.com"
-        rel="nofollow"
-      >
-        Visit the official site
-      </a>
-    </aside>
   );
 }
 
@@ -318,7 +297,7 @@ function LinkDirectory({ page }: { page: PageContent }) {
   const childLinks = page.childLinks ?? [];
   const relatedLinks = page.relatedLinks ?? [];
 
-  if (!childLinks.length && !relatedLinks.length && !page.externalLink) return null;
+  if (!childLinks.length && !relatedLinks.length) return null;
 
   return (
     <aside className="link-directory" aria-label="Continue reading">
@@ -348,16 +327,6 @@ function LinkDirectory({ page }: { page: PageContent }) {
             ))}
           </div>
         </section>
-      ) : null}
-
-      {page.externalLink ? (
-        <a
-          className="editorial-link contextual-reference"
-          href={page.externalLink.href}
-          rel="noopener noreferrer"
-        >
-          <span>{page.externalLink.label}</span>
-        </a>
       ) : null}
     </aside>
   );
@@ -501,10 +470,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
               ))}
             </div>
             {leadImage ? (
-              <ContentFigure
-                href={productHrefForImage(page.path, leadImage.src)}
-                image={leadImage}
-              />
+              <ContentFigure image={leadImage} />
             ) : null}
           </div>
 
@@ -515,16 +481,10 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
               <Fragment key={section.id}>
                 <ArticleSection
                   image={usedSectionImages[index]}
-                  imageHref={
-                    usedSectionImages[index]
-                      ? productHrefForImage(page.path, usedSectionImages[index].src)
-                      : undefined
-                  }
                   reverse={isStatesPage ? false : index % 2 === 1}
                   page={page}
                   section={section}
                 />
-                {index === 0 ? <BrandCallToAction /> : null}
               </Fragment>
             ))}
             <FrequentlyAskedQuestions page={page} />
@@ -533,11 +493,7 @@ export function ArticlePage({ page, images }: ArticlePageProps) {
           {remainingImages.length ? (
             <aside className="image-ledger" aria-label="Packaging details">
               {remainingImages.map((image) => (
-                <ContentFigure
-                  href={productHrefForImage(page.path, image.src)}
-                  image={image}
-                  key={image.src}
-                />
+                <ContentFigure image={image} key={image.src} />
               ))}
             </aside>
           ) : null}

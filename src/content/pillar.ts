@@ -95,14 +95,7 @@ export const pillarPage: PageContent = {
     { href: "/about", label: "About Presidential THC", description: "Publisher identity, editorial method, and reference scope." },
     { href: "/science/reading-a-lab-report", label: "Read a Cannabis Lab Report", description: "Follow Total THC and batch identifiers." },
     { href: "/formats/moon-rocks", label: "Moon Rocks", description: "Study the flower, concentrate, and kief construction." },
-    { href: "https://presidentialcannabis.net/", label: "Presidential Cannabis", description: "Visit the official company and plant guide." },
-    { href: "https://presidentialblunts.net/", label: "Presidential Blunts", description: "Visit the official tobacco-free blunt guide." },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "Find Presidential at licensed retailers",
-    description: "Use the official retailer path and confirm current availability.",
-  },
   faqs: [
     {
       question: "What is Presidential THC?",

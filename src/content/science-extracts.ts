@@ -407,11 +407,6 @@ export const scienceExtractPages: PageContent[] = [
         description: "Learn why aromatic compounds separate and change during processing.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/different-extracts-need-different-heat",
-      label: "See how extract type changes temperature decisions",
-      description: "Continue with Presidential's practical comparison of extract heat behavior.",
-    },
   },
   {
     path: "/science/live-resin",
@@ -521,11 +516,6 @@ export const scienceExtractPages: PageContent[] = [
         description: "Learn which batch details and analytical panels support label interpretation.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/what-is-live-resin",
-      label: "Read Presidential's live resin overview",
-      description: "See the official brand's companion guide to the fresh-frozen extract.",
-    },
   },
   {
     path: "/science/live-rosin",
@@ -629,11 +619,6 @@ export const scienceExtractPages: PageContent[] = [
         description: "Connect press-temperature choices with terpene volatility.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/what-is-live-rosin",
-      label: "Continue with the official live rosin guide",
-      description: "Read Presidential's companion explanation of solventless extraction.",
-    },
   },
   {
     path: "/science/liquid-diamonds",
@@ -740,10 +725,5 @@ export const scienceExtractPages: PageContent[] = [
         description: "Learn how a batch report separates THCa, THC, and calculated totals.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/what-are-liquid-diamonds",
-      label: "Read the official liquid diamonds explainer",
-      description: "Continue with Presidential's companion guide to the extract format.",
-    },
   },
 ];

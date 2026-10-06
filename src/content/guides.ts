@@ -384,11 +384,6 @@ export const howToSmokeMoonRocks: PageContent = {
       label: "Review the infused cannabis basics",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "find licensed retailers carrying Presidential formats",
-    description: "Use the official locator when local product availability is the next practical question.",
-  },
 };
 
 export const howToStoreInfusedCannabis: PageContent = {
@@ -488,11 +483,6 @@ export const howToStoreInfusedCannabis: PageContent = {
       label: "Follow the beginner handling path",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "check licensed retail availability for Presidential products",
-    description: "The official locator is the appropriate destination for current retailer availability.",
-  },
 };
 
 export const temperatureGuide: PageContent = {
@@ -622,11 +612,6 @@ export const temperatureGuide: PageContent = {
       label: "Put temperature in beginner-friendly context",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "locate official Presidential products at licensed retailers",
-    description: "Use the brand's official retail locator when looking for a labeled format locally.",
-  },
 };
 
 export const whatToLookFor: PageContent = {
@@ -734,11 +719,6 @@ export const whatToLookFor: PageContent = {
       label: "Preserve the condition you inspected",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "see where Presidential formats are carried",
-    description: "For availability, continue to the official locator for licensed retailers.",
-  },
 };
 
 export const beginnersGuide: PageContent = {
@@ -841,11 +821,6 @@ export const beginnersGuide: PageContent = {
       label: "Build a practical quality inspection",
     },
   ],
-  externalLink: {
-    href: "https://presidentialmoonrocks.com/find-us",
-    label: "explore licensed retailers for Presidential products",
-    description: "Use the official locator after the format and handling questions are understood.",
-  },
 };
 export const guidesPages: PageContent[] = [
   guidesHub,
