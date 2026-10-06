@@ -598,7 +598,7 @@ export const temperatureGuide: PageContent = {
       heading: "Place Temperature in the Wider Guide Loop",
       paragraphs: [
         "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine.",
-        "This page focuses on adjustable heat, observation, and controlled comparison. Move through the guides in the order the product requires. Availability stays on the official brand locator.",
+        "This page focuses on adjustable heat, observation, and controlled comparison. Move through the guides in the order the product requires.",
       ],
     },
   ],
@@ -705,7 +705,7 @@ export const whatToLookFor: PageContent = {
       heading: "Place Quality Checks in the Wider Guide Loop",
       paragraphs: [
         "A quality inspection sits beside preparation, temperature, and storage rather than replacing them. Identify the format first, then use appearance, aroma, package, coating, and burn or hardware behavior together. For moon-rock preparation, continue to the smoking guide; for later use, follow the storage routine.",
-        "The temperature guide covers heat-related signals for adjustable hardware, while this page focuses on what you can see, smell, read, and repeat under a controlled setup. Move through the guides in the order the product requires. Availability stays on the official brand locator so education stays separate from retail lookup.",
+        "The temperature guide covers heat-related signals for adjustable hardware, while this page focuses on what you can see, smell, read, and repeat under a controlled setup. Move through the guides in the order the product requires.",
       ],
     },
   ],
@@ -805,7 +805,7 @@ export const beginnersGuide: PageContent = {
       heading: "Follow the Guide That Matches the Next Question",
       paragraphs: [
         "If the immediate task is preparation, continue to the moon-rock smoking guide. If the product will be kept for later, use the storage routine. The temperature guide explains compound reference points and gradual adjustment, while the quality guide organizes appearance, aroma, package, coating, and burn observations.",
-        "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop. When the next question is where Presidential products are available, the official brand locator points to licensed retailers and keeps availability separate from educational guidance.",
+        "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop.",
         "Move through the guides in the order the product requires, not as a checklist that must be completed every time. A stored moon rock may need handling guidance next; a cartridge may send the reader directly to temperature and quality checks. The format decides the useful path.",
         "If the question is still what the product is, stay here until format and label terms are clear. Once it is how to prepare, store, heat, or inspect a known format, open the matching child guide.",
       ],

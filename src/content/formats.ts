@@ -351,7 +351,7 @@ export const formatsPages: PageContent[] = [
         heading: "Read blunts with the rest of the formats silo",
         paragraphs: [
           `This article keeps the blunt in the vocabulary of wrap, fill, seam, infusion placement, and package identity. The mini blunts guide shows how the same wrap-led idea changes when length and total material shrink. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here.`,
-          `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Availability and brand-format details for Presidential’s tobacco-free blunt line remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
       {
@@ -566,7 +566,7 @@ export const formatsPages: PageContent[] = [
         heading: "Read moon rocks with the rest of the formats silo",
         paragraphs: [
           `This article keeps the moon rock in the vocabulary of flower core, concentrate bond, kief coat, package identity, and handling. Infused pre-rolls move the comparison into paper-led construction and infusion placement inside a cylinder. Blunts and mini blunts shift emphasis to wrap-led geometry and seam quality.`,
-          `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware. Availability and brand-format details for Presidential’s moon rocks line remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
@@ -672,7 +672,7 @@ export const formatsPages: PageContent[] = [
         heading: "Read infused pre-rolls with the rest of the formats silo",
         paragraphs: [
           `This article keeps the infused pre-roll in the vocabulary of paper, filter, fill, concentrate type, infusion placement, burn geometry, and package identity. Moon rocks move the comparison into layered flower, concentrate, and kief outside a paper cylinder. Mini blunts and full-size blunts shift emphasis to wrap-led construction and seam quality.`,
-          `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware. Availability and brand-format details for Presidential's infused pre-rolls remain on the official Presidential Moon Rocks resources linked from this site. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
     ],
@@ -773,7 +773,7 @@ export const formatsPages: PageContent[] = [
         id: "read-carts-with-formats",
         heading: "Read cartridges with the rest of the formats silo",
         paragraphs: [
-          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo, and use linked official Presidential Moon Rocks resources for brand-format availability rather than lookalike domains.`,
+          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo.`,
         ],
       },
     ],

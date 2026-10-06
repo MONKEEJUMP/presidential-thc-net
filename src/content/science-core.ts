@@ -84,7 +84,7 @@ export const scienceCorePages: PageContent[] = [
         heading: "Read THCa versus THC with the rest of the science silo",
         paragraphs: [
           "This article separates the two forms and works the Total THC arithmetic. The decarboxylation page explains the heat-driven reaction that removes the carboxyl group and why temperature and time travel together. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
-          "Cannabinoid and terpene pages widen the panel without changing the THCa–THC rule: other analytes stay in their own rows, and boiling-point or volatility references describe evaporation more directly than conversion. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "Cannabinoid and terpene pages widen the panel without changing the THCa–THC rule: other analytes stay in their own rows, and boiling-point or volatility references describe evaporation more directly than conversion.",
         ],
       },
       {
@@ -188,7 +188,7 @@ export const scienceCorePages: PageContent[] = [
         heading: "Read decarboxylation with the rest of the science silo",
         paragraphs: [
           "This article explains the reaction and the mass factor. The THCa versus THC page works the same 0.877 arithmetic from molecular weights through a full Total THC example. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
-          "Temperature and terpene pages add a second distinction: volatility and boiling-point references describe evaporation more directly than decarboxylation. Keep those verbs separate when comparing extract heat, device settings, and label math. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "Temperature and terpene pages add a second distinction: volatility and boiling-point references describe evaporation more directly than decarboxylation. Keep those verbs separate when comparing extract heat, device settings, and label math.",
         ],
       },
     ],
@@ -275,7 +275,7 @@ export const scienceCorePages: PageContent[] = [
           "A COA is evidence about the sample a licensed laboratory received, the methods it used, and the analytes it reported. It does not narrate how every package was handled after sampling, and it does not turn a limited panel into an unlimited screen for every possible compound. The scope is the set of tests actually shown.",
           "Finish with three checks: correct batch, understandable units, and complete relevant sections. Recalculate Total THC when the component rows are available, read terpenes as a composition rather than a verdict, and retain the qualifiers printed by the laboratory. That sequence turns a dense report into a traceable record without asking it to answer questions it was not designed to test.",
           "When two displayed values appear inconsistent, pause before calling the report wrong. First check whether one row uses a different unit, whether the total applies the 0.877 conversion factor, and whether the document rounds its visible numbers. If the mismatch remains after those checks, the report itself should control the interpretation rather than an assumption based on front-label shorthand. A transparent comparison records the exact rows used and preserves the laboratory’s notation.",
-          "The THCa-versus-THC and cannabinoids guides deepen potency-panel math. The terpenes article places named aroma rows in a volatility context. Distillate, liquid-diamonds, live-resin, and live-rosin pages describe how stacked materials are made; this article stays on reading the laboratory document. Brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "The THCa-versus-THC and cannabinoids guides deepen potency-panel math. The terpenes article places named aroma rows in a volatility context. Distillate, liquid-diamonds, live-resin, and live-rosin pages describe how stacked materials are made; this article stays on reading the laboratory document.",
         ],
       },
     ],
@@ -378,7 +378,7 @@ export const scienceCorePages: PageContent[] = [
         heading: "Read terpenes with the rest of the science silo",
         paragraphs: [
           "This article keeps terpenes in the vocabulary of mixture, volatility, and process history. The laboratory-report guide shows where a terpene panel sits beside cannabinoid and compliance sections on a Certificate of Analysis. The decarboxylation page separates heat-driven conversion of THCa from evaporation of aromatic compounds.",
-          "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction. Availability and brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction.",
           "Reading a lab report completes the literacy loop: the terpene section sits beside cannabinoid totals and compliance results on the same Certificate of Analysis. Use this page for aroma and volatility vocabulary; use the laboratory-report guide when the next question is how those rows appear on a printed certificate.",
         ],
       },
@@ -467,7 +467,7 @@ export const scienceCorePages: PageContent[] = [
         heading: "Cannabinoids across infused products and the science silo",
         paragraphs: [
           "Infused flower, coated pre-rolls, and extract-heavy formats still resolve to the same panel grammar: THCa and THC for the dominant pathway, CBD/CBDA and CBG/CBGA as separate branch-point relatives, and CBN as a distinct oxidation-related analyte when reported. Distillate, liquid-diamonds, live-resin, and live-rosin pages explain how stacked materials are made; this article names the molecules the laboratory lists.",
-          "The THCa-versus-THC guide deepens the precursor math. Decarboxylation separates conversion from evaporation. The laboratory-report article places the cannabinoid group beside compliance sections on a Certificate of Analysis. Brand-format details remain on the official Presidential Moon Rocks resources linked from this site.",
+          "The THCa-versus-THC guide deepens the precursor math. Decarboxylation separates conversion from evaporation. The laboratory-report article places the cannabinoid group beside compliance sections on a Certificate of Analysis.",
         ],
       },
     ],

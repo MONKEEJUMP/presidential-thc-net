@@ -27,7 +27,7 @@ export const aboutPage: PageContent = {
       heading: "Presidential THC as publisher",
       paragraphs: [
         "Presidential THC publishes this reference about the Presidential Cannabis brand. Presidential Cannabis makes Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis. Licensed retailers carry the brand's products across California, Oklahoma, New York, Nevada, Michigan, Arizona, and Washington, with availability shaped by each retailer and location.",
-        "Brand and plant information lives at the official Presidential Cannabis site. This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
+        "This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
         "That split matters. A brand site answers catalog and company questions. This publisher answers construction, extract vocabulary, label interpretation, handling, and market-context questions so a package claim is not read as shelf status.",
       ],
     },
@@ -36,7 +36,7 @@ export const aboutPage: PageContent = {
       heading: "A publisher identity for chemistry",
       paragraphs: [
         "Presidential THC is the publisher identity for this reference. It is not a cannabis strain, a catalog item, or a single product format. The site uses the name to organize technical context around the Presidential Cannabis brand: how material is described, how infused construction is explained, and how a reader can separate an extract term from a package claim.",
-        "That scope sets a practical boundary. The official company record carries brand information; this site explains the vocabulary that lets a reader interpret a package and follow a question through the reference. A product name, net weight, ingredient statement, batch identifier, and retailer listing each answer different questions. The publisher role is to keep those questions in the right place.",
+        "That scope sets a practical boundary. This site explains the vocabulary that lets a reader interpret a package and follow a question through the reference. A product name, net weight, ingredient statement, batch identifier, and retailer listing each answer different questions. The publisher role is to keep those questions in the right place.",
         "An educational publisher has a different job from a product page. It names the subject, connects the supporting guides, and keeps construction, label interpretation, market context, and current availability distinct. That lets a reader compare sources without treating a package term as a promise or assuming that one article answers a different question.",
       ],
     },
