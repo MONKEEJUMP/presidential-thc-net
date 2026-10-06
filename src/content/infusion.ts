@@ -850,7 +850,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Read potency with the rest of the infusion silo",
         paragraphs: [
           "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic.",
-          "Stay on presidentialthc.net for these education pages. Official product details remain on the linked Presidential Moon Rocks resources. None of this silo is medical advice or a milligram schedule.",
+          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule.",
         ],
       },
     ],

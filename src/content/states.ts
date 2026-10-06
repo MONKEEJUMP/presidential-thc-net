@@ -371,8 +371,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in California",
         "paragraphs": [
           "Presidential is sold through licensed retailers, which means every package traces to a regulated channel.",
-          "The official locator covers licensed doors in the state and returns the nearest with real distances.",
-          "Keep this page for durable market context: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the locator for live doors. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes.",
+          "Keep this page for durable market context: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes.",
           "Reading the market this way keeps California buys inside the same literacy loop: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. A mature deep shelf makes that loop familiar — it does not replace confirming the live licensed source."
         ]
       }
@@ -495,8 +494,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Oklahoma",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries, and a patient licence opens the whole regulated market.",
-          "The official locator covers every licensed door in the state and returns the nearest with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Keep this page for durable market context: medical access through physician determination and a patient licence, expansive patient latitude relative to most medical states, and a mature retail field under a licence moratorium. Use the locator for live doors. Use the package for the final product check."
+          "Keep this page for durable market context: medical access through physician determination and a patient licence, expansive patient latitude relative to most medical states, and a mature retail field under a licence moratorium. Use the package for the final product check."
         ]
       }
     ],
@@ -613,8 +611,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in New York",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries, which means every package traces to a regulated channel.",
-          "The official locator returns licensed doors carrying Presidential with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Keep this page for durable market context: adult-use access at twenty-one, a newer regulated framework from 2021, and a retail network still expanding across the boroughs and beyond. Use the locator for live doors. Use the package for the final product check. That order keeps New York buying inside the regulated channel this reference describes."
+          "Keep this page for durable market context: adult-use access at twenty-one, a newer regulated framework from 2021, and a retail network still expanding across the boroughs and beyond. Use the package for the final product check. That order keeps New York buying inside the regulated channel this reference describes."
         ]
       },
       {
@@ -712,7 +709,7 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Nevada",
         "paragraphs": [
           "Presidential products are listed through licensed Nevada retailers. Participating locations and current formats change, especially across destination retail markets.",
-          "People searching for Presidential THC flower in North Las Vegas should begin with the official Nevada locator below, then verify current product availability with the retailer and use official state resources when confirming whether a store is licensed.",
+          "People searching for Presidential THC flower in North Las Vegas should verify current product availability with the retailer and use official state resources when confirming whether a store is licensed.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
         ]
@@ -741,8 +738,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Nevada",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state.",
-          "The official locator returns the nearest licensed doors with real distances, which is worth using here — the right dispensary may be a few blocks off the Strip or a scenic drive away.",
-          "Keep this page for durable market context: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the locator for live doors. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
+          "Keep this page for durable market context: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
           "Reading the market this way keeps trips and local buys inside the same literacy loop: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive."
         ]
       },
@@ -872,8 +868,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Michigan",
         "paragraphs": [
           "Presidential is sold through licensed retailers across the state, from Detroit and Grand Rapids out to smaller towns.",
-          "The official locator returns the nearest licensed doors with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Keep this page for durable market context: adult-use access at twenty-one, home cultivation alongside licensed retail, open licensing, and a competitive value shelf. Use the locator for live doors. Use the package for the final product check. That order keeps Michigan buying inside the regulated channel this reference describes."
+          "Keep this page for durable market context: adult-use access at twenty-one, home cultivation alongside licensed retail, open licensing, and a competitive value shelf. Use the package for the final product check. That order keeps Michigan buying inside the regulated channel this reference describes."
         ]
       }
     ],
@@ -992,8 +987,7 @@ export const statesPages: PageContent[] = [
         "heading": "Finding Presidential in Arizona",
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state, concentrated around Phoenix and Tucson.",
-          "The official locator returns the nearest licensed doors with real distances. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Keep this page for durable market context: adult-use access at twenty-one, a converted medical infrastructure, limited licensing, and curated shelf space. Use the locator for live doors. Use the package for the final product check. That order keeps Arizona buying inside the regulated channel this reference describes.",
+          "Keep this page for durable market context: adult-use access at twenty-one, a converted medical infrastructure, limited licensing, and curated shelf space. Use the package for the final product check. That order keeps Arizona buying inside the regulated channel this reference describes.",
           "Reading the market this way keeps Arizona buys inside the same literacy loop: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. Converted medical infrastructure makes that loop familiar — it does not replace confirming the live licensed source for the day you shop."
         ]
       }
