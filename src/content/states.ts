@@ -395,10 +395,6 @@ export const statesPages: PageContent[] = [
         "label": "Arizona"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/ca",
-      "label": "Find licensed retailers in California"
-    }
   },
   {
     "path": "/states/oklahoma",
@@ -510,10 +506,6 @@ export const statesPages: PageContent[] = [
         "label": "Michigan"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialthcoklahoma.com/",
-      "label": "Explore the official Presidential THC Oklahoma guide"
-    }
   },
   {
     "path": "/states/new-york",
@@ -632,10 +624,6 @@ export const statesPages: PageContent[] = [
         "label": "Oklahoma"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/ny",
-      "label": "Find licensed retailers in New York"
-    }
   },
   {
     "path": "/states/nevada",
@@ -757,10 +745,6 @@ export const statesPages: PageContent[] = [
         "label": "Arizona"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/nv",
-      "label": "Find licensed retailers in Nevada"
-    }
   },
   {
     "path": "/states/michigan",
@@ -871,10 +855,6 @@ export const statesPages: PageContent[] = [
         "label": "Nevada"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/mi",
-      "label": "Find licensed retailers in Michigan"
-    }
   },
   {
     "path": "/states/arizona",
@@ -988,10 +968,6 @@ export const statesPages: PageContent[] = [
         "label": "Nevada"
       }
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/az",
-      "label": "Find licensed retailers in Arizona"
-    }
   },
   {
     "path": "/states/florida",
@@ -1196,10 +1172,6 @@ export const statesPages: PageContent[] = [
         "label": "California"
       },
     ],
-    "externalLink": {
-      "href": "https://presidentialmoonrocks.com/find-us/wa",
-      "label": "Find licensed retailers in Washington"
-    }
   }
 ];
 

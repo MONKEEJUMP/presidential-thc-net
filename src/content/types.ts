@@ -44,7 +44,6 @@ export type PageContent = {
   sections: ContentSection[];
   childLinks?: PageLink[];
   relatedLinks?: PageLink[];
-  externalLink?: PageLink;
   faqs?: FrequentlyAskedQuestion[];
   contextualLinks?: ContextualLink[];
 };

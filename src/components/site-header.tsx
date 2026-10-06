@@ -31,27 +31,11 @@ export function SiteHeader({ currentPath = "/" }: SiteHeaderProps) {
           </Link>
           <span className="brand-lockup__text">
             <span className="brand-lockup__name">Presidential THC</span>
-            <a
-              aria-label="The official Presidential site"
-              className="brand-lockup__tagline"
-              href="https://presidentialmoonrocks.com"
-            >
+            <span className="brand-lockup__tagline">
               The Official Presidential Site
-            </a>
+            </span>
           </span>
         </div>
-
-        <a
-          className="official-header-link"
-          href="https://presidentialmoonrocks.com"
-          rel="nofollow"
-        >
-          <span>
-            <span className="official-header-link__optional">OFFICIAL </span>
-            PRESIDENTIAL
-          </span>
-          <span aria-hidden="true">↗</span>
-        </a>
 
         <nav className="primary-nav" aria-label="Primary navigation">
           {primaryNavigation.map((item) => {

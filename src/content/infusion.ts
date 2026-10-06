@@ -391,11 +391,6 @@ export const infusionArticles: PageContent[] = [
         description: "Follow the relationship among density, airflow, heat, and uneven paths.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/learn/infusion-science",
-      label: "Presidential's official infusion science overview",
-      description: "Compare this process guide with the brand's own explanation of its infusion approach.",
-    },
   },
   {
     path: "/infusion/surface-vs-saturation",
@@ -510,11 +505,6 @@ export const infusionArticles: PageContent[] = [
         description: "See why the final number is weighted across every layer in the format.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-moon-rocks",
-      label: "View the official Presidential Moon Rocks collection",
-      description: "See the brand's layered moon rock format in its official product context.",
-    },
   },
 
   {
@@ -631,11 +621,6 @@ export const infusionArticles: PageContent[] = [
         description: "Understand how the complete construction changes density, airflow, and heat.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks",
-      label: "Explore Presidential's official Moon Rocks hub",
-      description: "See how the flower, concentrate, and kief construction appears across the official range.",
-    },
   },
   {
     path: "/infusion/why-infused-burns-differently",
@@ -750,11 +735,6 @@ export const infusionArticles: PageContent[] = [
         description: "Learn what the final coat contributes before the product is lit.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/presidential-blunts",
-      label: "See Presidential's official blunt formats",
-      description: "View an official wrapped format where fill distribution and burn geometry meet.",
-    },
   },
 
 
@@ -891,11 +871,6 @@ export const infusionArticles: PageContent[] = [
         description: "Understand why the same ingredients can be distributed in different ways.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-prerolls",
-      label: "Browse official Presidential infused pre-rolls",
-      description: "View another flower-and-concentrate format in its official product setting.",
-    },
   },
 ];
 

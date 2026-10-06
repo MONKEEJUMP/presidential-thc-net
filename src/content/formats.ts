@@ -380,11 +380,6 @@ export const formatsPages: PageContent[] = [
         description: "Examine flower coated with concentrate and kief instead of rolled fill.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/presidential-blunts",
-      label: "See Presidential’s tobacco-free blunts",
-      description: "Visit the official product page for the hemp-wrapped format.",
-    },
   },
 
   {
@@ -495,11 +490,6 @@ export const formatsPages: PageContent[] = [
         description: "Follow infused material into a non-flower hardware format.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/find-us",
-      label: "Find licensed retailers carrying Presidential",
-      description: "Use the official locator when checking local format availability.",
-    },
   },
 
   {
@@ -597,11 +587,6 @@ export const formatsPages: PageContent[] = [
         description: "Learn what scaling down changes in a wrapped format.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks",
-      label: "View Presidential’s Moon Rocks collection",
-      description: "See the official product hub for the layered format.",
-    },
   },
   {
     path: "/formats/infused-pre-rolls",
@@ -708,11 +693,6 @@ export const formatsPages: PageContent[] = [
         description: "Separate a smaller blunt build from a paper pre-roll.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/moon-rocks/presidential-prerolls",
-      label: "Browse Presidential infused pre-rolls",
-      description: "Visit the official collection page for this rolled format.",
-    },
   },
   {
     path: "/formats/vape-cartridges",
@@ -814,10 +794,5 @@ export const formatsPages: PageContent[] = [
         description: "Compare a cartridge assembly with a tobacco-free hemp blunt.",
       },
     ],
-    externalLink: {
-      href: "https://presidentialmoonrocks.com/vapes",
-      label: "Explore Presidential vape formats",
-      description: "Visit the official collection page for current cartridge products.",
-    },
   }
 ];
