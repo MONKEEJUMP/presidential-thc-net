@@ -95,6 +95,28 @@ export const scienceCorePages: PageContent[] = [
           "The arithmetic already on this page shows where the label stops. For the 82% THCa and 3% THC sample, 82 × 0.877 is 71.914, and adding the measured 3% gives 74.914% before the common rounding to 74.9%. Skipping the factor would treat the two masses as equal. A 99% THCa crystal still converts, in theory, to 86.823% THC before any THC already listed is added and before practical losses. Those results belong to the matched report and batch. They are not a reading of a different production run, and they are not a claim about personal effects.",
         ],
       },
+      {
+        id: "does-heat-turn-thca-into-thc",
+        heading: "Does smoking or heating turn THCa into THC?",
+        paragraphs: [
+          "Heat is what drives the conversion. Decarboxylation removes the carboxyl group from THCa as carbon dioxide and leaves THC behind, and a lighter flame and a vaporizer coil can both supply the energy that moves it forward. That is why raw flower and many unfinished concentrates read THCa-dominant on a panel, while finished extracts and heated materials can show more THC already present.",
+          "The label cannot say how complete that conversion is in use. A Certificate of Analysis does not measure how much conversion happened during one lighter pass or one vaporizer session; Total THC assumes conversion so THCa and THC can sit on one comparable line. The decarboxylation page covers how temperature and time travel together, and the science hub maps the rest of the panel.",
+        ],
+      },
+    ],
+    contextualLinks: [
+      {
+        href: "/science/decarboxylation",
+        anchor: "decarboxylation page",
+        sectionId: "does-heat-turn-thca-into-thc",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science",
+        anchor: "science hub",
+        sectionId: "does-heat-turn-thca-into-thc",
+        paragraphIndex: 1,
+      },
     ],
     relatedLinks: [
       {
