@@ -3,7 +3,7 @@ import type { PageContent } from "./types";
 export const pillarPage: PageContent = {
   path: "/",
   kind: "pillar",
-  h1: "Presidential THC | Infused Cannabis Chemistry Guide",
+  h1: "Presidential THC: Infused Cannabis Chemistry Guide",
   title: "Presidential THC | Infused Cannabis Chemistry Guide",
   description:
     "Presidential THC explained — flower, concentrate, kief, Total THC labels, extracts, formats, and the official licensed-retailer path.",
@@ -19,7 +19,7 @@ export const pillarPage: PageContent = {
       heading: "What is Presidential THC?",
       paragraphs: [
         "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
-        "The approved motto “World's Strongest” is brand language. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",
+        "“World's Strongest” is Presidential's brand slogan, not a measurement. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",
         "Presidential THC is the publisher for this chemistry and craft library. It is not a single cannabis strain, a catalog SKU, or a substitute for a licensed retailer listing. Keep brand, cultivar, extract, package, and batch names as separate kinds of information so a label claim is not read as shelf status.",
       ],
     },
@@ -72,8 +72,8 @@ export const pillarPage: PageContent = {
       id: "official-reference",
       heading: "Use the official Presidential references",
       paragraphs: [
-        "Presidential Cannabis provides the parent-brand and plant guide. Presidential Blunts provides the dedicated hemp-wrap format guide. This site remains focused on Presidential THC chemistry, infusion, extracts, labels, formats, and practical product-reading fundamentals.",
-        "Presidential operates through licensed cannabis retailers rather than direct online cannabis sales. Availability varies by market, retailer, product, and date. Use the official Find Us path, then confirm the current selection with the licensed retailer. Adults 21+ where legal.",
+        "This site stays focused on Presidential THC chemistry, infusion, extracts, labels, formats, and practical product-reading fundamentals: start with the science hub, the infusion hub, or the formats hub.",
+        "Presidential operates through licensed cannabis retailers rather than direct online cannabis sales. Availability varies by market, retailer, product, and date, so confirm the current selection with a licensed retailer. Adults 21+ where legal.",
         "For publisher scope, hub organization, and editorial boundaries, continue on the about page. It clarifies that Presidential THC is the publisher identity for this reference and connects the five hubs without turning brand language into a strain claim or a live inventory list.",
       ],
     },
@@ -115,7 +115,7 @@ export const pillarPage: PageContent = {
     {
       question: "Where are Presidential products sold?",
       answer:
-        "Presidential products are available through licensed retailers. Use the official Find Us path and confirm current availability with the retailer.",
+        "Presidential products are available through licensed retailers. Confirm current availability with the retailer.",
     },
     {
       question: "How should I navigate this reference?",
@@ -207,6 +207,24 @@ export const pillarPage: PageContent = {
       anchor: "about page",
       sectionId: "official-reference",
       paragraphIndex: 2,
+    },
+    {
+      href: "/science",
+      anchor: "science hub",
+      sectionId: "official-reference",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion",
+      anchor: "infusion hub",
+      sectionId: "official-reference",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/formats",
+      anchor: "formats hub",
+      sectionId: "official-reference",
+      paragraphIndex: 0,
     },
     {
       href: "/formats/moon-rocks",
