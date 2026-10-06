@@ -483,6 +483,14 @@ export const howToStoreInfusedCannabis: PageContent = {
       label: "Follow the beginner handling path",
     },
   ],
+  contextualLinks: [
+    {
+      href: "/states",
+      anchor: "official licensed-retailer path",
+      sectionId: "simple-routine",
+      paragraphIndex: 1,
+    },
+  ],
 };
 
 export const temperatureGuide: PageContent = {
