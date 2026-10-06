@@ -696,7 +696,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What harsh usually means",
         paragraphs: [
           "In everyday talk, harsh often bundles several sensations: a hot draw, a scratchy throat feel, dense smoke, or an uneven ember that forces deeper pulls to keep the format lit. Those experiences can share a root in heat, airflow, and construction even when the cause is not one single ingredient.",
-          "Hot, rapid combustion through a small open channel can deliver a warmer hit than a slower, wider ember. A concentrate-heavy pocket that needs extra flame can raise local temperature the same way. Restricted airflow from overpacking can make each draw feel thicker because more material is heated with less cooling air.",
+          "Hot, rapid combustion through a small open channel can deliver a warmer hit than a slower, wider ember. A concentrate-heavy pocket that needs extra flame can raise local temperature the same way. Restricted airflow from overpacking can make each draw feel thicker because more material is heated with less cooling air. So when an infused joint tastes harsher than plain flower, heat and airflow are the first things to check.",
           "Harsh is a weak label for extract quality or potency by itself. Treat it as a cue to check heat, packing, and distribution—not as a medical diagnosis or a lab substitute.",
         ],
       },
