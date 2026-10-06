@@ -234,6 +234,14 @@ export const scienceCorePages: PageContent[] = [
   },
   {
     path: "/science/reading-a-lab-report",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "infused-numbers",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "science",
     h1: "Reading a Lab Report",
@@ -322,6 +330,14 @@ export const scienceCorePages: PageContent[] = [
 
   {
     path: "/science/terpenes",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "entourage-hypothesis",
+        paragraphIndex: 0,
+      },
+    ],
     kind: "article",
     silo: "science",
     h1: "Cannabis Terpenes: What Weed Terpenes Are",
@@ -425,6 +441,14 @@ export const scienceCorePages: PageContent[] = [
   },
   {
     path: "/science/cannabinoids",
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "panel-reading",
+        paragraphIndex: 3,
+      },
+    ],
     kind: "article",
     silo: "science",
     h1: "Cannabinoids in Infused Cannabis",

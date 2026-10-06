@@ -16,7 +16,7 @@ export const pillarPage: PageContent = {
   sections: [
     {
       id: "what-is-presidential-thc",
-      heading: "What is Presidential THC?",
+      heading: "Brand framework, not a strain or a measurement",
       paragraphs: [
         "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
         "“World's Strongest” is Presidential's brand slogan, not a measurement. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",
@@ -48,6 +48,14 @@ export const pillarPage: PageContent = {
         "Moon Rocks show the layered flower, concentrate, and kief format directly. Infused pre-rolls place prepared cannabis material inside paper. Presidential Blunts use a tobacco-free hemp wrap, while minis bring the rolled formats into a smaller presentation.",
         "Each format has a dedicated reference page covering its physical construction, label vocabulary, and handling considerations. These pages are educational; they do not replace package directions, batch information, or current retailer guidance.",
         "Use the formats hub as a routing map rather than a ranking. Name the construction first—layered piece, paper-led roll, wrap-led blunt or mini, or extract-plus-hardware cartridge—then open the matching child guide. That habit keeps a cartridge viscosity note from being applied to a coated flower piece.",
+      ],
+    },
+    {
+      id: "what-is-a-presidential-pre-roll",
+      heading: "What is a Presidential infused pre-roll?",
+      paragraphs: [
+        "It is the paper format of the same construction. An infused pre-roll places prepared cannabis material, built from flower, concentrate, and kief, inside thin rolling paper. Paper is what separates it from a Presidential blunt, whose tobacco-free hemp wrap is a heavier layer than the rolling paper, and minis bring the rolled formats into a smaller presentation.",
+        "A concentrate percentage does not become the finished pre-roll percentage automatically, so the current package and its batch test record identify the exact format and ingredients. Like the other rolled formats, an infused pre-roll needs an even, patient light and moderate draws so the ember does not race down one side. For hand-rolled papers, the guide on how to smoke moon rocks explains the layering method that keeps small pieces between ground flower.",
       ],
     },
     {
@@ -139,6 +147,12 @@ export const pillarPage: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/guides/how-to-smoke-moon-rocks",
+      anchor: "how to smoke moon rocks",
+      sectionId: "what-is-a-presidential-pre-roll",
+      paragraphIndex: 1,
+    },
     {
       href: "/science",
       anchor: "science hub",
