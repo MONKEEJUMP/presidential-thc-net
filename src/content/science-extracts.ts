@@ -62,6 +62,22 @@ export const scienceExtractPages: PageContent[] = [
         ],
       },
       {
+        id: "solvent-and-solventless-routes",
+        heading: "Which cannabis extracts use solvents, and which are solventless?",
+        paragraphs: [
+          "Live resin uses a solvent: fresh-frozen plant material is processed cold with a chilled hydrocarbon solvent in a closed-loop system, the solvent is recovered, and the resin is vacuum-purged. Distillate starts from an upstream extraction that produces crude cannabis oil carrying cannabinoids alongside volatile compounds, pigments, waxes, residual solvent, and other plant-derived material, which refinement then narrows. Live rosin is solventless: fresh-frozen cannabis is washed in ice water, the separated trichome heads are freeze-dried as hash, and a heated press does the rest.",
+          "Solventless does not mean unprocessed or self-verifying, and a solvent route does not by itself say what remains in the jar. Residual-solvent panels on a Certificate of Analysis speak to compliance testing after purge, and the batch identifier ties that report to the package in hand.",
+        ],
+      },
+      {
+        id: "where-extracts-start-on-the-plant",
+        heading: "What part of the cannabis plant do extracts come from?",
+        paragraphs: [
+          "Mostly the trichomes. In cannabis, the resin-bearing glandular trichomes associated with the flower are the important ones, because their resin holds most of the plant's cannabinoids and terpenes. Live rosin collects those trichome heads directly through ice-water washing, while a hydrocarbon route dissolves selected resin compounds and leaves most of the solid plant structure behind.",
+          "The starting material still shapes the result. Harvest timing establishes the starting material, processing decides which volatile fraction carries forward, and storage affects what remains when the container is opened. That is why live resin can still carry much of the cultivar's terpene profile while a refined distillate is often nearly odorless.",
+        ],
+      },
+      {
         id: "how-to-use-the-child-pages",
         heading: "How to use the child pages together",
         paragraphs: [

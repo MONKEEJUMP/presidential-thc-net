@@ -710,12 +710,42 @@ export const infusionArticles: PageContent[] = [
         ],
       },
       {
+        id: "concentrate-type-and-burn",
+        heading: "Does the type of concentrate change how an infused joint burns?",
+        paragraphs: [
+          "The rule on this page holds for every type. Distillate, resin, rosin, and hash-oil style inputs soften, thin, and migrate under heat before they fully burn, while flower chars along the surfaces exposed to air. How much that changes the burn depends on how much concentrate is present and where it sits, not on the extract's name, and the same holds whether it sits in a joint, a blunt, or a moon rock.",
+          "What changes with type is what else travels in the oil. Distillate is a refined, cannabinoid-rich fraction that is often nearly odorless, so aroma is often added back as terpenes. Live resin keeps a wider set of plant compounds, including aromatic fractions that can make it more temperature-sensitive. Live rosin is made with heat and pressure instead of solvents. The label names the concentrate, and the batch record, not the burn, gives the cannabinoid content. Each of these cannabis extracts has its own page in the science hub.",
+        ],
+      },
+      {
+        id: "why-infused-tastes-different",
+        heading: "Why does an infused joint taste different from plain flower?",
+        paragraphs: [
+          "More materials add aroma. Terpenes are the volatile aroma compounds behind most of the scent and flavor vocabulary. Plain flower carries its own. An infused joint adds whatever terpenes the concentrate kept or had added back, plus a kief coat of collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes. That is why an infused product's terpene panel can differ from uncoated flower even when the strain name matches.",
+          "Terpenes are also volatile: evaporation starts below a listed boiling point. A harsh or scorched draw is still a heat and airflow question first, as the section on what harsh usually means explains.",
+        ],
+      },
+      {
         id: "what-a-burn-can-prove",
         heading: "What burn behavior can and cannot prove",
         paragraphs: [
           "A reasonably even burn is practical evidence that the construction, packing, light, and airflow are working together. Frequent severe runs, dense plugs, or repeated heavy pockets are reasons to examine distribution more closely.",
           "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. Read it with the rest of the infusion silo on presidentialthc.net; none of these pages is medical advice.",
         ],
+      },
+    ],
+    contextualLinks: [
+      {
+        href: "/formats",
+        anchor: "blunt",
+        sectionId: "concentrate-type-and-burn",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "concentrate-type-and-burn",
+        paragraphIndex: 1,
       },
     ],
     relatedLinks: [

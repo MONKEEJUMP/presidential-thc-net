@@ -466,11 +466,49 @@ export const formatsPages: PageContent[] = [
         ],
       },
       {
+        id: "what-is-inside-a-mini",
+        heading: "What is inside a mini infused blunt?",
+        paragraphs: [
+          "The same materials as a full blunt, in a shorter roll. The base is cannabis flower broken into fill, a concentrate supplies the infusion, and the substantial wrap holds it together. Presidential describes its minis with the same flower, concentrate, and kief construction it uses for Moon Rocks, infused pre-rolls, and tobacco-free blunts. Kief is collected trichome material, the resin glands that hold most of the plant's cannabinoids and terpenes.",
+          "The concentrate named on the package tells you what kind of infusion it is. Distillate is a refined, cannabinoid-rich fraction that is often nearly odorless on its own, so aroma is shaped separately. Live resin starts from fresh-frozen plant material and keeps a wider set of plant compounds, and live rosin follows a heat-and-pressure route instead of solvent extraction. Mini describes size, not strain: the cultivar name identifies the flower, and Presidential THC is the brand, not a strain. The science hub defines each cannabis extract term.",
+        ],
+      },
+      {
+        id: "mini-taste-and-smoke",
+        heading: "Does a mini blunt taste or smoke differently from a full blunt?",
+        paragraphs: [
+          "Taste comes from the materials, not the size. Terpenes are the volatile aroma compounds behind most of the scent and flavor vocabulary, and an infused roll can carry them from the flower, from a concentrate that kept or had terpenes added back, and from kief. Heat and light take terpenes first, so storage decides how much of that aroma is still there when the package opens.",
+          "Smoking changes with length. The shorter burn path ends sooner, and any dense spot takes up more of the roll. Infused material still lights more slowly than flower alone, so bring the flame in evenly, keep draws moderate, and treat a relight as normal for a concentrate-rich roll.",
+        ],
+      },
+      {
+        id: "buying-mini-blunts",
+        heading: "Where do you buy mini blunts, and what should the package show?",
+        paragraphs: [
+          "Presidential products are sold through licensed cannabis retailers, not direct online sales, and availability varies by market, retailer, product, and date. At the dispensary, the package is the record: product identity, net contents, package count, batch or lot number, ingredients, and the cannabinoid statement. If tobacco-free composition matters, confirm that the package names a hemp or other non-tobacco wrap.",
+          "When size is not the only question, the formats hub sets a mini beside every other blunt and rolled format.",
+        ],
+      },
+      {
         id: "read-minis-with-formats",
         heading: "Read minis with the rest of the formats silo",
         paragraphs: [
           `This article keeps the mini blunt in the vocabulary of wrap, fill, seam, reduced scale, infusion placement, session unit length, and package identity. The blunts guide shows the same wrap-led idea at full size. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
+      },
+    ],
+    contextualLinks: [
+      {
+        href: "/science",
+        anchor: "cannabis",
+        sectionId: "what-is-inside-a-mini",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/formats",
+        anchor: "blunt",
+        sectionId: "buying-mini-blunts",
+        paragraphIndex: 1,
       },
     ],
     relatedLinks: [

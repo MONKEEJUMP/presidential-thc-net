@@ -358,6 +358,37 @@ export const howToSmokeMoonRocks: PageContent = {
       ],
     },
     {
+      id: "smoke-moonrock-by-itself",
+      heading: "Can you smoke moonrock by itself or out of a bowl?",
+      paragraphs: [
+        "Yes. A small piece, about the size of a pencil eraser, can go into a glass pipe or bowl on its own as long as air can still move around it. Separate it by hand or with scissors, never in a grinder. The piece is dense and concentrate-rich, so light it slowly and expect a relight. Layering it between ground flower gives a steadier burn, because the surrounding flower helps carry the flame and keeps air channels open.",
+      ],
+    },
+    {
+      id: "moonrocks-in-a-bong",
+      heading: "Can moonrocks be smoked in a bong?",
+      paragraphs: [
+        "Yes. A bong bowl works like a glass pipe: it keeps the moon rock visible and supported while the concentrate softens. Set a loose bed of ground flower in the bowl, place a small piece on it, and add a light cover of flower so air can still pass. Bring the flame in with short, even passes, because a long, fixed flame on one corner can crisp the kief coat while the concentrate and the core stay cold.",
+      ],
+    },
+    {
+      id: "how-to-store-moon-rocks",
+      heading: "How do you store moon rocks?",
+      paragraphs: [
+        "In a closed container in a cool, dark place. Heat and light take the volatile terpenes first and can soften the concentrate enough to shift the outer coat. An airtight, opaque container that fits the amount works best: too much room lets pieces move, and too tight a fit can press or smear the coating.",
+        "Keep pieces from pressing together, because contact can flatten the kief and make them stick to each other. Leave the rest in storage while you prepare one piece, close the container after each use, and keep the printed package with the product so the batch stays identifiable.",
+      ],
+    },
+    {
+      id: "how-moon-rocks-are-made",
+      heading: "How are moon rocks made?",
+      paragraphs: [
+        "In three layers. A cured flower bud sits at the center. A cannabis concentrate is applied around or into that flower, and some menus describe it as hash oil. Kief goes on last: collected trichomes, the resin glands that hold most of the plant's cannabinoids and terpenes, clinging to the tacky concentrate. The flower supplies structure, the concentrate bonds and infuses, and the kief completes the outer coat.",
+        "The name describes that construction, not one strain or extract recipe. The format emerged in California in the 2010s, and producers have since varied the flower, concentrate, kief, and infusion method. Cannabis caviar is related but different: caviar is flower coated in oil, while a moon rock adds the outer kief layer. Because the finished piece is a weighted blend of all three layers, its THC content comes from the package's cannabinoid statement for that batch, not from the concentrate's own figure.",
+        "Some retailers use caviar, moon rocks, and infused flower loosely, so ask the dispensary whether the product has a discrete outer kief coat or only an oil finish on flower. The about page sets out the chemistry focus of this reference.",
+      ],
+    },
+    {
       id: "why-the-cautions",
       heading: "Why the cautions follow the three layers",
       paragraphs: [
@@ -365,6 +396,20 @@ export const howToSmokeMoonRocks: PageContent = {
         "Density is why piece size and air are repeated. A piece about the size of a pencil eraser is a handling reference for keeping those layers together while leaving the edges open to heat. It is not a serving size. Flower, concentrate, kief, the batch, and how evenly the layers are distributed can vary, and the package remains the record for the specific product. Compressing the piece into a hard plug, or setting one oversized chunk into a closed bowl or a tight roll, blocks the air path. In a bowl, a loose bed of ground flower below and a light cover above can hold the piece and still leave small channels. In a joint, ground flower, small pieces along the center, and another light layer of flower let the surrounding flower carry the burn. A blunt uses that same layering in a wrap that starts denser and can hold heat longer, so the pieces stay small and spaced. If the wrap tunnels or canoees, the stated move is to pause, open the air path, and redistribute rather than chase the burn with continuous flame.",
         "The light follows the same order as the layers. Outer kief catches first, the concentrate beneath it warms, and the flower core begins to burn. The three materials do not burn at identical rates, so the piece may go out without that being a defect. Short, even passes let the layers warm together. A long, fixed flame on one corner can crisp the kief coat while the concentrate and the core stay cold, which is how a surface-only light becomes tunneling and another relight on the same charred edge. The relight described here is the unburned edge, with the air path kept open. If the draw is blocked, material is removed or redistributed before more flame. Heat and light take the volatile terpenes first, so the amount not being prepared goes back to cool, dark storage and the container is closed. Glass stays easier to watch because the dense piece is visible and supported when the concentrate softens. That is why the six moves already named on this page, skip the grinder, separate a small piece, choose a controllable setup, layer when useful, leave airflow, and light slowly, treat the moon rock as a layered piece rather than as ordinary ground flower.",
       ],
+    },
+  ],
+  contextualLinks: [
+    {
+      href: "/science",
+      anchor: "cannabis",
+      sectionId: "how-moon-rocks-are-made",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/about",
+      anchor: "chemistry",
+      sectionId: "how-moon-rocks-are-made",
+      paragraphIndex: 2,
     },
   ],
   relatedLinks: [
