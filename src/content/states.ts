@@ -393,6 +393,10 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/arizona",
         "label": "Arizona"
+      },
+      {
+        "href": "/states/washington",
+        "label": "Washington"
       }
     ],
   },
@@ -743,6 +747,10 @@ export const statesPages: PageContent[] = [
       {
         "href": "/states/arizona",
         "label": "Arizona"
+      },
+      {
+        "href": "/states/washington",
+        "label": "Washington"
       }
     ],
   },
