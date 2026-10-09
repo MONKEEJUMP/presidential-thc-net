@@ -657,7 +657,7 @@ export const formatsPages: PageContent[] = [
     h1: "Infused Cannabis Pre-Rolls Explained",
     title: "Infused Cannabis Pre-Rolls Explained | Presidential THC",
     description:
-      "See how infused pre-rolls combine flower and concentrate, which extract types are used, how burn and ash differ from plain rolls, and how to choose by construction and label.",
+      "How infused pre-rolls combine flower and concentrate, which extracts they use, how burn and ash differ from plain rolls, and choosing by build and label.",
     wordTarget: [1100, 1250],
     intro: [
       `An infused pre-roll is a ready-made paper roll that combines cannabis flower with cannabis concentrate. A standard pre-roll contains flower or shake; an infused version adds concentrate other than kief, whether through the fill, in a defined inner line, or as part of another controlled application. Its performance depends on how evenly those materials share space and air.`,
