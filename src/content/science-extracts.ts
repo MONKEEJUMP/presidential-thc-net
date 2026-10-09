@@ -662,6 +662,26 @@ export const scienceExtractPages: PageContent[] = [
   },
   {
     path: "/science/liquid-diamonds",
+    contextualLinks: [
+      {
+        href: "/formats/vape-cartridges",
+        anchor: "Cartridge hardware",
+        sectionId: "why-the-format-fits-cartridges",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/decarboxylation",
+        anchor: "decarboxylation",
+        sectionId: "why-crystallization-purifies",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/distillate",
+        anchor: "Distillate",
+        sectionId: "liquid-diamonds-versus-distillate",
+        paragraphIndex: 0,
+      }
+    ],
     kind: "article",
     silo: "science",
     h1: "What Are Cannabis Liquid Diamonds",

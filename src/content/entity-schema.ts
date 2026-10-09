@@ -14,7 +14,10 @@ export const pageEntities: Record<PageContent["path"], { about?: EntityRef[]; me
   "/": { about: [wiki("Thing", "Tetrahydrocannabinol", "Tetrahydrocannabinol")] },
   "/science": { about: [wiki("Thing", "Cannabis", "Cannabis_(drug)")] },
   "/infusion": { mentions: [wiki("Thing", "Kief", "Kief"), wiki("Thing", "Flower", "Flower")] },
-  "/formats": { about: [wiki("Thing", "Blunt (cannabis)", "Blunt_(cannabis)")] },
+  "/formats": {
+    about: [wiki("Thing", "Blunt (cannabis)", "Blunt_(cannabis)")],
+    mentions: [wiki("Thing", "Flower", "Flower")],
+  },
   "/about": {
     about: [wiki("Thing", "Chemistry", "Chemistry")],
     mentions: [wiki("Thing", "Cannabis", "Cannabis_(drug)")],
