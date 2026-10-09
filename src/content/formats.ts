@@ -149,6 +149,18 @@ export const formatsPages: PageContent[] = [
     ],
     contextualLinks: [
       {
+        href: "/states",
+        anchor: "brand name",
+        sectionId: "label-fields-follow-the-format",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/about",
+        anchor: "chemistry",
+        sectionId: "follow-the-right-format-path",
+        paragraphIndex: 1,
+      },
+      {
         href: "/formats/moon-rocks",
         anchor: "moon rocks guide",
         sectionId: "moon-rocks",
@@ -645,6 +657,48 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/infused-pre-rolls",
     contextualLinks: [
+      {
+        href: "/guides/how-to-store-infused-cannabis",
+        anchor: "Store infused pre-rolls",
+        sectionId: "storage",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/infusion/surface-vs-saturation",
+        anchor: "surface application",
+        sectionId: "anatomy",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/science/live-rosin",
+        anchor: "live rosin",
+        sectionId: "concentrate-types",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/live-resin",
+        anchor: "live resin",
+        sectionId: "concentrate-types",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/science/distillate",
+        anchor: "Distillate",
+        sectionId: "concentrate-types",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/formats/blunts",
+        anchor: "wrap-led blunt",
+        sectionId: "how-to-choose",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/infusion",
+        anchor: "Infusion",
+        sectionId: "standard-versus-infused",
+        paragraphIndex: 1,
+      },
       {
         href: "/science",
         anchor: "cannabis",

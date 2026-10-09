@@ -150,7 +150,7 @@ export const statesPages: PageContent[] = [
     ],
     "contextualLinks": [
       {
-        "href": "/formats",
+        "href": "/formats/blunts",
         "anchor": "blunts",
         "sectionId": "what-stays-the-same",
         "paragraphIndex": 0
@@ -399,6 +399,18 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states",
+        "anchor": "brands",
+        "sectionId": "the-market",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/science",
+        "anchor": "cannabis",
+        "sectionId": "presidential-here",
+        "paragraphIndex": 0
+      },
       {
         "href": "/formats",
         "anchor": "four formats",
@@ -1012,6 +1024,12 @@ export const statesPages: PageContent[] = [
     ],
     "contextualLinks": [
       {
+        "href": "/science",
+        "anchor": "cannabis",
+        "sectionId": "the-market",
+        "paragraphIndex": 3
+      },
+      {
         "href": "/formats",
         "anchor": "four formats",
         "sectionId": "the-formats",
@@ -1021,6 +1039,26 @@ export const statesPages: PageContent[] = [
   },
   {
     "path": "/states/washington",
+    "contextualLinks": [
+      {
+        "href": "/states",
+        "anchor": "brands",
+        "sectionId": "the-market",
+        "paragraphIndex": 3
+      },
+      {
+        "href": "/formats",
+        "anchor": "blunts",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/science",
+        "anchor": "cannabis",
+        "sectionId": "the-market",
+        "paragraphIndex": 1
+      }
+    ],
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Washington",
