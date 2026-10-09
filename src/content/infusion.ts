@@ -637,7 +637,7 @@ export const infusionArticles: PageContent[] = [
     h1: "Why Infused Burns Differently",
     title: "Why Infused Cannabis Burns Differently | Presidential THC",
     description:
-      "Why added concentrate changes density, heat retention, airflow, relights, tunneling, and canoeing in infused cannabis—plus oil melt vs flower burn, ash cues, heat management, and what harsh usually means.",
+      "How added concentrate changes density, heat, airflow, relights, tunneling, and canoeing in infused cannabis: oil melt vs flower burn, ash cues, harshness.",
     wordTarget: [1100, 1250],
     intro: [
       "Infused cannabis burns differently because concentrate changes the flower's density, fuel distribution, heat retention, and available airflow. Those changes usually call for a slower light and can make relighting normal; when the infusion or packing is uneven, they can also produce tunneling through the center or canoeing along one side.",

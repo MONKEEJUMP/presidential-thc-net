@@ -1025,7 +1025,7 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC in Washington",
     "title": "Washington Adult-Use Market, One of the First States to Legalise Cannabis",
-    "description": "Washington was one of the first two states in America to legalise cannabis. How its adult-use market works, what a licensed purchase looks like, and Presidential's status there.",
+    "description": "Washington was one of the first two US states to legalise cannabis. How its adult-use market works, licensed purchases, and Presidential's status there.",
     "wordTarget": [
       1250,
       1350
