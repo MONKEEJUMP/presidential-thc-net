@@ -929,3 +929,14 @@ th {
     scroll-behavior: auto;
   }
 }
+
+/* SEO audit 1015: keep media inside the mobile viewport. */
+img,
+video,
+svg {
+  max-width: 100%;
+}
+
+img {
+  height: auto;
+}

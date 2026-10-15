@@ -55,6 +55,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  icons: { icon: [{ url: "/images/presidential-crest.webp", type: "image/webp" }] },
   title: SITE_NAME,
   description: "The chemistry and craft behind infused cannabis.",
   robots: { index: true, follow: true },
