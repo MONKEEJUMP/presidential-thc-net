@@ -415,6 +415,8 @@ function StructuredData({ page, images }: ArticlePageProps) {
       description: page.description,
       mainEntityOfPage: { "@id": webPageId },
       image: images.length ? images.map((image) => imageUrl(image)) : [imageUrl()],
+      author: { "@type": "Organization", "@id": organizationId, name: SITE_NAME },
+      datePublished: "2026-08-05",
       publisher: {
         "@id": organizationId,
       },

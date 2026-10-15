@@ -7,7 +7,7 @@ export const guidesHub: PageContent = {
   h1: "Practical Guides to Infused Cannabis",
   title: "Practical Guides to Infused Cannabis | Presidential THC",
   description:
-    "Practical Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
+    "Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
   wordTarget: [1100, 1250],
   intro: [
     "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
@@ -455,7 +455,7 @@ export const howToStoreInfusedCannabis: PageContent = {
   h1: "How to Store It",
   title: "How to Store Infused Cannabis | Presidential THC",
   description:
-    "Learn how to store infused cannabis in a clean, airtight container away from heat, light, and humidity while limiting handling and monitoring freshness by format.",
+    "Store infused cannabis in a clean, airtight container away from heat, light, and humidity, limiting handling and monitoring freshness by format.",
   wordTarget: [1100, 1250],
   intro: [
     "Store infused cannabis in a clean, airtight container in a cool, dark, dry place. Heat, light, humidity, and time are the main pressures to control, and terpenes are the first part of the product that heat and light take away. Keep different formats separated, minimize open-container time, and inspect the product before returning it to storage.",

@@ -6,7 +6,7 @@ export const aboutPage: PageContent = {
   h1: "About Presidential THC | Official Chemistry Reference",
   title: "About Presidential THC | Official Chemistry Reference",
   description:
-    "About Presidential THC, the official chemistry and craft reference for the Presidential Cannabis brand, covering infusion, extracts, formats, labels, and handling.",
+    "About Presidential THC, the official chemistry and craft reference for the Presidential Cannabis brand: infusion, extracts, formats, labels, and handling.",
   wordTarget: [1100, 1250],
   intro: [
     "Presidential THC publishes this official chemistry and craft reference for the Presidential Cannabis brand. It explains the Presidential Infusion System, infused-format construction, cannabinoid labels, extracts, handling, storage, and temperature in clear technical language.",
