@@ -31,7 +31,8 @@ export const statesPages: PageContent[] = [
           "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
           "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
           "That is why this hub emphasises process over a single national story. Adult-use density, medical gates, visitor design, and early-market history are different literacy questions; each state page answers the one that market actually poses."
-        ]
+        ],
+        "subsections": [{ "heading": "Adult-use and medical access by state", "paragraphs": [[{ "text": "Each state reference starts with the access rule. In the adult-use states, shoppers 21 and older buy at a licensed retailer with identification. Oklahoma's medical program asks for a state patient card. Read the " }, { "text": "Oklahoma THC reference", "href": "/states/oklahoma" }, { "text": " for the patient-card process, or the " }, { "text": "California THC reference", "href": "/states/california" }, { "text": " for the adult-use market. The product is the same in every state, so the " }, { "text": "infused format guide", "href": "/formats" }, { "text": " applies wherever you buy." }]] }]
       },
       {
         "id": "adult-use-and-medical-routes",
