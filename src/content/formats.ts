@@ -453,7 +453,7 @@ export const formatsPages: PageContent[] = [
         id: "session-pacing",
         heading: "Session pacing and unit length",
         paragraphs: [
-          `Session pacing here means how continuous burn length and unit count structure a sitting, not how much anyone should consume. A longer blunt creates one extended path from lighting end to mouth end. A mini shortens that path, so the unit ends sooner by construction. That difference is geometry and total material, not a potency ranking.`,
+          `Session pacing here means how continuous burn length and unit count structure a sitting, not how much anyone should consume. A longer blunt creates one extended path from lighting end to mouth end. A mini shortens that path, so the unit ends sooner by construction. That difference is geometry and total material, not a potency ranking. The guide to why infused material burns differently covers the slower catch.`,
           `Sharing changes the arithmetic without changing the rule. Passing a mini among fewer people still finishes the short path faster than sharing a full blunt of greater length and fill. Restarting with another mini from a multipack begins a new sealed or protected unit rather than continuing the same longer cylinder.`,
           `Do not invent dosing from length or count. Cannabinoid content belongs on the tested label for that batch. Unit size describes how much wrap and fill are present and how long the designed burn path runs; it does not authorize calculating intake targets.`,
         ],
@@ -471,7 +471,7 @@ export const formatsPages: PageContent[] = [
         heading: "Infusion options at mini scale",
         paragraphs: [
           `Concentrate has less distance over which to be distributed, but uniformity is still not automatic. One oversized pocket of extract can dominate a large fraction of the short burn path. Carrying smaller amounts through the fill, or using another controlled placement suited to the geometry, helps prevent a single point from becoming the structural bottleneck.`,
-          `Common placement patterns still apply at mini scale: concentrate blended through the flower, a defined interior line along the cylinder, or another repeatable layout matched to viscosity and pack density. The shorter body leaves less room for error, so a pocket size that works on a long blunt can crowd a mini if it is not adjusted.`,
+          `Common placement patterns still apply at mini scale: concentrate blended through the flower, a defined interior line along the cylinder, or another repeatable layout matched to viscosity and pack density. The shorter body leaves less room for error, so a pocket size that works on a long blunt can crowd a mini if it is not adjusted. The comparison of surface coating versus saturation and the wider infusion guide explain those placements.`,
           `The outside cannot reveal the complete distribution. A neat cylinder may hide an uneven interior, while a naturally varied hemp wrap can enclose a carefully controlled fill. Use visible construction to assess the seam and shape, and use the product label to assess ingredients and cannabinoid content. Do not turn wrapper color or aroma into a potency or infusion test.`,
         ],
       },
@@ -488,7 +488,7 @@ export const formatsPages: PageContent[] = [
         heading: "Inspect and store a mini without crushing it",
         paragraphs: [
           `A compact roll can be easy to damage because the fingers naturally grip more of its total length. Handle it near the supported tip rather than pinching the center. Check the seam, both ends, the consistency of the cylinder, and the wrapper for splits. Confirm the batch or lot number, net contents, ingredients, and cannabinoid statement on the package.`,
-          `Keep minis in a rigid, closed container away from heat and light. Separate compartments or intact internal packaging help stop several units from pressing against one another. Good storage preserves the designed air channel and reduces concentrate migration before the short burn path can function as intended.`,
+          `Keep minis in a rigid, closed container away from heat and light. Separate compartments or intact internal packaging help stop several units from pressing against one another. Good storage preserves the designed air channel and reduces concentrate migration before the short burn path can function as intended. The guide on how to store infused cannabis covers containers in more detail.`,
         ],
       },
       {
@@ -524,6 +524,36 @@ export const formatsPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "Moon Rocks",
+        sectionId: "what-is-inside-a-mini",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/guides/how-to-store-infused-cannabis",
+        anchor: "how to store infused cannabis",
+        sectionId: "inspection-and-storage",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/infusion",
+        anchor: "infusion guide",
+        sectionId: "infusion-at-mini-scale",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/infusion/surface-vs-saturation",
+        anchor: "surface coating versus saturation",
+        sectionId: "infusion-at-mini-scale",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/infusion/why-infused-burns-differently",
+        anchor: "why infused material burns differently",
+        sectionId: "session-pacing",
+        paragraphIndex: 0,
+      },
       {
         href: "/",
         anchor: "Presidential THC mini blunts overview",
