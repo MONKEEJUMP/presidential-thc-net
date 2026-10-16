@@ -552,6 +552,24 @@ export const howToStoreInfusedCannabis: PageContent = {
       sectionId: "simple-routine",
       paragraphIndex: 1,
     },
+    {
+      href: "/formats/infused-pre-rolls",
+      anchor: "Pre-rolls",
+      sectionId: "format-specific-storage",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/formats/mini-blunts",
+      anchor: "minis",
+      sectionId: "format-specific-storage",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/formats/vape-cartridges",
+      anchor: "Cartridges",
+      sectionId: "format-specific-storage",
+      paragraphIndex: 2,
+    },
   ],
 };
 
