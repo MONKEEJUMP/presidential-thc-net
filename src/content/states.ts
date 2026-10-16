@@ -1115,12 +1115,6 @@ export const statesPages: PageContent[] = [
         "paragraphIndex": 3
       },
       {
-        "href": "/science",
-        "anchor": "cannabis",
-        "sectionId": "the-market",
-        "paragraphIndex": 3
-      },
-      {
         "href": "/formats",
         "anchor": "four formats",
         "sectionId": "the-formats",
@@ -1143,18 +1137,6 @@ export const statesPages: PageContent[] = [
         "sectionId": "the-market",
         "paragraphIndex": 3
       },
-      {
-        "href": "/formats",
-        "anchor": "blunts",
-        "sectionId": "the-formats",
-        "paragraphIndex": 0
-      },
-      {
-        "href": "/science",
-        "anchor": "cannabis",
-        "sectionId": "the-market",
-        "paragraphIndex": 1
-      }
     ],
     "kind": "article",
     "silo": "states",

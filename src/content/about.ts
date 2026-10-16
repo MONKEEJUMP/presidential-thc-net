@@ -106,12 +106,6 @@ export const aboutPage: PageContent = {
       paragraphIndex: 2,
     },
     {
-      href: "/formats",
-      anchor: "blunts",
-      sectionId: "reference-purpose",
-      paragraphIndex: 0,
-    },
-    {
       href: "/states",
       anchor: "brand",
       paragraphIndex: 1,
@@ -125,11 +119,6 @@ export const aboutPage: PageContent = {
     {
       href: "/",
       anchor: "THC",
-      paragraphIndex: 0,
-    },
-    {
-      href: "/science",
-      anchor: "Cannabis",
       paragraphIndex: 0,
     },
     {
@@ -237,12 +226,6 @@ export const aboutPage: PageContent = {
     {
       href: "/formats/infused-pre-rolls",
       anchor: "infused pre-rolls",
-      sectionId: "how-hubs-and-child-pages-fit",
-      paragraphIndex: 1,
-    },
-    {
-      href: "/formats/blunts",
-      anchor: "blunts",
       sectionId: "how-hubs-and-child-pages-fit",
       paragraphIndex: 1,
     },

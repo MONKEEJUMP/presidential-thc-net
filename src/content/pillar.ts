@@ -274,12 +274,6 @@ export const pillarPage: PageContent = {
       paragraphIndex: 0,
     },
     {
-      href: "/formats/blunts",
-      anchor: "Blunts",
-      sectionId: "formats",
-      paragraphIndex: 0,
-    },
-    {
       href: "/science/live-resin",
       anchor: "live resin",
       sectionId: "extracts-and-labels",
