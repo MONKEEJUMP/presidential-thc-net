@@ -243,29 +243,29 @@ export const guidesHub: PageContent = {
     },
     {
       href: "/infusion",
-      anchor: "infused",
+      anchor: "infused products",
       paragraphIndex: 0,
     },
     {
       href: "/formats",
-      anchor: "blunts",
+      anchor: "tobacco-free blunts",
       sectionId: "beginner-path",
       paragraphIndex: 0,
     },
     {
       href: "/",
-      anchor: "THC",
+      anchor: "THC percentages",
       sectionId: "beginner-path",
       paragraphIndex: 0,
     },
     {
       href: "/about",
-      anchor: "chemistry",
+      anchor: "The chemistry and advice",
       paragraphIndex: 1,
     },
     {
       href: "/science",
-      anchor: "cannabis",
+      anchor: "Infused cannabis",
       paragraphIndex: 0,
     },
     {
@@ -459,13 +459,13 @@ export const howToSmokeMoonRocks: PageContent = {
     },
     {
       href: "/science",
-      anchor: "cannabis",
+      anchor: "A cannabis concentrate",
       sectionId: "how-moon-rocks-are-made",
       paragraphIndex: 0,
     },
     {
       href: "/about",
-      anchor: "chemistry",
+      anchor: "the chemistry focus of this reference",
       sectionId: "how-moon-rocks-are-made",
       paragraphIndex: 2,
     },
@@ -597,19 +597,19 @@ export const howToStoreInfusedCannabis: PageContent = {
     },
     {
       href: "/formats/infused-pre-rolls",
-      anchor: "Pre-rolls",
+      anchor: "Pre-rolls, blunts",
       sectionId: "format-specific-storage",
       paragraphIndex: 2,
     },
     {
       href: "/formats/mini-blunts",
-      anchor: "minis",
+      anchor: "minis need support",
       sectionId: "format-specific-storage",
       paragraphIndex: 2,
     },
     {
       href: "/formats/vape-cartridges",
-      anchor: "Cartridges",
+      anchor: "Cartridges belong in a clean case",
       sectionId: "format-specific-storage",
       paragraphIndex: 2,
     },
@@ -897,7 +897,7 @@ export const beginnersGuide: PageContent = {
     },
     {
       href: "/science",
-      anchor: "cannabis",
+      anchor: "cannabis concentrate",
       sectionId: "what-infused-means",
       paragraphIndex: 0,
     },

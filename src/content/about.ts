@@ -107,7 +107,7 @@ export const aboutPage: PageContent = {
     },
     {
       href: "/states",
-      anchor: "brand",
+      anchor: "wholesale brand",
       paragraphIndex: 1,
     },
     {
@@ -118,7 +118,7 @@ export const aboutPage: PageContent = {
     },
     {
       href: "/",
-      anchor: "THC",
+      anchor: "Presidential THC publishes",
       paragraphIndex: 0,
     },
     {

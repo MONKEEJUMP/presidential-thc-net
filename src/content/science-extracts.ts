@@ -178,7 +178,7 @@ export const scienceExtractPages: PageContent[] = [
       },
       {
         href: "/",
-        anchor: "THC",
+        anchor: "Start with THCa, THC",
         sectionId: "how-to-use-this-section",
         paragraphIndex: 0,
       },
@@ -304,7 +304,7 @@ export const scienceExtractPages: PageContent[] = [
       },
       {
         href: "/about",
-        anchor: "chemistry",
+        anchor: "Cannabis chemistry",
         paragraphIndex: 0,
       },
     ],
