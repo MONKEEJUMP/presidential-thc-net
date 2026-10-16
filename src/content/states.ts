@@ -344,7 +344,7 @@ export const statesPages: PageContent[] = [
           "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use, and long before premium cannabis meant anything to anyone.",
           "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be verified from current retailer information rather than a fixed statewide door count.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -399,6 +399,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada state guide",
+        "sectionId": "presidential-here",
+        "paragraphIndex": 3
+      },
       {
         "href": "/states/oklahoma",
         "anchor": "Oklahoma state guide",
@@ -485,7 +491,7 @@ export const statesPages: PageContent[] = [
           "Presidential products are listed through licensed Oklahoma retailers serving qualified patients. Participating locations and current formats change over time.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their patients support, and formats rotate as inventory moves. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Verify current availability with a licensed retailer and confirm that the listing matches the product and package identifiers you are seeking. Use official state resources when confirming whether a store is licensed.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -535,6 +541,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada state guide",
+        "sectionId": "presidential-here",
+        "paragraphIndex": 3
+      },
       {
         "href": "/formats",
         "anchor": "four formats",
@@ -602,7 +614,7 @@ export const statesPages: PageContent[] = [
           "Presidential products are listed through licensed New York retailers. Participating locations and current formats change as the regulated market develops.",
           "In a buildout market, shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The New York page explains market structure; a current licensed source supplies the last step."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The New York page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -660,6 +672,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada state guide",
+        "sectionId": "presidential-here",
+        "paragraphIndex": 3
+      },
       {
         "href": "/about",
         "anchor": "about Presidential",
@@ -784,7 +802,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "When Presidential product is available through a licensed Nevada retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
-          "That package-first habit fits Nevada especially well. A visitor-heavy market already asks buyers to move quickly between doors, lounges, and hotels — and the sealed package is the last verification step those licensed doors are built around."
+          "That package-first habit fits Nevada especially well. A visitor-heavy market already asks buyers to move quickly between doors, lounges, and hotels — and the sealed package is the last verification step those licensed doors are built around. The guides on reading a lab report and THCa versus THC cover the terms printed on that label."
         ]
       },
       {
@@ -793,7 +811,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state.",
           "Keep this page for durable market context: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
-          "Reading the market this way keeps trips and local buys inside the same literacy loop: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive."
+          "Reading the market this way keeps trips and local buys inside the same literacy loop: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
         ]
       },
       {
@@ -828,6 +846,24 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/about",
+        "anchor": "about Presidential",
+        "sectionId": "finding-it",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/science/thca-vs-thc",
+        "anchor": "THCa versus THC",
+        "sectionId": "read-the-package",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/science/reading-a-lab-report",
+        "anchor": "reading a lab report",
+        "sectionId": "read-the-package",
+        "paragraphIndex": 2
+      },
       {
         "href": "/states/oklahoma",
         "anchor": "Oklahoma state guide",
@@ -901,7 +937,7 @@ export const statesPages: PageContent[] = [
           "Presidential products are listed through licensed Michigan retailers. Participating locations and current formats change over time.",
           "In a market this competitive, shelf space is not a courtesy listing — retailers stock what moves and what holds up against a deep field of alternatives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Verify current availability with the retailer and use official state resources when confirming whether a store is licensed. That double check keeps the buy inside the regulated channel rather than relying on a screenshot, a verbal tip, or an out-of-date directory entry.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Michigan page explains market structure; a current licensed source supplies the last step."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Michigan page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -951,6 +987,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/nevada",
+        "anchor": "Nevada state guide",
+        "sectionId": "presidential-here",
+        "paragraphIndex": 3
+      },
       {
         "href": "/states/oklahoma",
         "anchor": "Oklahoma state guide",

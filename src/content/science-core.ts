@@ -13,7 +13,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "THCa is the acidic precursor found in the living cannabis plant, while THC is the corresponding form produced when heat drives decarboxylation. A percentage of THCa is not interchangeable with the same percentage of THC: the label calculation must account for the mass lost during conversion, which is why Total THC uses a factor of 0.877.",
       "That distinction explains why a concentrate reported as 99% THCa cannot become 99% THC. Its theoretical ceiling after complete conversion is about 87% THC before any practical losses are considered. The same arithmetic applies whether the product is flower, an infused format, or a high-purity isolate—the molecule names stay separate, and the mass factor still belongs between them.",
-      "This page is for adults twenty-one and older who want label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined.",
+      "This page is for adults twenty-one and older who want label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined. The same label reading applies across Presidential formats.",
     ],
     sections: [
       {
@@ -23,6 +23,14 @@ export const scienceCorePages: PageContent[] = [
           "The lowercase “a” in THCa stands for acid. In the plant, the molecule carries a carboxyl group that THC does not. Applying heat can remove that group as carbon dioxide, leaving the lower-mass THC molecule behind. The names look nearly identical on a package, but the distinction is chemically meaningful and changes the arithmetic used to describe potency.",
           "A cannabinoid panel therefore keeps THCa and THC in separate rows. The THCa value reports how much precursor was measured in the sample, while the THC value reports how much THC was already present when the laboratory analyzed it. Neither row should be silently substituted for the other. Total THC is the calculated bridge between them.",
           "Raw flower and many unfinished concentrates are often THCa-dominant on the panel because decarboxylation has not yet been driven to completion. Finished extracts and heated materials can show more THC already present. Those patterns describe heating and process history; they do not erase the need to convert residual THCa before comparing totals across products.",
+        ],
+        subsections: [
+          {
+            heading: "What is THCa?",
+            paragraphs: [
+              "THCa is the acidic precursor found in the living cannabis plant, while THC is the corresponding form produced when heat drives decarboxylation. Because the label calculation must account for the mass lost during that conversion, Total THC uses a factor of 0.877.",
+            ],
+          },
         ],
       },
       {
@@ -100,11 +108,22 @@ export const scienceCorePages: PageContent[] = [
         heading: "Does smoking or heating turn THCa into THC?",
         paragraphs: [
           "Heat is what drives the conversion. Decarboxylation removes the carboxyl group from THCa as carbon dioxide and leaves THC behind, and a lighter flame and a vaporizer coil can both supply the energy that moves it forward. That is why raw flower and many unfinished concentrates read THCa-dominant on a panel, while finished extracts and heated materials can show more THC already present.",
-          "The label cannot say how complete that conversion is in use. A Certificate of Analysis does not measure how much conversion happened during one lighter pass or one vaporizer session; Total THC assumes conversion so THCa and THC can sit on one comparable line. The decarboxylation page covers how temperature and time travel together, and the science hub maps the rest of the panel.",
+          "The label cannot say how complete that conversion is in use. A Certificate of Analysis does not measure how much conversion happened during one lighter pass or one vaporizer session; Total THC assumes conversion so THCa and THC can sit on one comparable line. The decarboxylation page covers how temperature and time travel together, and the science hub maps the rest of the panel. For rolled and infused products, see how infused material burns.",
         ],
       },
     ],
     contextualLinks: [
+      {
+        href: "/formats",
+        anchor: "Presidential formats",
+        paragraphIndex: 2,
+      },
+      {
+        href: "/infusion/why-infused-burns-differently",
+        anchor: "how infused material burns",
+        sectionId: "does-heat-turn-thca-into-thc",
+        paragraphIndex: 1,
+      },
       {
         href: "/",
         anchor: "Presidential THC reference",

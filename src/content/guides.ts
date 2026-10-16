@@ -606,6 +606,12 @@ export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
   contextualLinks: [
     {
+      href: "/science/thca-vs-thc",
+      anchor: "THCa versus THC",
+      sectionId: "where-temperature-fits",
+      paragraphIndex: 0,
+    },
+    {
       href: "/guides/how-to-smoke-moon-rocks",
       anchor: "smoking moon rocks",
       sectionId: "where-temperature-fits",
@@ -714,7 +720,7 @@ export const temperatureGuide: PageContent = {
       id: "where-temperature-fits",
       heading: "Place Temperature in the Wider Guide Loop",
       paragraphs: [
-        "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine. For a lighter and a pipe instead of a device, the guide to smoking moon rocks covers flame pacing.",
+        "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine. For a lighter and a pipe instead of a device, the guide to smoking moon rocks covers flame pacing. For the label arithmetic behind THCa and THC, see THCa versus THC.",
         "This page focuses on adjustable heat, observation, and controlled comparison. Move through the guides in the order the product requires.",
       ],
     },
@@ -742,6 +748,12 @@ export const temperatureGuide: PageContent = {
 export const whatToLookFor: PageContent = {
   path: "/guides/what-to-look-for",
   contextualLinks: [
+    {
+      href: "/science/thca-vs-thc",
+      anchor: "THCa versus THC",
+      sectionId: "where-quality-fits",
+      paragraphIndex: 0,
+    },
     {
       href: "/formats/mini-blunts",
       anchor: "mini blunt construction",
@@ -829,7 +841,7 @@ export const whatToLookFor: PageContent = {
       id: "where-quality-fits",
       heading: "Place Quality Checks in the Wider Guide Loop",
       paragraphs: [
-        "A quality inspection sits beside preparation, temperature, and storage rather than replacing them. Identify the format first, then use appearance, aroma, package, coating, and burn or hardware behavior together. For moon-rock preparation, continue to the smoking guide; for later use, follow the storage routine.",
+        "A quality inspection sits beside preparation, temperature, and storage rather than replacing them. Identify the format first, then use appearance, aroma, package, coating, and burn or hardware behavior together. For moon-rock preparation, continue to the smoking guide; for later use, follow the storage routine. For the label arithmetic behind THCa and THC, see THCa versus THC.",
         "The temperature guide covers heat-related signals for adjustable hardware, while this page focuses on what you can see, smell, read, and repeat under a controlled setup. Move through the guides in the order the product requires.",
       ],
     },
