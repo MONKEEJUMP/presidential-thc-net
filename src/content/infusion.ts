@@ -215,7 +215,7 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/",
-      anchor: "THC",
+      anchor: "reported THC",
       sectionId: "potency-by-format",
       paragraphIndex: 0,
     },
@@ -269,12 +269,12 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/about",
-      anchor: "chemistry",
+      anchor: "infusion chemistry",
       paragraphIndex: 1,
     },
     {
       href: "/science",
-      anchor: "cannabis",
+      anchor: "cannabis infusion process",
       paragraphIndex: 0,
     },
   ],
@@ -547,7 +547,7 @@ export const infusionArticles: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "In cannabis",
         sectionId: "what-a-trichome-is",
         paragraphIndex: 0,
       },
@@ -798,13 +798,13 @@ export const infusionArticles: PageContent[] = [
       },
       {
         href: "/formats",
-        anchor: "blunt",
+        anchor: "a joint, a blunt",
         sectionId: "concentrate-type-and-burn",
         paragraphIndex: 0,
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "these cannabis extracts",
         sectionId: "concentrate-type-and-burn",
         paragraphIndex: 1,
       },

@@ -169,7 +169,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/about",
-        anchor: "chemistry",
+        anchor: "a chemistry and format reference",
         sectionId: "follow-the-right-format-path",
         paragraphIndex: 1,
       },
@@ -217,7 +217,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/formats/vape-cartridges",
-        anchor: "cartridges",
+        anchor: "extract-plus-hardware belongs with cartridges",
         sectionId: "compare-by-construction",
         paragraphIndex: 1,
       },
@@ -283,13 +283,13 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/infusion",
-        anchor: "infused",
+        anchor: "An infused pre-roll",
         sectionId: "infused-pre-rolls",
         paragraphIndex: 0,
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "Infused cannabis formats",
         paragraphIndex: 0,
       },
     ],
@@ -305,7 +305,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "cannabis fill",
         sectionId: "what-defines-a-blunt",
         paragraphIndex: 0,
       },
@@ -576,13 +576,13 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "cannabis extract term",
         sectionId: "what-is-inside-a-mini",
         paragraphIndex: 1,
       },
       {
         href: "/formats",
-        anchor: "blunt",
+        anchor: "every other blunt and rolled format",
         sectionId: "buying-mini-blunts",
         paragraphIndex: 1,
       },
@@ -622,7 +622,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "applies cannabis concentrate",
         sectionId: "three-layers",
         paragraphIndex: 0,
       },
@@ -780,7 +780,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "prepared cannabis",
         sectionId: "standard-versus-infused",
         paragraphIndex: 0,
       },
@@ -901,7 +901,7 @@ export const formatsPages: PageContent[] = [
       },
       {
         href: "/science",
-        anchor: "cannabis",
+        anchor: "cannabis-derived terpenes",
         sectionId: "distillate-versus-live-resin",
         paragraphIndex: 0,
       },

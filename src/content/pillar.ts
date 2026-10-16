@@ -215,7 +215,7 @@ export const pillarPage: PageContent = {
     },
     {
       href: "/formats/mini-blunts",
-      anchor: "minis",
+      anchor: "minis bring the rolled formats",
       sectionId: "formats",
       paragraphIndex: 0,
     },
@@ -293,7 +293,7 @@ export const pillarPage: PageContent = {
     },
     {
       href: "/science/terpenes",
-      anchor: "terpene",
+      anchor: "terpene, extract, or laboratory term",
       sectionId: "extracts-and-labels",
       paragraphIndex: 2,
     },
@@ -305,7 +305,7 @@ export const pillarPage: PageContent = {
     },
     {
       href: "/science/cannabinoids",
-      anchor: "cannabinoid",
+      anchor: "unfamiliar cannabinoid",
       sectionId: "extracts-and-labels",
       paragraphIndex: 2,
     },
@@ -317,7 +317,7 @@ export const pillarPage: PageContent = {
     },
     {
       href: "/infusion/kief-and-trichomes",
-      anchor: "Kief",
+      anchor: "Kief is collected trichome material",
       sectionId: "three-layer-construction",
       paragraphIndex: 0,
     },
@@ -329,7 +329,7 @@ export const pillarPage: PageContent = {
     },
     {
       href: "/infusion/surface-vs-saturation",
-      anchor: "saturation",
+      anchor: "surface coating differs from saturation",
       sectionId: "three-layer-construction",
       paragraphIndex: 2,
     },

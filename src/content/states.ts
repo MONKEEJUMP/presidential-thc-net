@@ -158,13 +158,13 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/about",
-        "anchor": "chemistry",
+        "anchor": "The chemistry and construction",
         "sectionId": "what-stays-the-same",
         "paragraphIndex": 0
       },
       {
         "href": "/science",
-        "anchor": "cannabis",
+        "anchor": "adult-use cannabis programmes",
         "sectionId": "the-eight-markets",
         "paragraphIndex": 1
       },
@@ -414,7 +414,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "anchor": "brands",
+        "anchor": "more brands",
         "sectionId": "the-market",
         "paragraphIndex": 2
       },
@@ -693,7 +693,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats/mini-blunts",
-        "anchor": "minis",
+        "anchor": "blunts, and minis",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       },
@@ -1133,7 +1133,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "anchor": "brands",
+        "anchor": "which brands sit where",
         "sectionId": "the-market",
         "paragraphIndex": 3
       },
