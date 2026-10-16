@@ -40,6 +40,7 @@ export const infusionHub: PageContent = {
         "How that layer is collected and applied affects its consistency. A uniform coat communicates the construction clearly; bare patches or thick clumps signal that the layers may not be evenly distributed.",
         "The kief and trichomes guide separates collection, adhesion, and the coat's three jobs from the concentrate path underneath. Read it when the outer finish is the question.",
       ],
+        subsections: [{ heading: "What does each layer do?", paragraphs: [[{ text: "In a three-layer build, flower supplies the structure, concentrate creates the interface and acts as the adhesive, and kief finishes the surface. " }, { text: "How infusion works", href: "/infusion/how-infusion-works" }, { text: " covers temperature and layer order, " }, { text: "Kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " explains the outer coat, and " }, { text: "why infused burns differently", href: "/infusion/why-infused-burns-differently" }, { text: " follows the result into the burn." }]] }],
     },
     {
       id: "burn-behavior",
