@@ -566,6 +566,12 @@ export const formatsPages: PageContent[] = [
     path: "/formats/moon-rocks",
     contextualLinks: [
       {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "how to smoke moon rocks",
+        sectionId: "handling",
+        paragraphIndex: 0,
+      },
+      {
         href: "/",
         anchor: "infused cannabis chemistry guide",
         paragraphIndex: 0,
@@ -630,7 +636,7 @@ export const formatsPages: PageContent[] = [
         id: "handling",
         heading: "How to handle the layered surface",
         paragraphs: [
-          `Do not put a moon rock in a grinder. The concentrate can gum the teeth while the grinding action strips kief from the surface and leaves valuable material inside the grinder. Break off a small piece by hand or use clean scissors. A piece around the size of a pencil eraser is a practical starting unit for handling the dense material.`,
+          `Do not put a moon rock in a grinder. The concentrate can gum the teeth while the grinding action strips kief from the surface and leaves valuable material inside the grinder. Break off a small piece by hand or use clean scissors. A piece around the size of a pencil eraser is a practical starting unit for handling the dense material. The guide on how to smoke moon rocks walks through that routine step by step.`,
           `The layers retain heat and do not behave like evenly ground flower. Place small pieces between ground flower in a bowl or roll so air can move around them. Apply the flame patiently and expect a relight. These are construction responses, not potency promises: smaller pieces and supporting flower simply expose more edges and create a more continuous burn path.`,
           `Handle the piece enough to judge cohesion, not enough to smear the coat. A brief press between clean fingers can reveal whether the kief is bonded or sliding off as loose dust. Work over a clean surface so any flakes that fall can be recovered, then return unused material to its closed container promptly so the concentrate does not sit exposed to warm air or uneven pressure.`,
         ],
@@ -674,6 +680,12 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/infused-pre-rolls",
     contextualLinks: [
+      {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "smoking moon rocks guide",
+        sectionId: "read-infused-pre-rolls-with-formats",
+        paragraphIndex: 0,
+      },
       {
         href: "/",
         anchor: "Presidential THC",
@@ -810,7 +822,7 @@ export const formatsPages: PageContent[] = [
         id: "read-infused-pre-rolls-with-formats",
         heading: "Read infused pre-rolls with the rest of the formats silo",
         paragraphs: [
-          `This article keeps the infused pre-roll in the vocabulary of paper, filter, fill, concentrate type, infusion placement, burn geometry, and package identity. Moon rocks move the comparison into layered flower, concentrate, and kief outside a paper cylinder. Mini blunts and full-size blunts shift emphasis to wrap-led construction and seam quality.`,
+          `This article keeps the infused pre-roll in the vocabulary of paper, filter, fill, concentrate type, infusion placement, burn geometry, and package identity. Moon rocks move the comparison into layered flower, concentrate, and kief outside a paper cylinder. Mini blunts and full-size blunts shift emphasis to wrap-led construction and seam quality. For hand-rolled papers with moon rock pieces, the smoking moon rocks guide explains the layering method.`,
           `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },

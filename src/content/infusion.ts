@@ -511,6 +511,12 @@ export const infusionArticles: PageContent[] = [
     path: "/infusion/kief-and-trichomes",
     contextualLinks: [
       {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "how moon rocks smoke",
+        sectionId: "read-the-final-layer",
+        paragraphIndex: 1,
+      },
+      {
         href: "/science",
         anchor: "cannabis",
         sectionId: "what-a-trichome-is",
@@ -608,7 +614,7 @@ export const infusionArticles: PageContent[] = [
         heading: "How to read the final layer",
         paragraphs: [
           "Judge the kief coat as part of a three-layer system. Even coverage, attachment under careful handling, and a texture not dominated by plant fragments describe construction—not laboratory composition.",
-          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works.",
+          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works. The guide to how moon rocks smoke explains why the outer kief catches first.",
         ],
       },
     ],
@@ -696,7 +702,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Start cooler and slower than with dry flower alone. A brief, even pass around the full face lets flower, concentrate, and kief begin responding together. Holding a high flame on one spot is how canoeing often begins: one edge softens and lights while the opposite edge stays cold.",
           "Keep draws moderate. A hard pull can force air through the most open channel and starve denser coated regions, encouraging a tunnel. Gentler draws give heat time to spread laterally into concentrate-rich zones instead of racing down the easiest air path.",
-          "If the ember fades, a patient relight on the lagging section usually beats torching the already-hot edge. Even packing with preserved air space needs less corrective heat than a compacted plug. These tips are mechanics for adults twenty-one and older—not dosing guidance or medical advice.",
+          "If the ember fades, a patient relight on the lagging section usually beats torching the already-hot edge. Even packing with preserved air space needs less corrective heat than a compacted plug. These tips are mechanics for adults twenty-one and older—not dosing guidance or medical advice. Practical tips for smoking moon rocks follow the same pacing.",
         ],
       },
       {
@@ -744,6 +750,12 @@ export const infusionArticles: PageContent[] = [
     ],
     contextualLinks: [
       {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "tips for smoking moon rocks",
+        sectionId: "heat-management",
+        paragraphIndex: 2,
+      },
+      {
         href: "/formats/mini-blunts",
         anchor: "smaller blunt geometry",
         sectionId: "density-and-heat-retention",
@@ -785,6 +797,12 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/potency-by-format",
     contextualLinks: [
+      {
+        href: "/guides/how-to-smoke-moon-rocks",
+        anchor: "how to smoke cannabis moon rocks",
+        sectionId: "read-potency-with-infusion",
+        paragraphIndex: 0,
+      },
       {
         href: "/formats/mini-blunts",
         anchor: "mini blunts",
@@ -907,7 +925,7 @@ export const infusionArticles: PageContent[] = [
         id: "read-potency-with-infusion",
         heading: "Read potency with the rest of the infusion silo",
         paragraphs: [
-          "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic.",
+          "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic. Handling is a separate question, covered in how to smoke cannabis moon rocks.",
           "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule. The Presidential THC format overview sets each construction beside the others.",
         ],
       },
