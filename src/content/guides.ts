@@ -604,6 +604,14 @@ export const howToStoreInfusedCannabis: PageContent = {
 
 export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
+  contextualLinks: [
+    {
+      href: "/guides/how-to-smoke-moon-rocks",
+      anchor: "smoking moon rocks",
+      sectionId: "where-temperature-fits",
+      paragraphIndex: 0,
+    },
+  ],
   kind: "article",
   silo: "guides",
   h1: "Temperature Guide for Cannabis Extracts",
@@ -706,7 +714,7 @@ export const temperatureGuide: PageContent = {
       id: "where-temperature-fits",
       heading: "Place Temperature in the Wider Guide Loop",
       paragraphs: [
-        "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine.",
+        "Temperature work sits beside quality inspection, storage, and format-specific preparation rather than replacing them. Identify the extract and hardware first, then use the start-low sequence with the compound table as context. For visible condition signals, continue to the quality guide; for later storage, follow the heat-and-light routine. For a lighter and a pipe instead of a device, the guide to smoking moon rocks covers flame pacing.",
         "This page focuses on adjustable heat, observation, and controlled comparison. Move through the guides in the order the product requires.",
       ],
     },
