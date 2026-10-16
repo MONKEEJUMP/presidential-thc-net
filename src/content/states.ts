@@ -334,7 +334,7 @@ export const statesPages: PageContent[] = [
           "Every product on a licensed California shelf has been through compliance testing, and the certificate for a given batch is available on request. That is a genuine benefit of a mature regulated market and it is worth using.",
           "Retail density is the other advantage. Across most of the state — the whole Los Angeles basin, the Bay Area, San Diego, the Central Valley, the coast — a licensed door is often close by. Exact store participation still changes over time, so live listings beat a fixed mental map.",
           "If a source cannot show that it is licensed and that the product traces to a regulated batch, it is not the channel this reference is describing. The constant is the licence itself; local practice can still vary by city and by shop.",
-          "Use that licence-first habit the same way you use live stock checks: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Los Angeles basin, Bay Area, San Diego, or coastal door you are visiting."
+          "Use that licence-first habit the same way you use live stock checks: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Los Angeles basin, Bay Area, San Diego, or coastal door you are visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -399,6 +399,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma state guide",
+        "sectionId": "what-buying-looks-like",
+        "paragraphIndex": 4
+      },
       {
         "href": "/states",
         "anchor": "brands",
@@ -615,7 +621,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "When Presidential product is available through a licensed New York retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
-          "That package-first habit fits New York especially well. A fast-growing retail network already asks buyers to confirm licences and live stock carefully — and the sealed package is the last verification step those licensed doors are built around."
+          "That package-first habit fits New York especially well. A fast-growing retail network already asks buyers to confirm licences and live stock carefully — and the sealed package is the last verification step those licensed doors are built around. The guides on reading a lab report and THCA versus THC cover the terms printed on that label."
         ]
       },
       {
@@ -630,7 +636,7 @@ export const statesPages: PageContent[] = [
         "id": "new-door-is-not-a-new-product",
         "heading": "A new door is not a new product",
         "paragraphs": [
-          "A new licensed door changes the route, not the catalog. Legalisation in 2021 and the buildout across the boroughs, the Hudson Valley, Long Island, and upstate can put a storefront where last summer's map had none. That door still has to display a state licence, appear in the official registry, and sell product with a certificate tied to the batch. Opening day does not add a format, and a polished informal source in a thin part of the map is still outside the channel this page describes.",
+          "A new licensed door changes the route, not the catalog. Legalisation in 2021 and the buildout across the boroughs, the Hudson Valley, Long Island, and upstate can put a storefront where last summer's map had none. That door still has to display a state licence, appear in the official registry, and sell product with a certificate tied to the batch. Opening day does not add a format, and a polished informal source in a thin part of the map is still outside the channel this page describes. Read more about Presidential for the brand behind those formats.",
           "The product side stays put while the map moves. Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis remain the formats, and Silver, Gold, and Rose Gold still mark distillate, live resin, and solventless live rosin. A neighbourhood that gained a retailer did not rename those series, and a neighbourhood that still has no licensed door did not remove them from the state. Shelf presence stays a retailer-level fact. Match the menu line to the package in hand — product name, format, net weight, ingredient language, cannabinoid information, and the batch or lot identifier. A photo from another market or a verbal tip does not settle the door or the unit."
         ]
       },
@@ -654,6 +660,42 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/about",
+        "anchor": "about Presidential",
+        "sectionId": "new-door-is-not-a-new-product",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/science/thca-vs-thc",
+        "anchor": "THCA versus THC",
+        "sectionId": "read-the-package",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/science/reading-a-lab-report",
+        "anchor": "reading a lab report",
+        "sectionId": "read-the-package",
+        "paragraphIndex": 2
+      },
+      {
+        "href": "/formats/blunts",
+        "anchor": "blunts",
+        "sectionId": "the-formats",
+        "paragraphIndex": 1
+      },
+      {
+        "href": "/formats/mini-blunts",
+        "anchor": "minis",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
+      },
+      {
+        "href": "/formats/infused-pre-rolls",
+        "anchor": "infused pre-rolls",
+        "sectionId": "the-formats",
+        "paragraphIndex": 0
+      },
       {
         "href": "/formats",
         "anchor": "four formats",
@@ -713,7 +755,7 @@ export const statesPages: PageContent[] = [
           "A licensed Nevada purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that serves visitors and residents under the same adult-use rules.",
           "Local practice can still vary by city and by shop — hours, whether a lounge is attached or nearby, and how a particular retailer organises its floor. The constant is the licence itself: a Nevada adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Strip-adjacent, Reno, or neighbourhood door you are actually visiting."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Strip-adjacent, Reno, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -787,6 +829,12 @@ export const statesPages: PageContent[] = [
     ],
     "contextualLinks": [
       {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma state guide",
+        "sectionId": "what-buying-looks-like",
+        "paragraphIndex": 3
+      },
+      {
         "href": "/formats",
         "anchor": "four formats",
         "sectionId": "the-formats",
@@ -843,7 +891,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "A licensed Michigan purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that has been serving adult-use customers at competitive prices for years.",
-          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a Michigan adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing."
+          "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a Michigan adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -904,6 +952,12 @@ export const statesPages: PageContent[] = [
     ],
     "contextualLinks": [
       {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma state guide",
+        "sectionId": "what-buying-looks-like",
+        "paragraphIndex": 2
+      },
+      {
         "href": "/formats",
         "anchor": "four formats",
         "sectionId": "the-formats",
@@ -962,7 +1016,7 @@ export const statesPages: PageContent[] = [
           "A licensed Arizona purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that already spent a decade practising medical retail before adult use arrived.",
           "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: an Arizona adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Phoenix-metro, Tucson-corridor, or neighbourhood door you are actually visiting."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Phoenix-metro, Tucson-corridor, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -1024,6 +1078,12 @@ export const statesPages: PageContent[] = [
     ],
     "contextualLinks": [
       {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma state guide",
+        "sectionId": "what-buying-looks-like",
+        "paragraphIndex": 3
+      },
+      {
         "href": "/science",
         "anchor": "cannabis",
         "sectionId": "the-market",
@@ -1040,6 +1100,12 @@ export const statesPages: PageContent[] = [
   {
     "path": "/states/washington",
     "contextualLinks": [
+      {
+        "href": "/states/oklahoma",
+        "anchor": "Oklahoma state guide",
+        "sectionId": "finding-it",
+        "paragraphIndex": 2
+      },
       {
         "href": "/states",
         "anchor": "brands",
@@ -1145,7 +1211,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "The official locator reflects live records across every state where Presidential is carried.",
           "The Washington page will show licensed doors as soon as there are doors to show. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Until then, this reference remains the durable context for how Washington adult-use retail works and how Presidential intends to appear in it: through licensed channels only, with verified doors published when they are real. Keep this page for market structure; use the locator for live doors; use the package for the final product check."
+          "Until then, this reference remains the durable context for how Washington adult-use retail works and how Presidential intends to appear in it: through licensed channels only, with verified doors published when they are real. Keep this page for market structure; use the locator for live doors; use the package for the final product check. Oklahoma, a medical-card market, is covered in the Oklahoma state guide."
         ]
       }
     ],
