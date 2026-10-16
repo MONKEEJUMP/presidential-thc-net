@@ -45,7 +45,7 @@ export const pillarPage: PageContent = {
       id: "formats",
       heading: "Moon Rocks, infused pre-rolls, blunts, and minis",
       paragraphs: [
-        "Moon Rocks show the layered flower, concentrate, and kief format directly. Infused pre-rolls place prepared cannabis material inside paper. Presidential Blunts use a tobacco-free hemp wrap, while minis bring the rolled formats into a smaller presentation.",
+        "Moon Rocks show the layered flower, concentrate, and kief format directly. Infused pre-rolls place prepared cannabis material inside paper. Presidential Blunts use a tobacco-free hemp wrap, while minis bring the rolled formats into a smaller presentation. Mini blunts keep the same wrap-led blunt architecture at a shorter scale.",
         "Each format has a dedicated reference page covering its physical construction, label vocabulary, and handling considerations. These pages are educational; they do not replace package directions, batch information, or current retailer guidance.",
         "Use the formats hub as a routing map rather than a ranking. Name the construction first—layered piece, paper-led roll, wrap-led blunt or mini, or extract-plus-hardware cartridge—then open the matching child guide. That habit keeps a cartridge viscosity note from being applied to a coated flower piece.",
       ],
@@ -147,6 +147,12 @@ export const pillarPage: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/formats/mini-blunts",
+      anchor: "Mini blunts",
+      sectionId: "formats",
+      paragraphIndex: 0,
+    },
     {
       href: "/guides/how-to-smoke-moon-rocks",
       anchor: "how to smoke moon rocks",

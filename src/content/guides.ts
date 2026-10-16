@@ -283,7 +283,7 @@ export const howToSmokeMoonRocks: PageContent = {
   intro: [
     "Do not put a moon rock in a grinder. Break off a piece about the size of a pencil eraser by hand or with scissors, place it in a bowl with room for airflow, and light it slowly; for a steadier burn, layer the piece between ground flower. Glass is easier to manage than paper, and a relight is normal because the concentrate-rich piece is dense.",
     "That method follows the format's construction. A moon rock has cannabis flower at its center, a cannabis concentrate layer around it, and kief on the outside. Some menus describe the same build as flower coated in hash oil and rolled in kief. Preparation should keep those layers together while exposing enough surface for heat and air to move through the piece.",
-    "This page is for adults twenty-one and older who want an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim.",
+    "This page is for adults twenty-one and older who want an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim. Presidential THC publishes this routine as format education.",
   ],
   sections: [
     {
@@ -415,6 +415,11 @@ export const howToSmokeMoonRocks: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/",
+      anchor: "Presidential THC",
+      paragraphIndex: 2,
+    },
     {
       href: "/science",
       anchor: "cannabis",
@@ -813,6 +818,12 @@ export const beginnersGuide: PageContent = {
   path: "/guides/beginners-guide",
   contextualLinks: [
     {
+      href: "/",
+      anchor: "Presidential THC home",
+      sectionId: "where-to-go-next",
+      paragraphIndex: 1,
+    },
+    {
       href: "/science",
       anchor: "cannabis",
       sectionId: "what-infused-means",
@@ -893,7 +904,7 @@ export const beginnersGuide: PageContent = {
       heading: "Follow the Guide That Matches the Next Question",
       paragraphs: [
         "If the immediate task is preparation, continue to the moon-rock smoking guide. If the product will be kept for later, use the storage routine. The temperature guide explains compound reference points and gradual adjustment, while the quality guide organizes appearance, aroma, package, coating, and burn observations.",
-        "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop.",
+        "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop. For the full reference map, return to the Presidential THC home.",
         "Move through the guides in the order the product requires, not as a checklist that must be completed every time. A stored moon rock may need handling guidance next; a cartridge may send the reader directly to temperature and quality checks. The format decides the useful path.",
         "If the question is still what the product is, stay here until format and label terms are clear. Once it is how to prepare, store, heat, or inspect a known format, open the matching child guide.",
       ],

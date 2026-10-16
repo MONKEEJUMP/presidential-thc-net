@@ -285,6 +285,12 @@ export const formatsPages: PageContent[] = [
     path: "/formats/blunts",
     contextualLinks: [
       {
+        href: "/",
+        anchor: "Presidential THC formats guide",
+        sectionId: "read-blunts-with-formats",
+        paragraphIndex: 0,
+      },
+      {
         href: "/science",
         anchor: "cannabis",
         sectionId: "what-defines-a-blunt",
@@ -370,7 +376,7 @@ export const formatsPages: PageContent[] = [
         id: "read-blunts-with-formats",
         heading: "Read blunts with the rest of the formats silo",
         paragraphs: [
-          `This article keeps the blunt in the vocabulary of wrap, fill, seam, infusion placement, and package identity. The mini blunts guide shows how the same wrap-led idea changes when length and total material shrink. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here.`,
+          `This article keeps the blunt in the vocabulary of wrap, fill, seam, infusion placement, and package identity. The mini blunts guide shows how the same wrap-led idea changes when length and total material shrink. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here. The Presidential THC formats guide places blunts beside Moon Rocks, infused pre-rolls, and minis.`,
           `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
@@ -421,7 +427,7 @@ export const formatsPages: PageContent[] = [
         id: "same-architecture-smaller-scale",
         heading: "The same architecture at a smaller scale",
         paragraphs: [
-          `A mini still has an outer wrap, an overlap seam, prepared cannabis fill, an infused component, a mouth end, and a lighting end. Those parts do not become optional because the roll is shorter. In fact, a fixed seam width or filter length occupies a larger share of a compact piece, so proportions require attention.`,
+          `A mini still has an outer wrap, an overlap seam, prepared cannabis fill, an infused component, a mouth end, and a lighting end. Those parts do not become optional because the roll is shorter. In fact, a fixed seam width or filter length occupies a larger share of a compact piece, so proportions require attention. The Presidential THC mini blunts overview sets this format beside Moon Rocks, infused pre-rolls, and full-size blunts.`,
           `A well-designed mini is produced to mini dimensions from the start. Simply cutting a finished full blunt would disturb the closure, expose loose fill, and leave no intentional end treatment. Purpose-built construction keeps the diameter, fill weight, filter or tip, and seam related to the shorter body.`,
         ],
       },
@@ -519,6 +525,12 @@ export const formatsPages: PageContent[] = [
     ],
     contextualLinks: [
       {
+        href: "/",
+        anchor: "Presidential THC mini blunts overview",
+        sectionId: "same-architecture-smaller-scale",
+        paragraphIndex: 0,
+      },
+      {
         href: "/science",
         anchor: "cannabis",
         sectionId: "what-is-inside-a-mini",
@@ -554,6 +566,11 @@ export const formatsPages: PageContent[] = [
     path: "/formats/moon-rocks",
     contextualLinks: [
       {
+        href: "/",
+        anchor: "infused cannabis chemistry guide",
+        paragraphIndex: 0,
+      },
+      {
         href: "/science",
         anchor: "cannabis",
         sectionId: "three-layers",
@@ -568,7 +585,7 @@ export const formatsPages: PageContent[] = [
       "Learn how moon rocks combine flower, concentrate, and kief, why they are dense, how they differ from caviar, and how to handle them.",
     wordTarget: [1100, 1250],
     intro: [
-      `Moon rocks are cannabis flower covered with concentrate and finished in kief. The three layers create a dense, textured piece whose exterior looks dusty or crystalline while the concentrate beneath remains tacky. Because the format is built as a bonded whole, it should be handled differently from ordinary loose flower.`,
+      `Moon rocks are cannabis flower covered with concentrate and finished in kief. The three layers create a dense, textured piece whose exterior looks dusty or crystalline while the concentrate beneath remains tacky. Because the format is built as a bonded whole, it should be handled differently from ordinary loose flower. The infused cannabis chemistry guide on the Presidential THC home page places this format beside the others.`,
       `The name describes construction, not one required strain or extract recipe. Flower provides the core, concentrate raises the cannabinoid share and binds the surface, and kief forms the final coat.`,
       `This page is for adults twenty-one and older who want format and education framing: how the three layers are assembled, how to read package language, and how construction choices shape density, handling, and storage. It is not medical advice, dosing guidance, or a claim that any layer combination is safer or healthier.`,
     ],
@@ -658,6 +675,12 @@ export const formatsPages: PageContent[] = [
     path: "/formats/infused-pre-rolls",
     contextualLinks: [
       {
+        href: "/",
+        anchor: "Presidential THC",
+        sectionId: "standard-versus-infused",
+        paragraphIndex: 0,
+      },
+      {
         href: "/guides/how-to-store-infused-cannabis",
         anchor: "Store infused pre-rolls",
         sectionId: "storage",
@@ -722,7 +745,7 @@ export const formatsPages: PageContent[] = [
         id: "standard-versus-infused",
         heading: "What infusion adds to a pre-roll",
         paragraphs: [
-          `Both formats begin with prepared cannabis inside rolling paper, usually with a filter or crutch maintaining the mouth end. The distinction is the added concentrate. California's cannabis regulations define an infused pre-roll as a pre-roll into which cannabis concentrate other than kief has been incorporated or added. That definition keeps a simple kief-only roll separate from one infused with an extract.`,
+          `Both formats begin with prepared cannabis inside rolling paper, usually with a filter or crutch maintaining the mouth end. The distinction is the added concentrate. California's cannabis regulations define an infused pre-roll as a pre-roll into which cannabis concentrate other than kief has been incorporated or added. That definition keeps a simple kief-only roll separate from one infused with an extract. Presidential THC treats that added concentrate as a construction change first.`,
           `Concentrate changes more than a cannabinoid total on a label. It adds mass, can occupy pores between flower particles, and responds to heat differently from dry plant material. Infusion therefore changes density, airflow resistance, how the ember advances, and how residue looks after the burn. A sound design makes the flower, infusion, and air path work as one structure rather than treating the concentrate as an ornamental stripe.`,
           `What infusion does not add is a substitute for package identity. Net contents, ingredient lists, batch or lot numbers, and cannabinoid statements remain the evidence for what was produced. Visual gloss or a dark paper ring can reflect handling as easily as extract amount.`,
         ],
