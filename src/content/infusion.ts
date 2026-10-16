@@ -669,7 +669,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Concentrate adds material without the same open plant structure as flower. A concentrate-rich area can become denser when pressure or excess application closes nearby spaces, changing the path available to moving air.",
           "The added phase holds and redistributes heat around the material it coats. That helps explain a slower initial light, residual glow after the flame is removed, and why an isolated heavy pocket can behave differently from the flower beside it.",
-          "More retained heat is not a guarantee that the entire format stays lit. Combustion still needs oxygen. A dense zone can be hot yet starved of airflow while a more open neighboring route continues forward.",
+          "More retained heat is not a guarantee that the entire format stays lit. Combustion still needs oxygen. A dense zone can be hot yet starved of airflow while a more open neighboring route continues forward. The same principle carries into smaller blunt geometry, where a shorter body changes the ratio of wrap to fill.",
         ],
       },
       {
@@ -744,6 +744,12 @@ export const infusionArticles: PageContent[] = [
     ],
     contextualLinks: [
       {
+        href: "/formats/mini-blunts",
+        anchor: "smaller blunt geometry",
+        sectionId: "density-and-heat-retention",
+        paragraphIndex: 2,
+      },
+      {
         href: "/formats",
         anchor: "blunt",
         sectionId: "concentrate-type-and-burn",
@@ -779,6 +785,12 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/potency-by-format",
     contextualLinks: [
+      {
+        href: "/formats/mini-blunts",
+        anchor: "mini blunts",
+        sectionId: "how-infusion-multiplies-concentration",
+        paragraphIndex: 2,
+      },
       {
         href: "/",
         anchor: "Presidential THC format overview",
@@ -861,7 +873,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Infusion multiplies the cannabinoid share of a finished piece relative to flower alone by adding a higher-percentage component. The change is proportional: more concentrate mass at a higher measured percentage raises the weighted blend without erasing the flower and kief still present.",
           "That is the educational sense of an effective concentration change. For the same finished mass, an infused format can carry more measured cannabinoid material than the uncoated flower core. Compare finished-batch with flower-batch results; do not invent a milligram schedule or treat the page as medical guidance.",
-          "Process choices shape how that change shows up. Even distribution keeps the raised blend consistent; pooled concentrate can leave one region denser while the whole-piece average stays the same. Construction quality and measured composition answer different questions.",
+          "Process choices shape how that change shows up. Even distribution keeps the raised blend consistent; pooled concentrate can leave one region denser while the whole-piece average stays the same. Construction quality and measured composition answer different questions. The same weighted-blend logic applies to mini blunts, where the package still states the batch result.",
         ],
       },
       {

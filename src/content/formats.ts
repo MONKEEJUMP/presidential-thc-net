@@ -837,6 +837,12 @@ export const formatsPages: PageContent[] = [
     path: "/formats/vape-cartridges",
     contextualLinks: [
       {
+        href: "/formats/mini-blunts",
+        anchor: "compact mini format",
+        sectionId: "read-carts-with-formats",
+        paragraphIndex: 0,
+      },
+      {
         href: "/science",
         anchor: "cannabis",
         sectionId: "distillate-versus-live-resin",
@@ -920,7 +926,7 @@ export const formatsPages: PageContent[] = [
         id: "read-carts-with-formats",
         heading: "Read cartridges with the rest of the formats silo",
         paragraphs: [
-          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo.`,
+          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo. For a wrap-led roll in a compact mini format, open the mini blunts guide.`,
         ],
       },
     ],
