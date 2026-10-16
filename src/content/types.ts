@@ -12,7 +12,7 @@ export type ContentSection = {
   paragraphs: string[];
   bullets?: string[];
   table?: DataTable;
-  subsections?: { heading: string; paragraphs: string[] }[];
+  subsections?: { heading: string; paragraphs: (string | { text: string; href?: string }[])[] }[];
 };
 
 export type PageLink = {

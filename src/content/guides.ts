@@ -99,7 +99,7 @@ export const guidesHub: PageContent = {
       id: "what-this-hub-does-not-do",
       heading: "What This Hub Does Not Do",
       paragraphs: [
-        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want clear educational routines for handling, storing, heating, and inspecting infused cannabis formats.",
+        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want clear educational routines for handling, storing, heating, and inspecting infused cannabis formats. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in potency by format.",
       ],
     },
   ],
@@ -138,6 +138,18 @@ export const guidesHub: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/infusion/potency-by-format",
+      anchor: "potency by format",
+      sectionId: "what-this-hub-does-not-do",
+      paragraphIndex: 0,
+    },
+    {
+      href: "/infusion/kief-and-trichomes",
+      anchor: "kief and trichomes",
+      sectionId: "what-this-hub-does-not-do",
+      paragraphIndex: 0,
+    },
     {
       href: "/guides/beginners-guide",
       anchor: "beginner's guide",

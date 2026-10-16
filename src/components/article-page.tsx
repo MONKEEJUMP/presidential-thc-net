@@ -271,7 +271,7 @@ function ArticleSection({
             <div className="article-section__subsection" key={`${section.id}-sub-${subIndex}`}>
               <h3>{subsection.heading}</h3>
               {subsection.paragraphs.map((paragraph, index) => (
-                <p key={`${section.id}-sub-${subIndex}-${index}`}>{paragraph}</p>
+                <p key={`${section.id}-sub-${subIndex}-${index}`}>{typeof paragraph === "string" ? paragraph : paragraph.map((part, partIndex) => part.href ? <Link href={part.href} key={partIndex}>{part.text}</Link> : <span key={partIndex}>{part.text}</span>)}</p>
               ))}
             </div>
           ))}

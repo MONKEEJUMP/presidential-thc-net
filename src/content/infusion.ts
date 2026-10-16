@@ -282,6 +282,20 @@ export const infusionHub: PageContent = {
 export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/how-infusion-works",
+    contextualLinks: [
+      {
+        href: "/infusion/potency-by-format",
+        anchor: "potency by format",
+        sectionId: "what-good-infusion-controls",
+        paragraphIndex: 1,
+      },
+      {
+        href: "/infusion/kief-and-trichomes",
+        anchor: "kief and trichomes",
+        sectionId: "what-good-infusion-controls",
+        paragraphIndex: 1,
+      },
+    ],
     kind: "article",
     silo: "infusion",
     h1: "How Cannabis Infusion Actually Works",
@@ -370,7 +384,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What separates controlled infusion from uneven application",
         paragraphs: [
           "A controlled infusion has a defined goal for where the concentrate should go and uses repeatable handling to get it there. The flower remains the structure, the concentrate is distributed as designed, and the kief finishes the surface without hiding obvious defects. The result should be evaluated as one system.",
-          "That system explains why infusion quality cannot be reduced to a potency claim. Potency is one measurement. Distribution, layer adhesion, airflow, and burn consistency describe whether the format was assembled with enough control to make its ingredients behave together.",
+          "That system explains why infusion quality cannot be reduced to a potency claim. Potency is one measurement. Distribution, layer adhesion, airflow, and burn consistency describe whether the format was assembled with enough control to make its ingredients behave together. The outer layer is explained in the guide to kief and trichomes. How labels compare across formats is covered in potency by format.",
         ],
       },
     ],
@@ -394,6 +408,14 @@ export const infusionArticles: PageContent[] = [
   },
   {
     path: "/infusion/surface-vs-saturation",
+    contextualLinks: [
+      {
+        href: "/infusion/kief-and-trichomes",
+        anchor: "kief and trichomes",
+        sectionId: "the-practical-conclusion",
+        paragraphIndex: 1,
+      },
+    ],
     kind: "article",
     silo: "infusion",
     h1: "Surface-Coated vs Saturated Infusion",
@@ -484,7 +506,7 @@ export const infusionArticles: PageContent[] = [
         heading: "The practical conclusion",
         paragraphs: [
           "Surface coating emphasizes a clearly layered exterior and can demand less internal distribution. Saturation aims for a more integrated interior and demands more control over movement through irregular flower. Both approaches still have to solve adhesion, airflow, and even placement.",
-          "The better question is not which label sounds more advanced. It is whether the finished format matches the method claimed: even where it should be even, open enough to burn, and represented by a potency result for the entire blended product.",
+          "The better question is not which label sounds more advanced. It is whether the finished format matches the method claimed: even where it should be even, open enough to burn, and represented by a potency result for the entire blended product. Surface coatings are explained further in the guide to kief and trichomes.",
         ],
       },
     ],
@@ -510,6 +532,12 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/kief-and-trichomes",
     contextualLinks: [
+      {
+        href: "/infusion/potency-by-format",
+        anchor: "potency by format",
+        sectionId: "read-the-final-layer",
+        paragraphIndex: 1,
+      },
       {
         href: "/guides/how-to-smoke-moon-rocks",
         anchor: "how moon rocks smoke",
@@ -614,7 +642,7 @@ export const infusionArticles: PageContent[] = [
         heading: "How to read the final layer",
         paragraphs: [
           "Judge the kief coat as part of a three-layer system. Even coverage, attachment under careful handling, and a texture not dominated by plant fragments describe construction—not laboratory composition.",
-          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works. The guide to how moon rocks smoke explains why the outer kief catches first.",
+          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works. The guide to how moon rocks smoke explains why the outer kief catches first. How labels compare across formats is covered in potency by format.",
         ],
       },
     ],
@@ -744,11 +772,17 @@ export const infusionArticles: PageContent[] = [
         heading: "What burn behavior can and cannot prove",
         paragraphs: [
           "A reasonably even burn is practical evidence that the construction, packing, light, and airflow are working together. Frequent severe runs, dense plugs, or repeated heavy pockets are reasons to examine distribution more closely.",
-          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. Read it with the rest of the infusion silo on presidentialthc.net; none of these pages is medical advice.",
+          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. Read it with the rest of the infusion silo on presidentialthc.net; none of these pages is medical advice. How labels compare across formats is covered in potency by format.",
         ],
       },
     ],
     contextualLinks: [
+      {
+        href: "/infusion/potency-by-format",
+        anchor: "potency by format",
+        sectionId: "what-a-burn-can-prove",
+        paragraphIndex: 1,
+      },
       {
         href: "/guides/how-to-smoke-moon-rocks",
         anchor: "tips for smoking moon rocks",
@@ -797,6 +831,12 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/potency-by-format",
     contextualLinks: [
+      {
+        href: "/infusion/kief-and-trichomes",
+        anchor: "kief and trichomes",
+        sectionId: "read-potency-with-infusion",
+        paragraphIndex: 1,
+      },
       {
         href: "/guides/how-to-smoke-moon-rocks",
         anchor: "how to smoke cannabis moon rocks",
@@ -926,7 +966,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Read potency with the rest of the infusion silo",
         paragraphs: [
           "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic. Handling is a separate question, covered in how to smoke cannabis moon rocks.",
-          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule. The Presidential THC format overview sets each construction beside the others.",
+          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule. The Presidential THC format overview sets each construction beside the others. The finishing layer is explained in the guide to kief and trichomes.",
         ],
       },
     ],

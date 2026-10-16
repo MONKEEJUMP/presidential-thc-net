@@ -109,7 +109,8 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate and finished with kief, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for all seven states. Forty-seven products across six groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
           "The door is the part that changes. Adult-use markets in this directory ask for identification and age twenty-one or older at a licensed retailer. Oklahoma asks for a state patient card. That split is an access rule, not a style preference and not a different brand. Past the shared gate, each state still has its own regulator, retail structure, and answer to what a buyer brings through the door, which is why the stories are not one national page. This hub still does not treat fixed door counts, market rankings, or an old menu as proof of today's stock. Read the state page for durable structure, then confirm the licensed listing and the package in hand."
-        ]
+        ],
+        "subsections": [{ "heading": "What does a state page add?", "paragraphs": [[{ "text": "A state page explains the market around the product: its regulator, retail structure, and door rule. It does not change the recipe or the catalog. Use the " }, { "text": "formats hub", "href": "/formats" }, { "text": " for construction and the " }, { "text": "science hub", "href": "/science" }, { "text": " for label reading, then open the state page for the market you are checking, such as " }, { "text": "Oklahoma", "href": "/states/oklahoma" }, { "text": " or " }, { "text": "Michigan", "href": "/states/michigan" }, { "text": "." }]] }]
       },
     ],
     "childLinks": [
