@@ -267,6 +267,14 @@ function ArticleSection({
             </ul>
           ) : null}
           <DataTable section={section} />
+          {section.subsections?.map((subsection, subIndex) => (
+            <div className="article-section__subsection" key={`${section.id}-sub-${subIndex}`}>
+              <h3>{subsection.heading}</h3>
+              {subsection.paragraphs.map((paragraph, index) => (
+                <p key={`${section.id}-sub-${subIndex}-${index}`}>{paragraph}</p>
+              ))}
+            </div>
+          ))}
         </div>
         {image ? <ContentFigure image={image} /> : null}
       </div>
