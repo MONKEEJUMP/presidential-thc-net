@@ -76,7 +76,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "Start by identifying whether a prominent percentage is labeled THCa, THC, or Total THC. Next, locate the corresponding rows on the cannabinoid panel and check whether the printed total agrees with the formula. Finally, match the report to the product’s batch information so that the calculation belongs to the item being examined, not a different production run.",
           "For amount-based comparisons, use the calculated total rather than treating raw THCa as ready-made THC. Also keep “theoretical” in view: the formula standardizes label interpretation, but it does not certify that every heating device, flame, or sample converts the precursor completely. The result is a disciplined reading of the chemistry, not a guarantee about a particular use condition.",
-          "Do not let typography decide which value matters. A package may display one figure prominently while the supporting report shows several related rows. The useful question is not simply “what is the biggest percentage?” but “what exactly was measured, and what was calculated?” Reading the analyte name beside its number prevents a THCa result, a THC result, and a Total THC result from collapsing into the same claim. Once those categories stay separate, products with different ratios can be compared on consistent terms.",
+          "Do not let typography decide which value matters. A package may display one figure prominently while the supporting report shows several related rows. The useful question is not simply “what is the biggest percentage?” but “what exactly was measured, and what was calculated?” Reading the analyte name beside its number prevents a THCa result, a THC result, and a Total THC result from collapsing into the same claim. Once those categories stay separate, products with different ratios can be compared on consistent terms. The Presidential THC reference connects this label sequence to formats, infusion, and handling.",
         ],
       },
       {
@@ -105,6 +105,12 @@ export const scienceCorePages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "/",
+        anchor: "Presidential THC reference",
+        sectionId: "read-the-label",
+        paragraphIndex: 2,
+      },
       {
         href: "/science/decarboxylation",
         anchor: "decarboxylation page",

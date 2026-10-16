@@ -778,6 +778,14 @@ export const infusionArticles: PageContent[] = [
 
   {
     path: "/infusion/potency-by-format",
+    contextualLinks: [
+      {
+        href: "/",
+        anchor: "Presidential THC format overview",
+        sectionId: "read-potency-with-infusion",
+        paragraphIndex: 1,
+      },
+    ],
     kind: "article",
     silo: "infusion",
     h1: "Potency by Format — Flower to Concentrate",
@@ -888,7 +896,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Read potency with the rest of the infusion silo",
         paragraphs: [
           "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic.",
-          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule.",
+          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule. The Presidential THC format overview sets each construction beside the others.",
         ],
       },
     ],
