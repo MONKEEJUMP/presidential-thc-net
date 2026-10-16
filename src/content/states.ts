@@ -419,12 +419,6 @@ export const statesPages: PageContent[] = [
         "paragraphIndex": 2
       },
       {
-        "href": "/science",
-        "anchor": "cannabis",
-        "sectionId": "presidential-here",
-        "paragraphIndex": 0
-      },
-      {
         "href": "/formats",
         "anchor": "four formats",
         "sectionId": "the-formats",
@@ -696,12 +690,6 @@ export const statesPages: PageContent[] = [
         "anchor": "reading a lab report",
         "sectionId": "read-the-package",
         "paragraphIndex": 2
-      },
-      {
-        "href": "/formats/blunts",
-        "anchor": "blunts",
-        "sectionId": "the-formats",
-        "paragraphIndex": 1
       },
       {
         "href": "/formats/mini-blunts",

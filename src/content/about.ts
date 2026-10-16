@@ -30,6 +30,7 @@ export const aboutPage: PageContent = {
         "This publication carries the educational scope forward through connected science, infusion, format, guide, and state references.",
         "That split matters. A brand site answers catalog and company questions. This publisher answers construction, extract vocabulary, label interpretation, handling, and market-context questions so a package claim is not read as shelf status.",
       ],
+        subsections: [{ heading: "Where should a new reader start?", paragraphs: [[{ text: "Start with the " }, { text: "science hub", href: "/science" }, { text: " when an unfamiliar label word appears, such as THCa, terpene, distillate, or live resin. Move to the " }, { text: "infusion hub", href: "/infusion" }, { text: " for how flower, concentrate, and kief are combined, and to the " }, { text: "formats hub", href: "/formats" }, { text: " for Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis." }]] }],
     },
     {
       id: "publisher-identity",
@@ -86,6 +87,12 @@ export const aboutPage: PageContent = {
     },
   ],
   contextualLinks: [
+    {
+      href: "/states/arizona",
+      anchor: "Arizona",
+      sectionId: "presidential-context",
+      paragraphIndex: 0,
+    },
     {
       href: "/infusion/potency-by-format",
       anchor: "potency by format",
