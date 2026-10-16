@@ -311,12 +311,6 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/distillate",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "extraction-before-distillation",
-        paragraphIndex: 0,
-      },
     ],
     kind: "article",
     silo: "science",
@@ -435,12 +429,6 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/live-resin",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "the-cold-chain",
-        paragraphIndex: 1,
-      },
     ],
     kind: "article",
     silo: "science",
@@ -552,12 +540,6 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/live-rosin",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "washing-fresh-frozen-material",
-        paragraphIndex: 0,
-      },
     ],
     kind: "article",
     silo: "science",

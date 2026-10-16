@@ -260,12 +260,6 @@ export const scienceCorePages: PageContent[] = [
   {
     path: "/science/reading-a-lab-report",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "infused-numbers",
-        paragraphIndex: 0,
-      },
     ],
     kind: "article",
     silo: "science",
@@ -356,12 +350,6 @@ export const scienceCorePages: PageContent[] = [
   {
     path: "/science/terpenes",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "entourage-hypothesis",
-        paragraphIndex: 0,
-      },
     ],
     kind: "article",
     silo: "science",
@@ -467,12 +455,6 @@ export const scienceCorePages: PageContent[] = [
   {
     path: "/science/cannabinoids",
     contextualLinks: [
-      {
-        href: "/science",
-        anchor: "cannabis",
-        sectionId: "panel-reading",
-        paragraphIndex: 3,
-      },
     ],
     kind: "article",
     silo: "science",
