@@ -81,11 +81,23 @@ export const aboutPage: PageContent = {
       paragraphs: [
         "Each article answers its central question first, then explains the underlying construction or chemistry in plain language. Related reading stays inside the same subject silo so a reader can move sideways without losing the thread. Hub pages provide the map, and the home page connects the four major subject areas.",
         "That structure keeps education separate from retail while giving infused cannabis a coherent vocabulary. The aim is useful reference work: specific enough to check, restrained enough to trust, and organized so that the next question has a clear place to go.",
-        "When in doubt, ask which question you are actually asking. A definition belongs in science. Construction belongs in infusion. Physical form belongs in formats. Handling belongs in guides. Market access belongs in states. This page names that order so the rest of the reference stays easy to use.",
+        "When in doubt, ask which question you are actually asking. A definition belongs in science. Construction belongs in infusion. Physical form belongs in formats. Handling belongs in guides. Market access belongs in states. This page names that order so the rest of the reference stays easy to use. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in potency by format.",
       ],
     },
   ],
   contextualLinks: [
+    {
+      href: "/infusion/potency-by-format",
+      anchor: "potency by format",
+      sectionId: "editorial-method",
+      paragraphIndex: 2,
+    },
+    {
+      href: "/infusion/kief-and-trichomes",
+      anchor: "kief and trichomes",
+      sectionId: "editorial-method",
+      paragraphIndex: 2,
+    },
     {
       href: "/formats",
       anchor: "blunts",

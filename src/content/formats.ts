@@ -23,6 +23,7 @@ export const formatsPages: PageContent[] = [
           `A moon rock starts with flower, adds a concentrate layer, and finishes with collected kief. That exterior makes the piece dense, tacky beneath the kief, and poorly suited to a grinder. The moon rocks guide explains the format’s California origins, its distinction from cannabis caviar, its potency range, and the careful handling its layered construction requires.`,
           `Open that guide when the product is a loose layered piece rather than a roll or cartridge. Confirm flower, concentrate, and kief before treating the category name as proof of that build.`,
         ],
+        subsections: [{ heading: "What stays the same across Presidential formats?", paragraphs: [[{ text: "The construction idea does not change: flower carried through with concentrate and finished with kief, across " }, { text: "Moon Rocks", href: "/formats/moon-rocks" }, { text: ", " }, { text: "infused pre-rolls", href: "/formats/infused-pre-rolls" }, { text: ", " }, { text: "tobacco-free blunts", href: "/formats/blunts" }, { text: ", and " }, { text: "minis", href: "/formats/mini-blunts" }, { text: ". What changes is the wrapper, scale, and airflow, which is why each format has its own guide. Cartridges are the exception, replacing flower and wrap with oil and hardware, as the " }, { text: "vape cartridges guide", href: "/formats/vape-cartridges" }, { text: " explains." }]] }],
       },
       {
         id: "infused-pre-rolls",
@@ -109,7 +110,7 @@ export const formatsPages: PageContent[] = [
         id: "what-this-hub-does-not-do",
         heading: "What this hub does not do",
         paragraphs: [
-          `This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of infused cannabis formats by construction, package language, and observable physical form.`,
+          `This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of infused cannabis formats by construction, package language, and observable physical form. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in potency by format.`,
         ],
       },
     ],
@@ -148,6 +149,18 @@ export const formatsPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      {
+        href: "/infusion/potency-by-format",
+        anchor: "potency by format",
+        sectionId: "what-this-hub-does-not-do",
+        paragraphIndex: 0,
+      },
+      {
+        href: "/infusion/kief-and-trichomes",
+        anchor: "kief and trichomes",
+        sectionId: "what-this-hub-does-not-do",
+        paragraphIndex: 0,
+      },
       {
         href: "/states",
         anchor: "brand name",
