@@ -793,7 +793,8 @@ export const statesPages: PageContent[] = [
           "When Presidential product is available through a licensed Nevada retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
           "That package-first habit fits Nevada especially well. A visitor-heavy market already asks buyers to move quickly between doors, lounges, and hotels — and the sealed package is the last verification step those licensed doors are built around. The guides on reading a lab report and THCa versus THC cover the terms printed on that label."
-        ]
+        ],
+        "subsections": [{ "heading": "How do you keep infused product in good shape after buying?", "paragraphs": [[{ "text": "Keep it in the original package or a fitting airtight container, stored cool, dark, and dry. Heat can soften concentrate and speed the loss of aroma, while light and time add to the exposure. For moon rocks, separate only what you need by hand or with scissors rather than a grinder, then close the container again. Keep reading with " }, { "text": "infused cannabis storage guide", "href": "/guides/how-to-store-infused-cannabis" }, { "text": ", " }, { "text": "how to smoke moon rocks", "href": "/guides/how-to-smoke-moon-rocks" }, { "text": ", or " }, { "text": "Presidential product formats", "href": "/formats" }, { "text": "." }]] }]
       },
       {
         "id": "finding-it",
