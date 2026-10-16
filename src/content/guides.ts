@@ -59,6 +59,7 @@ export const guidesHub: PageContent = {
         "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. Four sideways links lead to every other practical guide in this silo.",
         "Start with the beginner's guide to infused cannabis when vocabulary or first-session order is unclear. Identify the format, keep batch identifiers with the product, then open the child guide that matches the next question.",
       ],
+        subsections: [{ heading: "Which guide should you open first?", paragraphs: [[{ text: "Start with the format named on the package, then identify the layers or extract ingredients involved. The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. Once the construction is clear, move to handling, storage, or temperature. If the product is a moon rock and preparation is next, open the smoking guide. If the jar will sit unused, open the storage guide. If a device dial is the question, open the temperature guide. Keep reading with " }, { text: "beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: ", " }, { text: "infused cannabis storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: ", or " }, { text: "device temperature guide", href: "/guides/temperature-guide" }, { text: "." }]] }],
     },
     {
       id: "working-sequence",
@@ -539,6 +540,7 @@ export const howToStoreInfusedCannabis: PageContent = {
         "Do not combine unrelated infused products just to save space. Flower coated with concentrate and kief has different handling needs from a wrapped pre-roll, blunt, mini, or sealed cartridge. Separation also keeps each package's identity and handling instructions connected to the correct item.",
         "The same principle helps with batches. If two packages carry different descriptions or numbers, preserve that distinction rather than mixing their contents. A later inspection is more useful when the product can still be matched to the information it arrived with.",
       ],
+        subsections: [{ heading: "Why shouldn't you grind moon rocks before storing them?", paragraphs: [[{ text: "Moon rocks combine flower, concentrate, and kief, so a grinder is the wrong preparation tool. The concentrate gums the teeth and the kief coat rubs away. Use fingers or scissors to separate only what is needed, then return the rest to a roomy airtight jar with enough headspace that pieces do not grind against each other. Keep the jar cool, dark, and dry, and close it again right after handling. Keep reading with " }, { text: "how to smoke moon rocks", href: "/guides/how-to-smoke-moon-rocks" }, { text: ", " }, { text: "infused pre-roll construction", href: "/formats/infused-pre-rolls" }, { text: ", or " }, { text: "what to look for in quality", href: "/guides/what-to-look-for" }, { text: "." }]] }],
     },
     {
       id: "clean-handling",
