@@ -16,7 +16,7 @@ export const statesPages: PageContent[] = [
     "sections": [
       {
         "id": "the-eight-markets",
-        "heading": "Seven states, seven distinct markets",
+        "heading": "Select state markets, each a distinct market",
         "paragraphs": [
           "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
           "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
@@ -92,14 +92,14 @@ export const statesPages: PageContent[] = [
         "heading": "What stays the same everywhere",
         "paragraphs": [
           "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "The catalog does not change either: forty-seven products across six groupings, organised by the extract behind them rather than by price.",
-          "What changes is the route to the shelf, and that is what these seven references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
+          "The catalog does not change either: the full catalog across its groupings, organised by the extract behind them rather than by price.",
+          "What changes is the route to the shelf, and that is what these state references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
         ],
         "subsections": [{ "heading": "How do you keep product in good shape after buying?", "paragraphs": [[{ "text": "The care routine does not change at a state line either. Keep the product in its original package or a fitting airtight container, stored cool, dark, and dry, and open it only when needed. For moon rocks, separate a piece by hand or with scissors rather than a grinder, then close the container again. Keep reading with " }, { "text": "infused cannabis storage guide", "href": "/guides/how-to-store-infused-cannabis" }, { "text": ", " }, { "text": "how to smoke moon rocks", "href": "/guides/how-to-smoke-moon-rocks" }, { "text": ", or " }, { "text": "what to look for in quality", "href": "/guides/what-to-look-for" }, { "text": "." }]] }]
       },
       {
         "id": "the-eight",
-        "heading": "The seven states",
+        "heading": "The state markets",
         "paragraphs": [
           "Each reference covers the legal framework, how buying works in that market, what the market is like, and where to find the nearest licensed door.",
           "Open the child page for the market you are checking, read its access route and retail shape, then confirm current participation with a licensed retailer or the current official listing. Treat this hub as the map; treat the state page and the live licensed source as the last two steps."
@@ -109,7 +109,7 @@ export const statesPages: PageContent[] = [
         "id": "same-product-different-door",
         "heading": "Identical product, different door",
         "paragraphs": [
-          "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate and finished with kief, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for all seven states. Forty-seven products across six groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
+          "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate and finished with kief, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for every state market. The catalog and its groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
           "The door is the part that changes. Adult-use markets in this directory ask for identification and age twenty-one or older at a licensed retailer. Oklahoma asks for a state patient card. That split is an access rule, not a style preference and not a different brand. Past the shared gate, each state still has its own regulator, retail structure, and answer to what a buyer brings through the door, which is why the stories are not one national page. This hub still does not treat fixed door counts, market rankings, or an old menu as proof of today's stock. Read the state page for durable structure, then confirm the licensed listing and the package in hand."
         ],
         "subsections": [{ "heading": "What does a state page add?", "paragraphs": [[{ "text": "A state page explains the market around the product: its regulator, retail structure, and door rule. It does not change the recipe or the catalog. Use the " }, { "text": "formats hub", "href": "/formats" }, { "text": " for construction and the " }, { "text": "science hub", "href": "/science" }, { "text": " for label reading, then open the state page for the market you are checking, such as " }, { "text": "Oklahoma", "href": "/states/oklahoma" }, { "text": " or " }, { "text": "Michigan", "href": "/states/michigan" }, { "text": "." }]] }]
@@ -386,7 +386,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/nevada",
@@ -526,7 +526,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/new-york",
@@ -657,7 +657,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/michigan",
@@ -822,7 +822,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/california",
@@ -967,7 +967,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/new-york",
@@ -1057,7 +1057,7 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in Arizona",
         "paragraphs": [
-          "More than fifty licensed doors carry Presidential across Arizona.",
+          "Licensed doors across Arizona carry Presidential.",
           "In a state that caps its licence numbers, that figure represents a meaningful share of the available retail — a larger share than the raw number suggests when set against markets where anyone can open a shop.",
           "That presence is the product of retailers choosing the brand onto limited shelves, not of an open-door market absorbing every listing that arrives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than screenshots, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Arizona page explains market structure; a current licensed source supplies the last step."
@@ -1099,7 +1099,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/california",
@@ -1208,7 +1208,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are flower carried through with concentrate, finished in kief. The pre-rolls and blunts carry that same material ready to light. Minis are the blunt sized down for a shorter occasion.",
-          "The catalog runs forty-seven products across six groupings, organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "The catalog runs across groupings organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Washington is only the licensed route to the shelf and the live retailer records that confirm it."
         ]
       },
@@ -1238,7 +1238,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/states",
-        "label": "All seven states"
+        "label": "All Presidential state guides"
       },
       {
         "href": "/states/california",
