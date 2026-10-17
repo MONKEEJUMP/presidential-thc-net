@@ -785,7 +785,8 @@ export const statesPages: PageContent[] = [
           "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Minis are the blunt sized down, which is often the right choice for a trip.",
           "The series marking tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Nevada is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
-        ]
+        ],
+        "subsections": [{ "heading": "Where can you find Presidential THC flower in North Las Vegas?", "paragraphs": [[{ "text": "Presidential THC flower means Moon Rocks: the flower at the center of the original format, carried through with concentrate and finished with kief. In North Las Vegas, as anywhere in Nevada, Presidential products are listed through licensed retailers, and participating locations and current formats change. Anyone twenty-one or older with valid identification can buy at a licensed dispensary. Match the product name and format on the package, and read the label for the batch's tested values instead of relying on a category name. Keep reading with " }, { "text": "the moon rock format", "href": "/formats/moon-rocks" }, { "text": ", " }, { "text": "reading a lab report", "href": "/science/reading-a-lab-report" }, { "text": ", or " }, { "text": "all state guides", "href": "/states" }, { "text": "." }]] }]
       },
       {
         "id": "read-the-package",
