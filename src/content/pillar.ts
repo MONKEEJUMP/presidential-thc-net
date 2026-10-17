@@ -25,9 +25,9 @@ export const pillarPage: PageContent = {
     },
     {
       id: "three-layer-construction",
-      heading: "Flower, concentrate, and kief",
+      heading: "Flower, concentrate, and a kief or diamond finish",
       paragraphs: [
-        "Flower supplies the plant material and physical structure. Concentrate supplies the infused component. Kief is collected trichome material used as the finishing layer. Together they explain the layered construction associated with Presidential Moon Rocks and related infused formats.",
+        "Flower supplies the plant material and physical structure. Concentrate supplies the infused component. Kief or diamonds supply the finishing layer. Kief is collected trichome material. Together they explain the layered construction behind Presidential Moon Rocks and related infused formats.",
         "Distribution and format matter because the final product is more than one ingredient viewed in isolation. A concentrate percentage does not become the finished Moon Rock, pre-roll, blunt, or mini percentage automatically. The tested finished-product label controls the comparison.",
         "When the next question is how those layers are arranged, how surface coating differs from saturation, or why density changes burn behavior, continue in the infusion hub. That silo keeps construction vocabulary in one place so a format name is not asked to carry every material detail.",
       ],
