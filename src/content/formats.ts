@@ -451,7 +451,7 @@ export const formatsPages: PageContent[] = [
         heading: "Size compared with a full blunt",
         paragraphs: [
           `A full blunt generally carries more total wrap and fill and presents a longer continuous burn path. A mini packages the same wrap-led idea into a shorter unit with less total material. Those are physical differences you can measure on the package: unit length, diameter when disclosed, net contents, and package count.`,
-          `The word mini does not establish a single industry weight or infusion ratio. Two products labeled mini can differ in fill grams, wrap type, cannabinoid totals, and how many pieces sit in one package. Compare net contents and cannabinoid statements at the package level rather than treating the category name as a standardized size.`,
+          `The word mini does not establish a single industry weight or infusion ratio. Products labeled mini can differ in fill grams, wrap type, cannabinoid totals, and how many pieces sit in one package. Compare net contents and cannabinoid statements at the package level rather than treating the category name as a standardized size.`,
           `Because a shorter body changes the ratio of wrap to fill, a mini is not simply a truncated full blunt. Seam width, tip length, and end finishing occupy more of the total length, so evaluating size means evaluating proportions.`,
         ],
       },
@@ -530,6 +530,7 @@ export const formatsPages: PageContent[] = [
           "Presidential products are sold through licensed cannabis retailers, not direct online sales, and availability varies by market, retailer, product, and date. At the dispensary, the package is the record: product identity, net contents, package count, batch or lot number, ingredients, and the cannabinoid statement. If tobacco-free composition matters, confirm that the package names a hemp or other non-tobacco wrap.",
           "When size is not the only question, the formats hub sets a mini beside every other blunt and rolled format.",
         ],
+        subsections: [{ heading: "Does every flavor come as a mini blunt?", paragraphs: [[{ text: "No. Mini availability depends on the flavor, so a name you know as a full-size blunt may not have a mini version. Check the package before you assume. A mini keeps the same wrap-led build at a shorter length: prepared flower fill, an infused concentrate, and a substantial outer wrap. The concentrate is its own choice: " }, { text: "distillate explained", href: "/science/distillate" }, { text: ", live resin or live rosin. When a mini isn't offered in your flavor, " }, { text: "the full-size blunt format", href: "/formats/blunts" }, { text: " or " }, { text: "infused pre-rolls", href: "/formats/infused-pre-rolls" }, { text: " keep the same name in a different format." }]] }],
       },
       {
         id: "read-minis-with-formats",
