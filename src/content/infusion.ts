@@ -67,6 +67,7 @@ export const infusionHub: PageContent = {
         "Infusion is a placement method. Flower supplies the structure while concentrate is added at a chosen depth and in a controlled pattern. Kief may finish the surface, but it does not replace the distribution work underneath. The how infusion works guide follows those inputs through viscosity, temperature, placement, and layer order. Use it when the product identity says infused but the visible build alone does not show how the added concentrate was arranged.",
         "Depth is a separate variable. A surface treatment keeps more concentrate near the exterior, while saturation carries it farther into the flower. The surface-versus-saturation guide compares those points without treating either name as proof of uniformity. Check the placement that can be observed, then use the ingredient, batch, and cannabinoid information for composition. A cut section can show how far material travels; it cannot replace the label.",
       ],
+      subsections: [{ heading: "Infusion and the extract science", paragraphs: [[{ text: "Infusion explains where a concentrate sits, and the science pages explain what that concentrate is. Start with the " }, { text: "cannabis extract science hub", href: "/science" }, { text: ", then read " }, { text: "THCa vs THC", href: "/science/thca-vs-thc" }, { text: " to see why a label lists both." }]] }],
     },
     {
       id: "follow-the-layers",
@@ -75,6 +76,7 @@ export const infusionHub: PageContent = {
         "In a three-layer build, concentrate creates the interface between the flower and the final kief coat. The kief and trichomes guide explains what the collected trichome material is and why it belongs to a different construction step from the concentrate beneath it. Reading those layers separately makes it easier to compare the named ingredients with the visible piece and to notice when a finishing layer is sparse, clumped, or detached.",
         "Burn behavior is a downstream construction check. The infused burn guide connects concentrate distribution with density, airflow, heat retention, tunneling, and canoeing. Use those observations to describe how the assembled format behaves under heat, not as a universal quality score. One batch can still differ from another because placement, flower structure, format size, and storage condition are specific to the product being examined.",
       ],
+      subsections: [{ heading: "Taking infusion into the guides", paragraphs: [[{ text: "Once you know how a product is built, the " }, { text: "THC guides", href: "/guides" }, { text: " cover storing and handling it, and the " }, { text: "THC formats hub", href: "/formats" }, { text: " shows each infused format side by side." }]] }],
     },
     {
       id: "use-the-hub-in-order",
