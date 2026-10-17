@@ -86,6 +86,7 @@ export const scienceExtractPages: PageContent[] = [
           "Use the distillate, live resin, live rosin, and liquid diamonds guides when the question shifts from measurement to manufacturing route. Each extract page stays inside process description: starting material, separation method, refinement or crystallization choices, and what those choices typically change in composition. None of them invent dosing instructions or medical claims.",
           "Return to this hub whenever similar names threaten to blur. Live resin is not live rosin. Distillate refinement is not the same act as fresh-frozen extraction. Crystal purity is not identical to a recombined oil’s finished panel. The educational habit is the same throughout the silo: name the process, read the matched report, and keep every percentage attached to the analyte and sample it actually describes.",
         ],
+        subsections: [{ heading: "From extract to finished format", paragraphs: [[{ text: "An extract is only one part of a finished product. The " }, { text: "liquid diamonds guide", href: "/science/liquid-diamonds" }, { text: " and the " }, { text: "live rosin guide", href: "/science/live-rosin" }, { text: " explain the materials, the " }, { text: "THC infusion hub", href: "/infusion" }, { text: " shows how a concentrate is added to flower, and the " }, { text: "THC formats hub", href: "/formats" }, { text: " shows where it ends up." }]] }],
       },
     ],
     childLinks: [
