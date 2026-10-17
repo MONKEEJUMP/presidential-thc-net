@@ -9,7 +9,7 @@ export const pillarPage: PageContent = {
     "Presidential THC explained — flower, concentrate, kief, Total THC labels, extracts, formats, and the official licensed-retailer path.",
   wordTarget: [1250, 1350],
   intro: [
-    "Presidential THC is the official chemistry and craft reference for Presidential Cannabis's infused products. It explains the flower, concentrate, and kief construction behind Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis without treating Presidential THC as a strain name or a universal potency claim.",
+    "Presidential THC is the official chemistry and craft reference for Presidential Cannabis's infused products. It explains the flower, concentrate, and kief or diamond construction behind Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis without treating Presidential THC as a strain name or a universal potency claim.",
     "Use this home page as the map. When a label term is unfamiliar, open the science hub. When material arrangement is the question, open the infusion hub. When physical form is the question, open the formats hub. When storage, temperature, or package reading is the question, open the guides hub. When licensed retail context by market matters, open the states hub. For publisher identity and editorial scope, open the about page.",
     "This reference is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample. Construction names and extract vocabulary describe materials and labels; they are not medical advice, dosing guidance, or promises about personal effects.",
   ],
@@ -18,7 +18,7 @@ export const pillarPage: PageContent = {
       id: "what-is-presidential-thc",
       heading: "Brand framework, not a strain or a measurement",
       paragraphs: [
-        "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
+        "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief or diamonds. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
         "“World's Strongest” is Presidential's brand slogan, not a measurement. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",
         "Presidential THC is the publisher for this chemistry and craft library. It is not a single cannabis strain, a catalog SKU, or a substitute for a licensed retailer listing. Keep brand, cultivar, extract, package, and batch names as separate kinds of information so a label claim is not read as shelf status.",
       ],
@@ -89,7 +89,7 @@ export const pillarPage: PageContent = {
       id: "what-are-presidential-blunts-wrapped-in",
       heading: "What are Presidential blunts wrapped in?",
       paragraphs: [
-        "A tobacco-free hemp wrap. The wrap is both the container and the fuel boundary of a blunt, and it is a heavier layer than the thin rolling paper of an infused pre-roll. Inside it sits the same flower, concentrate, and kief construction described above, and minis bring the rolled formats into a smaller presentation.",
+        "A tobacco-free hemp wrap. The wrap is both the container and the fuel boundary of a blunt, and it is a heavier layer than the thin rolling paper of an infused pre-roll. Inside it sits the same flower, concentrate, and kief or diamond construction described above, and minis bring the rolled formats into a smaller presentation.",
         "At a licensed dispensary, read the wrap statement beside the product identity, ingredients, and batch. A hemp or other non-tobacco wrap statement describes ingredients only; it is not a claim of reduced risk.",
       ],
     },
