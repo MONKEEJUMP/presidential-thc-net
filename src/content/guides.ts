@@ -378,6 +378,7 @@ export const howToSmokeMoonRocks: PageContent = {
       paragraphs: [
         "Yes. A small piece, about the size of a pencil eraser, can go into a glass pipe or bowl on its own as long as air can still move around it. Separate it by hand or with scissors, never in a grinder. The piece is dense and concentrate-rich, so light it slowly and expect a relight. Layering it between ground flower gives a steadier burn, because the surrounding flower helps carry the flame and keeps air channels open.",
       ],
+      subsections: [{ heading: "How do you smoke moon rocks without flower?", paragraphs: [[{ text: "Use a glass pipe or bowl and a small piece on its own. Separate a piece about the size of a pencil eraser by hand, not with a grinder, and set it so air can still move around it. Bring the flame in slowly: the outer kief catches first while the concentrate beneath it warms. Without a bed of flower underneath, keep the piece supported and the draws patient, then return the rest of the jar to cool, dark storage. See " }, { text: "why infused cannabis burns differently", href: "/infusion/why-infused-burns-differently" }, { text: ", " }, { text: "how to store infused cannabis", href: "/guides/how-to-store-infused-cannabis" }, { text: ", or " }, { text: "the mini blunt format", href: "/formats/mini-blunts" }, { text: "." }]] }],
     },
     {
       id: "moonrocks-in-a-bong",
