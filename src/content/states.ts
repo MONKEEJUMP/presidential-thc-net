@@ -7,7 +7,7 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC by state",
     "title": "Presidential THC by State — Where the Brand Is Carried",
-    "description": "Presidential is carried across seven states through licensed retail. How each market works, and where to find the nearest licensed door.",
+    "description": "Presidential THC by state: carried in select state markets through licensed retail. How each market works, and where to find the nearest licensed door.",
     "wordTarget": [
       1250,
       1350
