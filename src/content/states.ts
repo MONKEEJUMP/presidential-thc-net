@@ -94,7 +94,8 @@ export const statesPages: PageContent[] = [
           "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: forty-seven products across six groupings, organised by the extract behind them rather than by price.",
           "What changes is the route to the shelf, and that is what these seven references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
-        ]
+        ],
+        "subsections": [{ "heading": "How do you keep product in good shape after buying?", "paragraphs": [[{ "text": "The care routine does not change at a state line either. Keep the product in its original package or a fitting airtight container, stored cool, dark, and dry, and open it only when needed. For moon rocks, separate a piece by hand or with scissors rather than a grinder, then close the container again. Keep reading with " }, { "text": "infused cannabis storage guide", "href": "/guides/how-to-store-infused-cannabis" }, { "text": ", " }, { "text": "how to smoke moon rocks", "href": "/guides/how-to-smoke-moon-rocks" }, { "text": ", or " }, { "text": "what to look for in quality", "href": "/guides/what-to-look-for" }, { "text": "." }]] }]
       },
       {
         "id": "the-eight",
