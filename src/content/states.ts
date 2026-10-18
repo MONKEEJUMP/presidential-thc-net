@@ -805,7 +805,8 @@ export const statesPages: PageContent[] = [
           "Presidential is sold through licensed dispensaries across the state.",
           "In short: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
           "The buying path: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
-        ]
+        ],
+        "subsections": [{ "heading": "When a Nevada search says Presidential RX", "paragraphs": [[{ "text": "Some Nevada shoppers search \"Presidential RX locations.\" Presidential RX is the name on one of the brand's official social profiles, and it's the same Presidential brand, so look for the same products and packages. This guide doesn't list stores or live inventory. It explains how to read what you find. Once you have a participating licensed retailer, confirm the format on the package. Moon Rocks, infused pre-rolls, blunts, and mini blunts are built differently even when they share a product name. Then check the batch label for THCa and Total THC. For the label math, see the " }, { "text": "THCa and THC explainer", "href": "/science/thca-vs-thc" }, { "text": ". For the wrap-based options, see the " }, { "text": "blunt format guide", "href": "/formats/blunts" }, { "text": "." }]] }]
       },
       {
         "id": "door-lounge-package",
