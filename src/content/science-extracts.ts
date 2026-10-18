@@ -742,7 +742,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Start with the process words rather than marketing adjectives. Look for liquid diamonds or diamond-and-sauce language, an identified extract type, and a batch or lot identifier that can be matched to a laboratory report. If the package only says diamonds, ask whether the claim refers to intact crystals, a recombined oil, or another format entirely.",
           "Then read the analytical sheet the same way you would for any regulated concentrate. Cannabinoid percentages describe measured composition for that finished batch. Residual-solvent and other required contaminant panels speak to compliance testing after processing. Neither turns the category name into a universal grade. These notes are educational process context for adult readers twenty-one and older — not medical guidance.",
-          "Reading the label this way closes the literacy loop: process words identify crystallization and recombination, the batch identifier ties the package to a laboratory report, and the finished-oil totals describe the sample that was submitted — not every intermediate crystal or sauce fraction along the way.",
+          "Process words identify crystallization and recombination, the batch identifier ties the package to a laboratory report, and the finished-oil totals describe the sample that was submitted — not every intermediate crystal or sauce fraction along the way.",
         ],
       },
       {

@@ -438,7 +438,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "This article keeps terpenes in the vocabulary of mixture, volatility, and process history. The laboratory-report guide shows where a terpene panel sits beside cannabinoid and compliance sections on a Certificate of Analysis. The decarboxylation page separates heat-driven conversion of THCa from evaporation of aromatic compounds.",
           "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction.",
-          "Reading a lab report completes the literacy loop: the terpene section sits beside cannabinoid totals and compliance results on the same Certificate of Analysis. Use this page for aroma and volatility vocabulary; use the laboratory-report guide when the next question is how those rows appear on a printed certificate.",
+          "The terpene section sits beside cannabinoid totals and compliance results on the same Certificate of Analysis. Use this page for aroma and volatility vocabulary; use the laboratory-report guide when the next question is how those rows appear on a printed certificate.",
         ],
       },
     ],

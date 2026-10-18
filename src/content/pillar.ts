@@ -84,7 +84,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "This site stays focused on Presidential THC chemistry, infusion, extracts, labels, formats, and practical product-reading fundamentals: start with the science hub, the infusion hub, or the formats hub.",
         "Presidential operates through licensed cannabis retailers rather than direct online cannabis sales. Availability varies by market, retailer, product, and date, so confirm the current selection with a licensed retailer. Adults 21+ where legal.",
-        "For publisher scope, hub organization, and editorial boundaries, continue on the about page. It clarifies that Presidential THC is the publisher identity for this reference and connects the five hubs without turning brand language into a strain claim or a live inventory list.",
+        "For who publishes this reference, see the about page.",
       ],
     },
     {
