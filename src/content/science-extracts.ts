@@ -545,6 +545,8 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/live-rosin",
     contextualLinks: [
+    { href: "/science/distillate", anchor: "how distillate is produced", sectionId: "live-rosin-inside-a-moon-rock", paragraphIndex: 0 },
+    { href: "/formats/moon-rocks", anchor: "moon rock layering guide", sectionId: "live-rosin-inside-a-moon-rock", paragraphIndex: 0 },
     ],
     kind: "article",
     silo: "science",
@@ -610,7 +612,14 @@ export const scienceExtractPages: PageContent[] = [
           "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
           "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
         ],
-        subsections: [{ heading: "What should a live rosin label say?", paragraphs: [[{ text: "Start with the process words rather than the marketing adjectives. Look for fresh-frozen or live source language, solventless or hash-rosin method language, and a batch or lot identifier. Rosin is the broader family name for concentrate expressed by heat and pressure without a chemical solvent; flower rosin is pressed from dried cannabis, while live rosin starts from fresh-frozen material washed in ice water. Keep reading with " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: ", " }, { text: "terpenes and processing", href: "/science/terpenes" }, { text: ", or " }, { text: "the science hub", href: "/science" }, { text: "." }]] }, { heading: "Live rosin inside a moon rock", paragraphs: [[{ text: "In a moon rock, live rosin plays the same structural role as any concentrate: it coats the flower and holds the outer layer in place. What changes is the extract's history. Because live rosin comes from an ice-water wash and a press, with no hydrocarbon solvent, a rosin-built moon rock carries that solventless story on its label. The " }, { text: "moon rock layering guide", href: "/formats/moon-rocks" }, { text: " shows how flower, concentrate, and kief stack together. For a contrast with a refined extract, read " }, { text: "how distillate is produced", href: "/science/distillate" }, { text: ". Either way, the label should name the concentrate and list batch test results, including cannabinoid content." }]] }],
+        subsections: [{ heading: "What should a live rosin label say?", paragraphs: [[{ text: "Start with the process words rather than the marketing adjectives. Look for fresh-frozen or live source language, solventless or hash-rosin method language, and a batch or lot identifier. Rosin is the broader family name for concentrate expressed by heat and pressure without a chemical solvent; flower rosin is pressed from dried cannabis, while live rosin starts from fresh-frozen material washed in ice water. Keep reading with " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: ", " }, { text: "terpenes and processing", href: "/science/terpenes" }, { text: ", or " }, { text: "the science hub", href: "/science" }, { text: "." }]] }],
+      },
+      {
+        id: "live-rosin-inside-a-moon-rock",
+        heading: "Live rosin inside a moon rock",
+        paragraphs: [
+          "In a moon rock, live rosin plays the same structural role as any concentrate: it coats the flower and holds the outer layer in place. What changes is the extract's history. Because live rosin comes from an ice-water wash and a press, with no hydrocarbon solvent, a rosin-built moon rock carries that solventless story on its label. The moon rock layering guide shows how flower, concentrate, and the kief or diamond finish stack together. For a contrast with a refined extract, read how distillate is produced. Either way, the label should name the concentrate and list batch test results, including cannabinoid content.",
+        ],
       },
       {
         id: "why-yield-drives-cost",
