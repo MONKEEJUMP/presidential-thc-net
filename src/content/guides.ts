@@ -625,6 +625,7 @@ export const howToStoreInfusedCannabis: PageContent = {
 export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
   contextualLinks: [
+    { href: "/science/live-rosin", anchor: "Live rosin, the ice-water-and-press extract", sectionId: "matching-extracts", paragraphIndex: 0 },
     { href: "/science/decarboxylation", anchor: "THCa-to-THC conversion by heat", paragraphIndex: 2 },
     {
       href: "/science/thca-vs-thc",
@@ -696,7 +697,7 @@ export const temperatureGuide: PageContent = {
       id: "matching-extracts",
       heading: "Match the Starting Range to the Extract",
       paragraphs: [
-        "Live rosin is the lower-temperature starting point in this guide. Producers control press conditions to balance consistency, flow, yield and retention of volatile compounds, but exact settings vary with the material and process.",
+        "Live rosin, the ice-water-and-press extract, is the lower-temperature starting point in this guide. Producers control press conditions to balance consistency, flow, yield and retention of volatile compounds, but exact settings vary with the material and process.",
         "Live resin sits in the middle because its fresh-frozen, low-temperature process is designed to preserve volatile material. Diamond-based extracts start higher in this relative sequence. The order is a practical comparison among these three extract families, not a universal number for every device or formulation.",
         "If the package names a blend or sauce ratio, treat that as part of the extract identity rather than forcing a single-family starting point. Begin on the lower side of the relative band for the dominant material, then adjust one step at a time while watching flow and aroma retention.",
       ],
