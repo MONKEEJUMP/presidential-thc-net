@@ -364,7 +364,7 @@ export const infusionArticles: PageContent[] = [
           "Infusion does not require one universal extract. Distillate is often chosen for a workable, consistent flow window through flower. Resin-style materials can carry more aromatic character into the added phase, though their handling window can differ from refined distillate.",
           "Crystallized THCa and other high-density inputs sit at the concentrate end of the continuum as separate materials. Their input percentages describe those samples, not the finished layered object. In a classic moon-rock build the middle layer remains a concentrate phase for adhesion and raising the weighted blend.",
           "Concentrate type changes how viscosity and temperature must be managed, not the rule that finished potency is a weight-share blend. Pair the extract name with sample identity—input versus finished format—so labels stay readable.",
-        ],
+        ], subsections: [{ heading: "Reading infusion details on a state label", paragraphs: [[{ text: "State rules shape what an infused product's label has to print, so the same build can be described a little differently from one market to the next. Look for the concentrate type, the finish, and the batch test results; those three details say a great deal about how a product was put together. Ingredients are listed by name, and lab figures follow each batch. For an example of how one market handles it, see " }, { text: "Nevada's infused product rules", href: "/states/nevada" }, { text: ". Whatever the state, keep the label with the product so the batch details stay readable when you check them later." }]] }],
       },
       {
         id: "what-changes-in-burn-and-potency",
