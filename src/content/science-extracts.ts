@@ -326,7 +326,7 @@ export const scienceExtractPages: PageContent[] = [
     intro: [
       "Cannabis distillate is a cannabinoid-rich fraction produced by distilling a previously extracted cannabis oil under vacuum. The refinement separates target cannabinoids from much of the oil's volatile aroma material and heavier residue, so the finished liquid is commonly translucent, highly concentrated, and nearly odorless.",
       "That neutrality is the defining practical feature. Distillate provides a consistent base whose flavor can be shaped separately, while a less-refined extract carries more of the original plant's mixed chemical profile into the finished material.",
-      "Covers what distillate is, how vacuum refinement differs from live resin and live rosin, purity-versus-terpene tradeoffs, and how the neutral fraction shows up in cartridges, edibles, and infusion.",
+      "This page is for adults twenty-one and older. It covers what distillate is, how vacuum refinement differs from live resin and live rosin, purity-versus-terpene tradeoffs, and how the neutral fraction shows up in cartridges, edibles, and infusion.",
     ],
     sections: [
       {

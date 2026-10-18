@@ -432,7 +432,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Surface-coated infusion keeps most of the concentrate near the outside of the flower, while saturated infusion carries it farther through the flower structure. The difference changes where added material is concentrated, how much process control the construction requires, and how evenly heat and air can move once the product is lit.",
       "These are not rigid categories. Many infused products land between them, with some material penetrating the flower and some remaining at the surface. The useful comparison is therefore a spectrum of distribution rather than a choice between two labels.",
-      "Compares coating with deeper saturation, how each tends to look and burn, how potency is distributed, and when each approach is typically used—educational construction framing, not medical advice or dosing.",
+      "This page is for adults twenty-one and older. It compares coating with deeper saturation, how each tends to look and burn, how potency is distributed, and when each approach is typically used—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -567,7 +567,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Trichomes are the cannabis plant's resin glands, where most of its cannabinoids and terpenes are held. Kief is the loose material collected when those trichomes and trichome fragments separate from flower; on an infused product, that layer supplies a visual signature, makes a sticky concentrate surface easier to handle, and brings its own cannabinoid and terpene content.",
       "That makes kief more than an ornamental dusting. It is the final functional layer in the flower-concentrate-kief construction, and the way it is collected and applied affects how clearly and consistently that construction is expressed.",
-      "Covers trichome anatomy, collection, the coat's role in infusion finishing, and quality cues—educational construction framing, not medical advice or dosing.",
+      "This page is for adults twenty-one and older. It covers trichome anatomy, collection, the coat's role in infusion finishing, and quality cues—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -682,7 +682,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Infused cannabis burns differently because concentrate changes the flower's density, fuel distribution, heat retention, and available airflow. Those changes usually call for a slower light and can make relighting normal; when the infusion or packing is uneven, they can also produce tunneling through the center or canoeing along one side.",
       "The flame does not respond to the product name. It follows the physical construction in front of it. Where flower, concentrate, kief, and open space are distributed evenly, the burn has a better chance to advance evenly too.",
-      "Covers oil and resin melt versus flower burn, ash and canoeing cues, heat management, and what harsh usually means.",
+      "This page is for adults twenty-one and older. It covers oil and resin melt versus flower burn, ash and canoeing cues, heat management, and what harsh usually means.",
     ],
     sections: [
       {
@@ -875,7 +875,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass. How heat turns THCa into THC is covered in the decarboxylation reference.",
       "The format name tells you how the material is constructed. The batch label tells you what that particular finished product measured. Reading both prevents the highest ingredient percentage from being mistaken for the percentage of the whole. The minor rows on the same label are covered in the CBD, CBG and CBN panel guide.",
-      "Maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing.",
+      "This page is for adults twenty-one and older. It maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing.",
     ],
     sections: [
       {

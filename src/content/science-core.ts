@@ -13,7 +13,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "THCa is the acidic precursor found in the living cannabis plant, while THC is the corresponding form produced when heat drives decarboxylation. A percentage of THCa is not interchangeable with the same percentage of THC: the label calculation must account for the mass lost during conversion, which is why Total THC uses a factor of 0.877.",
       "That distinction explains why a concentrate reported as 99% THCa cannot become 99% THC. Its theoretical ceiling after complete conversion is about 87% THC before any practical losses are considered. The same arithmetic applies whether the product is flower, an infused format, or a high-purity isolate—the molecule names stay separate, and the mass factor still belongs between them.",
-      "Covers label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined. The same label reading applies across Presidential formats.",
+      "This page is for adults twenty-one and older who want label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined. The same label reading applies across Presidential formats.",
     ],
     sections: [
       {
@@ -174,7 +174,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Decarboxylation is the heat-driven reaction that converts THCa into THC by releasing a carboxyl group as carbon dioxide. It changes both the molecule and its mass, so it is the reason a laboratory must adjust THCa by 0.877 when calculating Total THC.",
       "A lighter and a vaporizer coil create very different heating environments, but both can supply the energy that moves this conversion forward. Temperature matters together with exposure time; neither number describes the whole process alone.",
-      "Covers educational chemistry framing, not medical advice, dosing guidance, or promises about personal outcomes. Keep the package label and matched laboratory report nearby, and treat Total THC as standardized chemical potential rather than a guarantee that one heating method fully reproduces the calculated total.",
+      "This page is for adults twenty-one and older who want educational chemistry framing, not medical advice, dosing guidance, or promises about personal outcomes. Keep the package label and matched laboratory report nearby, and treat Total THC as standardized chemical potential rather than a guarantee that one heating method fully reproduces the calculated total.",
     ],
     sections: [
       {
@@ -279,7 +279,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "A cannabis laboratory report, commonly called a Certificate of Analysis or COA, records results for a specific tested batch. Read it in this order: confirm the product and batch identity, inspect the cannabinoid panel and Total THC math, review the terpene panel when present, then check the compliance sections and the laboratory’s report details.",
       "A COA can tell you what the submitted sample measured and whether listed tests passed or failed. It cannot, by itself, describe every unit in a batch, predict flavor from one number, or replace the need to match the report to the package in hand.",
-      "Covers an educational walkthrough of Certificates of Analysis for infused cannabis—not medical advice, dosing guidance, or therapeutic claims. Match batch identity, read potency and terpene panels in their own units, and treat residual solvent and pesticide sections as scope-limited compliance records.",
+      "This page is for adults twenty-one and older who want an educational walkthrough of Certificates of Analysis for infused cannabis—not medical advice, dosing guidance, or therapeutic claims. Match batch identity, read potency and terpene panels in their own units, and treat residual solvent and pesticide sections as scope-limited compliance records.",
     ],
     sections: [
       {
@@ -370,7 +370,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
       "Boiling points help compare compounds, but they are not device instructions. Evaporation begins below a listed boiling point and unfolds over time, so flavor cannot be reduced to one temperature on a dial.",
-      "Covers science and education framing around aroma, flavor, and volatility—not medical advice, dosing guidance, or therapeutic claims about named terpenes. The useful skill is reading a terpene panel as a measured mixture, connecting that mixture to processing history, and keeping boiling-point references in proportion.",
+      "This page is for adults twenty-one and older who want science and education framing around aroma, flavor, and volatility—not medical advice, dosing guidance, or therapeutic claims about named terpenes. The useful skill is reading a terpene panel as a measured mixture, connecting that mixture to processing history, and keeping boiling-point references in proportion.",
     ],
     sections: [
       {
@@ -476,7 +476,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Cannabinoids are a family of related compounds found in cannabis, and a laboratory panel separates them because each name represents a distinct analyte. THC and its acidic precursor THCa may dominate the label, but CBD, CBG, and CBN can appear in their own rows and should be read independently rather than folded into one generic potency number.",
       "The plant builds much of this chemistry in acidic forms. Heat can remove carbon dioxide from those precursors, while storage and oxidation can change the profile further; the label is therefore a measured snapshot of a particular batch.",
-      "Covers a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
+      "This page is for adults twenty-one and older who want a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
     ],
     sections: [
       {
