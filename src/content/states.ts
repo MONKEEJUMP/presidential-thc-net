@@ -344,7 +344,7 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in California",
         "paragraphs": [
-          "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use, and long before premium cannabis meant anything to anyone.",
+          "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use.",
           "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be verified from current retailer information rather than a fixed statewide door count.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
@@ -806,7 +806,7 @@ export const statesPages: PageContent[] = [
           "In short: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
           "The buying path: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
         ],
-        "subsections": [{ "heading": "When a Nevada search says Presidential RX", "paragraphs": [[{ "text": "Some Nevada shoppers search \"Presidential RX locations.\" Presidential RX is the name on one of the brand's official social profiles, and it's the same Presidential brand, so look for the same products and packages. This guide doesn't list stores or live inventory. It explains how to read what you find. Once you have a participating licensed retailer, confirm the format on the package. Moon Rocks, infused pre-rolls, blunts, and mini blunts are built differently even when they share a product name. Then check the batch label for THCa and Total THC. For the label math, see the " }, { "text": "THCa and THC explainer", "href": "/science/thca-vs-thc" }, { "text": ". For the wrap-based options, see the " }, { "text": "blunt format guide", "href": "/formats/blunts" }, { "text": "." }]] }]
+        "subsections": [{ "heading": "When a Nevada search says Presidential RX", "paragraphs": [[{ "text": "Some Nevada shoppers search \"Presidential RX locations.\" Presidential RX is the name on one of the brand's official social profiles; on a store menu, look for Presidential and the same products and packages. Once you have a participating licensed retailer, confirm the format on the package. Moon Rocks, infused pre-rolls, blunts, and mini blunts are built differently even when they share a product name. Then check the batch label for THCa and Total THC. For the label math, see the " }, { "text": "THCa and THC explainer", "href": "/science/thca-vs-thc" }, { "text": ". For the wrap-based options, see the " }, { "text": "blunt format guide", "href": "/formats/blunts" }, { "text": "." }]] }]
       },
       {
         "id": "door-lounge-package",
@@ -896,7 +896,7 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in Michigan",
         "paragraphs": [
           "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
-          "Michigan also permits home cultivation, which most legal states do not. Residents may grow a limited number of plants for personal use in an enclosed, locked space, which puts Michigan among the more open adult-use frameworks in the country. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
+          "Michigan also permits home cultivation, which most legal states do not. Residents may grow a limited number of plants for personal use in an enclosed, locked space. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
           "The state's licensing has been comparatively accessible from the start, and the retail network reaches well beyond the major cities into towns that would not have a dispensary in most states. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which towns carry which brands on any given week."
         ]
@@ -905,7 +905,7 @@ export const statesPages: PageContent[] = [
         "id": "the-value-market",
         "heading": "The best value shelf in America",
         "paragraphs": [
-          "Licence availability in Michigan has been open and supply is abundant, which gives shoppers real choice on the shelf.",
+          "Michigan licenses many retailers, which gives shoppers choice on the shelf.",
           "For a buyer that is close to ideal. Legal, tested, plentiful and keenly priced is a rare combination, and Michigan has held it for years. Competition shows up as wider menus, sharper pricing, and retailers who cannot coast on scarcity or a closed licence map.",
           "The upside compounds: when a market is that competitive, retailers work harder for the customer, and the person behind the counter tends to know the products well because they have to. A crowded shelf is not only a price story — it is also a selection story, and buyers benefit from both.",
           "Coverage follows that open-licence pattern across the state. Detroit and Grand Rapids carry dense licensed networks; other communities carry the same adult-use rules where local licensing allows. Exact participation changes over time, so live listings beat outdated screenshots or out-of-state menus."
@@ -1174,7 +1174,7 @@ export const statesPages: PageContent[] = [
         "heading": "The market that wrote the rulebook",
         "paragraphs": [
           "More than a decade of regulated retail has made Washington one of the most established cannabis markets anywhere in the world.",
-          "Washington's regulators were writing rules before anyone had a working model to copy. Testing standards, packaging requirements, licensing structures, seed-to-sale tracking — much of what other states later adopted was worked out here first, by people solving the problem for the first time.",
+          "Washington's regulators were writing rules before anyone had a working model to copy. Washington built its testing, packaging, licensing and seed-to-sale rules early in legal adult use.",
           "The state has been running a legal, tested, regulated market longer than almost anywhere on earth, and that experience shows in how smoothly it operates. When a buyer asks for a batch certificate, expects clear package labelling, or assumes the shop is in a public licence registry, those expectations were normalised here early.",
           "For a reference reader, the practical takeaway is simple: Washington is not a speculative new market learning its first compliance lesson. It is a mature adult-use framework whose basic rules other states studied and adapted. That history does not answer every local question by itself — hours, stock, and municipal details still belong to the retailer and the current licence record — but it does explain why Washington pages emphasise process over novelty."
         ]
