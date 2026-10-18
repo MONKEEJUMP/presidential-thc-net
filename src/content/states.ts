@@ -355,8 +355,8 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential carries its infused construction into each format, and California retailers may carry the range.",
-          "Moon Rocks are the original: flower carried through with concentrate and finished in kief. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down for a shorter occasion.",
-          "Across the catalog, the series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down for a shorter occasion.",
+          "The series tells you how the product is named — Silver for flavors, Gold for strains, Rose Gold for the connoisseur line — and each pack prints its own build.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in California is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ]
       },
@@ -624,8 +624,8 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential carries its infused construction into each format: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
-          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that same material in a form you can light without preparation. The minis are the blunt at a shorter length.",
-          "The series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. The pre-rolls and blunts are that same material in a form you can light without preparation. The minis are the blunt at a shorter length.",
+          "The series tells you how the product is named — Silver for flavors, Gold for strains, Rose Gold for the connoisseur line — and each pack prints its own build.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in New York is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ]
       },
@@ -787,10 +787,10 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential carries its infused construction into each format, and the shorter formats suit a visit particularly well.",
-          "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Mini blunts are the blunt sized down, which is often the right choice for a trip.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. Infused pre-rolls and tobacco-free blunts are that material ready to light. Mini blunts are the blunt sized down, which is often the right choice for a trip.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Nevada is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ],
-        "subsections": [{ "heading": "Where can you find Presidential THC flower in North Las Vegas?", "paragraphs": [[{ "text": "Presidential THC flower means Moon Rocks: the flower at the center of the original format, carried through with concentrate and finished with kief. In North Las Vegas, as anywhere in Nevada, Presidential products are listed through licensed retailers, and participating locations and current formats change. Anyone twenty-one or older with valid identification can buy at a licensed dispensary. Match the product name and format on the package, and read the label for the batch's tested values instead of relying on a category name. Keep reading with " }, { "text": "the moon rock format", "href": "/formats/moon-rocks" }, { "text": ", " }, { "text": "reading a lab report", "href": "/science/reading-a-lab-report" }, { "text": ", or " }, { "text": "all state guides", "href": "/states" }, { "text": "." }]] }]
+        "subsections": [{ "heading": "Where can you find Presidential THC flower in North Las Vegas?", "paragraphs": [[{ "text": "Presidential THC flower means Moon Rocks: the flower at the center of the format, carried through with concentrate and given a kief or diamond finish. In North Las Vegas, as anywhere in Nevada, Presidential products are listed through licensed retailers, and participating locations and current formats change. Anyone twenty-one or older with valid identification can buy at a licensed dispensary. Match the product name and format on the package, and read the label for the batch's tested values instead of relying on a category name. Keep reading with " }, { "text": "the moon rock format", "href": "/formats/moon-rocks" }, { "text": ", " }, { "text": "reading a lab report", "href": "/science/reading-a-lab-report" }, { "text": ", or " }, { "text": "all state guides", "href": "/states" }, { "text": "." }]] }]
       },
       {
         "id": "read-the-package",
@@ -949,7 +949,7 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential carries its infused construction into each format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Michigan is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ]
       },
@@ -1078,7 +1078,7 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential carries its infused construction into each format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Arizona is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ]
       },
@@ -1222,7 +1222,7 @@ export const statesPages: PageContent[] = [
         "heading": "What Presidential builds",
         "paragraphs": [
           "Presidential carries its infused construction into each format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
-          "Moon Rocks are flower carried through with concentrate, finished in kief. The pre-rolls and blunts carry that same material ready to light. Minis are the blunt sized down for a shorter occasion.",
+          "Moon Rocks are flower carried through with concentrate, with a kief or diamond finish. The pre-rolls and blunts carry that same material ready to light. Minis are the blunt sized down for a shorter occasion.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Washington is only the licensed route to the shelf and the live retailer records that confirm it."
         ]
       },
