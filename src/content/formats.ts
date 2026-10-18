@@ -456,6 +456,7 @@ export const formatsPages: PageContent[] = [
           `The word mini does not establish a single industry weight or infusion ratio. Products labeled mini can differ in fill grams, wrap type, cannabinoid totals, and how many pieces sit in one package. Compare net contents and cannabinoid statements at the package level rather than treating the category name as a standardized size.`,
           `Because a shorter body changes the ratio of wrap to fill, a mini is not simply a truncated full blunt. Seam width, tip length, and end finishing occupy more of the total length, so evaluating size means evaluating proportions.`,
         ],
+        subsections: [{ heading: "Small blunt, tiny blunt, or mini: what to ask for", paragraphs: [[{ text: "Shoppers say \"small blunt,\" \"tiny blunt,\" and \"mini blunt\" for the same idea, but a menu will usually list it as a mini. In the Presidential lineup, a mini blunt is the full blunt build at a shorter length: a tobacco-free hemp wrap around flower, concentrate, and a kief or diamond finish. Size changes the session, not the recipe. Don't confuse it with a mini pre-roll, which swaps the hemp wrap for paper. Read the package for the format name and the batch label. If you want the longer burn path, compare the " }, { text: "full-size blunt guide", href: "/formats/blunts" }, { text: ". For keeping a short roll intact between sessions, see the " }, { text: "infused storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: "." }]] }],
       },
       {
         id: "when-format-fits",
