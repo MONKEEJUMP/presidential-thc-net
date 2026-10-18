@@ -36,8 +36,8 @@ export const aboutPage: PageContent = {
       id: "publisher-identity",
       heading: "A publisher identity for chemistry",
       paragraphs: [
-        "Presidential THC is the publisher identity for this reference. It is not a cannabis strain, a catalog item, or a single product format. The site uses the name to organize technical context around the Presidential Cannabis brand: how material is described, how infused construction is explained, and how a reader can separate an extract term from a package claim.",
-        "That scope sets a practical boundary. This site explains the vocabulary that lets a reader interpret a package and follow a question through the reference. A product name, net weight, ingredient statement, batch identifier, and retailer listing each answer different questions. The publisher role is to keep those questions in the right place.",
+        "Presidential THC is the publisher identity for this reference. It is not a cannabis strain, a catalog item, or a single product format. Presidential THC explains how material is described, how infused construction works, and how to tell an extract term from a package claim.",
+        "That scope sets a practical boundary. A product name, net weight, ingredient statement, batch identifier, and retailer listing each answer different questions. The publisher role is to keep those questions in the right place.",
         "An educational publisher has a different job from a product page. It names the subject, connects the supporting guides, and keeps construction, label interpretation, market context, and current availability distinct. That lets a reader compare sources without treating a package term as a promise or assuming that one article answers a different question.",
       ],
     },

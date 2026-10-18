@@ -93,7 +93,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief or diamonds, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: the full catalog across its groupings, organised by the extract behind them rather than by price.",
-          "What changes is the route to the shelf, and that is what these state references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so a format comparison belongs with the science and formats hubs while a market comparison belongs here."
+          "What changes is the route to the shelf, and that is what these state references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so format questions are answered in the science and formats hubs."
         ],
         "subsections": [{ "heading": "How do you keep product in good shape after buying?", "paragraphs": [[{ "text": "The care routine does not change at a state line either. Keep the product in its original package or a fitting airtight container, stored cool, dark, and dry, and open it only when needed. For moon rocks, separate a piece by hand or with scissors rather than a grinder, then close the container again. Keep reading with " }, { "text": "infused cannabis storage guide", "href": "/guides/how-to-store-infused-cannabis" }, { "text": ", " }, { "text": "how to smoke moon rocks", "href": "/guides/how-to-smoke-moon-rocks" }, { "text": ", or " }, { "text": "what to look for in quality", "href": "/guides/what-to-look-for" }, { "text": "." }]] }, { "heading": "The same formats in every state market", "paragraphs": [[{ "text": "The construction doesn't change at a state line, so the format guides apply everywhere. Read " }, { "text": "Presidential Moon Rocks explained", "href": "/formats/moon-rocks" }, { "text": ", " }, { "text": "Presidential infused blunts", "href": "/formats/blunts" }, { "text": " and " }, { "text": "Presidential mini blunts", "href": "/formats/mini-blunts" }, { "text": " once, then use the state page only for the route to the shelf." }]] }]
       },
@@ -326,7 +326,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "California lets municipalities set their own terms for retail, delivery, hours, and where licensed doors can open. The statewide adult-use frame is consistent; the street-level map is not identical from city to city.",
           "That local layer is why a Bay Area stop, a Los Angeles basin stop, a San Diego stop, or a Central Valley stop can feel different even under the same state licence rules. Store hours, delivery availability, and density vary because cities set their own terms — not because the adult-use age gate changes.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains the statewide structure; a live licensed source supplies the last step for the city you are actually in."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. For the city you are in, check a live licensed source."
         ]
       },
       {
@@ -347,7 +347,7 @@ export const statesPages: PageContent[] = [
           "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use.",
           "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be verified from current retailer information rather than a fixed statewide door count.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. Check a current licensed source for the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -488,7 +488,7 @@ export const statesPages: PageContent[] = [
           "Presidential products are listed through licensed Oklahoma retailers serving qualified patients. Participating locations and current formats change over time.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their patients support, and formats rotate as inventory moves. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Verify current availability with a licensed retailer and confirm that the listing matches the product and package identifiers you are seeking. Use official state resources when confirming whether a store is licensed.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. Check a current licensed source for the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
         ]
       },
       {
@@ -743,7 +743,7 @@ export const statesPages: PageContent[] = [
           "Nevada did something most states have not: it licensed consumption lounges — purpose-built venues where cannabis can be enjoyed legally on site.",
           "For a visitor that is genuinely useful infrastructure. A lounge is a licensed, designed, social space built for exactly this. The lounge model closes a gap that hotel and public-space rules leave open in nearly every other adult-use state.",
           "Nevada built the retail and then built the room. Knowing where the nearest lounge is, and checking a hotel's own policy before arrival, is the shortest route to a good visit. Lounge availability, hours, and house rules can change, so confirm the current licensed venue rather than relying on an old tip or a social post.",
-          "Treat lounge listings the same way you treat retailer listings: live, licensed sources beat memory. This page explains why the lounge layer matters; it does not replace the venue's own current rules or the state's licensing records."
+          "Treat lounge listings the same way you treat retailer listings: live, licensed sources beat memory. Check the venue's own current rules and the state's licensing records."
         ]
       },
       {
@@ -774,7 +774,7 @@ export const statesPages: PageContent[] = [
           "Presidential products are listed through licensed Nevada retailers. Participating locations and current formats change, especially across destination retail markets.",
           "People searching for Presidential THC flower in North Las Vegas should verify current product availability with the retailer and use official state resources when confirming whether a store is licensed.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
-          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. This page explains market structure; a current licensed source supplies the last step."
+          "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. Check a current licensed source for the last step."
         ]
       },
       {
