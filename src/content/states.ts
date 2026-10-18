@@ -91,7 +91,7 @@ export const statesPages: PageContent[] = [
         "id": "what-stays-the-same",
         "heading": "What stays the same everywhere",
         "paragraphs": [
-          "The chemistry and construction do not change at a state line. Flower carried through with concentrate, with a kief or diamond finish, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "The chemistry and construction do not change at a state line. Flower carried through with concentrate, with a kief or diamond finish, across its formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: the full catalog across its groupings, organised by the extract behind them rather than by price.",
           "What changes is the route to the shelf, and that is what these state references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so format questions are answered in the science and formats hubs."
         ],
@@ -354,7 +354,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats, and California carries the range.",
+          "Presidential builds one construction into every format, and California carries the range.",
           "Moon Rocks are the original: flower carried through with concentrate and finished in kief. Infused pre-rolls are the same material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt sized down for a shorter occasion.",
           "Across the catalog, the series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in California is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -422,7 +422,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -495,7 +495,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats, and Oklahoma dispensaries carry across the range: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
+          "Presidential builds one construction into every format, and Oklahoma dispensaries carry across the range: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
           "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls are that material ground and rolled. Blunts wrap it in tobacco-free hemp. Minis are the blunt at a smaller size.",
           "The series marking on a package tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Oklahoma is the licensed medical route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -546,7 +546,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -618,7 +618,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
+          "Presidential builds one construction into every format: Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis.",
           "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that same material in a form you can light without preparation. The minis are the blunt at a shorter length.",
           "The series tells you what is behind the product — Silver built on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in New York is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -707,7 +707,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -781,7 +781,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats, and the shorter formats suit a visit particularly well.",
+          "Presidential builds one construction into every format, and the shorter formats suit a visit particularly well.",
           "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Mini blunts are the blunt sized down, which is often the right choice for a trip.",
           "The series marking tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Nevada is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -872,7 +872,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -944,7 +944,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "Presidential builds one construction into every format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
           "The series marking identifies what is behind it — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Michigan is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -1002,7 +1002,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -1074,7 +1074,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What is on the shelf",
         "paragraphs": [
-          "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "Presidential builds one construction into every format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are flower carried through with concentrate and finished in kief. The pre-rolls and blunts are that material ready to light without preparation. Minis are the blunt sized down for a shorter occasion.",
           "The series marking identifies what is behind it — Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Arizona is only the licensed route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
@@ -1132,7 +1132,7 @@ export const statesPages: PageContent[] = [
       },
       {
         "href": "/formats",
-        "anchor": "four formats",
+        "anchor": "every format",
         "sectionId": "the-formats",
         "paragraphIndex": 0
       }
@@ -1219,7 +1219,7 @@ export const statesPages: PageContent[] = [
         "id": "the-formats",
         "heading": "What Presidential builds",
         "paragraphs": [
-          "Presidential builds one construction into four formats: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "Presidential builds one construction into every format: Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "Moon Rocks are flower carried through with concentrate, finished in kief. The pre-rolls and blunts carry that same material ready to light. Minis are the blunt sized down for a shorter occasion.",
           "The catalog runs across groupings organised by the extract behind them: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Washington is only the licensed route to the shelf and the live retailer records that confirm it."
