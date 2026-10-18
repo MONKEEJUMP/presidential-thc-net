@@ -261,6 +261,12 @@ export const scienceCorePages: PageContent[] = [
   {
     path: "/science/reading-a-lab-report",
     contextualLinks: [
+      {
+        href: "/formats/infused-pre-rolls",
+        anchor: "coated infused pre-rolls",
+        sectionId: "cannabinoid-panel",
+        paragraphIndex: 2,
+      },
     ],
     kind: "article",
     silo: "science",
@@ -289,7 +295,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The cannabinoid panel separates analytes such as THCa and THC because the acidic precursor and the converted molecule are not identical. Reports may express concentration as a percentage, milligrams per gram, or another clearly labeled unit. Before comparing numbers, confirm that the units match; a percentage and a milligram value should not be placed side by side as though they use the same scale.",
           "Find THCa, then THC, then the reported Total THC. The check is Total THC = (THCa × 0.877) + THC. If a sample lists 60% THCa and 5% THC, the calculated total is 57.62%: 60 × 0.877 equals 52.62, plus 5. Small differences can come from displayed rounding, so calculate with the most precise values available on the report.",
-          "A potency panel lists measured cannabinoid rows plus any calculated totals the laboratory defines—not a single headline number. Read each analyte name, its unit, and whether the value is measured or calculated. Minor cannabinoids such as CBD, CBG, or CBN stay on their own lines; they are not folded into Total THC unless the report defines a separate aggregate. For infused flower, coated pre-rolls, or extract-heavy formats, the stack can mix precursor-heavy and decarboxylated fractions, so compare row-by-row composition rather than one marketing percentage.",
+          "A potency panel lists measured cannabinoid rows plus any calculated totals the laboratory defines—not a single headline number. Read each analyte name, its unit, and whether the value is measured or calculated. Minor cannabinoids such as CBD, CBG, or CBN stay on their own lines; they are not folded into Total THC unless the report defines a separate aggregate. For infused flower, coated infused pre-rolls, or extract-heavy formats, the stack can mix precursor-heavy and decarboxylated fractions, so compare row-by-row composition rather than one marketing percentage.",
         ],
       },
       {
