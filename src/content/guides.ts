@@ -10,7 +10,7 @@ export const guidesHub: PageContent = {
     "Presidential THC guides to handling, storing, heating, and evaluating infused cannabis formats through labels, construction, and careful routines.",
   wordTarget: [1100, 1250],
   intro: [
-    "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
+    "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, cannabinoid content, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
     "Start with the question in front of you, then use the connected guides to build a routine. The chemistry and advice stay focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
     "This hub is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample.",
   ],
@@ -23,7 +23,7 @@ export const guidesHub: PageContent = {
         "It also compares glass with paper and shows why surrounding a moon-rock piece with ground flower can produce a more even burn. Expect a dense infused piece to need patience and an occasional relight.",
         "Open the how to smoke moon rocks guide when preparation is next. Skip the grinder, separate a small piece, leave an air path, and light slowly.",
       ],
-        subsections: [{ heading: "A THC guide built around infused formats", paragraphs: [[{ text: "Most THC guides assume plain flower. These guides assume infused formats, where concentrate and a kief or diamond finish change density, texture and burn, so they start with handling rather than grinding. Begin with the " }, { text: "beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: ", then " }, { text: "how to smoke moon rocks", href: "/guides/how-to-smoke-moon-rocks" }, { text: " for the most concentrated format." }]] }, { heading: "Reading the label before the flame", paragraphs: [[{ text: "The package label is the one record of that batch. " }, { text: "What to look for in infused cannabis", href: "/guides/what-to-look-for" }, { text: " explains how to inspect construction and labels. " }, { text: "Potency by format", href: "/infusion/potency-by-format" }, { text: " explains why the numbers differ between formats without predicting effects. To keep the batch as it arrived, follow the " }, { text: "infused cannabis storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: ", and use the " }, { text: "extract temperature guide", href: "/guides/temperature-guide" }, { text: " for equipment." }]] }],
+        subsections: [{ heading: "A THC guide built around infused formats", paragraphs: [[{ text: "Most THC guides assume plain flower. These guides assume infused formats, where concentrate and a kief or diamond finish change density, texture and burn, so they start with handling rather than grinding. Begin with the " }, { text: "beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: ", then " }, { text: "how to smoke moon rocks", href: "/guides/how-to-smoke-moon-rocks" }, { text: " for the most concentrated format." }]] }, { heading: "Reading the label before the flame", paragraphs: [[{ text: "The package label is the one record of that batch. " }, { text: "What to look for in infused cannabis", href: "/guides/what-to-look-for" }, { text: " explains how to inspect construction and labels. " }, { text: "Cannabinoid content by format", href: "/infusion/potency-by-format" }, { text: " explains why the numbers differ between formats without predicting effects. To keep the batch as it arrived, follow the " }, { text: "infused cannabis storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: ", and use the " }, { text: "extract temperature guide", href: "/guides/temperature-guide" }, { text: " for equipment." }]] }],
     },
     {
       id: "storing-infused-cannabis",
@@ -67,7 +67,7 @@ export const guidesHub: PageContent = {
       heading: "Use the Guides as a Working Sequence",
       paragraphs: [
         "Each guide answers one practical question. Begin with the format named on the package, then identify the layers or extract ingredients involved. Move to the handling, storage, or temperature page only after that construction is clear. This order keeps a moon rock, an infused pre-roll, and a cartridge from being treated as interchangeable products merely because each includes concentrate.",
-        "For a new package, record the format, batch identifier, ingredient language, net weight, and cannabinoid units before opening it. The beginner's guide helps interpret the format, batch identifiers, and cannabinoid information. The quality guide then helps compare what the label says with visible construction, coating, aroma, and condition. These checks describe the product in front of you without turning appearance into a potency claim.",
+        "For a new package, record the format, batch identifier, ingredient language, net weight, and cannabinoid units before opening it. The beginner's guide helps interpret the format, batch identifiers, and cannabinoid information. The quality guide then helps compare what the label says with visible construction, coating, aroma, and condition. These checks describe the product in front of you without turning appearance into a cannabinoid claim.",
         "A useful sequence is identify, prepare, control heat, inspect, and store. Skip steps that do not apply, but do not test heat or burn before the package has been read.",
       ],
     },
@@ -88,7 +88,7 @@ export const guidesHub: PageContent = {
         "Presidential THC publishes these guides as a chemistry and format reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch numbers carry different information. Keeping those labels separate makes it easier to follow a guide, compare batches, and return to the correct science or infusion reference when a term needs a definition.",
         "Read the package as the product record and the guides as the handling map. If a label term is unfamiliar, check the science or infusion hubs, then return to the practical page for the next action.",
       ],
-      subsections: [{ heading: "Where the guides meet the science", paragraphs: [[{ text: "The guides cover handling, while the science pages explain what is inside. Read " }, { text: "what distillate is", href: "/science/distillate" }, { text: ", " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: " and " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: ", then use " }, { text: "potency by format", href: "/infusion/potency-by-format" }, { text: " to read a label without predicting effects." }]] }, { heading: "Reading a lab report next to the guides", paragraphs: [[{ text: "The guides send you to the label, and the lab report is what sits behind it. Use " }, { text: "how to read a cannabis lab report", href: "/science/reading-a-lab-report" }, { text: ", then " }, { text: "how THCa and THC differ on a label", href: "/science/thca-vs-thc" }, { text: " and " }, { text: "terpenes in infused cannabis", href: "/science/terpenes" }, { text: " to make sense of the numbers and aroma notes printed for each batch." }]] }],
+      subsections: [{ heading: "Where the guides meet the science", paragraphs: [[{ text: "The guides cover handling, while the science pages explain what is inside. Read " }, { text: "what distillate is", href: "/science/distillate" }, { text: ", " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: " and " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: ", then use " }, { text: "cannabinoid content by format", href: "/infusion/potency-by-format" }, { text: " to read a label without predicting effects." }]] }, { heading: "Reading a lab report next to the guides", paragraphs: [[{ text: "The guides send you to the label, and the lab report is what sits behind it. Use " }, { text: "how to read a cannabis lab report", href: "/science/reading-a-lab-report" }, { text: ", then " }, { text: "how THCa and THC differ on a label", href: "/science/thca-vs-thc" }, { text: " and " }, { text: "terpenes in infused cannabis", href: "/science/terpenes" }, { text: " to make sense of the numbers and aroma notes printed for each batch." }]] }],
     },
     {
       id: "choose-which-guide",
@@ -102,7 +102,7 @@ export const guidesHub: PageContent = {
       id: "what-this-hub-does-not-do",
       heading: "What This Hub Does Not Do",
       paragraphs: [
-        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want clear educational routines for handling, storing, heating, and inspecting infused cannabis formats. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in potency by format.",
+        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want clear educational routines for handling, storing, heating, and inspecting infused cannabis formats. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in cannabinoid content by format.",
       ],
     },
   ],
@@ -130,7 +130,7 @@ export const guidesHub: PageContent = {
     {
       href: "/guides/beginners-guide",
       label: "Start with the beginner's guide",
-      description: "A plain-language introduction to infusion, formats, potency context, and next steps.",
+      description: "A plain-language introduction to infusion, formats, cannabinoid context, and next steps.",
     },
   ],
   relatedLinks: [
@@ -144,7 +144,7 @@ export const guidesHub: PageContent = {
     { href: "/formats/mini-blunts", anchor: "mini blunts", sectionId: "beginner-path", paragraphIndex: 0 },
     {
       href: "/infusion/potency-by-format",
-      anchor: "potency by format",
+      anchor: "cannabinoid content by format",
       sectionId: "what-this-hub-does-not-do",
       paragraphIndex: 0,
     },
@@ -553,7 +553,7 @@ export const howToStoreInfusedCannabis: PageContent = {
       paragraphs: [
         "Plan the handling step before opening the container. Set out the clean tool or surface, remove only what is needed, and close the remaining product again. For moon rocks, use fingers or scissors instead of a grinder so the concentrate does not gum the teeth and the kief stays with the piece.",
         "Repeated touching transfers material away from the product and onto hands or tools. It also gives heat, humidity, and room light more opportunities to reach the exposed surface. A short, deliberate routine protects both the construction and the cleanliness of the stored portion.",
-      ], subsections: [{ heading: "Protecting the outer layer in storage", paragraphs: [[{ text: "The outer layer of an infused product is the part most exposed to handling. Rubbing, crushing, or repeatedly opening the container can loosen a kief or diamond finish before the product is used. Store each piece so it does not press against other items, and avoid moving it in and out of the container more than needed. The guide on " }, { text: "why the kief layer is fragile", href: "/infusion/kief-and-trichomes" }, { text: " explains how that coat is collected. For storage details specific to rolled products, see the " }, { text: "infused blunt format overview", href: "/formats/blunts" }, { text: "." }]] }],
+      ], subsections: [{ heading: "Protecting the outer layer in storage", paragraphs: [[{ text: "The outer layer of an infused product is the part most exposed to handling. Rubbing, crushing, or repeatedly opening the container can loosen a kief or diamond finish before the product is used. Store each piece so it does not press against other items. The guide on " }, { text: "why the kief layer is fragile", href: "/infusion/kief-and-trichomes" }, { text: " explains how that coat is collected. For storage details specific to rolled products, see the " }, { text: "infused blunt format overview", href: "/formats/blunts" }, { text: "." }]] }],
     },
     {
       id: "freshness-signs",
@@ -925,7 +925,7 @@ export const beginnersGuide: PageContent = {
     "A plain-language introduction to infused cannabis, major formats, potency context, labels, handling, and next steps.",
   wordTarget: [1250, 1350],
   intro: [
-    "Infused cannabis combines flower or a finished format with cannabis concentrate, which changes the product's construction and can raise its reported potency above ordinary flower. Begin by identifying the format, reading its package, and using the preparation method made for that format. For moon rocks, start with a piece around the size of a pencil eraser, never use a grinder, and expect a slower burn.",
+    "Infused cannabis combines flower or a finished format with cannabis concentrate, which changes the product's construction and can raise its reported cannabinoid content above ordinary flower. Begin by identifying the format, reading its package, and using the preparation method made for that format. For moon rocks, start with a piece around the size of a pencil eraser, never use a grinder, and expect a slower burn.",
     "This guide explains the basic vocabulary. Percentages describe tested material, while handling, temperature, storage, and physical construction explain how that material behaves as a product.",
     "The audience is adults twenty-one and older who want educational context before they open a new package. Nothing here is medical advice, dosing instruction, or a guarantee of any outcome. Keep the label with the product, follow local law, and treat every batch as its own measured sample.",
   ],
@@ -936,7 +936,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "Infusion brings cannabis concentrate into a flower-based or finished format. In a classic moon rock, the three visible layers are flower, concentrate, and kief. Kief is collected trichomes: the resin glands that hold most of the plant's cannabinoids and terpenes.",
         "The concentrate contributes more than a number on the label. It changes texture, density, airflow, and the way heat moves through the material. That is why infused formats need their own handling instructions instead of being treated as ordinary ground flower with a different name.",
-        "Think of infusion as a construction change first and a potency change second. The finished object has layers, coatings, wraps, or extract paths that ordinary flower does not. Naming those parts correctly makes the later guides easier to use, because each practical page assumes you already know which format is in hand.",
+        "Think of infusion as a construction change first and a cannabinoid change second. The finished object has layers, coatings, wraps, or extract paths that ordinary flower does not. Naming those parts correctly makes the later guides easier to use, because each practical page assumes you already know which format is in hand.",
         "Use the same vocabulary the package uses. If the label names a wrap, a cartridge, or a coated flower piece, keep that name in the next guide so beginner reading does not turn into format mix-ups.",
       ],
     },
@@ -952,9 +952,9 @@ export const beginnersGuide: PageContent = {
     },
     {
       id: "potency-context",
-      heading: "Put Potency Numbers in Context",
+      heading: "Put Cannabinoid Numbers in Context",
       paragraphs: [
-        "Potency belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate and kief.",
+        "Cannabinoid content belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate and kief.",
         "Do not compare one layer with a complete format as though they are the same sample. Read the product's own label, keep the batch information with it, and remember that percentages describe composition. They do not explain every detail of construction, distribution, storage history, or hardware.",
         "Two packages can share a category name and still report different totals because inputs, ratios, and finishing steps differ by batch. Treat the printed cannabinoid figures as a snapshot of the lot that was tested, not as a universal grade for every product in that category. If a laboratory report is available, match it to the same batch identifier printed on the package.",
         "When a package lists both a concentrate input and a finished-product total, read them as two different snapshots — not interchangeable grades. Name which number belongs to which sample before any cross-category comparison.",

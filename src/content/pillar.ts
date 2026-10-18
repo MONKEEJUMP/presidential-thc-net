@@ -9,7 +9,7 @@ export const pillarPage: PageContent = {
     "Presidential THC explained — flower, concentrate, kief, Total THC labels, extracts, formats, and the official licensed-retailer path.",
   wordTarget: [1250, 1350],
   intro: [
-    "Presidential THC is the official chemistry and craft reference for Presidential Cannabis's infused products. It explains the flower, concentrate, and kief or diamond construction behind Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis without treating Presidential THC as a strain name or a universal potency claim.",
+    "Presidential THC is the official chemistry and craft reference for Presidential Cannabis's infused products. It explains the flower, concentrate, and kief or diamond construction behind Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis without treating Presidential THC as a strain name or a universal cannabinoid claim.",
     "Use this home page as the map. When a label term is unfamiliar, open the science hub. When material arrangement is the question, open the infusion hub. When physical form is the question, open the formats hub. When storage, temperature, or package reading is the question, open the guides hub. When licensed retail context by market matters, open the states hub. For publisher identity and editorial scope, open the about page.",
     "This reference is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample. Construction names and extract vocabulary describe materials and labels; they are not medical advice, dosing guidance, or promises about personal effects.",
   ],
@@ -36,7 +36,7 @@ export const pillarPage: PageContent = {
       id: "extracts-and-labels",
       heading: "Extract vocabulary and Total THC labels",
       paragraphs: [
-        "The terms distillate, live resin, live rosin, and liquid diamonds describe different extract or formulation contexts. They do not establish a guaranteed potency, flavor, or effect. Use the dedicated science pages for definitions and the current product record for the material identified on a specific package.",
+        "The terms distillate, live resin, live rosin, and liquid diamonds describe different extract or formulation contexts. They do not establish a guaranteed cannabinoid content, flavor, or effect. Use the dedicated science pages for definitions and the current product record for the material identified on a specific package.",
         "A label may report THCa and THC separately. Total THC is commonly calculated as (THCa × 0.877) + THC. That formula explains why a raw THCa value and a lower Total THC value can both describe the same tested material. Always match the calculation to the correct batch record.",
         "Open the science hub when an unfamiliar cannabinoid, terpene, extract, or laboratory term appears. The science guides separate THCa from THC, explain decarboxylation, map cannabinoid panels, and show how to read a Certificate of Analysis.",
       ],

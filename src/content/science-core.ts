@@ -20,7 +20,7 @@ export const scienceCorePages: PageContent[] = [
         id: "one-molecule-two-forms",
         heading: "One cannabinoid in two chemical forms",
         paragraphs: [
-          "The lowercase “a” in THCa stands for acid. In the plant, the molecule carries a carboxyl group that THC does not. Applying heat can remove that group as carbon dioxide, leaving the lower-mass THC molecule behind. The names look nearly identical on a package, but the distinction is chemically meaningful and changes the arithmetic used to describe potency.",
+          "The lowercase “a” in THCa stands for acid. In the plant, the molecule carries a carboxyl group that THC does not. Applying heat can remove that group as carbon dioxide, leaving the lower-mass THC molecule behind. The names look nearly identical on a package, but the distinction is chemically meaningful and changes the arithmetic used to describe cannabinoid content.",
           "A cannabinoid panel therefore keeps THCa and THC in separate rows. The THCa value reports how much precursor was measured in the sample, while the THC value reports how much THC was already present when the laboratory analyzed it. Neither row should be silently substituted for the other. Total THC is the calculated bridge between them.",
           "Raw flower and many unfinished concentrates are often THCa-dominant on the panel because decarboxylation has not yet been driven to completion. Finished extracts and heated materials can show more THC already present. Those patterns describe heating and process history; they do not erase the need to convert residual THCa before comparing totals across products.",
         ],
@@ -217,9 +217,9 @@ export const scienceCorePages: PageContent[] = [
       },
       {
         id: "potency-math",
-        heading: "Why decarboxylation matters for potency math",
+        heading: "Why decarboxylation matters for cannabinoid math",
         paragraphs: [
-          "A potency estimate that adds THCa and THC directly overstates the converted total because it ignores the mass released as carbon dioxide. The useful label equation is Total THC = (THCa × 0.877) + THC. It first converts the precursor into a THC-equivalent amount, then adds THC already measured in the sample.",
+          "A cannabinoid estimate that adds THCa and THC directly overstates the converted total because it ignores the mass released as carbon dioxide. The useful label equation is Total THC = (THCa × 0.877) + THC. It first converts the precursor into a THC-equivalent amount, then adds THC already measured in the sample.",
           "For example, 70% THCa contributes a theoretical 61.39% THC after the mass adjustment. If the sample also contains 4% THC, its calculated Total THC is 65.39%. That number supports consistent label comparison and amount calculations. It still assumes full conversion of the THCa term, so it should be read as standardized chemical potential rather than a promise that every heating method will reproduce the total exactly.",
           "Rounding on consumer labels can also shift displayed totals by small amounts even when the underlying formula is the same. Prefer the most precise values available on the matched report when checking arithmetic. If a package prints only Total THC without showing the THCa and THC inputs, the printed total still rests on that conversion logic, but the check cannot be reconstructed without the component rows.",
         ],
@@ -474,7 +474,7 @@ export const scienceCorePages: PageContent[] = [
       "A descriptive guide to THC, THCa, CBD, CBG, and CBN, including their plant chemistry and the way laboratories list them.",
     wordTarget: [1100, 1250],
     intro: [
-      "Cannabinoids are a family of related compounds found in cannabis, and a laboratory panel separates them because each name represents a distinct analyte. THC and its acidic precursor THCa may dominate the label, but CBD, CBG, and CBN can appear in their own rows and should be read independently rather than folded into one generic potency number.",
+      "Cannabinoids are a family of related compounds found in cannabis, and a laboratory panel separates them because each name represents a distinct analyte. THC and its acidic precursor THCa may dominate the label, but CBD, CBG, and CBN can appear in their own rows and should be read independently rather than folded into one generic cannabinoid number.",
       "The plant builds much of this chemistry in acidic forms. Heat can remove carbon dioxide from those precursors, while storage and oxidation can change the profile further; the label is therefore a measured snapshot of a particular batch.",
       "This page is for adults twenty-one and older who want a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
     ],
@@ -494,7 +494,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "THCa is the acidic precursor present in the living plant. Heat converts it to THC by removing a carboxyl group as carbon dioxide. The mass change is the reason Total THC cannot be calculated by simply adding the two percentages: THCa has a molecular weight of 358.47 grams per mole, compared with 314.46 for THC.",
           "On a report, look for separate THCa, THC, and Total THC entries. The calculated relationship is Total THC = (THCa × 0.877) + THC. A sample with 50% THCa and 2% THC therefore has a theoretical Total THC of 45.85%, subject to the report’s rounding. The calculation standardizes the panel; it does not merge the underlying molecules into one laboratory result.",
-          "Infused formats make the distinction practical. A coating, distillate, or crystal fraction may contain more decarboxylated THC than the flower it coats, while another lot may report substantial THCa. Comparing packages by one headline potency number without checking whether the panel is THCa-heavy, THC-heavy, or already totaled with the 0.877 factor invites apples-to-oranges mistakes. When two products advertise high Total THC, open the COA and ask which share came from measured THC versus calculated conversion from THCa.",
+          "Infused formats make the distinction practical. A coating, distillate, or crystal fraction may contain more decarboxylated THC than the flower it coats, while another lot may report substantial THCa. Comparing packages by one headline cannabinoid number without checking whether the panel is THCa-heavy, THC-heavy, or already totaled with the 0.877 factor invites apples-to-oranges mistakes. When two products advertise high Total THC, open the COA and ask which share came from measured THC versus calculated conversion from THCa.",
         ],
       },
       {

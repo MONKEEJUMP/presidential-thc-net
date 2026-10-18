@@ -314,7 +314,7 @@ export const statesPages: PageContent[] = [
         "heading": "A deep, varied shelf",
         "paragraphs": [
           "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing from a wide range of brands.",
-          "That abundance is a real advantage, and it rewards knowing what you are looking at. Two products at the same potency can still differ in the extract behind them and how the material was built.",
+          "That abundance is a real advantage, and it rewards knowing what you are looking at. Two products at the same cannabinoid content can still differ in the extract behind them and how the material was built.",
           "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label.",
           "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them.",
           "That deep-shelf shape is why this page emphasises process over novelty. An established adult-use market already assumes tested inventory, clear packaging, and a licence you can ask about — habits that matter in Los Angeles, the Bay Area, San Diego, or any licensed community under the same regulated channel."
