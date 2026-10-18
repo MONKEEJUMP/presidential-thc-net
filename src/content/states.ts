@@ -19,7 +19,7 @@ export const statesPages: PageContent[] = [
         "heading": "Select state markets, each a distinct market",
         "paragraphs": [
           "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
-          "Six of those states run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
+          "All of them except Oklahoma run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
           "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers. Adult-use and medical are access rules, not style preferences."
         ]
       },
@@ -445,8 +445,8 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Oklahoma",
         "paragraphs": [
-          "Oklahoma runs a medical programme, and it is one of the most accessible in the United States. A state patient licence opens the market. Adult-use retail is not the access path here: eligibility runs through the medical gate the state maintains.",
-          "Unlike most medical states, Oklahoma maintains no list of qualifying conditions. A licensed physician determines that cannabis may benefit the patient, and that is the standard. That single design choice opened the programme to a far broader population than a conditions-based system reaches.",
+          "Oklahoma runs a medical programme. A state patient licence opens the market. Adult-use retail is not the access path here: eligibility runs through the medical gate the state maintains.",
+          "Oklahoma maintains no list of qualifying conditions. A licensed physician determines that cannabis may benefit the patient, and that is the standard. That single design choice opened the programme to a far broader population than a conditions-based system reaches.",
           "The result is a large patient base for the state's size. For Oklahomans the licensing process is straightforward, and visitors holding a medical card from another state can apply for a temporary Oklahoma licence and buy exactly as residents do.",
           "Exact patient counts, possession rules, temporary-licence details, and other programme requirements can change. Readers should confirm current requirements through the state's official medical cannabis resources before relying on any third-party description.",
           "For a reference reader, the practical frame is simple. Eligible patients enter licensed dispensaries with the credentials the state requires; product on a licensed shelf has been through the compliance path Oklahoma sets for medical retail; and current licensed-retailer listings matter more than any fixed mental map of which brands sit where on any given week."
@@ -456,9 +456,9 @@ export const statesPages: PageContent[] = [
         "id": "the-most-generous-limits",
         "heading": "The most generous limits of any medical state",
         "paragraphs": [
-          "Oklahoma permits the highest personal possession limit of any medical state in the nation for licensed patients. That structural choice is part of why the programme feels expansive in practice even though it remains medical in name.",
+          "Oklahoma sets its own personal possession limits for licensed patients. That structural choice is part of why the programme feels expansive in practice even though it remains medical in name.",
           "The programme is medical in name and expansive in practice, and that gap between the label and the reality is the thing to understand about buying here. Patients in Oklahoma operate with latitude that patients in most medical states do not have.",
-          "The state also applies a modest sales tax to medical cannabis, which combined with a competitive retail sector keeps Oklahoma among the more affordable markets in the country.",
+          "The state also applies a modest sales tax to medical cannabis.",
           "Because limits, taxes, and related rules can be revised, treat any secondary summary — including this page — as orientation rather than a substitute for the regulator's current text. Confirm the numbers that matter for your purchase through official state resources before you rely on them."
         ]
       },
@@ -466,7 +466,7 @@ export const statesPages: PageContent[] = [
         "id": "an-established-market",
         "heading": "An established market",
         "paragraphs": [
-          "Oklahoma grew faster than almost any cannabis market in America and has since settled into a mature phase. A licence moratorium holds the number of growers, processors and dispensaries steady, with existing licences transferable through the regulator.",
+          "Oklahoma grew quickly and has since settled into a mature phase. A licence moratorium holds the number of growers, processors and dispensaries steady, with existing licences transferable through the regulator.",
           "For a buyer, that produces a strong position: a large field of established dispensaries, all competing for the same patients, in a state where nobody new is arriving to dilute the field. Depth of retail shows up as service and price.",
           "Maturity also means the retail map is more stable than in a brand-new adult-use buildout. Doors open and close less often than in faster-expanding markets, and the competitive set is largely fixed. That stability is useful when you are learning which licensed operators stock the formats you want.",
           "Competition inside a capped licence pool still matters. Operators differentiate on menu breadth, freshness, staff knowledge, and batch-level testing clarity. Compare licensed doors with live menus and the package in hand."
@@ -571,7 +571,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "New York runs an adult-use programme. Anyone twenty-one or older buys at a licensed dispensary with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
           "New York sets its own adult-use possession and purchase rules. Those rules can change, and summaries drift out of date quickly in a market this new. Readers should confirm current limits and other requirements through the state's official cannabis regulator before relying on any secondary description.",
-          "Legalisation passed in 2021, which makes this one of the newer regulated markets in the country and one of the fastest-moving. The licensed dispensary network has expanded steadily since retail opened, and it continues to. That timeline matters for how you read this page: New York is not a settled, decade-old retail map — it is a buildout that still adds doors, neighbourhoods, and licensed operators.",
+          "Legalisation passed in 2021, which makes this a newer regulated market. The licensed dispensary network has expanded steadily since retail opened, and it continues to. That timeline matters for how you read this page: New York is not a settled, decade-old retail map — it is a buildout that still adds doors, neighbourhoods, and licensed operators.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which boroughs or towns carry which brands on any given week."
         ]
       },
@@ -730,7 +730,7 @@ export const statesPages: PageContent[] = [
         "id": "the-market",
         "heading": "How cannabis works in Nevada",
         "paragraphs": [
-          "Nevada runs an adult-use programme, and it is among the most welcoming in the country to people from out of state. Anyone twenty-one or older buys at a licensed dispensary with valid identification, and identification from any state is accepted.",
+          "Nevada runs an adult-use programme, and it is open to adult visitors from out of state. Anyone twenty-one or older buys at a licensed dispensary with valid identification, and identification from any state is accepted.",
           "That openness shapes the entire market. Nevada's retail is built to serve visitors as much as residents, concentrated around Las Vegas and Reno where the visitors are. Destination density is not an accident of geography — it is how the licensing map and the tourism economy grew together.",
           "Dispensaries here are frequently larger, better staffed and open longer than in most states, because they serve visitors as well as residents. First-time buyers are routine on Nevada retail floors.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path Nevada requires; and current retailer listings matter more than any fixed mental map of which Strip-adjacent or Reno doors carry which brands on any given week."
@@ -741,7 +741,7 @@ export const statesPages: PageContent[] = [
         "heading": "Licensed consumption lounges",
         "paragraphs": [
           "Nevada did something most states have not: it licensed consumption lounges — purpose-built venues where cannabis can be enjoyed legally on site.",
-          "For a visitor that is genuinely useful infrastructure. A lounge is a licensed, designed, social space built for exactly this, and it is one of the few places in America where that exists at all. The lounge model closes a gap that hotel and public-space rules leave open in nearly every other adult-use state.",
+          "For a visitor that is genuinely useful infrastructure. A lounge is a licensed, designed, social space built for exactly this. The lounge model closes a gap that hotel and public-space rules leave open in nearly every other adult-use state.",
           "Nevada built the retail and then built the room. Knowing where the nearest lounge is, and checking a hotel's own policy before arrival, is the shortest route to a good visit. Lounge availability, hours, and house rules can change, so confirm the current licensed venue rather than relying on an old tip or a social post.",
           "Treat lounge listings the same way you treat retailer listings: live, licensed sources beat memory. This page explains why the lounge layer matters; it does not replace the venue's own current rules or the state's licensing records."
         ]
@@ -1164,7 +1164,7 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in Washington",
         "paragraphs": [
           "Washington runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
-          "Washington holds a particular place in American cannabis: alongside Colorado, it was one of the first two states in the country to legalise adult use, both in November 2012. Every regulated market that came afterwards was built partly on what those two states worked out first.",
+          "Washington holds a particular place in American cannabis: alongside Colorado, it was one of the first two states in the country to legalise adult use, both in November 2012.",
           "That early start still shapes how buying feels here. The licensed network has had more than a decade to settle into ordinary retail habits — storefronts, menus, staff who know the products, and a customer base that treats a dispensary trip like any other regulated purchase rather than an experiment. For someone arriving from a newer market, the difference is less about spectacle and more about routine: identification at the door, tested inventory on the shelf, and packaging that already assumes you will read it.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path Washington requires; and current retailer listings matter more than any fixed mental map of which brands sit where on any given week."
         ]

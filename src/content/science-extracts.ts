@@ -313,6 +313,7 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/distillate",
     contextualLinks: [
+    { href: "/", anchor: "The Presidential THC guide to extracts and formats", sectionId: "distillate-in-carts-edibles-infusion", paragraphIndex: 0 },
     { href: "/formats/infused-pre-rolls", anchor: "distillate-infused pre-rolls", sectionId: "distillate-in-carts-edibles-infusion", paragraphIndex: 0 },
     ],
     kind: "article",
@@ -383,7 +384,7 @@ export const scienceExtractPages: PageContent[] = [
         id: "distillate-in-carts-edibles-infusion",
         heading: "How distillate shows up in carts, edibles, and infusion",
         paragraphs: [
-          "Cartridges often use distillate because a fluid, concentrated, low-aroma oil is easy to meter and flavor deliberately. Distillate also turns up in distillate-infused pre-rolls. Hardware and viscosity still matter: the same distillate can behave differently across devices, and added terpenes or thinning agents belong on the ingredient story even when the base is neutral.",
+          "Cartridges often use distillate because a fluid, concentrated, low-aroma oil is easy to meter and flavor deliberately. The Presidential THC guide to extracts and formats sets cartridges beside flower, pre-rolls and blunts. Distillate also turns up in distillate-infused pre-rolls. Hardware and viscosity still matter: the same distillate can behave differently across devices, and added terpenes or thinning agents belong on the ingredient story even when the base is neutral.",
           "Edible and ingestible makers use distillate when they want a measured cannabinoid input without forcing a strong cannabis aroma into the recipe. Distillate remains one ingredient among carriers, flavors, and finishing steps, so the package should still identify extract type, batch, and matched laboratory results rather than treating clarity as the full description.",
           "Infusion on flower or pre-roll formats can use distillate as a coating or saturation input. A thin, even application raises cannabinoid share relative to uncoated flower, while flower mass remains part of the blend. Construction quality and finished-batch testing answer different questions than the distillate's own input percentage.",
           "Across carts, edibles, and infusion, distillate is best read as a refined base, not a finished experience by itself. Flavor, format geometry, and companion materials decide how that base reaches the adult consumer.",
@@ -649,6 +650,7 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/liquid-diamonds",
     contextualLinks: [
+      { href: "/", anchor: "the Presidential THC reference overview", sectionId: "why-the-format-fits-cartridges", paragraphIndex: 3 },
       {
         href: "/formats/vape-cartridges",
         anchor: "Cartridge hardware",
@@ -726,6 +728,7 @@ export const scienceExtractPages: PageContent[] = [
           "Cartridge hardware needs oil that can move toward a heating element while remaining uniform enough that one portion of the reservoir does not contain a very different mixture from another. Recombining the reduced crystal fraction with sauce lets a producer adjust composition and flow before filling. Large intact crystals would not serve that hardware function, which is why the diamond fraction is converted into the liquid formulation.",
           "To recognize the category, look for an ingredient or extract description that identifies liquid diamonds, a reported cannabinoid result and a batch-matched laboratory report. A number alone does not establish the crystallization or formulation method; production documentation connects the laboratory result to the claimed process.",
           "A laboratory total also describes the submitted finished sample, not the purity of every intermediate fraction. The separated crystal may test near pure while the recombined oil measures differently because sauce has returned to the formula. Keeping those two measurements distinct prevents a crystal-purity figure from being misapplied to the complete cartridge oil.",
+          "How cartridges sit beside Presidential's infused formats is laid out in the Presidential THC reference overview.",
         ],
         subsections: [{ heading: "Why does heat setting matter for a liquid diamonds cartridge?", paragraphs: [[{ text: "A vape coil transfers controlled electrical heat into the oil around it, and the device setting shapes the exposure. Temperature and time work as a pair, so begin low, let the device reach its setting, and change one small step at a time while watching how the oil moves. A boiling-point chart is a laboratory reference, not a device recipe. Keep reading with " }, { text: "device temperature guide", href: "/guides/temperature-guide" }, { text: ", " }, { text: "what decarboxylation does", href: "/science/decarboxylation" }, { text: ", or " }, { text: "how vape cartridges work", href: "/formats/vape-cartridges" }, { text: "." }]] }],
       },
