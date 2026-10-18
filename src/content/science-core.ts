@@ -163,7 +163,8 @@ export const scienceCorePages: PageContent[] = [
   },
   {
     path: "/science/decarboxylation",
-    kind: "article",
+    kind: "article",
+    contextualLinks: [{ href: "/science/cannabinoids", anchor: "the acid-to-neutral cannabinoid pairs", sectionId: "the-reaction", paragraphIndex: 0 }],
     silo: "science",
     h1: "Decarboxylation — How Heat Turns THCa Into THC",
     title: "Decarboxylation — How Heat Turns THCa Into THC",
@@ -180,7 +181,7 @@ export const scienceCorePages: PageContent[] = [
         id: "the-reaction",
         heading: "What the reaction removes",
         paragraphs: [
-          "THCa carries a carboxyl group that distinguishes it from THC. During decarboxylation, that portion departs as carbon dioxide. The remaining molecule has less mass: THCa is 358.47 grams per mole, while THC is 314.46 grams per mole. The molecular ratio, 314.46 divided by 358.47, is approximately 0.877.",
+          "THCa carries a carboxyl group that distinguishes it from THC. CBDa and CBGa follow the same pattern; see the acid-to-neutral cannabinoid pairs. During decarboxylation, that portion departs as carbon dioxide. The remaining molecule has less mass: THCa is 358.47 grams per mole, while THC is 314.46 grams per mole. The molecular ratio, 314.46 divided by 358.47, is approximately 0.877.",
           "That mass change is easy to overlook because the label names differ by a single letter. Yet one gram of pure THCa cannot yield one gram of THC. Even under the formula’s ideal assumption of full conversion, only 87.7% of the starting THCa mass remains as theoretical THC. The lost portion did not vanish from the arithmetic; it left in a different chemical form.",
           "The carboxyl group is also why the names THCa and THC are not interchangeable on a laboratory panel. One analyte still carries that acidic fragment; the other does not. Reporting systems that list both values are describing two related but distinct molecules, and the conversion factor exists precisely because those molecules do not share the same mass.",
         ],
@@ -357,6 +358,7 @@ export const scienceCorePages: PageContent[] = [
   {
     path: "/science/terpenes",
     contextualLinks: [
+    { href: "/science/cannabinoids", anchor: "how CBD, CBG and CBN read on a label", sectionId: "aroma-profile", paragraphIndex: 0 },
     ],
     kind: "article",
     silo: "science",
@@ -375,7 +377,7 @@ export const scienceCorePages: PageContent[] = [
         id: "aroma-profile",
         heading: "A profile, not a one-word flavor",
         paragraphs: [
-          "A terpene panel describes a mixture. Caryophyllene is associated with pepper and clove, pinene with pine and rosemary, myrcene with musky and earthy notes, limonene with bright citrus, and linalool with floral or lavender character. Terpinolene adds citrus and fruity reference notes. Those descriptors are vocabulary for the compounds, not a guarantee that a finished product will smell like one isolated ingredient.",
+          "A terpene panel describes a mixture. It sits apart from the cannabinoid rows explained in how CBD, CBG and CBN read on a label. Caryophyllene is associated with pepper and clove, pinene with pine and rosemary, myrcene with musky and earthy notes, limonene with bright citrus, and linalool with floral or lavender character. Terpinolene adds citrus and fruity reference notes. Those descriptors are vocabulary for the compounds, not a guarantee that a finished product will smell like one isolated ingredient.",
           "Concentration and proportion shape the profile together. Two samples can contain the same named terpene yet present different overall aromas because the surrounding compounds and their ratios differ. This is why a complete panel is more useful than choosing one row and treating it as the identity of the material.",
           "Aroma vocabulary also travels poorly when it is flattened into a single marketing word. “Citrus,” “pine,” or “earthy” can each arise from more than one compound, and several compounds can contribute to the same perceived note. The panel’s job is to list what was measured; sensory language is a translation aid, not a one-to-one map from one row to one smell.",
           "A panel also carries units and detection limits. Milligrams per gram, percent by weight, and other reporting styles are not interchangeable without conversion, and a compound below the laboratory's reporting limit may simply be absent from the printed list. Treat missing rows as measurement outcomes for that submission, not as proof that the plant never produced the compound.",
