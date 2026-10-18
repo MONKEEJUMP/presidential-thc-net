@@ -614,6 +614,12 @@ export const formatsPages: PageContent[] = [
     path: "/formats/moon-rocks",
     contextualLinks: [
       {
+        href: "/formats/infused-pre-rolls",
+        anchor: "Infused pre-rolls and their package figures",
+        sectionId: "read-moon-rocks-with-formats",
+        paragraphIndex: 0,
+      },
+      {
         href: "/guides/how-to-smoke-moon-rocks",
         anchor: "how to smoke moon rocks",
         sectionId: "handling",
@@ -703,7 +709,7 @@ export const formatsPages: PageContent[] = [
         id: "read-moon-rocks-with-formats",
         heading: "Read moon rocks with the rest of the formats silo",
         paragraphs: [
-          `This article keeps the moon rock in the vocabulary of flower core, concentrate bond, kief coat, package identity, and handling. Infused pre-rolls move the comparison into paper-led construction and infusion placement inside a cylinder. Blunts and mini blunts shift emphasis to wrap-led geometry and seam quality.`,
+          `This article keeps the moon rock in the vocabulary of flower core, concentrate bond, kief coat, package identity, and handling. Infused pre-rolls and their package figures move the comparison into paper-led construction and infusion placement inside a cylinder. Blunts and mini blunts shift emphasis to wrap-led geometry and seam quality.`,
           `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
         ],
       },
@@ -826,7 +832,7 @@ export const formatsPages: PageContent[] = [
           `Producers may incorporate different cannabis concentrates depending on process and product design. Distillate is a refined cannabinoid-rich fraction that is often nearly odorless on its own, which makes it a common base when aroma is shaped separately. Broader extracts such as live resin start from fresh-frozen plant material and retain a wider set of plant-derived compounds; solventless live rosin follows a heat-and-pressure route instead of solvent extraction. Hash-oil style inputs and crystallized THCa materials can also appear where a denser concentrate is intended.`,
           `Viscosity matters more for construction than marketing category names. A thinner oil can migrate through flower pores more readily when warm; a thicker or more crystalline input may stay closer to where it was placed if the fill supports that geometry. Package ingredient lists and product identity statements show which input family a unit claims and should be read with batch information.`,
         ],
-        subsections: [{ heading: "How do you compare infused pre-rolls?", paragraphs: [[{ text: "Start with the closed package: product identity, net weight, ingredient list, batch or lot number, and cannabinoid information. Then check the build, because a dark paper or visible oil ring does not by itself establish content or even distribution. The " }, { text: "distillate", href: "/science/distillate" }, { text: ", " }, { text: "live resin", href: "/science/live-resin" }, { text: ", and " }, { text: "live rosin", href: "/science/live-rosin" }, { text: " pages explain the concentrate types." }]] }],
+        subsections: [{ heading: "How do you compare infused pre-rolls?", paragraphs: [[{ text: "Start with the closed package: product identity, net weight, ingredient list, batch or lot number, and cannabinoid information. Read net weight per roll as well as per package, because a pack of smaller rolls divides its weight across each one. Then match the concentrate named on the pack (distillate, live resin or live rosin) to the cannabinoid statement for that same batch. Then check the build, because a dark paper or visible oil ring does not by itself establish content or even distribution. The " }, { text: "distillate", href: "/science/distillate" }, { text: ", " }, { text: "live resin", href: "/science/live-resin" }, { text: ", and " }, { text: "live rosin", href: "/science/live-rosin" }, { text: " pages explain the concentrate types." }]] }],
       },
       {
         id: "burn-behavior",
@@ -851,7 +857,7 @@ export const formatsPages: PageContent[] = [
           `Choose by construction evidence and package facts, not by imagined potency theater. Start with the closed package: product identity, net weight, ingredient list, UID where required, batch or lot number, and cannabinoid information. In California, infused pre-roll cannabinoid labeling may present THC and CBD in milligrams per package, or the flower's Total THC percentage alongside the added THC and CBD in milligrams. Those figures describe a tested batch; they are not dosing instructions or medical claims.`,
           `Match the format to the structure you intend to evaluate. A paper-led infused pre-roll differs from a wrap-led blunt, a compact mini blunt, a layered moon rock, or a heated cartridge. Prefer sealed packages whose identity matches that format. After opening, look for a straight seam, a filter seated squarely, and a cylinder without abrupt bulges or hollow sections.`,
         ],
-        subsections: [{ heading: "Does this guide give dosing advice for infused pre-rolls?", paragraphs: [[{ text: "No. This page explains construction and package facts, not how much anyone should consume. For personal questions about use, speak with a qualified healthcare provider. A budtender can confirm which package details apply to the current batch, and " }, { text: "how to read a lab report", href: "/science/reading-a-lab-report" }, { text: " explains the testing record behind those numbers. For neighboring topics, see " }, { text: "the infused blunt format", href: "/formats/blunts" }, { text: " or " }, { text: "storing infused cannabis", href: "/guides/how-to-store-infused-cannabis" }, { text: "." }]] }],
+        subsections: [{ heading: "Does this guide give dosing advice for infused pre-rolls?", paragraphs: [[{ text: "No. This page explains construction and package facts, not how much anyone should consume. For personal questions about use, speak with a qualified healthcare provider. A budtender can confirm which package details apply to the current batch, and " }, { text: "how to read a lab report", href: "/science/reading-a-lab-report" }, { text: " explains the testing record behind those numbers. For neighboring topics, see " }, { text: "the infused blunt format", href: "/formats/blunts" }, { text: " or " }, { text: "storing infused cannabis", href: "/guides/how-to-store-infused-cannabis" }, { text: "." }]] }, { heading: "What does milligrams per package mean on an infused pre-roll?", paragraphs: [[{ text: "It is the tested amount of THC or CBD in that whole package, not an amount to take. Where a label also shows the flower's Total THC percentage, the added THC and CBD sit beside it in milligrams, so read each figure in its own unit. Compare a milligram figure only with the same unit on another package, and check the batch or lot number beside it. See " }, { text: "THCa versus THC on a label", href: "/science/thca-vs-thc" }, { text: "." }]] }],
       },
       {
         id: "what-quality-means",
