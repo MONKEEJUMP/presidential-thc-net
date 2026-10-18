@@ -329,7 +329,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Why viscosity and temperature matter",
         paragraphs: [
           "Viscosity describes how readily the concentrate flows. When it is too resistant to movement, it can remain where it first touches the flower and create thick spots. When it flows too freely, it can migrate away from the intended area and leave thin zones behind. The useful window is the one that lets the material move predictably while still staying where the process places it.",
-          "Temperature is one way to manage that behavior because a warmer concentrate generally moves more readily than a cooler one. The objective is control, not maximum heat. Phase 6 establishes that terpenes are volatile and that processing choices matter, so an infusion process must balance workable flow against unnecessary exposure of aromatic material.",
+          "Temperature is one way to manage that behavior because a warmer concentrate generally moves more readily than a cooler one. The objective is control, not maximum heat. Terpenes are volatile and processing choices matter, so an infusion process must balance workable flow against unnecessary exposure of aromatic material.",
           "Time matters with temperature. A brief adjustment made for handling is different from leaving flower and concentrate warm for an extended period. Good process control treats temperature, exposure time, and movement as connected variables rather than isolated settings.",
         ],
       },
@@ -884,7 +884,7 @@ export const infusionArticles: PageContent[] = [
         id: "comparison-table",
         heading: "Potency ranges at a glance",
         paragraphs: [
-          "These verified Phase 6 values describe different inputs and finished formats. “As high as” is a ceiling, not a batch promise.",
+          "These values describe different inputs and finished formats. “As high as” is a ceiling, not a batch promise.",
           "Read the rows as a continuum rather than a ranking. Flower sits at the structural base; concentrate coatings and THCa-rich inputs sit farther toward concentrated material. Finished moon rocks land between those poles because they combine layers with different compositions and weight shares.",
           "Moving from flower toward concentrate usually increases cannabinoid share per unit of mass, but only the finished-batch result states what a specific layered product measured.",
         ],
