@@ -957,7 +957,8 @@ export const statesPages: PageContent[] = [
           "When Presidential product is available through a licensed Michigan retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
           "That package-first habit fits Michigan especially well. A competitive, value-driven retail network already asks buyers to compare options carefully — and the sealed package is the last verification step those licensed doors are built around."
-        ]
+        ],
+        "subsections": [{ "heading": "Matching the Michigan label to the format", "paragraphs": [[{ "text": "Michigan packages carry the same core information as other licensed markets: product name, format, and batch figures. What changes the read is the format. A blunt label describes a hemp wrap around flower and concentrate, while a moon rock label describes the build with no wrap at all. The " }, { "text": "hemp blunt format guide", "href": "/formats/blunts" }, { "text": " explains what that wrap adds. Before you buy at licensed retailers in Michigan, use the " }, { "text": "buyer's checklist", "href": "/guides/what-to-look-for" }, { "text": " to confirm the build and batch details match what you asked for. Total THC comes from that batch's own test, not from the brand name." }]] }]
       },
       {
         "id": "finding-it",
