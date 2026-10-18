@@ -28,7 +28,7 @@ export const statesPages: PageContent[] = [
         "heading": "Why every state gets its own reference",
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
-          "California opened early and built a deep, varied shelf. Oklahoma created an accessible patient programme. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan built a competitive, open retail sector. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
+          "California opened early and built a deep, varied shelf. Oklahoma created an accessible patient programme. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan built a competitive, open retail sector. Arizona converted a decade of medical infrastructure overnight. Washington was one of the first two states to legalize adult use, in 2012.",
           "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
           "That is why this hub emphasises process over a single national story. Each state page covers how that market works."
         ],
