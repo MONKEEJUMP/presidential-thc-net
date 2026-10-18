@@ -507,7 +507,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
           "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
-        ],
+        ], subsections: [{ heading: "Live resin as a moon rock layer", paragraphs: [[{ text: "In a moon rock, live resin is the concentrate layer between the flower and the outer finish. It coats the flower and gives the kief something to hold onto. Because live resin starts from fresh-frozen plants, it brings its own aroma into the piece, which sets it apart from a refined extract. The " }, { text: "layer-by-layer moon rock guide", href: "/formats/moon-rocks" }, { text: " shows how flower, concentrate, and kief stack. To keep that aroma once the package is open, the " }, { text: "infused product storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: " covers containers, light, and temperature. The label should name the concentrate and list cannabinoid content by batch." }]] }],
       },
       {
         id: "reading-a-live-resin-label",
