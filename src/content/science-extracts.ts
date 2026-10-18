@@ -313,6 +313,7 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/distillate",
     contextualLinks: [
+    { href: "/formats/infused-pre-rolls", anchor: "distillate-infused pre-rolls", sectionId: "distillate-in-carts-edibles-infusion", paragraphIndex: 0 },
     ],
     kind: "article",
     silo: "science",
@@ -382,7 +383,7 @@ export const scienceExtractPages: PageContent[] = [
         id: "distillate-in-carts-edibles-infusion",
         heading: "How distillate shows up in carts, edibles, and infusion",
         paragraphs: [
-          "Cartridges often use distillate because a fluid, concentrated, low-aroma oil is easy to meter and flavor deliberately. Hardware and viscosity still matter: the same distillate can behave differently across devices, and added terpenes or thinning agents belong on the ingredient story even when the base is neutral.",
+          "Cartridges often use distillate because a fluid, concentrated, low-aroma oil is easy to meter and flavor deliberately. Distillate also turns up in distillate-infused pre-rolls. Hardware and viscosity still matter: the same distillate can behave differently across devices, and added terpenes or thinning agents belong on the ingredient story even when the base is neutral.",
           "Edible and ingestible makers use distillate when they want a measured cannabinoid input without forcing a strong cannabis aroma into the recipe. Distillate remains one ingredient among carriers, flavors, and finishing steps, so the package should still identify extract type, batch, and matched laboratory results rather than treating clarity as the full description.",
           "Infusion on flower or pre-roll formats can use distillate as a coating or saturation input. A thin, even application raises cannabinoid share relative to uncoated flower, while flower mass remains part of the blend. Construction quality and finished-batch testing answer different questions than the distillate's own input percentage.",
           "Across carts, edibles, and infusion, distillate is best read as a refined base, not a finished experience by itself. Flavor, format geometry, and companion materials decide how that base reaches the adult consumer.",

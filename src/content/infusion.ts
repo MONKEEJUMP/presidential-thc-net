@@ -286,6 +286,7 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/how-infusion-works",
     contextualLinks: [
+      { href: "/formats/infused-pre-rolls", anchor: "how an infused pre-roll is built", sectionId: "the-base-and-the-concentrate", paragraphIndex: 2 },
       {
         href: "/infusion/potency-by-format",
         anchor: "potency by format",
@@ -318,7 +319,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "The flower is the structural base. Its shape creates the spaces through which air can move, and its own cannabinoid and terpene profile remains part of the finished material. The concentrate is the added phase. Depending on the format, it may sit mainly on the surface or be carried farther into the flower.",
           "That concentrate performs two jobs at once. First, it adds a higher-potency component to a lower-potency flower base. Second, it creates the tacky interface that lets loose kief remain attached. In a three-layer moon rock, the sequence is flower, concentrate, then kief. Reversing the last two steps would leave the trichome material without a dependable surface to hold it.",
-          "The finished potency is not the arithmetic sum of the printed percentages for those ingredients. Each layer contributes according to how much of the total weight it represents. The batch result for the finished format is the useful number because it accounts for the actual blend.",
+          "The finished potency is not the arithmetic sum of the printed percentages for those ingredients. Each layer contributes according to how much of the total weight it represents. The batch result for the finished format is the useful number because it accounts for the actual blend. In a paper roll, those choices show up as how an infused pre-roll is built.",
         ],
       },
       {

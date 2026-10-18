@@ -769,6 +769,7 @@ export const temperatureGuide: PageContent = {
 export const whatToLookFor: PageContent = {
   path: "/guides/what-to-look-for",
   contextualLinks: [
+    { href: "/formats/infused-pre-rolls", anchor: "the infused pre-roll reference", sectionId: "identify-format", paragraphIndex: 0 },
     {
       href: "/science/thca-vs-thc",
       anchor: "THCa versus THC",
@@ -799,7 +800,7 @@ export const whatToLookFor: PageContent = {
       id: "identify-format",
       heading: "Start by Identifying the Format",
       paragraphs: [
-        "A moon rock should present the three layers named in the format: flower, concentrate, and an outer coat of kief. An infused pre-roll, blunt, or mini places its material inside a wrap. A cartridge combines extract with hardware, so the oil path and the physical condition of the cartridge are part of the inspection.",
+        "A moon rock should present the three layers named in the format: flower, concentrate, and an outer coat of kief. An infused pre-roll, blunt, or mini places its material inside a wrap. For paper formats, the infused pre-roll reference covers paper, filter and fill. A cartridge combines extract with hardware, so the oil path and the physical condition of the cartridge are part of the inspection.",
         "Do not apply the same surface test to every product. A visible kief coat is relevant to a moon rock but not to a sealed cartridge. Begin with what the format claims to be, then choose observations that make sense for that construction.",
         "Name the format before comparing details. That prevents importing a moon-rock checklist onto a wrapped roll or treating cartridge hardware as if it were flower. Once the format is named, the rest of the inspection becomes a narrower set of questions. For a smaller roll, the page on mini blunt construction explains what changes with size.",
       ],
@@ -891,6 +892,7 @@ export const whatToLookFor: PageContent = {
 export const beginnersGuide: PageContent = {
   path: "/guides/beginners-guide",
   contextualLinks: [
+    { href: "/formats/infused-pre-rolls", anchor: "Infused pre-rolls in paper", sectionId: "major-formats", paragraphIndex: 0 },
     {
       href: "/formats/mini-blunts",
       anchor: "mini blunts",
@@ -937,7 +939,7 @@ export const beginnersGuide: PageContent = {
       id: "major-formats",
       heading: "Know the Major Formats",
       paragraphs: [
-        "Moon rocks make their layers visible around a flower center. Infused pre-rolls distribute flower and concentrate inside paper. Tobacco-free blunts use a non-tobacco wrap, while minis bring a similar wrapped construction into a smaller format. Vape cartridges pair an extract with hardware that heats and moves the material through a dedicated path.",
+        "Moon rocks make their layers visible around a flower center. Infused pre-rolls in paper distribute flower and concentrate inside it. Tobacco-free blunts use a non-tobacco wrap, while minis bring a similar wrapped construction into a smaller format. Vape cartridges pair an extract with hardware that heats and moves the material through a dedicated path.",
         "Size alone does not define the underlying material. A mini is smaller than a full blunt, and a cartridge uses hardware instead of a flower wrap, but each still needs a label that identifies what was made. Start with the format name and construction before comparing percentages across categories. The guide to mini blunts covers that size difference in detail.",
         "A short format checklist helps on a first pass: Is the product a coated flower piece, a filled paper roll, a wrapped blunt or mini, or a hardware cartridge? Does the package name a concentrate type such as resin, rosin, or diamonds? Once those answers are clear, move to the guide that matches the next practical question instead of jumping between unrelated formats.",
       ],
