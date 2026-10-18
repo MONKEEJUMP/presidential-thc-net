@@ -553,7 +553,7 @@ export const howToStoreInfusedCannabis: PageContent = {
       paragraphs: [
         "Plan the handling step before opening the container. Set out the clean tool or surface, remove only what is needed, and close the remaining product again. For moon rocks, use fingers or scissors instead of a grinder so the concentrate does not gum the teeth and the kief stays with the piece.",
         "Repeated touching transfers material away from the product and onto hands or tools. It also gives heat, humidity, and room light more opportunities to reach the exposed surface. A short, deliberate routine protects both the construction and the cleanliness of the stored portion.",
-      ],
+      ], subsections: [{ heading: "Protecting the outer layer in storage", paragraphs: [[{ text: "The outer layer of an infused product is the part most exposed to handling. Rubbing, crushing, or repeatedly opening the container can loosen a kief or diamond finish before the product is used. Store each piece so it does not press against other items, and avoid moving it in and out of the container more than needed. The guide on " }, { text: "why the kief layer is fragile", href: "/infusion/kief-and-trichomes" }, { text: " explains how that coat is collected. For storage details specific to rolled products, see the " }, { text: "infused blunt format overview", href: "/formats/blunts" }, { text: "." }]] }],
     },
     {
       id: "freshness-signs",
