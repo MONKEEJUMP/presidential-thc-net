@@ -40,6 +40,7 @@ export const pillarPage: PageContent = {
         "A label may report THCa and THC separately. Total THC is commonly calculated as (THCa × 0.877) + THC. That formula explains why a raw THCa value and a lower Total THC value can both describe the same tested material. Always match the calculation to the correct batch record.",
         "Open the science hub when an unfamiliar cannabinoid, terpene, extract, or laboratory term appears. Child pages separate THCa from THC, explain decarboxylation, map cannabinoid panels, and show how to read a Certificate of Analysis without treating a headline percentage as interchangeable chemistry.",
       ],
+      subsections: [{ heading: "Reading extract terms on vape products", paragraphs: [[{ text: "Vape searches usually come down to extract type. Terms such as distillate, live resin, live rosin, and liquid diamonds describe formulation contexts, not a promise about any one product. This reference doesn't list live inventory or confirm which vape products or hardware a retailer stocks, so treat it as a vocabulary guide: learn what each extract term means, then match it to the batch-specific label on the package you're holding. Total THC on that label comes from the product's own test, not from the extract name. For the flower-based options, compare the " }, { text: "infused flower formats", href: "/formats" }, { text: ", or start with " }, { text: "the beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: "." }]] }],
     },
     {
       id: "formats",
