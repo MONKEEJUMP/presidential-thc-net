@@ -30,7 +30,7 @@ export const statesPages: PageContent[] = [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
           "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
           "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
-          "That is why this hub emphasises process over a single national story. Adult-use density, medical gates, visitor design, and early-market history are different literacy questions; each state page answers the one that market actually poses."
+          "That is why this hub emphasises process over a single national story. Each state page covers how that market works."
         ],
         "subsections": [{ "heading": "Adult-use and medical access by state", "paragraphs": [[{ "text": "Each state reference starts with the access rule. In the adult-use states, shoppers 21 and older buy at a licensed retailer with identification. Oklahoma's medical program asks for a state patient card. Read the " }, { "text": "Oklahoma THC reference", "href": "/states/oklahoma" }, { "text": " for the patient-card process, or the " }, { "text": "California THC reference", "href": "/states/california" }, { "text": " for the adult-use market. The product is the same in every state, so the " }, { "text": "infused format guide", "href": "/formats" }, { "text": " applies wherever you buy." }], [{ "text": "Adult-use buyers twenty-one or older can also compare " }, { "text": "Presidential THC in Michigan", "href": "/states/michigan" }, { "text": " with the California reference." }]] }]
       },
@@ -313,7 +313,7 @@ export const statesPages: PageContent[] = [
         "id": "the-deepest-shelf",
         "heading": "The deepest shelf in the country",
         "paragraphs": [
-          "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing between more brands than exist in most entire countries.",
+          "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing from a wide range of brands.",
           "That abundance is a real advantage, and it rewards knowing what you are looking at. The difference between two products at the same potency is almost always the extract behind them and how the material was built — which is exactly what the reference guides on this site cover.",
           "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label.",
           "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them.",
@@ -375,7 +375,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is sold through licensed retailers, which means every package traces to a regulated channel.",
           "In short: adult-use access at twenty-one, a mature regulated shelf with deep brand range, and local rules that still shape hours and density by city. Use the package for the final product check. That order keeps California buying inside the regulated channel this reference describes.",
-          "Reading the market this way keeps California buys inside the same literacy loop: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. A mature deep shelf makes that loop familiar — it does not replace confirming the live licensed source."
+          "The buying path: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. A mature deep shelf makes that loop familiar — it does not replace confirming the live licensed source."
         ]
       }
     ],
@@ -447,7 +447,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Oklahoma runs a medical programme, and it is one of the most accessible in the United States. A state patient licence opens the market. Adult-use retail is not the access path here: eligibility runs through the medical gate the state maintains.",
           "Unlike most medical states, Oklahoma maintains no list of qualifying conditions. A licensed physician determines that cannabis may benefit the patient, and that is the standard. That single design choice opened the programme to a far broader population than a conditions-based system reaches.",
-          "The result is one of the largest patient bases in the country relative to state size — a share of the population that most adult-use states would recognise as remarkable. For Oklahomans the licensing process is straightforward, and visitors holding a medical card from another state can apply for a temporary Oklahoma licence and buy exactly as residents do.",
+          "The result is a large patient base for the state's size. For Oklahomans the licensing process is straightforward, and visitors holding a medical card from another state can apply for a temporary Oklahoma licence and buy exactly as residents do.",
           "Exact patient counts, possession rules, temporary-licence details, and other programme requirements can change. Readers should confirm current requirements through the state's official medical cannabis resources before relying on any third-party description.",
           "For a reference reader, the practical frame is simple. Eligible patients enter licensed dispensaries with the credentials the state requires; product on a licensed shelf has been through the compliance path Oklahoma sets for medical retail; and current licensed-retailer listings matter more than any fixed mental map of which brands sit where on any given week."
         ]
@@ -782,7 +782,7 @@ export const statesPages: PageContent[] = [
         "heading": "What is on the shelf",
         "paragraphs": [
           "Presidential builds one construction into four formats, and the shorter formats suit a visit particularly well.",
-          "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Minis are the blunt sized down, which is often the right choice for a trip.",
+          "Moon Rocks are the original — flower carried through with concentrate, finished in kief. Infused pre-rolls and tobacco-free blunts are that material ready to light. Mini blunts are the blunt sized down, which is often the right choice for a trip.",
           "The series marking tells you what is behind it: Silver on distillate, Gold on live resin, Rose Gold on solventless live rosin.",
           "Those format and series names travel with the brand; they do not change at a state line. What changes in Nevada is the licensed adult-use route to the shelf and the live retailer records that confirm it. Match the menu line to the package in hand before you buy."
         ],
@@ -804,7 +804,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state.",
           "In short: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
-          "Reading the market this way keeps trips and local buys inside the same literacy loop: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
+          "The buying path: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
         ]
       },
       {
@@ -839,6 +839,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/formats/mini-blunts",
+        "anchor": "Mini blunts",
+        "sectionId": "the-formats",
+        "paragraphIndex": 1
+      },
       {
         "href": "/about",
         "anchor": "about Presidential",
@@ -898,7 +904,7 @@ export const statesPages: PageContent[] = [
         "id": "the-value-market",
         "heading": "The best value shelf in America",
         "paragraphs": [
-          "Michigan is widely regarded as the most competitive cannabis retail market in the country. Licence availability has been open, supply is abundant, and the result is real value — Michigan shelves are consistently among the most affordable in any legal state.",
+          "Licence availability in Michigan has been open and supply is abundant, which gives shoppers real choice on the shelf.",
           "For a buyer that is close to ideal. Legal, tested, plentiful and keenly priced is a rare combination, and Michigan has held it for years. Competition shows up as wider menus, sharper pricing, and retailers who cannot coast on scarcity or a closed licence map.",
           "The upside compounds: when a market is that competitive, retailers work harder for the customer, and the person behind the counter tends to know the products well because they have to. A crowded shelf is not only a price story — it is also a selection story, and buyers benefit from both.",
           "Coverage follows that open-licence pattern across the state. Detroit and Grand Rapids carry dense licensed networks; other communities carry the same adult-use rules where local licensing allows. Exact participation changes over time, so live listings beat outdated screenshots or out-of-state menus."
@@ -1039,7 +1045,7 @@ export const statesPages: PageContent[] = [
         "heading": "What placement means here",
         "paragraphs": [
           "Shelf space in a capped market carries different weight.",
-          "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona there is a finite number of doors, every one of them chooses carefully, and a product that appears in a meaningful share of them was chosen repeatedly by people whose shelf space is their scarcest asset.",
+          "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona there is a finite number of doors, and every one of them chooses carefully what earns shelf space.",
           "Placement is genuinely contested here, and it means more when it is won. A buyer walking an Arizona floor is not browsing an infinite catalogue of whoever managed to open a shop last month — they are looking at what established operators decided was worth carrying in a limited footprint.",
           "That is why this reference treats Arizona placement as structural context rather than a marketing slogan. A capped licence map does not guarantee every format at every door on every day, but it does explain why presence across many licensed doors is a stronger signal here than the same raw count would be in a wide-open retail market."
         ]
@@ -1059,7 +1065,6 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Arizona",
         "paragraphs": [
           "Licensed doors across Arizona carry Presidential.",
-          "In a state that caps its licence numbers, that figure represents a meaningful share of the available retail — a larger share than the raw number suggests when set against markets where anyone can open a shop.",
           "That presence is the product of retailers choosing the brand onto limited shelves, not of an open-door market absorbing every listing that arrives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than screenshots, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Arizona page explains market structure; a current licensed source supplies the last step."
         ]
@@ -1089,7 +1094,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Presidential is sold through licensed dispensaries across the state, concentrated around Phoenix and Tucson.",
           "In short: adult-use access at twenty-one, a converted medical infrastructure, limited licensing, and curated shelf space. Use the package for the final product check. That order keeps Arizona buying inside the regulated channel this reference describes.",
-          "Reading the market this way keeps Arizona buys inside the same literacy loop: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. Converted medical infrastructure makes that loop familiar — it does not replace confirming the live licensed source for the day you shop."
+          "The buying path: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. Converted medical infrastructure makes that loop familiar — it does not replace confirming the live licensed source for the day you shop."
         ]
       }
     ],

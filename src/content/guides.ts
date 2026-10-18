@@ -56,7 +56,7 @@ export const guidesHub: PageContent = {
       id: "beginner-path",
       heading: "Begin With the Format and the Label",
       paragraphs: [
-        "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. It explains why THC percentages from different materials and finished formats need batch-specific context.",
+        "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and cartridges. It explains why THC percentages from different materials and finished formats need batch-specific context.",
         "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. The links below lead to every other practical guide.",
         "Start with the beginner's guide to infused cannabis when vocabulary or first-session order is unclear. Identify the format, keep batch identifiers with the product, then read the guide that matches the next question.",
       ],
@@ -141,6 +141,7 @@ export const guidesHub: PageContent = {
     },
   ],
   contextualLinks: [
+    { href: "/formats/mini-blunts", anchor: "mini blunts", sectionId: "beginner-path", paragraphIndex: 0 },
     {
       href: "/infusion/potency-by-format",
       anchor: "potency by format",
@@ -918,7 +919,7 @@ export const beginnersGuide: PageContent = {
   wordTarget: [1250, 1350],
   intro: [
     "Infused cannabis combines flower or a finished format with cannabis concentrate, which changes the product's construction and can raise its reported potency above ordinary flower. Begin by identifying the format, reading its package, and using the preparation method made for that format. For moon rocks, start with a piece around the size of a pencil eraser, never use a grinder, and expect a slower burn.",
-    "This guide explains the basic vocabulary without making promises about effects. Percentages describe tested material, while handling, temperature, storage, and physical construction explain how that material behaves as a product.",
+    "This guide explains the basic vocabulary. Percentages describe tested material, while handling, temperature, storage, and physical construction explain how that material behaves as a product.",
     "The audience is adults twenty-one and older who want educational context before they open a new package. Nothing here is medical advice, dosing instruction, or a guarantee of any outcome. Keep the label with the product, follow local law, and treat every batch as its own measured sample.",
   ],
   sections: [

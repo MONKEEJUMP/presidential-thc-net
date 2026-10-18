@@ -545,7 +545,7 @@ export const formatsPages: PageContent[] = [
     ],
     contextualLinks: [
       {
-        href: "/guides/how-to-smoke-moon-rocks",
+        href: "/formats/moon-rocks",
         anchor: "Moon Rocks",
         sectionId: "what-is-inside-a-mini",
         paragraphIndex: 0,
@@ -737,6 +737,7 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/infused-pre-rolls",
     contextualLinks: [
+      { href: "/formats/mini-blunts", anchor: "compact mini blunt", sectionId: "how-to-choose", paragraphIndex: 1 },
       {
         href: "/guides/how-to-smoke-moon-rocks",
         anchor: "smoking moon rocks guide",
