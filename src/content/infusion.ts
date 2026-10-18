@@ -504,7 +504,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Start with the outside. An even kief layer should not have to conceal thick ridges of concentrate or broad bare areas. Then look at a clean cut rather than crushing the piece in a grinder, which can gum the teeth and strip away the kief.",
           "Compare several areas instead of judging one spot. A consistent surface with a dry-looking center suggests a coating-led construction. Visible concentrate carried through more of the section suggests deeper infusion. Neither observation replaces the finished-product label or batch result.",
-          "Presidential describes its Infusion System as carrying distillate through the flower and applying a kief or diamond finish last. That is a saturation-led construction: the path of the concentrate is treated separately from the finishing coat. The distinction matters because a kief-covered surface alone cannot show how far the concentrate traveled.",
+          "Presidential describes its Infusion System as carrying concentrate through the flower and applying a kief or diamond finish last. That is a saturation-led construction: the path of the concentrate is treated separately from the finishing coat. The distinction matters because a kief-covered surface alone cannot show how far the concentrate traveled.",
         ],
       },
       {
@@ -538,6 +538,7 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/kief-and-trichomes",
     contextualLinks: [
+      { href: "/guides/what-to-look-for", anchor: "checking a kief coat against the label", sectionId: "role-in-infusion-coating", paragraphIndex: 1 },
       {
         href: "/infusion/potency-by-format",
         anchor: "potency by format",
@@ -603,8 +604,8 @@ export const infusionArticles: PageContent[] = [
         heading: "Role in the infusion coating",
         paragraphs: [
           "In the classic three-layer build, concentrate creates the adhesive interface and kief is applied last. The coat does not replace infusion; it finishes it. Flower supplies structure, concentrate carries adhesion and most of the added mass, and kief completes the exterior so the layered format is readable and handleable.",
-          "Application depends on that middle layer being present where coverage is wanted. Thin or missing concentrate leaves bald patches; pooled concentrate gathers kief into ridges. Rolling or tumbling helps only when the adhesive underlayer is already distributed with intent.",
-          "Presidential describes its Infusion System as carrying distillate through the flower and applying a kief or diamond finish last. That order keeps jobs distinct: infusion concerns where concentrate travels; the final coat concerns exterior finish, handling, and the resin share from collected trichomes. Confusing those jobs is how a dusty shell gets mistaken for deep saturation.",
+          "Application depends on that middle layer being present where coverage is wanted. Thin or missing concentrate leaves bald patches; pooled concentrate gathers kief into ridges. Rolling or tumbling helps only when the adhesive underlayer is already distributed with intent. The guide on checking a kief coat against the label covers what a shopper can see.",
+          "Presidential describes its Infusion System as carrying concentrate through the flower and applying a kief or diamond finish last. That order keeps jobs distinct: infusion concerns where concentrate travels; the final coat concerns exterior finish, handling, and the resin share from collected trichomes. Confusing those jobs is how a dusty shell gets mistaken for deep saturation.",
         ],
       },
       {

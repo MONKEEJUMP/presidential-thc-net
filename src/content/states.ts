@@ -344,7 +344,7 @@ export const statesPages: PageContent[] = [
         "id": "presidential-here",
         "heading": "Presidential in California",
         "paragraphs": [
-          "California is where Presidential began. The company was founded in Los Angeles in 2012 — four years before the state legalised adult use.",
+          "California is where Presidential began. The company was founded in Los Angeles in 2012.",
           "Presidential products are listed through licensed California retailers. Participating locations and current formats change, so availability should be checked against current retailer information rather than a fixed statewide door count.",
           "Shelf presence is not a fixed statewide guarantee. Retailers stock what their licence and their customers support, and formats rotate as inventory moves. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than archived posts, out-of-state menus, or third-party directories that may outlive the stock that produced them. Check a current licensed source for the last step. Nevada, a market built for arrivals, is covered in the Nevada state guide."
