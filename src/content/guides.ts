@@ -11,7 +11,7 @@ export const guidesHub: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "Infused cannabis needs a different approach from ordinary flower because concentrate changes its density, texture, potency, and burn. These five guides explain the practical fundamentals: how to handle moon rocks, protect infused products in storage, choose a temperature, inspect quality, and begin with the format responsibly.",
-    "Start with the question in front of you, then use the connected guides to build a complete routine. The chemistry and advice stay focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
+    "Start with the question in front of you, then use the connected guides to build a routine. The chemistry and advice stay focused on construction, labels, storage, equipment, and observable product behavior. It does not predict personal effects or replace the information printed on a product package.",
     "This hub is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample.",
   ],
   sections: [
@@ -752,7 +752,7 @@ export const temperatureGuide: PageContent = {
   relatedLinks: [
     {
       href: "/guides",
-      label: "See the complete practical guide collection",
+      label: "See the practical guide collection",
     },
     {
       href: "/guides/what-to-look-for",
@@ -1001,7 +1001,7 @@ export const beginnersGuide: PageContent = {
   relatedLinks: [
     {
       href: "/guides/how-to-smoke-moon-rocks",
-      label: "Use the complete moon-rock preparation method",
+      label: "Use the moon-rock preparation method",
     },
     {
       href: "/guides/how-to-store-infused-cannabis",

@@ -141,7 +141,7 @@ export const infusionHub: PageContent = {
     {
       href: "/",
       label: "Return to the Presidential THC reference",
-      description: "Explore the complete map of infused cannabis science, formats, and practical guides.",
+      description: "Explore the map of infused cannabis science, formats, and practical guides.",
     },
     {
       href: "/science",
@@ -397,8 +397,8 @@ export const infusionArticles: PageContent[] = [
     relatedLinks: [
       {
         href: "/infusion",
-        label: "Review the complete infusion map",
-        description: "Return to the hub for all five parts of the infusion process.",
+        label: "Review the infusion map",
+        description: "Return to the infusion hub.",
       },
       {
         href: "/infusion/surface-vs-saturation",
@@ -520,7 +520,7 @@ export const infusionArticles: PageContent[] = [
       {
         href: "/infusion",
         label: "Return to the infusion field guide",
-        description: "Place coating and saturation within the complete five-part topic map.",
+        description: "Place coating and saturation within the topic map.",
       },
       {
         href: "/infusion/how-infusion-works",
