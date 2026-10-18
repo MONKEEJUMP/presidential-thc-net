@@ -824,7 +824,7 @@ export const whatToLookFor: PageContent = {
       heading: "Use Aroma as a Condition Check",
       paragraphs: [
         "Terpenes are volatile aroma compounds, and heat and light take them first. A distinct aroma that fits the package description is therefore a useful condition signal. Make the observation promptly rather than leaving the container open under room light for an extended comparison.",
-        "Aroma alone cannot establish potency, extract method, or personal effects. It works best beside construction and label information. If the package describes an aromatic profile but the material is indistinct, note the mismatch and ask the retailer.",
+        "Aroma alone cannot establish cannabinoid content, extract method, or personal effects. It works best beside construction and label information. If the package describes an aromatic profile but the material is indistinct, note the mismatch and ask the retailer.",
         "Compare aroma against the package wording first, then against other products only if storage and opening time were similar. A jar left open beside a freshly sealed one is not a fair test. Treat smell as one checklist clue, not a substitute for the label or burn and draw behavior.",
       ],
     },
