@@ -22,7 +22,7 @@ export const scienceExtractPages: PageContent[] = [
         paragraphs: [
           "Start with THCa, THC, and decarboxylation to understand why raw percentages do not translate directly into heated THC. Then move to reading a lab report, terpenes, and the wider cannabinoid family for the vocabulary used on labels. The four extract guides compare a highly refined distillate with three methods built around fresh-frozen material or controlled crystallization. The THCa versus THC page then works the conversion arithmetic in full.",
           "No single percentage identifies an extract or proves how it was made. Process details, ingredient language, batch identification, and a matching laboratory report create a much clearer picture than color or texture alone. This page names the distinctions; the guides below work through each one in full.",
-          "A reliable path through these guides is molecules first, measurement second, materials third. Resolve the acidic-versus-neutral cannabinoid distinction before comparing Total THC across packages. Confirm how a Certificate of Analysis is structured before trusting a front-label shorthand. Only then compare distillate, live resin, live rosin, and liquid diamonds as processing routes rather than as interchangeable potency synonyms.",
+          "A reliable path through these guides is molecules first, measurement second, materials third. Resolve the acidic-versus-neutral cannabinoid distinction before comparing Total THC across packages. Confirm how a Certificate of Analysis is structured before trusting a front-label shorthand. Only then compare distillate, live resin, live rosin, and liquid diamonds as processing routes rather than as interchangeable cannabinoid synonyms.",
         ],
         subsections: [{ heading: "How THC concentrates are made, and what the label says", paragraphs: [[{ text: "Every THC concentrate starts as cannabis plant material and is shaped by its manufacturing method. Distillate is highly refined, while live resin, live rosin and liquid diamonds are built around fresh-frozen material or controlled crystallization. Each method keeps a different share of the starting cannabinoids and terpenes, which is why one percentage can't identify an extract. The guides cover " }, { text: "THC distillate", href: "/science/distillate" }, { text: ", " }, { text: "live resin extracts", href: "/science/live-resin" }, { text: " and " }, { text: "live rosin extracts", href: "/science/live-rosin" }, { text: ". For a consumer, the label carries the useful terms: the extract type, the ingredients, the batch identification and a matching laboratory report. " }, { text: "Reading a lab report", href: "/science/reading-a-lab-report" }, { text: " explains each line, and " }, { text: "THCa versus THC", href: "/science/thca-vs-thc" }, { text: " works through why raw THCa figures don't translate directly into heated THC. Indica and sativa describe the plant the material came from, not the extract process." }]] }],
       },
@@ -40,7 +40,7 @@ export const scienceExtractPages: PageContent[] = [
         heading: "Four extract routes at a glance",
         paragraphs: [
           "Distillate is best understood as a refined cannabinoid-rich fraction. Vacuum distillation separates lighter and heavier material from an existing oil, which is why the finished fraction often presents a relatively neutral aroma and an adaptable base for later formulation. Its educational value is the refinement lens: the name points to how the oil was fractionated, not to a single universal purity claim.",
-          "Live resin and live rosin both advertise a cold-chain intention around fresh-frozen starting material, but they part company on separation chemistry. Live resin uses solvent extraction and a controlled purge. Live rosin uses ice-water washing, freeze-drying, and a heated press without adding a solvent for the press step. Comparing them means comparing process histories—volatile retention goals, micron selection, press temperature—not treating “live” as a potency ranking.",
+          "Live resin and live rosin both advertise a cold-chain intention around fresh-frozen starting material, but they part company on separation chemistry. Live resin uses solvent extraction and a controlled purge. Live rosin uses ice-water washing, freeze-drying, and a heated press without adding a solvent for the press step. Comparing them means comparing process histories—volatile retention goals, micron selection, press temperature—not treating “live” as a cannabinoid ranking.",
           "Liquid diamonds center on selective THCa crystallization and recombination with sauce. Crystal purity and sauce composition are separate measurements that only become one oil after a controlled mix. Across all four routes, the defensible comparison is still the matched batch record: how the material was made, which analytes the laboratory reported, and which ingredient roles the extract plays in a finished format.",
         ], subsections: [{ heading: "Extract science in each rolled format", paragraphs: [[{ text: "The same extracts end up in different rolls. See " }, { text: "infused pre-rolls explained", href: "/formats/infused-pre-rolls" }, { text: ", " }, { text: "the blunt format guide", href: "/formats/blunts" }, { text: " and " }, { text: "mini blunts explained", href: "/formats/mini-blunts" }, { text: "." }]] }],
       },
@@ -455,7 +455,7 @@ export const scienceExtractPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "Live resin is a cannabis extract made from material that is flash-frozen at harvest instead of being dried and cured first. It is processed cold in a closed-loop hydrocarbon system and then vacuum-purged, with the method designed to retain more of the volatile aromatic profile present near harvest.",
-      "The word live refers to the condition of the starting material, not to a living finished product. The extract is defined by fresh-frozen feedstock and temperature-controlled processing; potency, color, or texture alone cannot establish that identity. What heat then does to its THCa is explained in how decarboxylation works.",
+      "The word live refers to the condition of the starting material, not to a living finished product. The extract is defined by fresh-frozen feedstock and temperature-controlled processing; cannabinoid content, color, or texture alone cannot establish that identity. What heat then does to its THCa is explained in how decarboxylation works.",
       "The category name therefore joins two claims. Live points to harvest handling that skips ordinary dry-and-cure time. Resin points to a solvent extraction route rather than a wash-and-press path. Changing either claim changes the production history the label is meant to describe.",
     ],
     sections: [
@@ -497,7 +497,7 @@ export const scienceExtractPages: PageContent[] = [
       },
       {
         id: "potency-and-aromatic-fidelity",
-        heading: "Potency versus aromatic fidelity",
+        heading: "Cannabinoid content versus aromatic fidelity",
         paragraphs: [
           "A live or cured designation does not establish a universal THC range or make one extract automatically stronger. The terms describe source handling and processing choices; the batch label and corresponding test record establish composition.",
           "The cleanest way to recognize live resin is to read beyond the front label. Look for fresh-frozen source language, an identified extract type, a batch number, and a corresponding laboratory report. A terpene-rich aroma or pale color may be consistent with the process, but neither is proof by itself. The category is a production history expressed in the material, not a color grade.",
@@ -517,7 +517,7 @@ export const scienceExtractPages: PageContent[] = [
         heading: "How live resin differs from live rosin",
         paragraphs: [
           "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
-          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
+          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal cannabinoid band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
         ],
       },
       {
@@ -628,7 +628,7 @@ export const scienceExtractPages: PageContent[] = [
         heading: "How live rosin differs from live resin",
         paragraphs: [
           "Live resin and live rosin share the fresh-frozen starting idea and then diverge on separation method. Live resin typically uses a chilled hydrocarbon solvent in a closed-loop system, then recovers and purges that solvent from the extract. Live rosin keeps the separation physical: ice water, screens, drying, and a press.",
-          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal potency band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
+          "Shared use of the word live only signals something about harvest handling. It does not mean the two concentrates contain the same compound mix, share one texture, or carry one universal cannabinoid band. Side-by-side reading still helps: check each label for fresh-frozen source language, method language, a batch identifier, and a matching laboratory report.",
         ],
         subsections: [{ heading: "What should a live rosin label say?", paragraphs: [[{ text: "Start with the process words rather than the marketing adjectives. Look for fresh-frozen or live source language, solventless or hash-rosin method language, and a batch or lot identifier. Rosin is the broader family name for concentrate expressed by heat and pressure without a chemical solvent; flower rosin is pressed from dried cannabis, while live rosin starts from fresh-frozen material washed in ice water. Keep reading with " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: ", " }, { text: "terpenes and processing", href: "/science/terpenes" }, { text: ", or " }, { text: "the science hub", href: "/science" }, { text: "." }]] }],
       },
@@ -708,7 +708,7 @@ export const scienceExtractPages: PageContent[] = [
     intro: [
       "Liquid-diamond cannabis oils are generally described in terms of a crystalline cannabinoid fraction and a terpene-rich sauce that are recombined for the intended formulation. Methods and exact compositions vary meaningfully by producer, so the product label and batch record must establish the finished material.",
       "The name describes a process relationship, not literal diamonds suspended in a cartridge. The crystalline fraction supplies concentrated THCa-derived material, while the sauce returns volatile and fluid components needed to make a uniform, workable oil.",
-      "Reading the category as a production history helps more than reading it as a potency grade. Crystallization, fraction separation, and recombination are the steps the name implies. Finished cannabinoid percentages still belong to the batch label and matched laboratory report for that lot.",
+      "Reading the category as a production history helps more than reading it as a cannabinoid grade. Crystallization, fraction separation, and recombination are the steps the name implies. Finished cannabinoid percentages still belong to the batch label and matched laboratory report for that lot.",
     ],
     sections: [
       {
@@ -718,7 +718,7 @@ export const scienceExtractPages: PageContent[] = [
           "Production begins with a cannabinoid- and terpene-rich extract. Instead of purging away the entire volatile fraction, the producer uses a light purge that leaves enough of that liquid environment for controlled separation. The concentrated extract then rests in a sealed vessel for weeks under managed conditions.",
           "During that hold, the mixture does not become uniformly more solid. THCa molecules organize into crystals while a mobile, aromatic fraction remains around them. The industry calls this stage diamond mining. Time, concentration, pressure, temperature, and the makeup of the starting extract can alter the separation, which is one reason two products carrying the same category name may not share the same formula.",
           "The starting extract therefore sets the ceiling for what crystallization can do. A leaner input may form fewer or smaller crystals, while a richer cannabinoid matrix can support a denser solid fraction. Process control still matters: vessel conditions and hold time decide whether that potential becomes an ordered lattice or remains dissolved.",
-          "Treat that hold as a process record rather than a potency race. Crystallization time, vessel conditions, and input richness explain why two liquid-diamond labels can share a category name and still report different finished totals — the batch certificate, not the category word, remains the evidence for the oil in hand.",
+          "Treat that hold as a process record rather than a cannabinoid race. Crystallization time, vessel conditions, and input richness explain why two liquid-diamond labels can share a category name and still report different finished totals — the batch certificate, not the category word, remains the evidence for the oil in hand.",
         ],
       },
       {

@@ -11,7 +11,7 @@ export const infusionHub: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "The cannabis infusion process combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn. For a plain-language starting point, see what a beginner should know about infusion.",
-    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers. Each guide below goes deeper on one topic: placement, finishing, burn behavior, or sample identity.",
+    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's cannabinoid content is a weighted blend rather than the sum of its layers. Each guide below goes deeper on one topic: placement, finishing, burn behavior, or sample identity.",
   ],
   sections: [
     {
@@ -40,7 +40,7 @@ export const infusionHub: PageContent = {
         "How that layer is collected and applied affects its consistency. A uniform coat communicates the construction clearly; bare patches or thick clumps signal that the layers may not be evenly distributed.",
         "The kief and trichomes guide separates collection, adhesion, and the coat's three jobs from the concentrate path underneath. Read it when the outer finish is the question.",
       ],
-        subsections: [{ heading: "What does each layer do?", paragraphs: [[{ text: "In a three-layer build, flower supplies the structure, concentrate creates the interface and acts as the adhesive, and kief finishes the surface. " }, { text: "How infusion works", href: "/infusion/how-infusion-works" }, { text: " covers temperature and layer order, " }, { text: "Kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " explains the outer coat, and " }, { text: "why infused burns differently", href: "/infusion/why-infused-burns-differently" }, { text: " follows the result into the burn." }]] }, { heading: "THC infusion in a smokable product versus in the kitchen", paragraphs: [[{ text: "Search results for \"THC infusion\" often mean butter or oil recipes. On this site, infusion means something else: concentrate distributed through cannabis flower, sometimes finished with kief, inside a product meant to be heated, not eaten. The plant makes THCa, and heat converts it through decarboxylation. That's why " }, { text: "THCa versus THC", href: "/science/thca-vs-thc" }, { text: " matters for reading labels." }]] }, { heading: "What changes when a product is infused", paragraphs: [[{ text: "Infusion adds cannabinoid content, and the concentrate also acts as the binder that holds a kief layer in place. Where it sits matters. " }, { text: "Surface coating versus saturation", href: "/infusion/surface-vs-saturation" }, { text: " covers placement, and " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " covers the outer layer. " }, { text: "Why infused products burn differently", href: "/infusion/why-infused-burns-differently" }, { text: " explains how heat moves through the result." }]] }, { heading: "Why infused formats list different numbers", paragraphs: [[{ text: "A label reflects that one format's construction, so an infused blunt, pre-roll and Moon Rock carry different figures even when they share a strain name; see " }, { text: "how infused pre-roll label figures are read", href: "/formats/infused-pre-rolls" }, { text: ". " }, { text: "Potency by format", href: "/infusion/potency-by-format" }, { text: " explains how to read those figures without predicting effects." }]] }, { heading: "Infusion step by step", paragraphs: [[{ text: "Infusion starts with a base material and a concentrate, with controlled temperature and viscosity, and results are judged by distribution. The " }, { text: "step-by-step guide to how infusion works", href: "/infusion/how-infusion-works" }, { text: " walks through each stage, and the " }, { text: "science of THC hub", href: "/science" }, { text: " covers the plant chemistry behind it." }]] }, { heading: "Are infused flower and moon rocks the same thing?", paragraphs: [[{ text: "Not quite. Infused flower is any flower with concentrate added at a chosen depth, from a " }, { text: "surface coating to a more saturated build", href: "/infusion/surface-vs-saturation" }, { text: ". A moon rock is one specific infused build: flower for structure, concentrate as the interface and adhesive, and a kief coat finishing the surface. Every moon rock is infused flower, but not every infused flower has a kief finish. Read the label for the tested values of that format. See " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " or " }, { text: "the moon rock format", href: "/formats/moon-rocks" }, { text: "." }]] }],
+        subsections: [{ heading: "What does each layer do?", paragraphs: [[{ text: "In a three-layer build, flower supplies the structure, concentrate creates the interface and acts as the adhesive, and kief finishes the surface. " }, { text: "How infusion works", href: "/infusion/how-infusion-works" }, { text: " covers temperature and layer order, " }, { text: "Kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " explains the outer coat, and " }, { text: "why infused burns differently", href: "/infusion/why-infused-burns-differently" }, { text: " follows the result into the burn." }]] }, { heading: "THC infusion in a smokable product versus in the kitchen", paragraphs: [[{ text: "Search results for \"THC infusion\" often mean butter or oil recipes. On this site, infusion means something else: concentrate distributed through cannabis flower, sometimes finished with kief, inside a product meant to be heated, not eaten. The plant makes THCa, and heat converts it through decarboxylation. That's why " }, { text: "THCa versus THC", href: "/science/thca-vs-thc" }, { text: " matters for reading labels." }]] }, { heading: "What changes when a product is infused", paragraphs: [[{ text: "Infusion adds cannabinoid content, and the concentrate also acts as the binder that holds a kief layer in place. Where it sits matters. " }, { text: "Surface coating versus saturation", href: "/infusion/surface-vs-saturation" }, { text: " covers placement, and " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " covers the outer layer. " }, { text: "Why infused products burn differently", href: "/infusion/why-infused-burns-differently" }, { text: " explains how heat moves through the result." }]] }, { heading: "Why infused formats list different numbers", paragraphs: [[{ text: "A label reflects that one format's construction, so an infused blunt, pre-roll and Moon Rock carry different figures even when they share a strain name; see " }, { text: "how infused pre-roll label figures are read", href: "/formats/infused-pre-rolls" }, { text: ". " }, { text: "Cannabinoid content by format", href: "/infusion/potency-by-format" }, { text: " explains how to read those figures without predicting effects." }]] }, { heading: "Infusion step by step", paragraphs: [[{ text: "Infusion starts with a base material and a concentrate, with controlled temperature and viscosity, and results are judged by distribution. The " }, { text: "step-by-step guide to how infusion works", href: "/infusion/how-infusion-works" }, { text: " walks through each stage, and the " }, { text: "science of THC hub", href: "/science" }, { text: " covers the plant chemistry behind it." }]] }, { heading: "Are infused flower and moon rocks the same thing?", paragraphs: [[{ text: "Not quite. Infused flower is any flower with concentrate added at a chosen depth, from a " }, { text: "surface coating to a more saturated build", href: "/infusion/surface-vs-saturation" }, { text: ". A moon rock is one specific infused build: flower for structure, concentrate as the interface and adhesive, and a kief coat finishing the surface. Every moon rock is infused flower, but not every infused flower has a kief finish. Read the label for the tested values of that format. See " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: " or " }, { text: "the moon rock format", href: "/formats/moon-rocks" }, { text: "." }]] }],
     },
     {
       id: "burn-behavior",
@@ -48,16 +48,16 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Adding concentrate changes density, airflow, and heat retention. Those variables explain why infused flower often lights more slowly, may need a relight, and can burn unevenly if concentrate is concentrated on one side. Tunneling describes a hot path through the center, while canoeing describes one side advancing faster than the other.",
         "Good distribution cannot repeal those physical differences, but it can make them more manageable. The burn is the clearest practical test of whether the infusion was treated as a system.",
-        "The infused burn guide connects density, airflow, heat retention, tunneling, and canoeing to distribution. Treat burn behavior as a construction check under heat, not as a potency substitute.",
+        "The infused burn guide connects density, airflow, heat retention, tunneling, and canoeing to distribution. Treat burn behavior as a construction check under heat, not as a cannabinoid substitute.",
       ], subsections: [{ heading: "Smoking an infused jar the right way", paragraphs: [[{ text: "Infused flower burns differently from plain flower. " }, { text: "Smoking Moon Rocks step by step", href: "/guides/how-to-smoke-moon-rocks" }, { text: " and the " }, { text: "heat and temperature guide", href: "/guides/temperature-guide" }, { text: " cover the practical side." }]] }, { heading: "Infusion and heat chemistry", paragraphs: [[{ text: "Heat changes what an infusion carries. Read " }, { text: "what heat does to THCA", href: "/science/decarboxylation" }, { text: " and " }, { text: "cannabinoids a lab report tracks", href: "/science/cannabinoids" }, { text: "." }]] }],
     },
     {
       id: "potency-by-format",
-      heading: "Potency by format",
+      heading: "Cannabinoid content by format",
       paragraphs: [
         "Flower, concentrate coatings, finished moon rocks and THCa-rich materials are different samples. Their reported THC and other cannabinoid values belong to the specific tested batch and should not be treated as interchangeable category figures.",
         "A layered format lands between its inputs because each layer contributes according to its share of the total weight. The label and batch report, not the strongest ingredient named in the construction, describe the finished product.",
-        "The potency-by-format guide keeps those sample identities separate so a strong ingredient figure is not assigned to the whole piece.",
+        "The cannabinoid-content-by-format guide keeps those sample identities separate so a strong ingredient figure is not assigned to the whole piece.",
       ],
     },
     {
@@ -82,7 +82,7 @@ export const infusionHub: PageContent = {
       id: "use-the-hub-in-order",
       heading: "Use the hub in a practical order",
       paragraphs: [
-        "Start with the product identity, identify the base and added material, then read the guide that matches the question. The construction guide covers process, the coating comparison covers depth, the kief reference covers loose trichome material, and the burn guide covers airflow. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
+        "Start with the product identity, identify the base and added material, then read the guide that matches the question. The construction guide covers process, the coating comparison covers depth, the kief reference covers loose trichome material, and the burn guide covers airflow. The cannabinoid-content-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
         "Presidential THC publishes this hub as a chemistry and construction reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch identifiers carry different information. Keeping those terms separate lets the reader move from construction to label evidence without turning the brand name into a cultivar claim.",
       ], subsections: [{ heading: "Infusion and state guides", paragraphs: [[{ text: "Infusion works the same way, and the rules change by market. See " }, { text: "the California THC state guide", href: "/states/california" }, { text: ", " }, { text: "the Michigan THC state guide", href: "/states/michigan" }, { text: " and " }, { text: "the New York THC state guide", href: "/states/new-york" }, { text: "." }]] }],
     },
@@ -90,15 +90,15 @@ export const infusionHub: PageContent = {
       id: "choose-which-infusion-guide",
       heading: "Choose the infusion guide that matches the next question",
       paragraphs: [
-        "Use this hub as a map, not as a checklist that must be completed in one sitting. If viscosity, temperature, and layer order are next, open the how infusion works page. If exterior coating versus deeper travel through flower is next, open the surface-versus-saturation page. If collected trichomes and the finishing coat are next, open the kief and trichomes page. If density, airflow, and uneven ember paths are next, open the infused burn page. If sample identity and weighted blends are next, open the potency-by-format page.",
-        "Naming the construction question first keeps a burn cue from being mistaken for a potency figure, and keeps a glossy exterior from being mistaken for deep saturation. The science, formats, and guides sections pick up when the next question leaves infusion construction.",
+        "Use this hub as a map, not as a checklist that must be completed in one sitting. If viscosity, temperature, and layer order are next, open the how infusion works page. If exterior coating versus deeper travel through flower is next, open the surface-versus-saturation page. If collected trichomes and the finishing coat are next, open the kief and trichomes page. If density, airflow, and uneven ember paths are next, open the infused burn page. If sample identity and weighted blends are next, open the cannabinoid-content-by-format page.",
+        "Naming the construction question first keeps a burn cue from being mistaken for a cannabinoid figure, and keeps a glossy exterior from being mistaken for deep saturation. The science, formats, and guides sections pick up when the next question leaves infusion construction.",
       ],
     },
     {
       id: "what-this-hub-does-not-do",
       heading: "What this hub does not do",
       paragraphs: [
-        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of cannabis infusion by distribution, depth, trichome finishing, burn mechanics, and weighted potency.",
+        "This hub does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of cannabis infusion by distribution, depth, trichome finishing, burn mechanics, and weighted cannabinoid content.",
       ],
     },
     {
@@ -106,7 +106,7 @@ export const infusionHub: PageContent = {
       heading: "A visible cue stops at its own layer",
       paragraphs: [
         "A cut section answers a placement question only. It can show whether concentrate stayed near the outside or traveled farther through the flower, and it can show material that ran away from the intended area or collected in pockets. It does not prove the kief coat is even, and it does not assign the finished piece the cannabinoid figure of its strongest input. Composition still comes from the label and the batch report.",
-        "The coat and the ember stop at their own questions too. A uniform kief layer can show a recognizable exterior and a surface that is easier to handle; bare patches or thick clumps suggest the finishing layer was not evenly applied. Neither reading proves saturation underneath. A slower light, a relight, tunneling, or canoeing describes density, airflow, and heat retention under heat. Those burn cues are not a potency figure. The finished format still lands between its inputs by weight share, and this batch can still differ because placement, flower structure, format size, and storage condition belong to the piece being examined.",
+        "The coat and the ember stop at their own questions too. A uniform kief layer can show a recognizable exterior and a surface that is easier to handle; bare patches or thick clumps suggest the finishing layer was not evenly applied. Neither reading proves saturation underneath. A slower light, a relight, tunneling, or canoeing describes density, airflow, and heat retention under heat. Those burn cues are not a cannabinoid figure. The finished format still lands between its inputs by weight share, and this batch can still differ because placement, flower structure, format size, and storage condition belong to the piece being examined.",
       ],
     },
   ],
@@ -133,7 +133,7 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/infusion/potency-by-format",
-      label: "Compare potency by format",
+      label: "Compare cannabinoid content by format",
       description: "Put flower, concentrate, moon rocks, and THCa diamonds on one careful scale.",
     },
   ],
@@ -182,7 +182,7 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/infusion/potency-by-format",
-      anchor: "potency-by-format guide",
+      anchor: "cannabinoid-content-by-format guide",
       sectionId: "potency-by-format",
       paragraphIndex: 2,
     },
@@ -212,7 +212,7 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/infusion/potency-by-format",
-      anchor: "potency-by-format guide",
+      anchor: "cannabinoid-content-by-format guide",
       sectionId: "use-the-hub-in-order",
       paragraphIndex: 0,
     },
@@ -248,7 +248,7 @@ export const infusionHub: PageContent = {
     },
     {
       href: "/infusion/potency-by-format",
-      anchor: "potency-by-format page",
+      anchor: "cannabinoid-content-by-format page",
       sectionId: "choose-which-infusion-guide",
       paragraphIndex: 0,
     },
@@ -432,7 +432,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Surface-coated infusion keeps most of the concentrate near the outside of the flower, while saturated infusion carries it farther through the flower structure. The difference changes where added material is concentrated, how much process control the construction requires, and how evenly heat and air can move once the product is lit.",
       "These are not rigid categories. Many infused products land between them, with some material penetrating the flower and some remaining at the surface. The useful comparison is therefore a spectrum of distribution rather than a choice between two labels.",
-      "This page is for adults twenty-one and older. It compares coating with deeper saturation, how each tends to look and burn, how potency is distributed, and when each approach is typically used—educational construction framing, not medical advice or dosing.",
+      "This page is for adults twenty-one and older. It compares coating with deeper saturation, how each tends to look and burn, how cannabinoid content is distributed, and when each approach is typically used—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -473,9 +473,9 @@ export const infusionArticles: PageContent[] = [
       },
       {
         id: "potency-distribution",
-        heading: "How potency is distributed across the piece",
+        heading: "How cannabinoid content is distributed across the piece",
         paragraphs: [
-          "Distribution and finished potency answer different questions. Finished potency is a weight-share blend of every material in the tested sample; distribution describes where those materials sit. The same concentrate mass can yield a similar whole-piece average whether it sits mostly outside or travels farther in.",
+          "Distribution and finished cannabinoid content answer different questions. Finished cannabinoid content is a weight-share blend of every material in the tested sample; distribution describes where those materials sit. The same concentrate mass can yield a similar whole-piece average whether it sits mostly outside or travels farther in.",
           "Local concentration still matters. In a surface-heavy build, the outer shell can carry more of the added cannabinoid material than the core. In a deeper build, adjacent interior sections should present a closer share of flower and concentrate to heat and air.",
           "A dramatic exterior cannot replace a finished-batch result. The label describes the blend; cut sections and burn behavior show whether the concentrate path matches the named method.",
         ],
@@ -512,7 +512,7 @@ export const infusionArticles: PageContent[] = [
         heading: "The practical conclusion",
         paragraphs: [
           "Surface coating emphasizes a clearly layered exterior and can demand less internal distribution. Saturation aims for a more integrated interior and demands more control over movement through irregular flower. Both approaches still have to solve adhesion, airflow, and even placement.",
-          "The better question is not which label sounds more advanced. It is whether the finished format matches the method claimed: even where it should be even, open enough to burn, and represented by a potency result for the entire blended product. Surface coatings are explained further in the guide to kief and trichomes.",
+          "The better question is not which label sounds more advanced. It is whether the finished format matches the method claimed: even where it should be even, open enough to burn, and represented by a cannabinoid result for the entire blended product. Surface coatings are explained further in the guide to kief and trichomes.",
         ],
       },
     ],
@@ -541,7 +541,7 @@ export const infusionArticles: PageContent[] = [
       { href: "/guides/what-to-look-for", anchor: "checking a kief coat against the label", sectionId: "role-in-infusion-coating", paragraphIndex: 1 },
       {
         href: "/infusion/potency-by-format",
-        anchor: "potency by format",
+        anchor: "cannabinoid content by format",
         sectionId: "read-the-final-layer",
         paragraphIndex: 1,
       },
@@ -614,7 +614,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Kief makes the layered construction readable from the outside. The flower provides the shape, the concentrate creates the middle bond, and the collected trichome material produces the textured finish associated with a moon rock.",
           "Coverage is therefore a quality clue, though not a complete verdict. A uniform coat suggests that the adhesive layer was available across the surface when the kief was applied. Bald areas, heavy ridges, or loose piles may point to uneven concentrate placement or inconsistent finishing.",
-          "The outer appearance cannot prove internal saturation or finished potency. A dense-looking coat describes the surface only. A product's batch documentation is still the proper source for the measured cannabinoid result.",
+          "The outer appearance cannot prove internal saturation or finished cannabinoid content. A dense-looking coat describes the surface only. A product's batch documentation is still the proper source for the measured cannabinoid result.",
         ],
       },
       {
@@ -630,7 +630,7 @@ export const infusionArticles: PageContent[] = [
         id: "job-three-chemical-load",
         heading: "Job three: its own terpene and cannabinoid load",
         paragraphs: [
-          "Because kief comes from resin-bearing trichomes, it contributes more than texture. It carries cannabinoids and terpenes from the source flower into the finished blend. Its share of the total weight is one part of the format's measured potency and aromatic profile.",
+          "Because kief comes from resin-bearing trichomes, it contributes more than texture. It carries cannabinoids and terpenes from the source flower into the finished blend. Its share of the total weight is one part of the format's measured cannabinoid content and aromatic profile.",
           "That contribution should not be confused with a guaranteed percentage. Kief composition varies with the flower and collection. The strongest number named for another ingredient, such as a concentrate coating, cannot simply be assigned to the kief or to the finished moon rock.",
           "Terpenes are volatile, so storage and handling remain important after application. Heat and light take aromatic material first. Keeping the finished format cool and dark protects the layer's character better than leaving it exposed to warmth and bright light.",
         ],
@@ -649,7 +649,7 @@ export const infusionArticles: PageContent[] = [
         heading: "How to read the final layer",
         paragraphs: [
           "Judge the kief coat as part of a three-layer system. Even coverage, attachment under careful handling, and a texture not dominated by plant fragments describe construction—not laboratory composition.",
-          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works. The guide to how moon rocks smoke explains why the outer kief catches first. How labels compare across formats is covered in potency by format.",
+          "The final layer succeeds when it makes the format recognizable, tempers the sticky surface, and adds its share of resin-bearing material without being asked to conceal poor infusion underneath. Kief completes the moon rock, but distribution through the whole product still decides how the format works. The guide to how moon rocks smoke explains why the outer kief catches first. How labels compare across formats is covered in cannabinoid content by format.",
         ],
       },
     ],
@@ -701,7 +701,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Plant material and concentrate do not answer heat the same way. Flower is a porous solid that chars and combusts along surfaces exposed to air. Distillate, resin, and similar concentrates soften, thin, and migrate under heat before they fully participate in combustion—so a coated area can look wet or glossy near the ember while neighboring flower is already ashing.",
           "As oil or resin softens, it can soak into nearby flower, fill small air channels, or pool on a cooler face. Migration changes local density mid-session: an open spot can densify after heat arrives, and a coated spot can thin if concentrate drains away. The burn front is chasing a moving fuel map.",
-          "Kief on the exterior can darken quickly under direct flame while adhesive concentrate underneath is still softening. Melt versus char is a physical difference, not a potency claim—and it helps explain slower lights, sticky ash edges, and why an infused piece often needs a gentler approach than dry flower of the same size.",
+          "Kief on the exterior can darken quickly under direct flame while adhesive concentrate underneath is still softening. Melt versus char is a physical difference, not a cannabinoid claim—and it helps explain slower lights, sticky ash edges, and why an infused piece often needs a gentler approach than dry flower of the same size.",
         ],
       },
       {
@@ -747,7 +747,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "In everyday talk, harsh often bundles several sensations: a hot draw, a scratchy throat feel, dense smoke, or an uneven ember that forces deeper pulls to keep the format lit. Those experiences can share a root in heat, airflow, and construction even when the cause is not one single ingredient.",
           "Hot, rapid combustion through a small open channel can deliver a warmer hit than a slower, wider ember. A concentrate-heavy pocket that needs extra flame can raise local temperature the same way. Restricted airflow from overpacking can make each draw feel thicker because more material is heated with less cooling air. So when an infused joint tastes harsher than plain flower, heat and airflow are the first things to check.",
-          "Harsh is a weak label for extract quality or potency by itself. Treat it as a cue to check heat, packing, and distribution—not as a medical diagnosis or a lab substitute.",
+          "Harsh is a weak label for extract quality or cannabinoid content by itself. Treat it as a cue to check heat, packing, and distribution—not as a medical diagnosis or a lab substitute.",
         ],
       },
       {
@@ -780,7 +780,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What burn behavior can and cannot prove",
         paragraphs: [
           "A reasonably even burn is practical evidence that the construction, packing, light, and airflow are working together. Frequent severe runs, dense plugs, or repeated heavy pockets are reasons to examine distribution more closely.",
-          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. How labels compare across formats is covered in potency by format.",
+          "Burn behavior does not measure cannabinoid content, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. How labels compare across formats is covered in cannabinoid content by format.",
         ],
       },
     ],
@@ -789,7 +789,7 @@ export const infusionArticles: PageContent[] = [
       { href: "/science/live-rosin", anchor: "Live rosin is pressed with heat instead of solvents", sectionId: "concentrate-type-and-burn", paragraphIndex: 1 },
       {
         href: "/infusion/potency-by-format",
-        anchor: "potency by format",
+        anchor: "cannabinoid content by format",
         sectionId: "what-a-burn-can-prove",
         paragraphIndex: 1,
       },
@@ -883,14 +883,14 @@ export const infusionArticles: PageContent[] = [
     sections: [
       {
         id: "comparison-table",
-        heading: "Potency ranges at a glance",
+        heading: "Cannabinoid ranges at a glance",
         paragraphs: [
           "These values describe different inputs and finished formats. “As high as” is a ceiling, not a batch promise.",
           "Read the rows as a continuum rather than a ranking. Flower sits at the structural base; concentrate coatings and THCa-rich inputs sit farther toward concentrated material. Finished moon rocks land between those poles because they combine layers with different compositions and weight shares.",
           "Moving from flower toward concentrate usually increases cannabinoid share per unit of mass, but only the finished-batch result states what a specific layered product measured.",
         ],
         table: {
-          caption: "How to read potency information by cannabis material or format",
+          caption: "How to read cannabinoid information by cannabis material or format",
           headers: ["Material or format", "Reference to use", "How to read it"],
           rows: [
             ["Flower", "Batch label or test record", "The structural base used in an infused format"],
@@ -905,7 +905,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Why the three layer percentages do not add",
         paragraphs: [
           "A moon rock contains flower, concentrate, and kief. Adding those percentages ignores each layer's mass and can produce a result with no physical meaning. A small amount of high-percentage concentrate cannot make the entire object equal to the concentrate's percentage.",
-          "The correct idea is a weighted blend. For each layer, multiply its potency by its share of the finished weight. Add those contributions, then divide by the total weight. In compact form: finished potency equals the sum of each layer's potency times its mass, divided by the total mass.",
+          "The correct idea is a weighted blend. For each layer, multiply its cannabinoid content by its share of the finished weight. Add those contributions, then divide by the total weight. In compact form: finished cannabinoid content equals the sum of each layer's cannabinoid content times its mass, divided by the total mass.",
           "The flower and kief remain part of the denominator even when a concentrate input reports a higher cannabinoid value. The coating can raise the blend, but it does not erase the mass of the other layers or substitute for a finished-batch result.",
           "That arithmetic is also why a lab percentage alone can mislead. A number without sample identity—input versus finished format, THCa versus Total THC, layer versus whole—invites assigning the strongest printed figure to the entire piece.",
         ],
@@ -923,9 +923,9 @@ export const infusionArticles: PageContent[] = [
         id: "flower-is-the-base",
         heading: "Flower sets the base",
         paragraphs: [
-          "Flower supplies the structure of a moon rock and much of its total mass. Its measured composition belongs to the source batch, and potency is only one of the jobs the base performs.",
+          "Flower supplies the structure of a moon rock and much of its total mass. Its measured composition belongs to the source batch, and cannabinoid content is only one of the jobs the base performs.",
           "Starting flower still matters after infusion. If two constructions use the same concentrate amount and type but begin with flower at different measured percentages, finished weighted results differ. The final-batch label accounts for that; a generic format range cannot.",
-          "The flower figure should also be read as a range rather than a fixed definition. “Flower” identifies plant material, not one universal potency. Batch testing is what turns that broad category into a number for a specific product.",
+          "The flower figure should also be read as a range rather than a fixed definition. “Flower” identifies plant material, not one universal cannabinoid content. Batch testing is what turns that broad category into a number for a specific product.",
         ],
       },
       {
@@ -934,7 +934,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "A concentrate coating can increase the amount of measured cannabinoid material relative to the finished mass. It also acts as the adhesive for a kief coat in a classic three-layer construction, but its input result cannot be assigned to the finished product.",
           "The coating's share of total weight determines how strongly its number pulls the blend upward. A thin application and a heavy application cannot be assumed to produce the same final percentage, even from the same concentrate source batch.",
-          "Distribution changes construction and burn behavior, but not the arithmetic rule. The same concentrate mass in one thick pocket or spread evenly contributes the same theoretical weight; the even build may behave more consistently, while finished potency still requires testing.",
+          "Distribution changes construction and burn behavior, but not the arithmetic rule. The same concentrate mass in one thick pocket or spread evenly contributes the same theoretical weight; the even build may behave more consistently, while finished cannabinoid content still requires testing.",
         ],
       },
       {
@@ -970,14 +970,14 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "First identify whether the number refers to THC, THCa, Total THC, total cannabinoids, or one ingredient. Then check whether it describes raw material or the finished format. A concentrate input percentage belongs to the input; a moon rock batch result belongs to the complete three-layer blend.",
           "Next look for the batch-specific measurement rather than relying on a category ceiling. The same caution applies to flower, coatings, finished moon rocks and THCa-rich materials.",
-          "Finally, keep potency separate from construction quality. A percentage describes measured composition; distribution, adhesion, airflow, and burn behavior describe how the format was built. Compare matching scopes: flower against flower, input against input, finished blend against finished blend.",
+          "Finally, keep cannabinoid content separate from construction quality. A percentage describes measured composition; distribution, adhesion, airflow, and burn behavior describe how the format was built. Compare matching scopes: flower against flower, input against input, finished blend against finished blend.",
         ],
       },
       {
         id: "read-potency-with-infusion",
         heading: "More infusion guides",
         paragraphs: [
-          "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic. Handling is a separate question, covered in how to smoke cannabis moon rocks.",
+          "This article keeps cannabinoid content in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic. Handling is a separate question, covered in how to smoke cannabis moon rocks.",
           "The Presidential THC format overview sets each construction beside the others. The finishing layer is explained in the guide to kief and trichomes.",
         ],
       },
@@ -986,7 +986,7 @@ export const infusionArticles: PageContent[] = [
       {
         href: "/infusion",
         label: "Return to the infusion reference map",
-        description: "Put potency beside distribution, kief, and burn mechanics.",
+        description: "Put cannabinoid content beside distribution, kief, and burn mechanics.",
       },
       {
         href: "/infusion/how-infusion-works",
@@ -995,7 +995,7 @@ export const infusionArticles: PageContent[] = [
       },
       {
         href: "/infusion/surface-vs-saturation",
-        label: "Separate potency from placement",
+        label: "Separate cannabinoid content from placement",
         description: "Understand why the same ingredients can be distributed in different ways.",
       },
     ],
