@@ -625,6 +625,7 @@ export const howToStoreInfusedCannabis: PageContent = {
 export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
   contextualLinks: [
+    { href: "/science/live-resin", anchor: "fresh-frozen, low-temperature process", sectionId: "matching-extracts", paragraphIndex: 1 },
     { href: "/science/live-rosin", anchor: "Live rosin, the ice-water-and-press extract", sectionId: "matching-extracts", paragraphIndex: 0 },
     { href: "/science/decarboxylation", anchor: "THCa-to-THC conversion by heat", paragraphIndex: 2 },
     {
