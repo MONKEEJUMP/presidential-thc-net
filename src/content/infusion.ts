@@ -763,7 +763,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Does the type of concentrate change how an infused joint burns?",
         paragraphs: [
           "The rule on this page holds for every type. Distillate, resin, rosin, and hash-oil style inputs soften, thin, and migrate under heat before they fully burn, while flower chars along the surfaces exposed to air. How much that changes the burn depends on how much concentrate is present and where it sits, not on the extract's name, and the same holds whether it sits in a joint, a blunt, or a moon rock.",
-          "What changes with type is what else travels in the oil. Distillate is a refined, cannabinoid-rich fraction that is often nearly odorless, so aroma is often added back as terpenes. Live resin keeps a wider set of plant compounds, including aromatic fractions that can make it more temperature-sensitive. Live rosin is pressed with heat instead of solvents. The label names the concentrate, and the batch record, not the burn, gives the cannabinoid content. Each of these cannabis extracts has its own page in the science hub.",
+          "What changes with type is what else travels in the oil. Distillate is a refined, cannabinoid-rich fraction that is often nearly odorless, so aroma is often added back as terpenes. Live resin, a fresh-frozen extract, keeps a wider set of plant compounds, including aromatic fractions that can make it more temperature-sensitive. Live rosin is pressed with heat instead of solvents. The label names the concentrate, and the batch record, not the burn, gives the cannabinoid content. Each of these cannabis extracts has its own page in the science hub.",
         ],
       },
       {
@@ -784,6 +784,7 @@ export const infusionArticles: PageContent[] = [
       },
     ],
     contextualLinks: [
+      { href: "/science/live-resin", anchor: "Live resin, a fresh-frozen extract", sectionId: "concentrate-type-and-burn", paragraphIndex: 1 },
       { href: "/science/live-rosin", anchor: "Live rosin is pressed with heat instead of solvents", sectionId: "concentrate-type-and-burn", paragraphIndex: 1 },
       {
         href: "/infusion/potency-by-format",
