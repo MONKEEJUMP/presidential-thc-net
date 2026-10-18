@@ -28,7 +28,7 @@ export const statesPages: PageContent[] = [
         "heading": "Why every state gets its own reference",
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
-          "California opened early and built the deepest shelf in the country. Oklahoma created one of the most accessible patient programmes anywhere. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
+          "California opened early and built a deep, varied shelf. Oklahoma created an accessible patient programme. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
           "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
           "That is why this hub emphasises process over a single national story. Each state page covers how that market works."
         ],
@@ -883,8 +883,8 @@ export const statesPages: PageContent[] = [
     "kind": "article",
     "silo": "states",
     "h1": "Presidential THC in Michigan",
-    "title": "Most Competitive Adult-Use Market in Michigan",
-    "description": "Michigan runs the most competitive adult-use market in America, with real value on the shelf. How it works, and where Presidential is carried.",
+    "title": "Competitive Adult-Use Market in Michigan",
+    "description": "Michigan runs a competitive adult-use market in America, with real value on the shelf. How it works, and where Presidential is carried.",
     "wordTarget": [
       1100,
       1250
@@ -896,7 +896,7 @@ export const statesPages: PageContent[] = [
         "heading": "How cannabis works in Michigan",
         "paragraphs": [
           "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
-          "Michigan also permits home cultivation, which most legal states do not. Residents may grow a limited number of plants for personal use in an enclosed, locked space. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
+          "Michigan also permits home cultivation. Residents may grow a limited number of plants for personal use in an enclosed, locked space. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
           "The state's licensing has been comparatively accessible from the start, and the retail network reaches well beyond the major cities into towns that would not have a dispensary in most states. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which towns carry which brands on any given week."
         ]
@@ -1173,9 +1173,9 @@ export const statesPages: PageContent[] = [
         "id": "the-original-market",
         "heading": "The market that wrote the rulebook",
         "paragraphs": [
-          "More than a decade of regulated retail has made Washington one of the most established cannabis markets anywhere in the world.",
+          "More than a decade of regulated retail has made Washington an established cannabis market.",
           "Washington's regulators were writing rules before anyone had a working model to copy. Washington built its testing, packaging, licensing and seed-to-sale rules early in legal adult use.",
-          "The state has been running a legal, tested, regulated market longer than almost anywhere on earth, and that experience shows in how smoothly it operates. When a buyer asks for a batch certificate, expects clear package labelling, or assumes the shop is in a public licence registry, those expectations were normalised here early.",
+          "The state has been running a legal, tested, regulated market for more than a decade, and that experience shows in how smoothly it operates. When a buyer asks for a batch certificate, expects clear package labelling, or assumes the shop is in a public licence registry, those expectations were normalised here early.",
           "For a reference reader, the practical takeaway is simple: Washington is not a speculative new market learning its first compliance lesson. It is a mature adult-use framework whose basic rules other states studied and adapted. That history does not answer every local question by itself — hours, stock, and municipal details still belong to the retailer and the current licence record — but it does explain why Washington pages emphasise process over novelty."
         ]
       },
