@@ -82,7 +82,7 @@ export const infusionHub: PageContent = {
       id: "use-the-hub-in-order",
       heading: "Use the hub in a practical order",
       paragraphs: [
-        "Start with the product identity, identify the base and added material, then read the guide that matches the question. Process questions belong with the construction guide; depth questions belong with the coating comparison; loose trichome material belongs with the kief reference; and airflow questions belong with the burn guide. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
+        "Start with the product identity, identify the base and added material, then read the guide that matches the question. The construction guide covers process, the coating comparison covers depth, the kief reference covers loose trichome material, and the burn guide covers airflow. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
         "Presidential THC publishes this hub as a chemistry and construction reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch identifiers carry different information. Keeping those terms separate lets the reader move from construction to label evidence without turning the brand name into a cultivar claim.",
       ],
     },
@@ -837,6 +837,7 @@ export const infusionArticles: PageContent[] = [
   {
     path: "/infusion/potency-by-format",
     contextualLinks: [
+      { href: "/science/decarboxylation", anchor: "the decarboxylation reference", paragraphIndex: 0 },
       { href: "/science/cannabinoids", anchor: "the CBD, CBG and CBN panel guide", paragraphIndex: 1 },
       {
         href: "/infusion/kief-and-trichomes",
@@ -871,7 +872,7 @@ export const infusionArticles: PageContent[] = [
       "A careful potency comparison across flower, concentrate coatings, moon rocks, and THCa diamonds, with weighted-blend math.",
     wordTarget: [1100, 1250],
     intro: [
-      "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass.",
+      "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass. How heat turns THCa into THC is covered in the decarboxylation reference.",
       "The format name tells you how the material is constructed. The batch label tells you what that particular finished product measured. Reading both prevents the highest ingredient percentage from being mistaken for the percentage of the whole. The minor rows on the same label are covered in the CBD, CBG and CBN panel guide.",
       "This page is for adults twenty-one and older. It maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing.",
     ],

@@ -18,7 +18,7 @@ export const pillarPage: PageContent = {
       id: "what-is-presidential-thc",
       heading: "Brand framework, not a strain or a measurement",
       paragraphs: [
-        "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate and finished with kief or diamonds. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
+        "Presidential THC describes the brand's infusion framework: cannabis flower carried through with concentrate, with a kief or diamond finish. Cultivar names identify the flower used in a product; Presidential THC identifies the brand and the technical subject explained on this site.",
         "“World's Strongest” is Presidential's brand slogan, not a measurement. Actual cannabinoid information remains product- and batch-specific. Read the current package and associated test record instead of assigning one category-wide percentage to every Presidential product.",
         "Presidential THC is the publisher for this chemistry and craft library. It is not a single cannabis strain, a catalog SKU, or a substitute for a licensed retailer listing. Keep brand, cultivar, extract, package, and batch names as separate kinds of information so a label claim is not read as shelf status.",
       ],
@@ -82,7 +82,7 @@ export const pillarPage: PageContent = {
       id: "official-reference",
       heading: "Use the official Presidential references",
       paragraphs: [
-        "This site stays focused on Presidential THC chemistry, infusion, extracts, labels, formats, and practical product-reading fundamentals: start with the science hub, the infusion hub, or the formats hub.",
+        "Start with the science hub, the infusion hub, or the formats hub.",
         "Presidential operates through licensed cannabis retailers rather than direct online cannabis sales. Availability varies by market, retailer, product, and date, so confirm the current selection with a licensed retailer. Adults 21+ where legal.",
         "For who publishes this reference, see the about page.",
       ],

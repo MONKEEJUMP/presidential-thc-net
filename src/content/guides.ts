@@ -625,6 +625,7 @@ export const howToStoreInfusedCannabis: PageContent = {
 export const temperatureGuide: PageContent = {
   path: "/guides/temperature-guide",
   contextualLinks: [
+    { href: "/science/decarboxylation", anchor: "THCa-to-THC conversion by heat", paragraphIndex: 2 },
     {
       href: "/science/thca-vs-thc",
       anchor: "THCa versus THC",
@@ -648,7 +649,7 @@ export const temperatureGuide: PageContent = {
   intro: [
     "Start an adjustable device low and work upward in small steps. Rosin belongs at the lower end of the practical range, resin in the middle, and diamond-based material higher, but a boiling-point chart does not translate directly into a perfect device setting. Heat level, exposure time, hardware, and the extract itself all shape what happens.",
     "A 2022 study supplied for this project found that vaporizers operating well below listed boiling points could still evaporate compounds almost completely over time. Boiling point marks where a compound leaves quickly, not the first temperature at which it can leave.",
-    "This page is for adults twenty-one and older who want an educational operating routine, not medical advice or guaranteed effects. Keep the product label and device instructions nearby, follow local law, and treat each extract and hardware combination as its own controlled comparison instead of copying one setting across formats.",
+    "This page is for adults twenty-one and older who want an educational operating routine, not medical advice or guaranteed effects. Keep the product label and device instructions nearby, follow local law, and treat each extract and hardware combination as its own controlled comparison instead of copying one setting across formats. For the chemistry behind the heat ranges, see THCa-to-THC conversion by heat.",
   ],
   sections: [
     {

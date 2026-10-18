@@ -433,6 +433,7 @@ export const scienceExtractPages: PageContent[] = [
   {
     path: "/science/live-resin",
     contextualLinks: [
+    { href: "/science/decarboxylation", anchor: "how decarboxylation works", paragraphIndex: 1 },
     ],
     kind: "article",
     silo: "science",
@@ -443,7 +444,7 @@ export const scienceExtractPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       "Live resin is a cannabis extract made from material that is flash-frozen at harvest instead of being dried and cured first. It is processed cold in a closed-loop hydrocarbon system and then vacuum-purged, with the method designed to retain more of the volatile aromatic profile present near harvest.",
-      "The word live refers to the condition of the starting material, not to a living finished product. The extract is defined by fresh-frozen feedstock and temperature-controlled processing; potency, color, or texture alone cannot establish that identity.",
+      "The word live refers to the condition of the starting material, not to a living finished product. The extract is defined by fresh-frozen feedstock and temperature-controlled processing; potency, color, or texture alone cannot establish that identity. What heat then does to its THCa is explained in how decarboxylation works.",
       "The category name therefore joins two claims. Live points to harvest handling that skips ordinary dry-and-cure time. Resin points to a solvent extraction route rather than a wash-and-press path. Changing either claim changes the production history the label is meant to describe.",
     ],
     sections: [

@@ -91,7 +91,7 @@ export const statesPages: PageContent[] = [
         "id": "what-stays-the-same",
         "heading": "What stays the same everywhere",
         "paragraphs": [
-          "The chemistry and construction do not change at a state line. Flower carried through with concentrate, finished with kief or diamonds, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
+          "The chemistry and construction do not change at a state line. Flower carried through with concentrate, with a kief or diamond finish, across four formats — Moon Rocks, infused pre-rolls, tobacco-free blunts and minis.",
           "The catalog does not change either: the full catalog across its groupings, organised by the extract behind them rather than by price.",
           "What changes is the route to the shelf, and that is what these state references cover. Series names such as Silver, Gold, and Rose Gold still point to extract routes rather than to state-specific recipes, so format questions are answered in the science and formats hubs."
         ],
@@ -109,7 +109,7 @@ export const statesPages: PageContent[] = [
         "id": "same-product-different-door",
         "heading": "Identical product, different door",
         "paragraphs": [
-          "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate and finished with kief or diamonds, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for every state market. The catalog and its groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
+          "Because the product is the same in every market, a state page is not a new recipe. Flower carried through with concentrate, with a kief or diamond finish, in Moon Rocks, infused pre-rolls, tobacco-free blunts, and minis, is the construction this hub already names for every state market. The catalog and its groupings stay catalog facts. Silver, Gold, and Rose Gold still point to extract routes, not to state-specific formulas.",
           "The door is the part that changes. Adult-use markets in this directory ask for identification and age twenty-one or older at a licensed retailer. Oklahoma asks for a state patient card. That split is an access rule, not a style preference and not a different brand. Past the shared gate, each state still has its own regulator, retail structure, and answer to what a buyer brings through the door, which is why the stories are not one national page. This hub still does not treat fixed door counts, market rankings, or an old menu as proof of today's stock. Read the state page for durable structure, then confirm the licensed listing and the package in hand."
         ],
         "subsections": [{ "heading": "What does a state page add?", "paragraphs": [[{ "text": "A state page explains the market around the product: its regulator, retail structure, and door rule. It does not change the recipe or the catalog. Use the " }, { "text": "formats hub", "href": "/formats" }, { "text": " for construction and the " }, { "text": "science hub", "href": "/science" }, { "text": " for label reading, then open the state page for the market you are checking, such as " }, { "text": "Oklahoma", "href": "/states/oklahoma" }, { "text": " or " }, { "text": "Michigan", "href": "/states/michigan" }, { "text": "." }]] }]
@@ -314,7 +314,7 @@ export const statesPages: PageContent[] = [
         "heading": "A deep, varied shelf",
         "paragraphs": [
           "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing from a wide range of brands.",
-          "That abundance is a real advantage, and it rewards knowing what you are looking at. The difference between two products at the same potency is almost always the extract behind them and how the material was built — which is exactly what the reference guides on this site cover.",
+          "That abundance is a real advantage, and it rewards knowing what you are looking at. Two products at the same potency can still differ in the extract behind them and how the material was built.",
           "California buyers tend to know this. It is one of the few markets where a conversation at the counter is likely to be about live rosin versus live resin rather than about a number on a label.",
           "Depth of shelf is also why verification habits matter here. When a market carries that much catalogue, live licensed-retailer records beat memory, screenshots, and out-of-state menus that may outlive the stock that produced them.",
           "That deep-shelf shape is why this page emphasises process over novelty. An established adult-use market already assumes tested inventory, clear packaging, and a licence you can ask about — habits that matter in Los Angeles, the Bay Area, San Diego, or any licensed community under the same regulated channel."
