@@ -47,7 +47,7 @@ export const statesPages: PageContent[] = [
         "id": "how-presidential-reaches-retail",
         "heading": "How Presidential reaches retail",
         "paragraphs": [
-          "Presidential is a wholesale brand. Every package reaches a customer through a licensed, regulated retailer, which means every package can be traced to a channel that can be verified.",
+          "Presidential is a wholesale brand. Every package reaches a customer through a licensed, regulated retailer.",
           "Retail availability varies by market and changes over time. Use current licensed-retailer listings for each state rather than relying on fixed door counts or market rankings.",
           "That wholesale-to-retail path is why this hub talks about markets rather than shopping carts. A state page can explain access rules and retail structure without claiming that a particular menu line is in stock today. Confirm the licensed door and the package when you are ready to buy."
         ]
@@ -1211,7 +1211,7 @@ export const statesPages: PageContent[] = [
         "heading": "Presidential in Washington",
         "paragraphs": [
           "Presidential is opening in Washington. Licensed retailer listings will publish on the official locator as live records become available.",
-          "Every door that appears on the locator has been verified. That standard holds in every market, and it is what makes the locator worth using. Until a live Washington listing appears, treat any third-party claim, screenshot, or out-of-state menu as unverified for this market.",
+          "Until a live Washington listing appears, treat any third-party claim, screenshot, or out-of-state menu as unverified for this market.",
           "When listings do publish, confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact."
         ]
       },
@@ -1240,7 +1240,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "The official locator reflects live records across every state where Presidential is carried.",
           "The Washington page will show licensed doors as soon as there are doors to show. Use those live records — not archived posts or out-of-state menus — as the last step before you travel.",
-          "Until then, this reference remains the durable context for how Washington adult-use retail works and how Presidential intends to appear in it: through licensed channels only, with verified doors published when they are real. Use the locator for live doors and the package for the final product check. Oklahoma, a medical-card market, is covered in the Oklahoma state guide."
+          "Until then, this reference remains the durable context for how Washington adult-use retail works and how Presidential intends to appear in it: through licensed channels only, with retailer listings published once they exist. Use the locator for live doors and the package for the final product check. Oklahoma, a medical-card market, is covered in the Oklahoma state guide."
         ]
       }
     ],

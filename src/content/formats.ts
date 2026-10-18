@@ -910,6 +910,7 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/vape-cartridges",
     contextualLinks: [
+      { href: "/science/distillate", anchor: "a refined cannabinoid-rich fraction", sectionId: "distillate-versus-live-resin", paragraphIndex: 0 },
       { href: "/", anchor: "the official Presidential THC reference", sectionId: "read-carts-with-formats", paragraphIndex: 0 },
       {
         href: "/formats/mini-blunts",

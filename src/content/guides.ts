@@ -663,7 +663,7 @@ export const temperatureGuide: PageContent = {
         "Keep the table beside the package rather than treating either one as complete. The chemical references explain selected compounds; the label identifies the extract family, formulation, and hardware notes for the product in hand.",
       ],
       table: {
-        caption: "Verified boiling-point references for selected cannabis compounds",
+        caption: "Boiling-point references for selected cannabis compounds",
         headers: ["Compound", "Reference point", "Descriptive note"],
         rows: [
           ["Caryophyllene", "266°F / 130°C", "Peppery; also present in black pepper and cloves"],
