@@ -290,7 +290,7 @@ export const infusionArticles: PageContent[] = [
       { href: "/formats/infused-pre-rolls", anchor: "how an infused pre-roll is built", sectionId: "the-base-and-the-concentrate", paragraphIndex: 2 },
       {
         href: "/infusion/potency-by-format",
-        anchor: "potency by format",
+        anchor: "cannabinoid content by format",
         sectionId: "what-good-infusion-controls",
         paragraphIndex: 1,
       },
@@ -309,9 +309,9 @@ export const infusionArticles: PageContent[] = [
       "How cannabis infusion uses concentrate, controlled viscosity, and careful distribution to build a consistent layered format.",
     wordTarget: [1100, 1250],
     intro: [
-      "Cannabis infusion works by distributing concentrate onto or through flower, where the concentrate contributes potency and can serve as the adhesive for a final kief layer. A sound process controls viscosity, temperature, placement, and layer order so the added material is spread intentionally rather than left in heavy pockets.",
+      "Cannabis infusion works by distributing concentrate onto or through flower, where the concentrate adds cannabinoid content and can serve as the adhesive for a final kief layer. A sound process controls viscosity, temperature, placement, and layer order so the added material is spread intentionally rather than left in heavy pockets.",
       "Infusion is therefore more than putting oil on flower. It is a construction method whose quality becomes visible in a cut section, apparent in handling, and especially clear once heat and airflow begin moving through the product.",
-      "This page is for adults twenty-one and older. It covers coating versus saturation, concentrate types used in infusion, burn and potency changes, and common misconceptions—educational construction framing, not medical advice or dosing.",
+      "For adults 21+. Covers coating versus saturation, concentrate types used in infusion, burn and cannabinoid content changes, and common misconceptions—educational construction framing, not medical advice or dosing.",
     ],
     sections: [
       {
@@ -319,8 +319,8 @@ export const infusionArticles: PageContent[] = [
         heading: "The base and the concentrate",
         paragraphs: [
           "The flower is the structural base. Its shape creates the spaces through which air can move, and its own cannabinoid and terpene profile remains part of the finished material. The concentrate is the added phase. Depending on the format, it may sit mainly on the surface or be carried farther into the flower.",
-          "That concentrate performs two jobs at once. First, it adds a higher-potency component to a lower-potency flower base. Second, it creates the tacky interface that lets loose kief remain attached. In a three-layer moon rock, the sequence is flower, concentrate, then kief. Reversing the last two steps would leave the trichome material without a dependable surface to hold it.",
-          "The finished potency is not the arithmetic sum of the printed percentages for those ingredients. Each layer contributes according to how much of the total weight it represents. The batch result for the finished format is the useful number because it accounts for the actual blend. In a paper roll, those choices show up as how an infused pre-roll is built.",
+          "That concentrate performs two jobs at once. First, it adds a more concentrated component to the flower base. Second, it creates the tacky interface that lets loose kief remain attached. In a three-layer moon rock, the sequence is flower, concentrate, then kief. Reversing the last two steps would leave the trichome material without a dependable surface to hold it.",
+          "The finished cannabinoid content is not the arithmetic sum of the printed percentages for those ingredients. Each layer contributes according to how much of the total weight it represents. The batch result for the finished format is the useful number because it accounts for the actual blend. In a paper roll, those choices show up as how an infused pre-roll is built.",
         ],
       },
       {
@@ -354,7 +354,7 @@ export const infusionArticles: PageContent[] = [
           "Surface coating and saturation are endpoints on a spectrum, not two universal recipes. A surface-focused method makes the outer layer the main location of the concentrate. A deeper method carries concentrate through more of the flower structure. Neither label by itself proves careful work; both still depend on controlled placement.",
           "Coating emphasizes an exterior film that can also hold kief. Saturation moves concentrate along interior paths so a cut section shows more than a shell. Many products sit between those poles: some material penetrates, some stays at the surface.",
           "The Presidential Infusion System is described as carrying distillate through the flower rather than coating only the surface, with a kief or diamond finish applied last. The home page of this reference lays out that flower, concentrate and finish framework across every format. That order keeps the distinction clear: infusion concerns the path of the concentrate, while the final kief or diamond finish completes the exterior.",
-          "Understanding that separation makes product language easier to read. “Infused” identifies the combination of flower and concentrate, but it does not specify depth, uniformity, extract type, or finished potency. Those details have to come from the construction, the label, and the batch documentation.",
+          "Understanding that separation makes product language easier to read. “Infused” identifies the combination of flower and concentrate, but it does not specify depth, uniformity, extract type, or finished cannabinoid content. Those details have to come from the construction, the label, and the batch documentation.",
         ],
       },
       {
@@ -363,16 +363,16 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Infusion does not require one universal extract. Distillate is often chosen for a workable, consistent flow window through flower. Resin-style materials can carry more aromatic character into the added phase, though their handling window can differ from refined distillate.",
           "Crystallized THCa and other high-density inputs sit at the concentrate end of the continuum as separate materials. Their input percentages describe those samples, not the finished layered object. In a classic moon-rock build the middle layer remains a concentrate phase for adhesion and raising the weighted blend.",
-          "Concentrate type changes how viscosity and temperature must be managed, not the rule that finished potency is a weight-share blend. Pair the extract name with sample identity—input versus finished format—so labels stay readable.",
+          "Concentrate type changes how viscosity and temperature must be managed, not the rule that finished cannabinoid content is a weight-share blend. Pair the extract name with sample identity—input versus finished format—so labels stay readable.",
         ], subsections: [{ heading: "Reading infusion details on a state label", paragraphs: [[{ text: "State rules shape what an infused product's label has to print, so the same build can be described a little differently from one market to the next. Look for the concentrate type, the finish, and the batch test results; those three details describe how a product was put together. Ingredients are listed by name, and lab figures follow each batch. The batch figures take some practice to read, and " }, { text: "reading an infused product's lab report", href: "/science/reading-a-lab-report" }, { text: " walks through each line. Whatever the state, keep the label with the product so the batch details stay readable when you check them later." }]] }],
       },
       {
-        id: "what-changes-in-burn-and-potency",
-        heading: "What changes in burn and potency",
+        id: "what-changes-in-burn-and-cannabinoid-content",
+        heading: "What changes in burn and cannabinoid content",
         paragraphs: [
-          "Infusion changes two things readers often mix together. Potency change is measured composition: a higher-percentage concentrate raises cannabinoid share relative to flower alone in proportion to its finished-mass share. Burn change is physics: denser zones, altered airflow, and uneven fuel loads can make heat advance differently than in uncoated flower.",
+          "Infusion changes two things readers often mix together. A change in cannabinoid content is measured composition: a higher-percentage concentrate raises cannabinoid share relative to flower alone in proportion to its finished-mass share. Burn change is physics: denser zones, altered airflow, and uneven fuel loads can make heat advance differently than in uncoated flower.",
           "Even distribution keeps those effects more predictable. The same concentrate mass pooled in one pocket or spread evenly can contribute similarly to a whole-piece average while burning very differently. Tunneling and canoeing warn about local imbalance, not that saturation or coating is inherently better.",
-          "A finished-batch result answers potency for that product. Cross-section, handling, and burn consistency answer construction. Neither substitutes for the other, and neither is medical guidance or a milligram schedule.",
+          "A finished-batch result answers cannabinoid content for that product. Cross-section, handling, and burn consistency answer construction. Neither substitutes for the other, and neither is medical guidance or a milligram schedule.",
         ],
       },
       {
@@ -381,7 +381,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "A glossy coat does not prove deep saturation. Surface shine can come from an exterior film while the interior stays closer to uncoated flower. A cut section and burn behavior beat a single dramatic stripe.",
           "Ingredient percentages do not add into the finished percentage. Flower, concentrate, and kief each keep mass in the denominator. Assigning the strongest input figure to the whole piece is the most common layered-format misread.",
-          "“Infused” is not a potency guarantee, depth claim, or burn promise. It names a construction that combines flower and concentrate. Depth, uniformity, extract type, and the finished-batch number still must be read separately—and none of that is medical advice.",
+          "“Infused” is not a cannabinoid content guarantee, depth claim, or burn promise. It names a construction that combines flower and concentrate. Depth, uniformity, extract type, and the finished-batch number still must be read separately—and none of that is medical advice.",
         ],
       },
       {
@@ -389,7 +389,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What separates controlled infusion from uneven application",
         paragraphs: [
           "A controlled infusion has a defined goal for where the concentrate should go and uses repeatable handling to get it there. The flower remains the structure, the concentrate is distributed as designed, and the kief finishes the surface without hiding obvious defects. The result should be evaluated as one system.",
-          "That system explains why infusion quality cannot be reduced to a potency claim. Potency is one measurement. Distribution, layer adhesion, airflow, and burn consistency describe whether the format was assembled with enough control to make its ingredients behave together. The outer layer is explained in the guide to kief and trichomes. How labels compare across formats is covered in potency by format.",
+          "That system explains why infusion quality cannot be reduced to a cannabinoid content claim. Cannabinoid content is one measurement. Distribution, layer adhesion, airflow, and burn consistency describe whether the format was assembled with enough control to make its ingredients behave together. The outer layer is explained in the guide to kief and trichomes. How labels compare across formats is covered in cannabinoid content by format.",
         ],
       },
     ],
