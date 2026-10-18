@@ -508,7 +508,7 @@ export const statesPages: PageContent[] = [
           "When Presidential product is available through a licensed Oklahoma retailer, the package remains the primary document. Match the product name and format on the menu to the package in hand, then check net weight, ingredient language, cannabinoid information, and the batch or lot identifier.",
           "If a listing, a photo from another market, or a verbal description disagrees with the package, trust the package and the retailer's current inventory. State pages explain market structure; they do not replace the label on the unit you are buying.",
           "That package-first habit fits Oklahoma especially well. A mature, competitive medical market already asks buyers to compare licensed doors carefully — and the sealed package is the last verification step those licensed doors are built around."
-        ]
+        ], "subsections": [{ "heading": "Reading an Oklahoma infused label", "paragraphs": [[{"text": "Oklahoma's medical program requires testing, so an infused product's label carries batch results alongside the product name. On a moon rock, look for the concentrate named on the pack, the kief or diamond finish, and cannabinoid content by batch. Those details describe how the piece was built more clearly than the strain name alone. The "}, {"text": "layered moon rock format guide", "href": "/formats/moon-rocks"}, {"text": " shows how flower, concentrate, and finish stack together. For the numbers themselves, the "}, {"text": "guide to how to read a cannabis lab report", "href": "/science/reading-a-lab-report"}, {"text": " walks through each section of a typical result."}]] }],
       },
       {
         "id": "finding-it",
