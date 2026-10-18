@@ -29,7 +29,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Flower supplies the plant material and physical structure. Concentrate supplies the infused component. Kief or diamonds supply the finishing layer. Kief is collected trichome material. Together they explain the layered construction behind Presidential Moon Rocks and related infused formats.",
         "Distribution and format matter because the final product is more than one ingredient viewed in isolation. A concentrate percentage does not become the finished Moon Rock, pre-roll, blunt, or mini percentage automatically. The tested finished-product label controls the comparison.",
-        "When the next question is how those layers are arranged, how surface coating differs from saturation, or why density changes burn behavior, continue in the infusion hub. That silo keeps construction vocabulary in one place so a format name is not asked to carry every material detail.",
+        "When the next question is how those layers are arranged, how surface coating differs from saturation, or why density changes burn behavior, continue in the infusion hub. The formats section keeps construction vocabulary in one place.",
       ],
     },
     {
@@ -38,7 +38,7 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "The terms distillate, live resin, live rosin, and liquid diamonds describe different extract or formulation contexts. They do not establish a guaranteed potency, flavor, or effect. Use the dedicated science pages for definitions and the current product record for the material identified on a specific package.",
         "A label may report THCa and THC separately. Total THC is commonly calculated as (THCa × 0.877) + THC. That formula explains why a raw THCa value and a lower Total THC value can both describe the same tested material. Always match the calculation to the correct batch record.",
-        "Open the science hub when an unfamiliar cannabinoid, terpene, extract, or laboratory term appears. Child pages separate THCa from THC, explain decarboxylation, map cannabinoid panels, and show how to read a Certificate of Analysis without treating a headline percentage as interchangeable chemistry.",
+        "Open the science hub when an unfamiliar cannabinoid, terpene, extract, or laboratory term appears. The science guides separate THCa from THC, explain decarboxylation, map cannabinoid panels, and show how to read a Certificate of Analysis.",
       ],
       subsections: [{ heading: "Reading extract terms on vape products", paragraphs: [[{ text: "Vape searches usually come down to extract type. Terms such as distillate, live resin, live rosin, and liquid diamonds describe formulation contexts, not a promise about any one product. This reference doesn't list live inventory or confirm which vape products or hardware a retailer stocks, so treat it as a vocabulary guide: learn what each extract term means, then match it to the batch-specific label on the package you're holding. Total THC on that label comes from the product's own test, not from the extract name. For the flower-based options, compare the " }, { text: "infused flower formats", href: "/formats" }, { text: ", or start with " }, { text: "the beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: "." }]] }],
     },
@@ -48,7 +48,8 @@ export const pillarPage: PageContent = {
       paragraphs: [
         "Moon Rocks show the layered flower, concentrate, and kief format directly. Infused pre-rolls place prepared cannabis material inside paper. Presidential Blunts use a tobacco-free hemp wrap, while minis bring the rolled formats into a smaller presentation. Mini blunts keep the same wrap-led blunt architecture at a shorter scale.",
         "Each format has a dedicated reference page covering its physical construction, label vocabulary, and handling considerations. These pages are educational; they do not replace package directions, batch information, or current retailer guidance.",
-        "Use the formats hub as a routing map rather than a ranking. Name the construction first—layered piece, paper-led roll, wrap-led blunt or mini, or extract-plus-hardware cartridge—then open the matching child guide. That habit keeps a cartridge viscosity note from being applied to a coated flower piece.",
+        "Use the formats hub as a routing map rather than a ranking. Name the construction first (layered piece, paper-led roll, wrap-led blunt or mini, or extract-plus-hardware cartridge), then read the matching format guide. That habit keeps a cartridge viscosity note from being applied to a coated flower piece.",
+        "Vape cartridges leave flower and wrap behind and pair an extract with heating hardware; see how cannabis vape cartridges work for the details.",
       ],
     },
     {
@@ -63,7 +64,7 @@ export const pillarPage: PageContent = {
       id: "practical-guides-and-markets",
       heading: "Practical guides and state market context",
       paragraphs: [
-        "Construction and extract terms answer what a product is. Handling questions answer what to check next: a beginner's sequence, moon-rock handling, storage conditions, temperature language, and how to evaluate quality without inventing a single category-wide score. The guides hub collects those practical references so a sealed package can be reviewed with concrete checks.",
+        "Construction and extract terms answer what a product is. Handling questions answer what to check next: a beginner's sequence, moon-rock handling, storage conditions, temperature language, and how to evaluate quality. The guides hub collects those practical references so a sealed package can be reviewed with concrete checks.",
         "Licensed retail context differs by market. The states hub explains how adult-use and medical routes are organized where the brand is carried, without promising a specific package is currently on a given shelf. Use a state page for market context, then confirm live availability with a current licensed retailer.",
         "Keep education separate from inventory. Presidential THC publishes chemistry, construction, format, and handling context; retailers and regulators publish the current local facts. Where an old menu, a search result, and a current licensed source disagree, use the current source.",
       ],
@@ -73,7 +74,7 @@ export const pillarPage: PageContent = {
       heading: "How to use this reference",
       paragraphs: [
         "Start here when you need the broad map, then branch by question type. Science answers definitions and label math. Infusion answers material arrangement. Formats answer physical form. Guides answer handling and evaluation. States answer market structure.",
-        "Within each hub, open the child page that names the next term or format instead of forcing one article to answer every follow-up. Return here whenever the thread becomes broader than a single silo.",
+        "Within each section, read the guide that names the next term or format. Return here whenever a question spans more than one topic.",
         "Read sources in the order closest to the question: the package for batch and ingredient facts, the matching article for construction or vocabulary, and a current licensed source for local availability. That order keeps educational pages useful when product information changes.",
       ],
     },
@@ -103,10 +104,9 @@ export const pillarPage: PageContent = {
     },
     {
       id: "what-this-home-does-not-do",
-      heading: "What this home page does not do",
+      heading: "Where vape cartridges fit beside infused flower",
       paragraphs: [
-        "This home page does not sell products, list live inventory, or replace a licensed retailer. It does not offer medical advice, dosing guidance, or promises about personal effects. It is written for adults twenty-one and older who want a clear educational map of chemistry, construction, formats, handling, and market context around the Presidential Cannabis brand.",
-        "It also does not invent one potency figure for every Presidential format. Construction names, extract vocabulary, and hub links are here so a reader can open the matching reference, then confirm batch facts on the current package or with a licensed retailer.",
+        "Presidential’s infused formats (Moon Rocks, infused pre-rolls, blunts and minis) are built from flower, concentrate and a kief or diamond finish. A vape cartridge works differently: a flowable extract sits in a reservoir and is heated by a core, so there is no flower or wrap. The vape cartridge guide covers hardware, extract families and label reading; the package and a licensed retailer confirm what a specific cartridge contains. This site does not sell products or give dosing guidance.",
       ],
     },
   ],
@@ -139,7 +139,7 @@ export const pillarPage: PageContent = {
     {
       question: "Where are Presidential products sold?",
       answer:
-        "Presidential products are available through licensed retailers. Confirm current availability with the retailer.",
+        "Presidential products are available through licensed retailers. Confirm current availability with the retailer. Presidential operates wholesale, so this site does not sell or ship. Use the state references to see how each licensed market works, then confirm the format and batch on the package at the counter.",
     },
     {
       question: "How should I navigate this reference?",
@@ -148,6 +148,8 @@ export const pillarPage: PageContent = {
     },
   ],
   contextualLinks: [
+    { href: "/formats/vape-cartridges", anchor: "how cannabis vape cartridges work", sectionId: "formats", paragraphIndex: 3 },
+    { href: "/formats/vape-cartridges", anchor: "vape cartridge guide", sectionId: "what-this-home-does-not-do", paragraphIndex: 0 },
     {
       href: "/formats/mini-blunts",
       anchor: "Mini blunts",

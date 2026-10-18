@@ -11,7 +11,7 @@ export const formatsPages: PageContent[] = [
       "Compare moon rocks, infused pre-rolls, tobacco-free blunts, mini blunts, and vape cartridges by construction and format.",
     wordTarget: [1100, 1250],
     intro: [
-      `Infused cannabis formats are different ways of bringing flower and concentrate together, or of placing an extract into cartridge hardware. Moon rocks use three visible layers; pre-rolls, blunts, and minis package infused flower inside a wrap; vape cartridges pair a flowable extract with a heating core. The format determines construction, handling, airflow, and what information matters on the label.`,
+      `Infused cannabis formats are different ways of bringing flower and concentrate together, or of placing an extract into cartridge hardware. Moon rocks use three visible layers; pre-rolls, blunts, and minis package infused flower inside a wrap; vape cartridges pair a flowable extract with a heating core. The format determines construction, handling, airflow, and what information matters on the label. Each format, cartridges included, sits inside the framework explained on the Presidential THC reference home page.`,
       `This hub compares those structures without treating one as universally better. Start with the format you want to understand, then look at its components, distribution of concentrate, package information, and physical condition.`,
       `This hub is for adults twenty-one and older. Keep the package nearby, follow local law, and treat each batch as its own measured sample. Format names describe construction; they are not dosing guidance or medical claims.`,
     ],
@@ -46,7 +46,7 @@ export const formatsPages: PageContent[] = [
         heading: "Mini blunts: the same idea at a shorter scale",
         paragraphs: [
           `A mini blunt keeps the core blunt architecture—wrap, infused cannabis fill, and a finished seam—but reduces the total size. Scaling down changes the ratio among wrap, fill, and airflow, so a mini is more than a full blunt cut in half. Compare dimensions, net contents, construction, and cannabinoid labeling rather than judging it by the name alone.`,
-          `Use the mini blunts guide when length and total material shrink but wrap-led construction remains the point. Compare proportions and package facts rather than inventing a standard mini weight.`,
+          `Use the mini blunts guide when length and total material shrink but wrap-led construction remains the point. Compare proportions and package facts; mini weights vary by product.`,
         ],
       },
       {
@@ -62,7 +62,7 @@ export const formatsPages: PageContent[] = [
         heading: "Compare construction before category names",
         paragraphs: [
           `Names are useful, but the physical build tells you more. For a combustible format, examine wrap integrity, fill uniformity, visible concentrate distribution, and package condition. For a cartridge, examine the reservoir, seals, ingredient statement, and hardware compatibility. In every category, use the labeled batch and cannabinoid information instead of assuming that size, color, or format name guarantees a particular composition.`,
-          `A useful habit is to name the construction first, then open the matching child page. Layered pieces belong with moon rocks; paper-led rolls belong with infused pre-rolls; wrap-led full and mini builds belong with blunts and minis; extract-plus-hardware belongs with cartridges.`,
+          `Name the construction first, then read the matching format guide. Layered pieces belong with moon rocks; paper-led rolls belong with infused pre-rolls; wrap-led full and mini builds belong with blunts and minis; extract-plus-hardware belongs with cartridges.`,
         ],
         subsections: [{ heading: "Which concentrates go into infused formats?", paragraphs: [[{ text: "Infused formats and cartridges use different extracts, and the concentrate is a separate choice from the format. Distillate is a refined cannabinoid-rich fraction that is often nearly odorless on its own. Live resin uses fresh-frozen material to keep more of the volatile fraction. Live rosin is solventless, made from fresh-frozen material washed in ice water and pressed with heat. Read the package for which one is in the product. Keep reading with " }, { text: "what distillate is", href: "/science/distillate" }, { text: ", " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: ", or " }, { text: "how live rosin is made", href: "/science/live-rosin" }, { text: ". For the outer layer of a moon rock, see " }, { text: "kief and trichomes", href: "/infusion/kief-and-trichomes" }, { text: "." }]] }, { heading: "One strain name, different constructions", paragraphs: [[{ text: "A strain name can appear on a moon rock, pre-roll, blunt or mini, but each format is built differently, so read the construction first. Compare the " }, { text: "moon rocks format guide", href: "/formats/moon-rocks" }, { text: ", " }, { text: "infused pre-rolls guide", href: "/formats/infused-pre-rolls" }, { text: ", " }, { text: "blunts format guide", href: "/formats/blunts" }, { text: " and " }, { text: "mini blunts guide", href: "/formats/mini-blunts" }, { text: "." }]] }, { heading: "The extract layer inside each format", paragraphs: [[{ text: "Every infused format carries a concentrate, and the science pages explain what that concentrate is. Read " }, { text: "the distillate guide", href: "/science/distillate" }, { text: ", " }, { text: "the live resin guide", href: "/science/live-resin" }, { text: " and " }, { text: "the live rosin guide", href: "/science/live-rosin" }, { text: ", then see how the outer layer works in " }, { text: "kief and trichomes in infusion", href: "/infusion/kief-and-trichomes" }, { text: "." }]] }],
       },
@@ -96,7 +96,7 @@ export const formatsPages: PageContent[] = [
         heading: "Choose the format guide that matches the next question",
         paragraphs: [
           `Use this hub as a map, not as a checklist that must be completed in one sitting. If the product is layered flower with concentrate and kief, open the moon rocks page. If paper, filter, and fill placement are next, open the infused pre-rolls page. If wrap material and seam are next, open the blunts page. If the same wrap-led idea appears at reduced length, open the mini blunts page. If reservoir, oil, and heater are next, open the vape cartridges page.`,
-          `Naming the construction first keeps a cartridge viscosity note from being applied to a coated flower piece, and keeps a blunt wrap check from being applied to a paper pre-roll. When vocabulary is unclear, return here, identify the build, then branch sideways into the matching child guide.`,
+          `Naming the construction first keeps a cartridge viscosity note from being applied to a coated flower piece, and keeps a blunt wrap check from being applied to a paper pre-roll. When vocabulary is unclear, return here, identify the build, then read the matching format guide.`,
         ],
       },
       {
@@ -151,6 +151,7 @@ export const formatsPages: PageContent[] = [
       },
     ],
     contextualLinks: [
+      { href: "/", anchor: "the Presidential THC reference home page", paragraphIndex: 0 },
       {
         href: "/infusion/potency-by-format",
         anchor: "potency by format",
@@ -390,10 +391,10 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "read-blunts-with-formats",
-        heading: "Read blunts with the rest of the formats silo",
+        heading: "More format guides",
         paragraphs: [
           `This article keeps the blunt in the vocabulary of wrap, fill, seam, infusion placement, and package identity. The mini blunts guide shows how the same wrap-led idea changes when length and total material shrink. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here. The Presidential THC formats guide places blunts beside Moon Rocks, infused pre-rolls, and minis.`,
-          `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Moon rocks move the comparison off the wrap entirely and into layered flower, concentrate, and kief.`,
         ],
       },
       {
@@ -461,7 +462,7 @@ export const formatsPages: PageContent[] = [
         heading: "When the compact format fits better",
         paragraphs: [
           `The practical reason to choose a mini is format size and session structure. A full blunt is built for a longer continuous run of wrap and fill. A mini fits when a shorter single unit better matches the planned session length, shared pacing among fewer people, or a preference for finishing one compact piece rather than managing a longer cylinder.`,
-          `Minis also fit multipack logistics. Several smaller units can let each session start with a fresh sealed or individually protected piece, while a single full blunt commits the entire longer format at once. That is a packaging and pacing distinction, not a claim about effects or precise intake.`,
+          `Minis also fit multipack logistics. Several smaller units can let each session start with a fresh sealed or individually protected piece, while a single full blunt commits the entire longer format at once. That is a packaging and pacing distinction.`,
           `Choose by construction and package facts. If the wrap-led blunt style is the point but the longer body is more material than the session needs, the mini is the size match. Neither size ranks above the other; they answer different unit-scale questions.`,
         ],
       },
@@ -471,7 +472,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `Session pacing here means how continuous burn length and unit count structure a sitting, not how much anyone should consume. A longer blunt creates one extended path from lighting end to mouth end. A mini shortens that path, so the unit ends sooner by construction. That difference is geometry and total material, not a potency ranking. The guide to why infused material burns differently covers the slower catch.`,
           `Sharing changes the arithmetic without changing the rule. Passing a mini among fewer people still finishes the short path faster than sharing a full blunt of greater length and fill. Restarting with another mini from a multipack begins a new sealed or protected unit rather than continuing the same longer cylinder.`,
-          `Do not invent dosing from length or count. Cannabinoid content belongs on the tested label for that batch. Unit size describes how much wrap and fill are present and how long the designed burn path runs; it does not authorize calculating intake targets.`,
+          `Cannabinoid content belongs on the tested label for that batch. Unit size describes how much wrap and fill are present and how long the designed burn path runs; it does not authorize calculating intake targets.`,
         ],
       },
       {
@@ -535,9 +536,9 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "read-minis-with-formats",
-        heading: "Read minis with the rest of the formats silo",
+        heading: "More format guides",
         paragraphs: [
-          `This article keeps the mini blunt in the vocabulary of wrap, fill, seam, reduced scale, infusion placement, session unit length, and package identity. The blunts guide shows the same wrap-led idea at full size. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `This article keeps the mini blunt in the vocabulary of wrap, fill, seam, reduced scale, infusion placement, session unit length, and package identity. The blunts guide shows the same wrap-led idea at full size. The infused pre-rolls guide separates paper-led construction from the heavier wrap emphasized here.`,
         ],
       },
     ],
@@ -683,7 +684,7 @@ export const formatsPages: PageContent[] = [
         paragraphs: [
           `The modern format emerged in California during the 2010s and was popularized by Kurupt’s Moonrock brand. Girl Scout Cookies became the strain most closely associated with early versions. Since then, producers have varied the center flower, concentrate type, kief, and the method used to distribute the infusion.`,
           `Cannabis caviar and moon rocks are related but not interchangeable terms. Caviar is flower coated in oil. A moon rock adds the outer kief layer, making the three-part assembly its defining feature. A product with no kief coat may still be infused flower, but it does not match the full layered definition used here.`,
-          `That distinction matters for reading menus and labels across markets. Some retailers use caviar, moon rocks, and infused flower loosely. Ask for the construction: is there a discrete outer kief coat, or only an oil finish on flower? The answer places the product in this silo’s vocabulary without inventing numbers or ranking one history as superior to another.`,
+          `That distinction matters for reading menus and labels across markets. Some retailers use caviar, moon rocks, and infused flower loosely. Ask for the construction: is there a discrete outer kief coat, or only an oil finish on flower?`,
         ],
       },
       {
@@ -707,10 +708,10 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "read-moon-rocks-with-formats",
-        heading: "Read moon rocks with the rest of the formats silo",
+        heading: "More format guides",
         paragraphs: [
           `This article keeps the moon rock in the vocabulary of flower core, concentrate bond, kief coat, package identity, and handling. Infused pre-rolls and their package figures move the comparison into paper-led construction and infusion placement inside a cylinder. Blunts and mini blunts shift emphasis to wrap-led geometry and seam quality.`,
-          `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Vape cartridges leave layered flower entirely and pair a flowable extract with heating hardware.`,
         ],
       },
     ],
@@ -877,10 +878,10 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "read-infused-pre-rolls-with-formats",
-        heading: "Read infused pre-rolls with the rest of the formats silo",
+        heading: "More format guides",
         paragraphs: [
           `This article keeps the infused pre-roll in the vocabulary of paper, filter, fill, concentrate type, infusion placement, burn geometry, and package identity. Moon rocks move the comparison into layered flower, concentrate, and kief outside a paper cylinder. Mini blunts and full-size blunts shift emphasis to wrap-led construction and seam quality. For hand-rolled papers with moon rock pieces, the smoking moon rocks guide explains the layering method.`,
-          `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware. Stay on presidentialthc.net for education pages in this silo; do not treat lookalike domains as substitutes for these format guides.`,
+          `Vape cartridges leave combustion entirely and pair a flowable extract with heating hardware.`,
         ],
         subsections: [{ heading: "Infused pre-roll, moon rock, or blunt: what changes?", paragraphs: [[{ text: "The construction changes the outside more than the idea inside. An infused pre-roll puts flower and concentrate inside rolling paper, usually with a filter at the mouth end. A moon rock layers flower, concentrate, and kief as a piece outside any paper cylinder, so it's broken up before use rather than ground. Mini and full-size blunts shift the emphasis to a wrap-led build. Whatever the format, check the closed package for product identity, net weight, batch or lot number, and cannabinoid information. Keep reading with " }, { text: "the moon rock format", href: "/formats/moon-rocks" }, { text: ", " }, { text: "the blunt format", href: "/formats/blunts" }, { text: ", or " }, { text: "how to store infused cannabis", href: "/guides/how-to-store-infused-cannabis" }, { text: "." }]] }],
       },
@@ -906,6 +907,7 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/vape-cartridges",
     contextualLinks: [
+      { href: "/", anchor: "the official Presidential THC reference", sectionId: "read-carts-with-formats", paragraphIndex: 0 },
       {
         href: "/formats/mini-blunts",
         anchor: "compact mini format",
@@ -994,9 +996,9 @@ export const formatsPages: PageContent[] = [
       },
       {
         id: "read-carts-with-formats",
-        heading: "Read cartridges with the rest of the formats silo",
+        heading: "More format guides",
         paragraphs: [
-          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. Stay on presidentialthc.net for education in this silo. For a wrap-led roll in a compact mini format, open the mini blunts guide.`,
+          `This article keeps the cartridge in the vocabulary of reservoir, inlet, heating core, oil family, viscosity, power, and package identity. Moon rocks, infused pre-rolls, blunts, and mini blunts stay in flower-and-wrap construction; a cart leaves combustion behind. For the flower, concentrate and kief or diamond framework behind Presidential’s infused formats, start at the official Presidential THC reference. For a wrap-led roll in a compact mini format, open the mini blunts guide.`,
         ],
       },
     ],

@@ -64,7 +64,7 @@ export const scienceCorePages: PageContent[] = [
         id: "ninety-nine-percent",
         heading: "Why 99% THCa is not 99% THC",
         paragraphs: [
-          "THCa crystals can reach 99% purity and above because a growing crystal lattice accepts THCa molecules while solvents, lipids, and other cannabinoids remain in the surrounding liquid. That is a statement about the composition of the crystal before conversion. It is not a statement that all of that mass remains as THC afterward.",
+          "THCa crystals can reach very high THCa purity because a growing crystal lattice accepts THCa molecules while solvents, lipids, and other cannabinoids remain in the surrounding liquid. That is a statement about the composition of the crystal before conversion. It is not a statement that all of that mass remains as THC afterward.",
           "At 99% THCa, the theoretical converted amount is 99 × 0.877, or 86.823% THC. If the report also lists a small amount of THC already present, that amount is added separately. This is why the largest number on a cannabinoid panel may not be the number that best represents the sample after heating.",
           "High THCa purity is therefore useful information about the material as tested, not a promise that the same percentage will appear as THC after heat. Reading the analyte name beside the percentage keeps a purity claim, a converted estimate, and a Total THC line from collapsing into one interchangeable boast.",
         ],
@@ -89,7 +89,7 @@ export const scienceCorePages: PageContent[] = [
       },
       {
         id: "read-with-science-silo",
-        heading: "Read THCa versus THC with the rest of the science silo",
+        heading: "More from the science guides",
         paragraphs: [
           "This article separates the two forms and works the Total THC arithmetic. The decarboxylation page explains the heat-driven reaction that removes the carboxyl group and why temperature and time travel together. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
           "Cannabinoid and terpene pages widen the panel without changing the THCa–THC rule: other analytes stay in their own rows, and boiling-point or volatility references describe evaporation more directly than conversion.",
@@ -228,12 +228,12 @@ export const scienceCorePages: PageContent[] = [
         heading: "What the formula does not measure",
         paragraphs: [
           "The Total THC equation answers a labeling and comparison question. It does not measure how much conversion occurred during one lighter pass, one vaporizer session, or one incomplete heating interval. Incomplete contact, short exposure, or uneven gradients can leave precursor unconverted even when the calculated potential looks high on paper.",
-          "It also does not invent dosing instructions. Chemical potential on a label is a standardized description of measured cannabinoids after the mass adjustment. Personal use decisions, product format choice, and legal limits belong to separate questions that this science page does not answer.",
+          "Chemical potential on a label is a standardized description of measured cannabinoids after the mass adjustment. Personal use decisions, product format choice, and legal limits belong to separate questions that this science page does not answer.",
         ],
       },
       {
         id: "reading-decarb-with-science",
-        heading: "Read decarboxylation with the rest of the science silo",
+        heading: "More from the science guides",
         paragraphs: [
           "This article explains the reaction and the mass factor. The THCa versus THC page works the same 0.877 arithmetic from molecular weights through a full Total THC example. The laboratory-report guide shows where acidic, neutral, and calculated rows appear on a Certificate of Analysis.",
           "Temperature and terpene pages add a second distinction: volatility and boiling-point references describe evaporation more directly than decarboxylation. Keep those verbs separate when comparing extract heat, device settings, and label math.",
@@ -313,7 +313,7 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "Potency occupies visual attention, but a compliance COA can contain much more. California’s Department of Cannabis Control lists required testing categories that include cannabinoids and terpenes, residual solvents and processing chemicals, residual pesticides, heavy metals, microbial impurities, mycotoxins, moisture content and water activity, and foreign material. The COA records a pass or fail for the substances covered by the applicable test.",
           "Check each named section instead of assuming one overall potency result means every compliance category was analyzed. Also distinguish a numeric result, a reporting limit, and a pass/fail conclusion; they answer different questions. A blank field should not be interpreted as zero without the report’s legend explaining what the notation means.",
-          "Residual solvents and processing chemicals appear when extraction or manufacturing can leave solvent residues; pesticide panels list residues the laboratory’s method covers. Neither invents a universal pass/fail threshold—limits belong to the applicable regulatory program and the laboratory’s method, printed on the report. Read the analyte name, the result, the reporting or action limit beside it, and the laboratory’s conclusion. A “not detected” or “below reporting limit” notation is not a blank cell, and a solvents pass does not imply a pesticides pass if that panel was never run.",
+          "Residual solvents and processing chemicals appear when extraction or manufacturing can leave solvent residues; pesticide panels list residues the laboratory’s method covers. Neither sets a universal pass/fail threshold; limits belong to the applicable regulatory program and the laboratory’s method, printed on the report. Read the analyte name, the result, the reporting or action limit beside it, and the laboratory’s conclusion. A “not detected” or “below reporting limit” notation is not a blank cell, and a solvents pass does not imply a pesticides pass if that panel was never run.",
         ],
       },
       {
@@ -429,12 +429,12 @@ export const scienceCorePages: PageContent[] = [
         paragraphs: [
           "The entourage effect proposes that multiple cannabis compounds may interact in ways that are not captured by considering one molecule alone. It remains a working hypothesis, not settled science. A terpene panel can establish which compounds a laboratory measured and in what amounts; it cannot, by itself, prove a particular combined biological outcome.",
           "That boundary does not make terpene data unimportant. The panel is valuable for composition, aroma comparison, quality control, and tracking what processing preserved. It simply should not be stretched into medical or effects claims. The defensible reading is chemical and sensory: identify the mixture, note its volatility, and compare it with the product’s processing history.",
-          "Named terpenes on a label therefore support identification and comparison, not invented outcome stories. Avoid translating a single row into a mood, a medical use, or a dosing instruction. The educational value of the panel is that it records composition at a point in time; interpretation stays inside aroma, flavor, volatility, and process evidence.",
+          "Named terpenes on a label therefore support identification and comparison, not invented outcome stories. Read each terpene row as an aroma compound measured in that batch. The educational value of the panel is that it records composition at a point in time; interpretation stays inside aroma, flavor, volatility, and process evidence.",
         ],
       },
       {
         id: "read-terpenes-with-science",
-        heading: "Read terpenes with the rest of the science silo",
+        heading: "More from the science guides",
         paragraphs: [
           "This article keeps terpenes in the vocabulary of mixture, volatility, and process history. The laboratory-report guide shows where a terpene panel sits beside cannabinoid and compliance sections on a Certificate of Analysis. The decarboxylation page separates heat-driven conversion of THCa from evaporation of aromatic compounds.",
           "Live-resin and live-rosin pages then follow the cold-chain and solventless routes that try to retain more of the harvest-day aromatic fraction.",
@@ -520,12 +520,12 @@ export const scienceCorePages: PageContent[] = [
           "Begin with the batch number so the report and package match. Then note every cannabinoid’s full name, whether it is acidic or neutral, its unit, and whether the value is a direct measurement or a calculated total. Percentages and milligrams per gram describe concentration on different scales and should be converted before comparison.",
           "Next, keep totals narrow. Total THC combines THCa after the 0.877 mass adjustment with measured THC; it does not mean “all cannabinoids.” CBD, CBG, and CBN remain separate unless the report provides a separately defined total for them. Finally, respect the panel’s scope: it describes analytes the laboratory tested and reported for that sample. It is a chemistry record, not a complete prediction about the product or the person encountering it.",
           "The suffix is part of the analyte name, not optional punctuation. THCa and THC occupy separate rows for the same reason CBDA and CBD can occupy separate rows: one is an acidic precursor and one is its decarboxylated counterpart. If a panel lists only one member of a pair, do not invent the missing value. Report what was measured, use a defined formula only where one is supplied, and leave unrelated cannabinoids out of that calculation.",
-          "For infused cannabis specifically, confirm that each cannabinoid row’s unit matches how the product is sold—percent by weight, milligrams per gram, or milligrams per serving—and that batch identity ties the package to the COA. Do not invent a medical story from a minor-cannabinoid percentage, and do not fold CBD, CBG, or CBN into Total THC. The panel records measured composition for adults twenty-one and older; it does not prescribe use, dose, or outcome.",
+          "For infused cannabis specifically, confirm that each cannabinoid row’s unit matches how the product is sold—percent by weight, milligrams per gram, or milligrams per serving—and that batch identity ties the package to the COA. Do not fold CBD, CBG, or CBN into Total THC. The panel records measured composition for adults twenty-one and older; it does not prescribe use, dose, or outcome.",
         ],
       },
       {
         id: "infused-products-and-silo",
-        heading: "Cannabinoids across infused products and the science silo",
+        heading: "Cannabinoids across infused products",
         paragraphs: [
           "Infused flower, coated pre-rolls, and extract-heavy formats still resolve to the same panel grammar: THCa and THC for the dominant pathway, CBD/CBDA and CBG/CBGA as separate branch-point relatives, and CBN as a distinct oxidation-related analyte when reported. Distillate, liquid-diamonds, live-resin, and live-rosin pages explain how stacked materials are made; this article names the molecules the laboratory lists.",
           "The THCa-versus-THC guide deepens the precursor math. Decarboxylation separates conversion from evaporation. The laboratory-report article places the cannabinoid group beside compliance sections on a Certificate of Analysis.",

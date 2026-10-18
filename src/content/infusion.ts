@@ -11,7 +11,7 @@ export const infusionHub: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "The cannabis infusion process combines flower with a concentrate so the finished format carries more concentrated material than flower alone. The decisive variable is distribution: where the concentrate sits, how evenly it is applied, and how the added kief changes the surface all influence the construction and the burn.",
-    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers. Adults twenty-one and older can use this hub as a navigation map: each child page deepens one topic, while this page keeps placement, finishing, burn behavior, and sample identity in view—without medical advice or dosing guidance.",
+    "This section follows that process from the inside out. It explains infusion chemistry as a manufacturing method, compares surface coating with deeper saturation, examines the trichomes collected as kief, connects distribution to airflow and heat, and shows why a finished product's potency is a weighted blend rather than the sum of its layers. Each guide below goes deeper on one topic: placement, finishing, burn behavior, or sample identity.",
   ],
   sections: [
     {
@@ -20,7 +20,7 @@ export const infusionHub: PageContent = {
       paragraphs: [
         "Infusion begins with a base material and a concentrate. The concentrate adds cannabinoid content while also acting as the adhesive that can hold an outer kief layer in place. Temperature and viscosity have to be controlled closely enough for the concentrate to move through the intended area without running away from it or collecting in isolated pockets.",
         "The result is judged by distribution, not simply by how much concentrate is visible. A balanced construction keeps the flower, concentrate, and any finishing layer working as one format instead of three disconnected ingredients.",
-        "Open the how infusion works guide when viscosity, temperature, placement, and layer order need a full walkthrough. The hub names the system; that child page follows concentrate through the construction step by step.",
+        "Open the how infusion works guide when viscosity, temperature, placement, and layer order need a full walkthrough. This page names the system; that guide follows concentrate through the construction step by step.",
       ],
     },
     {
@@ -82,7 +82,7 @@ export const infusionHub: PageContent = {
       id: "use-the-hub-in-order",
       heading: "Use the hub in a practical order",
       paragraphs: [
-        "Start with the product identity, identify the base and added material, and then choose the child page that matches the question. Process questions belong with the construction guide; depth questions belong with the coating comparison; loose trichome material belongs with the kief reference; and airflow questions belong with the burn guide. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
+        "Start with the product identity, identify the base and added material, then read the guide that matches the question. Process questions belong with the construction guide; depth questions belong with the coating comparison; loose trichome material belongs with the kief reference; and airflow questions belong with the burn guide. The potency-by-format guide comes after those checks because it explains why a tested flower input, concentrate input, and finished infused format are separate samples.",
         "Presidential THC publishes this hub as a chemistry and construction reference. Presidential THC is the publisher and brand name, not a cannabis strain. Cultivar names, extract names, package names, and batch identifiers carry different information. Keeping those terms separate lets the reader move from construction to label evidence without turning the brand name into a cultivar claim.",
       ],
     },
@@ -91,7 +91,7 @@ export const infusionHub: PageContent = {
       heading: "Choose the infusion guide that matches the next question",
       paragraphs: [
         "Use this hub as a map, not as a checklist that must be completed in one sitting. If viscosity, temperature, and layer order are next, open the how infusion works page. If exterior coating versus deeper travel through flower is next, open the surface-versus-saturation page. If collected trichomes and the finishing coat are next, open the kief and trichomes page. If density, airflow, and uneven ember paths are next, open the infused burn page. If sample identity and weighted blends are next, open the potency-by-format page.",
-        "Naming the construction question first keeps a burn cue from being mistaken for a potency figure, and keeps a glossy exterior from being mistaken for deep saturation. Related hubs on science, formats, and guides sit beside this silo when the next question leaves infusion construction.",
+        "Naming the construction question first keeps a burn cue from being mistaken for a potency figure, and keeps a glossy exterior from being mistaken for deep saturation. The science, formats, and guides sections pick up when the next question leaves infusion construction.",
       ],
     },
     {
@@ -474,7 +474,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Distribution and finished potency answer different questions. Finished potency is a weight-share blend of every material in the tested sample; distribution describes where those materials sit. The same concentrate mass can yield a similar whole-piece average whether it sits mostly outside or travels farther in.",
           "Local concentration still matters. In a surface-heavy build, the outer shell can carry more of the added cannabinoid material than the core. In a deeper build, adjacent interior sections should present a closer share of flower and concentrate to heat and air.",
-          "A dramatic exterior cannot replace a finished-batch result, and a saturation claim cannot invent a percentage. The label describes the blend; cut sections and burn behavior show whether the concentrate path matches the named method.",
+          "A dramatic exterior cannot replace a finished-batch result. The label describes the blend; cut sections and burn behavior show whether the concentrate path matches the named method.",
         ],
       },
       {
@@ -636,7 +636,7 @@ export const infusionArticles: PageContent[] = [
         heading: "Quality cues for the outer coat",
         paragraphs: [
           "Useful cues stay tied to construction. Even coverage, a coat that stays attached under careful handling, and a texture not dominated by obvious green plant fragments suggest finishing discipline. Loose dust clumps, sticky bare patches, or thick ridges over uneven concentrate point the other way.",
-          "Color alone is a weak verdict. Pale, golden, and darker coats can all be legitimate depending on source flower and collection. Judge color against particle consistency and adhesion—a dramatic look still cannot prove interior saturation or invent a lab percentage.",
+          "Color alone is a weak verdict. Pale, golden, and darker coats can all be legitimate depending on source flower and collection. Judge color against particle consistency and adhesion; a dramatic look still cannot prove interior saturation.",
           "Keep conclusions narrow. Quality cues describe finishing; they are not medical claims, dosing guidance, or a substitute for finished-batch documentation.",
         ],
       },
@@ -679,7 +679,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Infused cannabis burns differently because concentrate changes the flower's density, fuel distribution, heat retention, and available airflow. Those changes usually call for a slower light and can make relighting normal; when the infusion or packing is uneven, they can also produce tunneling through the center or canoeing along one side.",
       "The flame does not respond to the product name. It follows the physical construction in front of it. Where flower, concentrate, kief, and open space are distributed evenly, the burn has a better chance to advance evenly too.",
-      "This page is for adults twenty-one and older. It covers oil and resin melt versus flower burn, ash and canoeing cues, heat management, and what harsh usually means—educational framing, not medical advice or dosing.",
+      "This page is for adults twenty-one and older. It covers oil and resin melt versus flower burn, ash and canoeing cues, heat management, and what harsh usually means.",
     ],
     sections: [
       {
@@ -776,7 +776,7 @@ export const infusionArticles: PageContent[] = [
         heading: "What burn behavior can and cannot prove",
         paragraphs: [
           "A reasonably even burn is practical evidence that the construction, packing, light, and airflow are working together. Frequent severe runs, dense plugs, or repeated heavy pockets are reasons to examine distribution more closely.",
-          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. Read it with the rest of the infusion silo on presidentialthc.net; none of these pages is medical advice. How labels compare across formats is covered in potency by format.",
+          "Burn behavior does not measure potency, identify the extract, or replace a batch report. It is a mechanical test of whether flower and concentrate were built to move through heat as one product. How labels compare across formats is covered in potency by format.",
         ],
       },
     ],
@@ -870,7 +870,7 @@ export const infusionArticles: PageContent[] = [
     intro: [
       "Cannabinoid results differ by material and batch. Flower, concentrate coatings, finished moon rocks and THCa-rich materials must be read as separate tested samples; a layered product's result is a weighted blend of every material in the finished mass.",
       "The format name tells you how the material is constructed. The batch label tells you what that particular finished product measured. Reading both prevents the highest ingredient percentage from being mistaken for the percentage of the whole.",
-      "This page is for adults twenty-one and older. It maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing—educational framing, not medical advice or dosing.",
+      "This page is for adults twenty-one and older. It maps the flower-to-concentrate continuum, explains how infusion raises cannabinoid share in a finished piece, and shows why a lab percentage misleads when sample identity is missing.",
     ],
     sections: [
       {
@@ -934,7 +934,7 @@ export const infusionArticles: PageContent[] = [
         heading: "How infusion concentrates the finished format",
         paragraphs: [
           "Infusion multiplies the cannabinoid share of a finished piece relative to flower alone by adding a higher-percentage component. The change is proportional: more concentrate mass at a higher measured percentage raises the weighted blend without erasing the flower and kief still present.",
-          "That is the educational sense of an effective concentration change. For the same finished mass, an infused format can carry more measured cannabinoid material than the uncoated flower core. Compare finished-batch with flower-batch results; do not invent a milligram schedule or treat the page as medical guidance.",
+          "That is the educational sense of an effective concentration change. For the same finished mass, an infused format can carry more measured cannabinoid material than the uncoated flower core. Compare finished-batch with flower-batch results.",
           "Process choices shape how that change shows up. Even distribution keeps the raised blend consistent; pooled concentrate can leave one region denser while the whole-piece average stays the same. Construction quality and measured composition answer different questions. The same weighted-blend logic applies to mini blunts, where the package still states the batch result.",
         ],
       },
@@ -942,9 +942,9 @@ export const infusionArticles: PageContent[] = [
         id: "diamonds-need-a-conversion-note",
         heading: "Why diamonds need a conversion note",
         paragraphs: [
-          "THCa diamonds can reach 99% and above because crystallization excludes solvents, lipids, and other cannabinoids from the THCa crystal lattice into the surrounding liquid. That purity figure refers to THCa, the acidic precursor, not an equal mass of THC after heating.",
+          "THCa diamonds can test at very high THCa purity because crystallization excludes solvents, lipids, and other cannabinoids from the THCa crystal lattice into the surrounding liquid. That purity figure refers to THCa, the acidic precursor, not an equal mass of THC after heating.",
           "Decarboxylation removes carbon dioxide and changes molecular mass. The standard conversion factor is 0.877, calculated from the molecular weights of THC and THCa. Total THC is calculated as THCa multiplied by 0.877, plus any THC already present.",
-          "A 99% THCa material therefore has a theoretical maximum of about 87% THC after full conversion, before accounting for any conversion loss. Saying “99% THCa” and saying “99% THC” are not two ways to report the same result.",
+          "A high-purity THCa material therefore keeps, at most, about 87.7% of its THCa figure as THC after full conversion, before accounting for any conversion loss. A THCa figure and a THC figure are not two ways to report the same result.",
         ],
       },
       {
@@ -967,10 +967,10 @@ export const infusionArticles: PageContent[] = [
       },
       {
         id: "read-potency-with-infusion",
-        heading: "Read potency with the rest of the infusion silo",
+        heading: "More infusion guides",
         paragraphs: [
           "This article keeps potency in the vocabulary of weighted blends, sample identity, and the flower-to-concentrate continuum. How-infusion-works covers viscosity, temperature, and placement. Surface-versus-saturation separates coating depth from the finished percentage. Kief and trichomes explain the outer layer. The infused burn guide shows why distribution can change heat behavior without changing blend arithmetic. Handling is a separate question, covered in how to smoke cannabis moon rocks.",
-          "Stay on presidentialthc.net for these education pages. None of this silo is medical advice or a milligram schedule. The Presidential THC format overview sets each construction beside the others. The finishing layer is explained in the guide to kief and trichomes.",
+          "The Presidential THC format overview sets each construction beside the others. The finishing layer is explained in the guide to kief and trichomes.",
         ],
       },
     ],
