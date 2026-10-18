@@ -802,7 +802,7 @@ export const statesPages: PageContent[] = [
         "id": "finding-it",
         "heading": "Finding Presidential in Nevada",
         "paragraphs": [
-          "Presidential is sold through licensed dispensaries across the state.",
+          "Presidential is sold at licensed retailers in Nevada.",
           "In short: adult-use access at twenty-one for residents and visitors, licensed consumption lounges alongside retail, and a destination-shaped shelf. Use the package for the final product check. That order keeps Nevada buying inside the regulated channel this reference describes.",
           "The buying path: identification and age eligibility at the door, a licensed lounge or retailer when you want on-site or takeaway purchase, and the sealed package as the last check before you leave. Nevada's visitor infrastructure makes that loop easier to follow — it does not replace confirming the live licensed source for the day you arrive. Read more about Presidential for the brand behind those formats."
         ],
@@ -897,18 +897,18 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
           "Michigan also permits home cultivation. Residents may grow a limited number of plants for personal use in an enclosed, locked space. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
-          "The state's licensing has been comparatively accessible from the start, and the retail network reaches well beyond the major cities into towns that would not have a dispensary in most states. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
+          "The state's licensing has been comparatively accessible from the start, and the retail network reaches beyond the major cities into smaller towns. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which towns carry which brands on any given week."
         ]
       },
       {
         "id": "the-value-market",
-        "heading": "The best value shelf in America",
+        "heading": "Why Michigan shelves offer choice",
         "paragraphs": [
           "Michigan licenses many retailers, which gives shoppers choice on the shelf.",
-          "For a buyer that is close to ideal. Legal, tested, plentiful and keenly priced is a rare combination, and Michigan has held it for years. Competition shows up as wider menus, sharper pricing, and retailers who cannot coast on scarcity or a closed licence map.",
+          "Competition shows up as wider menus, sharper pricing, and retailers who cannot coast on scarcity or a closed licence map.",
           "The upside compounds: when a market is that competitive, retailers work harder for the customer, and the person behind the counter tends to know the products well because they have to. A crowded shelf is not only a price story — it is also a selection story, and buyers benefit from both.",
-          "Coverage follows that open-licence pattern across the state. Detroit and Grand Rapids carry dense licensed networks; other communities carry the same adult-use rules where local licensing allows. Exact participation changes over time, so live listings beat outdated screenshots or out-of-state menus."
+          "Detroit and Grand Rapids carry dense licensed networks; other communities carry the same adult-use rules where local licensing allows. Exact participation changes over time, so live listings beat outdated screenshots or out-of-state menus."
         ]
       },
       {
@@ -964,7 +964,7 @@ export const statesPages: PageContent[] = [
         "id": "finding-it",
         "heading": "Finding Presidential in Michigan",
         "paragraphs": [
-          "Presidential is sold through licensed retailers across the state, from Detroit and Grand Rapids out to smaller towns.",
+          "Presidential is sold at licensed retailers in Michigan.",
           "In short: adult-use access at twenty-one, home cultivation alongside licensed retail, open licensing, and a competitive value shelf. Use the package for the final product check. That order keeps Michigan buying inside the regulated channel this reference describes."
         ]
       }
@@ -1049,7 +1049,7 @@ export const statesPages: PageContent[] = [
           "Shelf space in a capped market carries different weight.",
           "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona there is a finite number of doors, and every one of them chooses carefully what earns shelf space.",
           "Placement is genuinely contested here, and it means more when it is won. A buyer walking an Arizona floor is not browsing an infinite catalogue of whoever managed to open a shop last month — they are looking at what established operators decided was worth carrying in a limited footprint.",
-          "That is why this reference treats Arizona placement as structural context rather than a marketing slogan. A capped licence map does not guarantee every format at every door on every day, but it does explain why presence across many licensed doors is a stronger signal here than the same raw count would be in a wide-open retail market."
+          "That is why this reference treats Arizona placement as structural context rather than a marketing slogan. A capped licence map does not guarantee every format at every store on every day. For the open-licence contrast, see how Michigan's adult-use market works."
         ]
       },
       {
@@ -1065,9 +1065,8 @@ export const statesPages: PageContent[] = [
       {
         "id": "presidential-here",
         "heading": "Presidential in Arizona",
-        "paragraphs": [
-          "Licensed doors across Arizona carry Presidential.",
-          "That presence is the product of retailers choosing the brand onto limited shelves, not of an open-door market absorbing every listing that arrives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
+        "paragraphs": [
+          "Presidential's place at licensed retailers in Arizona comes from retailers choosing the brand onto limited shelves, not from an open-door market absorbing every listing that arrives. Confirm the product name and format with the retailer before making a trip. Brand presence in a state does not guarantee every format at every door on every day; current stock is a retailer-level fact.",
           "Use live licensed-retailer records rather than screenshots, out-of-state menus, or third-party directories that may outlive the stock that produced them. The Arizona page explains market structure; a current licensed source supplies the last step."
         ]
       },
@@ -1094,7 +1093,7 @@ export const statesPages: PageContent[] = [
         "id": "finding-it",
         "heading": "Finding Presidential in Arizona",
         "paragraphs": [
-          "Presidential is sold through licensed dispensaries across the state, concentrated around Phoenix and Tucson.",
+          "Presidential is sold at licensed retailers in Arizona.",
           "In short: adult-use access at twenty-one, a converted medical infrastructure, limited licensing, and curated shelf space. Use the package for the final product check. That order keeps Arizona buying inside the regulated channel this reference describes.",
           "The buying path: identification and age eligibility at the door for adult use, the medical path when you already hold that credential, and the sealed package as the last check before you leave. Converted medical infrastructure makes that loop familiar — it does not replace confirming the live licensed source for the day you shop."
         ]
@@ -1119,6 +1118,12 @@ export const statesPages: PageContent[] = [
       }
     ],
     "contextualLinks": [
+      {
+        "href": "/states/michigan",
+        "anchor": "how Michigan's adult-use market works",
+        "sectionId": "what-placement-means-here",
+        "paragraphIndex": 3
+      },
       {
         "href": "/states/oklahoma",
         "anchor": "Oklahoma state guide",
@@ -1184,7 +1189,7 @@ export const statesPages: PageContent[] = [
         "id": "a-mature-sector",
         "heading": "A mature retail sector",
         "paragraphs": [
-          "Thirteen years of continuous operation produces something a newer market cannot manufacture: a retail sector where the operators have been doing this a long time.",
+          "Retail sales have run since 2014, which produces something a newer market cannot manufacture: a retail sector where the operators have been doing this a long time.",
           "Washington dispensaries are staffed by people who have worked in legal cannabis for a decade. The customer base is well informed. The supply chain is settled. Product quality standards are high because the market has had years to sort out what works.",
           "Shelf space in Washington is earned over years rather than won in a season, which makes it one of the more meaningful markets to be carried in. Brands that last here tend to last because retailers and customers already know how to compare construction, extract type, and labelling rather than chasing novelty alone.",
           "Coverage concentrates where people already shop — the Seattle metro, Tacoma, the southern Puget Sound corridor, Spokane, and other population centres — with licensed doors elsewhere following the same adult-use rules. Exact participation changes, so current listings matter more than any fixed mental map of the state.",
