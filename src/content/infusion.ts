@@ -513,7 +513,7 @@ export const infusionArticles: PageContent[] = [
         paragraphs: [
           "Surface coating emphasizes a clearly layered exterior and can demand less internal distribution. Saturation aims for a more integrated interior and demands more control over movement through irregular flower. Both approaches still have to solve adhesion, airflow, and even placement.",
           "The better question is not which label sounds more advanced. It is whether the finished format matches the method claimed: even where it should be even, open enough to burn, and represented by a cannabinoid result for the entire blended product. Surface coatings are explained further in the guide to kief and trichomes.",
-        ],
+        ], subsections: [{ heading: "Seeing the construction on a moon rock", paragraphs: [[{ text: "A moon rock is one of the clearest places to see surface and saturation side by side. The concentrate layer sits around the flower, and a kief or diamond finish coats the outside, so the construction is visible before the piece is lit. Looking at a broken piece shows how far the concentrate reaches. The " }, { text: "moon rock construction overview", href: "/formats/moon-rocks" }, { text: " explains each layer. For lighting a layered piece evenly so the outer coat burns as intended, read the guide on " }, { text: "lighting an infused piece evenly", href: "/guides/how-to-smoke-moon-rocks" }, { text: "." }]] }],
       },
     ],
     relatedLinks: [
