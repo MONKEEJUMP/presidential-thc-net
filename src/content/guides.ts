@@ -770,6 +770,7 @@ export const temperatureGuide: PageContent = {
 export const whatToLookFor: PageContent = {
   path: "/guides/what-to-look-for",
   contextualLinks: [
+    { href: "/states/michigan", anchor: "reading a package in Michigan", sectionId: "read-package", paragraphIndex: 0 },
     { href: "/formats/infused-pre-rolls", anchor: "the infused pre-roll reference", sectionId: "identify-format", paragraphIndex: 0 },
     {
       href: "/science/thca-vs-thc",
@@ -838,7 +839,7 @@ export const whatToLookFor: PageContent = {
       id: "read-package",
       heading: "Make the Package Explain the Product",
       paragraphs: [
-        "Read the format name, cannabinoid information, batch identifiers, and any storage or hardware instructions shown on the package. The details should describe the same item visible inside. Keep the package with the product so those identifiers are available later instead of relying on memory.",
+        "Read the format name, cannabinoid information, batch identifiers, and any storage or hardware instructions shown on the package. The details should describe the same item visible inside. Keep the package with the product so those identifiers are available later instead of relying on memory. For a state example, see reading a package in Michigan.",
         "Percentages require context. Flower, concentrate and a finished moon rock are different samples. A moon rock is a weighted blend of its layers, so an ingredient percentage cannot be copied onto the whole piece; use the finished product label and associated batch record.",
         "If a laboratory report is available, match it to the same batch identifier on the package before treating any number as relevant. Do not invent missing figures or assume a category average applies. The package should explain what was made; the inspection should confirm the visible product still matches.",
       ],
