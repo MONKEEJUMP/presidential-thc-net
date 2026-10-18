@@ -323,7 +323,7 @@ export const formatsPages: PageContent[] = [
     intro: [
       `An infused blunt is cannabis flower and concentrate rolled in a broad, substantial wrap. Traditional blunt terminology comes from tobacco-wrapped products, but cannabis versions can use tobacco-free hemp wraps instead. In that case, tobacco-free describes the wrapper’s ingredients; it does not establish a health or safety advantage.`,
       `Compared with a paper pre-roll, a blunt puts more of the format’s identity in the wrap. Compared with a mini, a full blunt generally carries more total material and a longer burn path.`,
-      `This page is for adults twenty-one and older who want format and education framing: how a wrap-led roll is built, how to read package language, and how construction choices shape burn and handling. It is not medical advice, dosing guidance, or a claim that any wrapper or infusion pattern is safer or healthier.`,
+      `Covers format and education framing: how a wrap-led roll is built, how to read package language, and how construction choices shape burn and handling. It is not medical advice, dosing guidance, or a claim that any wrapper or infusion pattern is safer or healthier.`,
     ],
     sections: [
       {
@@ -437,7 +437,7 @@ export const formatsPages: PageContent[] = [
     intro: [
       `Small blunts are shorter blunt-format rolls built with cannabis fill, concentrate, and a substantial wrap. A mini infused blunt preserves the essential wrapped construction while reducing the total amount of material and the length of the burn path. Smaller does not automatically mean weaker by weight; the tested label is the source for cannabinoid content.`,
       `The format makes sense when the desired unit is more compact than a full blunt but the wrap-led structure is still the point. Scaling down requires its own decisions about fill, seam, airflow, and infusion distribution.`,
-      `This page is for adults twenty-one and older who want format and education framing: how a mini keeps blunt architecture at reduced size, how infusion and session length change with geometry, and how to read package language. It is not medical advice, dosing guidance, or a claim that any size or infusion pattern is safer or healthier.`,
+      `Covers format and education framing: how a mini keeps blunt architecture at reduced size, how infusion and session length change with geometry, and how to read package language. It is not medical advice, dosing guidance, or a claim that any size or infusion pattern is safer or healthier.`,
     ],
     sections: [
       {
@@ -615,6 +615,7 @@ export const formatsPages: PageContent[] = [
   {
     path: "/formats/moon-rocks",
     contextualLinks: [
+      { href: "/guides/beginners-guide", anchor: "the infused cannabis basics for first-timers", paragraphIndex: 0 },
       {
         href: "/formats/infused-pre-rolls",
         anchor: "Infused pre-rolls and their package figures",
@@ -647,9 +648,9 @@ export const formatsPages: PageContent[] = [
       "Learn how moon rocks combine flower, concentrate, and kief, why they are dense, how they differ from caviar, and how to handle them.",
     wordTarget: [1100, 1250],
     intro: [
-      `Moon rocks are cannabis flower covered with concentrate and finished in kief. The three layers create a dense, textured piece whose exterior looks dusty or crystalline while the concentrate beneath remains tacky. Because the format is built as a bonded whole, it should be handled differently from ordinary loose flower. The infused cannabis chemistry guide on the Presidential THC home page places this format beside the others.`,
+      `Moon rocks are cannabis flower covered with concentrate and finished in kief. The three layers create a dense, textured piece whose exterior looks dusty or crystalline while the concentrate beneath remains tacky. Because the format is built as a bonded whole, it should be handled differently from ordinary loose flower. The infused cannabis chemistry guide on the Presidential THC home page places this format beside the others. New to infused formats? Start with the infused cannabis basics for first-timers.`,
       `The name describes construction, not one required strain or extract recipe. Flower provides the core, concentrate raises the cannabinoid share and binds the surface, and kief forms the final coat.`,
-      `This page is for adults twenty-one and older who want format and education framing: how the three layers are assembled, how to read package language, and how construction choices shape density, handling, and storage. It is not medical advice, dosing guidance, or a claim that any layer combination is safer or healthier.`,
+      `Covers format and education framing: how the three layers are assembled, how to read package language, and how construction choices shape density, handling, and storage. It is not medical advice, dosing guidance, or a claim that any layer combination is safer or healthier.`,
     ],
     sections: [
       {
@@ -808,7 +809,7 @@ export const formatsPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       `An infused pre-roll is a ready-made paper roll that combines cannabis flower with cannabis concentrate. A standard pre-roll contains flower or shake; an infused version adds concentrate other than kief, whether through the fill, in a defined inner line, or as part of another controlled application. Its performance depends on how evenly those materials share space and air.`,
-      `The familiar shape can hide meaningful differences. Paper, filter, grind size, packing density, concentrate viscosity, and the placement of infusion all contribute to the finished roll. This page is for adults twenty-one and older and covers construction and label reading, not effects, dosing, or medical use.`,
+      `The familiar shape can hide meaningful differences. Paper, filter, grind size, packing density, concentrate viscosity, and the placement of infusion all contribute to the finished roll. Covers construction and label reading, not effects, dosing, or medical use.`,
     ],
     sections: [
       {
@@ -932,7 +933,7 @@ export const formatsPages: PageContent[] = [
     wordTarget: [1100, 1250],
     intro: [
       `A cannabis vape cartridge is a small reservoir of cannabis extract connected to a heating core, air path, and mouthpiece. A compatible battery supplies electrical power; the heater transfers that energy to the oil and produces an aerosol. The extract and hardware must be designed together because viscosity, inlet size, power, and airflow determine how material reaches the heater.`,
-      `A cartridge is therefore not just a container for oil. It is a matched delivery assembly whose formula, seals, contacts, and heating behavior all affect consistent function. This page is for adults twenty-one and older and covers hardware, oil families, viscosity, temperature, and label reading—not medical advice, dosing, or effects claims.`,
+      `A cartridge is therefore not just a container for oil. It is a matched delivery assembly whose formula, seals, contacts, and heating behavior all affect consistent function. Covers hardware, oil families, viscosity, temperature, and label reading—not medical advice, dosing, or effects claims.`,
     ],
     sections: [
       {
@@ -975,7 +976,7 @@ export const formatsPages: PageContent[] = [
         heading: "Temperature control is power control",
         paragraphs: [
           `Many batteries expose voltage or power settings rather than the oil's exact temperature. The heater's resistance, duration of activation, airflow, and oil supply all influence the temperature reached during a draw. Laboratory work on cannabinoid vaping has shown that coil power and oil composition can change thermal transformation, so a higher setting is not merely a faster version of a lower one.`,
-          `Use the cartridge and battery manufacturer's compatible range. Begin at the lower supported setting and avoid repeated activation when little oil reaches the core. Supplied terpene research also matters: compounds can evaporate below listed boiling points over time, so a boiling-point chart should not be treated as mandatory device temperatures.`,
+          `Use the cartridge and battery manufacturer's compatible range. Begin at the lower supported setting and avoid repeated activation when little oil reaches the core. Terpene research also matters: compounds can evaporate below listed boiling points over time, so a boiling-point chart should not be treated as mandatory device temperatures.`,
           `Oil viscosity and power interact on every draw. A short, moderate draw at a lower setting often lets oil rewet the core; long, high-power draws can outpace replenishment and leave residue on the heater. If the draw tastes scorched or suddenly harsh, stop, check oil level and seals, and return to a lower supported setting rather than raising power to force output.`,
         ],
       },
