@@ -28,7 +28,7 @@ export const statesPages: PageContent[] = [
         "heading": "Why every state gets its own reference",
         "paragraphs": [
           "Every market has its own regulator, its own retail structure, and its own answer to what a buyer brings through the door.",
-          "California opened early and built a deep, varied shelf. Oklahoma created an accessible patient programme. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan produced the most competitive retail sector in America. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
+          "California opened early and built a deep, varied shelf. Oklahoma created an accessible patient programme. Nevada built for visitors and then licensed rooms for them to enjoy it in. Michigan built a competitive, open retail sector. Arizona converted a decade of medical infrastructure overnight. Washington helped invent the whole regulated model.",
           "Those are six different stories and they deserve six different pages. Washington adds one more — one adult-use and foundational.",
           "That is why this hub emphasises process over a single national story. Each state page covers how that market works."
         ],
@@ -305,13 +305,13 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "California runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — no card, no certification, no registration. A driver's licence is the whole requirement.",
           "The state runs a medical programme alongside it, which carries its own advantages for registered patients, and either route reaches the same licensed shelf. Adult-use buyers do not need a medical credential; the adult-use path is the default door for anyone twenty-one or older with valid ID.",
-          "California legalised adult use in 2016 and opened licensed retail in 2018. That makes it one of the most established regulated markets in the country, and the difference shows in every direction: more retailers, more brands, more formats, and a customer base that has had years to develop a real sense of what it wants.",
+          "California legalised adult use in 2016 and opened licensed retail in 2018. That makes it a long-established regulated market, and the difference shows in every direction: more retailers, more brands, more formats, and a customer base that has had years to develop a real sense of what it wants.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path California requires; and current retailer listings matter more than any fixed mental map of which brands sit where on any given week."
         ]
       },
       {
         "id": "the-deepest-shelf",
-        "heading": "The deepest shelf in the country",
+        "heading": "A deep, varied shelf",
         "paragraphs": [
           "No state offers a buyer more choice than California. Years of open licensing produced a retail sector with genuine range, and a customer who walks into a California dispensary is choosing from a wide range of brands.",
           "That abundance is a real advantage, and it rewards knowing what you are looking at. The difference between two products at the same potency is almost always the extract behind them and how the material was built — which is exactly what the reference guides on this site cover.",
@@ -434,7 +434,7 @@ export const statesPages: PageContent[] = [
     "silo": "states",
     "h1": "Presidential THC in Oklahoma",
     "title": "Accessible Patient Programmes in Oklahoma",
-    "description": "Oklahoma runs one of the most accessible patient programmes in America. How it works, and where Presidential is carried.",
+    "description": "Oklahoma runs an accessible medical patient programme. How it works, and where Presidential is carried.",
     "wordTarget": [
       1100,
       1250
