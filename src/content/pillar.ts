@@ -107,7 +107,7 @@ export const pillarPage: PageContent = {
       heading: "Where vape cartridges fit beside infused flower",
       paragraphs: [
         "Presidential’s infused formats (Moon Rocks, infused pre-rolls, blunts and minis) are built from flower, concentrate and a kief or diamond finish. A vape cartridge works differently: a flowable extract sits in a reservoir and is heated by a core, so there is no flower or wrap. The vape cartridge guide covers hardware, extract families and label reading; the package and a licensed retailer confirm what a specific cartridge contains. This site does not sell products or give dosing guidance.",
-      ],
+      ], subsections: [{ heading: "Checking cartridge rules state by state", paragraphs: [[{ text: "Cartridge labels, testing, and packaging rules differ from state to state, so the same product question can have different answers in different markets. Before buying, read the state guide for where you are. The " }, { text: "California state guide", href: "/states/california" }, { text: " and the " }, { text: "Michigan state guide", href: "/states/michigan" }, { text: " each cover how licensed retail works there. Then confirm the exact product and its batch label with the store. For the wrapped alternative to a cartridge, the " }, { text: "hemp blunt explainer", href: "/formats/blunts" }, { text: " covers construction." }]] }],
     },
   ],
   relatedLinks: [
