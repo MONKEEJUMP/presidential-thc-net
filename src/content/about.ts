@@ -52,9 +52,9 @@ export const aboutPage: PageContent = {
     },
     {
       id: "how-hubs-and-child-pages-fit",
-      heading: "How hubs and child pages fit together",
+      heading: "How the guides fit together",
       paragraphs: [
-        "Hub pages provide the map. Child pages answer one narrower question without restating the whole silo: choose the hub that matches the kind of question, then open the child page that names the term, format, handling step, or state.",
+        "Hub pages provide the map. Each guide answers one narrower question: pick the section that matches your question, then the guide that names the term, format, handling step, or state.",
         "For formats, the Moon Rocks page, infused pre-rolls page, blunts page, minis page, and vape cartridges page each describe a physical form and how package language maps to that form. For guides, the temperature guide and how to store infused cannabis pages turn general handling advice into concrete checks a reader can apply to a sealed package at home.",
         "For states, each state page explains access rules and retail structure for that market. Use the states hub first to see adult-use versus medical routes, then open the state that matches the trip or the shelf under review. Education here is durable context; a current licensed retailer or official listing supplies live availability.",
       ],
@@ -65,7 +65,7 @@ export const aboutPage: PageContent = {
       paragraphs: [
         "The state directory adds the market layer. It explains how licensed retail context differs by state and why a page about a market is not a promise that a specific package is currently on a shelf. Use it to find the right state reference, then check a current licensed retailer or official state source for live availability.",
         "This separation keeps education distinct from a retailer listing. Presidential THC publishes chemistry and construction context; retailers and regulators publish the current local facts. Where an old menu, a search result, and a current licensed source disagree, use the current source.",
-        "Use the site as a reference, not a substitute for the package or the retailer. Read the source that is closest to the question: a label for package details, an article for construction terms, and a current licensed source for local status. That order keeps the page useful when product information changes.",
+        "Use the site as a reference, not a substitute for the package or the retailer. Read the source that is closest to the question: a label for package details, an article for construction terms, and a current licensed source for local status.",
         "The home page gives the broad map, while each hub narrows the subject. Return to the relevant hub whenever a term becomes more specific than the answer on this page. The site is organized for that return path instead of one long, universal explanation.",
       ],
     },
@@ -80,7 +80,7 @@ export const aboutPage: PageContent = {
       id: "editorial-method",
       heading: "How the Material Is Organized",
       paragraphs: [
-        "Each article answers its central question first, then explains the underlying construction or chemistry in plain language. Related reading stays inside the same subject silo so a reader can move sideways without losing the thread. Hub pages provide the map, and the home page connects the four major subject areas.",
+        "Each article answers its central question first, then explains the underlying construction or chemistry in plain language. Hub pages provide the map, and the home page connects the four major subject areas.",
         "That structure keeps education separate from retail while giving infused cannabis a coherent vocabulary. The aim is useful reference work: specific enough to check, restrained enough to trust, and organized so that the next question has a clear place to go.",
         "When in doubt, ask which question you are actually asking. A definition belongs in science. Construction belongs in infusion. Physical form belongs in formats. Handling belongs in guides. Market access belongs in states. This page names that order so the rest of the reference stays easy to use. The kief layer is covered in the guide to kief and trichomes. Label comparisons across formats are covered in potency by format.",
       ],

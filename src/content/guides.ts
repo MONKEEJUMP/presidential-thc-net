@@ -57,8 +57,8 @@ export const guidesHub: PageContent = {
       heading: "Begin With the Format and the Label",
       paragraphs: [
         "The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. It explains why THC percentages from different materials and finished formats need batch-specific context.",
-        "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. Four sideways links lead to every other practical guide in this silo.",
-        "Start with the beginner's guide to infused cannabis when vocabulary or first-session order is unclear. Identify the format, keep batch identifiers with the product, then open the child guide that matches the next question.",
+        "From there, it builds a simple path: read the package, understand the construction, start with a small amount, and learn the handling method before changing variables. The links below lead to every other practical guide.",
+        "Start with the beginner's guide to infused cannabis when vocabulary or first-session order is unclear. Identify the format, keep batch identifiers with the product, then read the guide that matches the next question.",
       ],
         subsections: [{ heading: "Which guide should you open first?", paragraphs: [[{ text: "Start with the format named on the package, then identify the layers or extract ingredients involved. The beginner's guide defines infusion in plain language and compares moon rocks, infused pre-rolls, tobacco-free blunts, minis, and cartridges. Once the construction is clear, move to handling, storage, or temperature. If the product is a moon rock and preparation is next, open the smoking guide. If the jar will sit unused, open the storage guide. If a device dial is the question, open the temperature guide. Keep reading with " }, { text: "beginner's guide to infused cannabis", href: "/guides/beginners-guide" }, { text: ", " }, { text: "infused cannabis storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: ", or " }, { text: "device temperature guide", href: "/guides/temperature-guide" }, { text: ". For a moon rock, read " }, { text: "how to smoke moon rocks", href: "/guides/how-to-smoke-moon-rocks" }, { text: " next to the " }, { text: "moon rocks format guide", href: "/formats/moon-rocks" }, { text: "; for a rolled product, compare the " }, { text: "infused pre-rolls guide", href: "/formats/infused-pre-rolls" }, { text: " and the " }, { text: "blunts format guide", href: "/formats/blunts" }, { text: "." }]] }],
     },
@@ -513,7 +513,7 @@ export const howToStoreInfusedCannabis: PageContent = {
       heading: "Control Heat, Light, Humidity, and Time",
       paragraphs: [
         "Heat can soften concentrate, alter how a coating sits on flower, and speed the loss of volatile aroma compounds. Light adds another source of exposure, while time allows small changes to accumulate. Humidity sits between those pressures: excess moisture can encourage sticking, soft wraps, and surface change, while overly dry air can leave flower brittle and coatings more likely to flake during handling.",
-        "A consistently cool, dark, dry location addresses heat, light, and humidity together and makes time easier to manage. Consistency matters more than inventing a complicated ritual. Choose one suitable storage location, return the product there after handling, and avoid places that regularly heat up, sit in direct light, or swing between damp and arid extremes.",
+        "A consistently cool, dark, dry location addresses heat, light, and humidity together and makes time easier to manage. Consistency matters more than a complicated ritual. Choose one suitable storage location, return the product there after handling, and avoid places that regularly heat up, sit in direct light, or swing between damp and arid extremes.",
         "Kitchen counters, car consoles, sunny windowsills, and bathroom cabinets are common problem spots because temperature and moisture change there throughout the day. A closed cabinet or drawer away from appliances and sunlight is usually more stable than a decorative jar left on an open shelf.",
       ],
     },
@@ -534,6 +534,7 @@ export const howToStoreInfusedCannabis: PageContent = {
         "Concentrates and coatings respond quickly to heat. Store them upright or in their intended tray when the package provides one, and keep them away from warm electronics or pockets for long periods. If a concentrate softens in a warm room, move the closed container to a cooler dark location and allow it to stabilize before handling rather than scraping soft material across tools.",
         "Pre-rolls, blunts, and minis need support that preserves shape. Store them in a rigid tube, original sealed pack, or snug case so the paper or wrap does not bend, crease, or flatten. Keep humidity moderate: a wrap that sits in damp air can soften, while a wrap left in a hot dry spot can dry out and crack. Cartridges belong in a clean case that protects mouthpieces and connectors from lint and impact.",
         "These format notes refine the same baseline. Cool, dark, dry, airtight storage still applies; the container and orientation change so the construction of each product stays intact between uses.",
+        "Presidential THC’s guide to infused formats explains the construction each storage habit protects.",
       ],
     },
     {
@@ -592,6 +593,7 @@ export const howToStoreInfusedCannabis: PageContent = {
     },
   ],
   contextualLinks: [
+    { href: "/", anchor: "Presidential THC’s guide to infused formats", sectionId: "format-specific-storage", paragraphIndex: 4 },
     {
       href: "/states",
       anchor: "official licensed-retailer path",
@@ -815,7 +817,7 @@ export const whatToLookFor: PageContent = {
       heading: "Use Aroma as a Condition Check",
       paragraphs: [
         "Terpenes are volatile aroma compounds, and heat and light take them first. A distinct aroma that fits the package description is therefore a useful condition signal. Make the observation promptly rather than leaving the container open under room light for an extended comparison.",
-        "Aroma alone cannot establish potency, extract method, or personal effects. It works best beside construction and label information. If the package describes an aromatic profile but the material is indistinct, record the mismatch without inventing a cause that the available evidence cannot prove.",
+        "Aroma alone cannot establish potency, extract method, or personal effects. It works best beside construction and label information. If the package describes an aromatic profile but the material is indistinct, note the mismatch and ask the retailer.",
         "Compare aroma against the package wording first, then against other products only if storage and opening time were similar. A jar left open beside a freshly sealed one is not a fair test. Treat smell as one checklist clue, not a substitute for the label or burn and draw behavior.",
       ],
     },
@@ -974,7 +976,7 @@ export const beginnersGuide: PageContent = {
       paragraphs: [
         "The most frequent early mistakes are format mix-ups and tool mismatches. Grinding a moon rock, treating a cartridge like flower, or comparing a concentrate-input percentage with a finished multi-layer product all create confusion that the label alone cannot fix. Identify the construction before choosing a tool or a comparison.",
         "Another common error is changing several variables at once — larger piece size, hotter flame, different paper, and a new device setting in the same session. When the result is uneven, there is no clear lesson. Keep one change at a time, keep the package nearby, and write down the batch identifier if you plan to compare later purchases.",
-        "Rushing past storage and security also causes avoidable problems. Infused products can be sticky, aromatic, and potent relative to ordinary flower, so child-resistant storage and a cool, dark place are part of responsible adult use. Educational guidance does not replace local rules; it helps you read the product you already have.",
+        "Rushing past storage and security also causes avoidable problems. Infused products can be sticky, aromatic, and stronger than ordinary flower, so child-resistant storage and a cool, dark place are part of responsible adult use. Educational guidance does not replace local rules; it helps you read the product you already have.",
       ],
     },
     {
@@ -984,7 +986,7 @@ export const beginnersGuide: PageContent = {
         "If the immediate task is preparation, continue to the moon-rock smoking guide. If the product will be kept for later, use the storage routine. The temperature guide explains compound reference points and gradual adjustment, while the quality guide organizes appearance, aroma, package, coating, and burn observations.",
         "Those four paths cover the practical loop: identify, prepare, control, inspect, and store. This site remains a reference publication rather than a shop. For the full reference map, return to the Presidential THC home.",
         "Move through the guides in the order the product requires, not as a checklist that must be completed every time. A stored moon rock may need handling guidance next; a cartridge may send the reader directly to temperature and quality checks. The format decides the useful path.",
-        "If the question is still what the product is, stay here until format and label terms are clear. Once it is how to prepare, store, heat, or inspect a known format, open the matching child guide.",
+        "If the question is still what the product is, stay here until format and label terms are clear. Once it is how to prepare, store, heat, or inspect a known format, read the matching guide.",
       ],
     },
   ],
