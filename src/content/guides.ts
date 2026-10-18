@@ -69,7 +69,7 @@ export const guidesHub: PageContent = {
         "Each guide answers one practical question. Begin with the format named on the package, then identify the layers or extract ingredients involved. Move to the handling, storage, or temperature page only after that construction is clear. This order keeps a moon rock, an infused pre-roll, and a cartridge from being treated as interchangeable products merely because each includes concentrate.",
         "For a new package, record the format, batch identifier, ingredient language, net weight, and cannabinoid units before opening it. The beginner's guide helps interpret the format, batch identifiers, and cannabinoid information. The quality guide then helps compare what the label says with visible construction, coating, aroma, and condition. These checks describe the product in front of you without turning appearance into a cannabinoid claim.",
         "A useful sequence is identify, prepare, control heat, inspect, and store. Skip steps that do not apply, but do not test heat or burn before the package has been read.",
-      ],
+      ], subsections: [{ heading: "Guides sorted by state", paragraphs: [[{ text: "State rules shape what's on the shelf. Start at " }, { text: "the Presidential state guides", href: "/states" }, { text: "." }]] }],
     },
     {
       id: "construction-and-care",
