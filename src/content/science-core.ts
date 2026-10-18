@@ -13,7 +13,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "THCa is the acidic precursor found in the living cannabis plant, while THC is the corresponding form produced when heat drives decarboxylation. A percentage of THCa is not interchangeable with the same percentage of THC: the label calculation must account for the mass lost during conversion, which is why Total THC uses a factor of 0.877.",
       "That distinction explains why a concentrate reported as 99% THCa cannot become 99% THC. Its theoretical ceiling after complete conversion is about 87% THC before any practical losses are considered. The same arithmetic applies whether the product is flower, an infused format, or a high-purity isolate—the molecule names stay separate, and the mass factor still belongs between them.",
-      "This page is for adults twenty-one and older who want label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined. The same label reading applies across Presidential formats.",
+      "Covers label-education chemistry, not medical advice, dosing guidance, or claims about personal outcomes. Keep the package face and the matched laboratory report side by side. The useful skill is reading which analyte was measured, which value was calculated, and what the 0.877 factor is doing when those numbers are combined. The same label reading applies across Presidential formats.",
     ],
     sections: [
       {
@@ -174,7 +174,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Decarboxylation is the heat-driven reaction that converts THCa into THC by releasing a carboxyl group as carbon dioxide. It changes both the molecule and its mass, so it is the reason a laboratory must adjust THCa by 0.877 when calculating Total THC.",
       "A lighter and a vaporizer coil create very different heating environments, but both can supply the energy that moves this conversion forward. Temperature matters together with exposure time; neither number describes the whole process alone.",
-      "This page is for adults twenty-one and older who want educational chemistry framing, not medical advice, dosing guidance, or promises about personal outcomes. Keep the package label and matched laboratory report nearby, and treat Total THC as standardized chemical potential rather than a guarantee that one heating method fully reproduces the calculated total.",
+      "Covers educational chemistry framing, not medical advice, dosing guidance, or promises about personal outcomes. Keep the package label and matched laboratory report nearby, and treat Total THC as standardized chemical potential rather than a guarantee that one heating method fully reproduces the calculated total.",
     ],
     sections: [
       {
@@ -279,7 +279,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "A cannabis laboratory report, commonly called a Certificate of Analysis or COA, records results for a specific tested batch. Read it in this order: confirm the product and batch identity, inspect the cannabinoid panel and Total THC math, review the terpene panel when present, then check the compliance sections and the laboratory’s report details.",
       "A COA can tell you what the submitted sample measured and whether listed tests passed or failed. It cannot, by itself, describe every unit in a batch, predict flavor from one number, or replace the need to match the report to the package in hand.",
-      "This page is for adults twenty-one and older who want an educational walkthrough of Certificates of Analysis for infused cannabis—not medical advice, dosing guidance, or therapeutic claims. Match batch identity, read potency and terpene panels in their own units, and treat residual solvent and pesticide sections as scope-limited compliance records.",
+      "Covers an educational walkthrough of Certificates of Analysis for infused cannabis—not medical advice, dosing guidance, or therapeutic claims. Match batch identity, read potency and terpene panels in their own units, and treat residual solvent and pesticide sections as scope-limited compliance records.",
     ],
     sections: [
       {
@@ -370,7 +370,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Weed terpenes are the volatile aromatic compounds that supply much of cannabis’s identifiable scent and flavor vocabulary. Their relative proportions matter more than any single name, and their volatility means cultivation is only the beginning: drying, curing, extraction, heat, light, and storage can all reshape what remains.",
       "Boiling points help compare compounds, but they are not device instructions. Evaporation begins below a listed boiling point and unfolds over time, so flavor cannot be reduced to one temperature on a dial.",
-      "This page is for adults twenty-one and older who want science and education framing around aroma, flavor, and volatility—not medical advice, dosing guidance, or therapeutic claims about named terpenes. The useful skill is reading a terpene panel as a measured mixture, connecting that mixture to processing history, and keeping boiling-point references in proportion.",
+      "Covers science and education framing around aroma, flavor, and volatility—not medical advice, dosing guidance, or therapeutic claims about named terpenes. The useful skill is reading a terpene panel as a measured mixture, connecting that mixture to processing history, and keeping boiling-point references in proportion.",
     ],
     sections: [
       {
@@ -387,7 +387,7 @@ export const scienceCorePages: PageContent[] = [
         id: "boiling-points",
         heading: "Reference boiling points",
         paragraphs: [
-          "The table gives useful comparison points at standard pressure. Caryophyllene sits at the low end of this set, while linalool is highest among the five values supplied in the project research brief. Terpinolene is included to complete the six-terpene overview, using the boiling-point range reported in a primary analytical study and aroma vocabulary from primary flavoromics research.",
+          "The table gives useful comparison points at standard pressure. Caryophyllene sits at the low end of this set, while linalool is highest of these five values. Terpinolene is included to complete the six-terpene overview, using the boiling-point range reported in a primary analytical study and aroma vocabulary from primary flavoromics research.",
           "Read the order as a comparison of pure compounds under reference conditions, not as a ranked list of flavors or a recipe for a finished extract. Cannabis material is a mixture, and each component occupies only part of that mixture. The table can show that caryophyllene and linalool have widely separated reference points, but it cannot tell you the exact concentration of either compound in a product. That information belongs on a batch-specific terpene panel.",
           "Reference boiling points also assume standard pressure and pure compounds. Real flower, resin, or oil is neither pure nor held at a single uniform temperature. Device settings, chamber geometry, airflow, and contact time change how heat reaches the material, so a chart is a comparison tool rather than a control panel for aroma delivery.",
         ],
@@ -408,7 +408,7 @@ export const scienceCorePages: PageContent[] = [
         id: "not-a-switch",
         heading: "Why boiling point is not an on-off switch",
         paragraphs: [
-          "A boiling point is where a compound leaves rapidly under the stated conditions, not the first temperature at which molecules enter the vapor phase. A 2022 study cited in the project research brief found that vaporizers operating well below published boiling points still evaporated the compounds almost completely over time. Duration and heat transfer belong in the explanation alongside temperature.",
+          "A boiling point is where a compound leaves rapidly under the stated conditions, not the first temperature at which molecules enter the vapor phase. A 2022 study found that vaporizers operating well below published boiling points still evaporated the compounds almost completely over time. Duration and heat transfer belong in the explanation alongside temperature.",
           "That finding resolves a common chart-reading mistake. A device does not have to reach 388°F before any linalool can leave, nor does crossing 388°F mean every trace disappears at once. Published values organize volatility; actual delivery depends on the material, hardware, exposure, and time.",
           "Keep evaporation separate from decarboxylation when reading heat discussions. Evaporation describes aromatic molecules moving into the vapor phase. Decarboxylation describes an acidic cannabinoid losing carbon dioxide and becoming its neutral form. Both respond to heat, but a boiling-point chart answers the first question more directly than the second. Mixing those verbs produces confused temperature advice.",
         ],
@@ -420,7 +420,7 @@ export const scienceCorePages: PageContent[] = [
           "Volatile compounds can change during drying, curing and storage, which is why processing choices are part of flavor science. Live-resin production uses fresh-frozen material and controlled extraction conditions intended to retain compounds that ordinary postharvest handling can reduce. Exact settings vary by producer.",
           "Storage continues the same contest after extraction. Heat and light take terpenes first, so a profile measured at production is not protected from later handling. A cool, dark environment slows the conditions that strip away the most volatile part of the composition. The point is preservation of measured material, not the invention of aroma after the fact.",
           "This gives terpene preservation a chain rather than a single checkpoint. Harvest timing establishes the starting material, processing determines which volatile fraction carries forward, and storage affects what remains when the container is opened. A strong result at one stage cannot erase losses at another. When comparing extract styles, ask which steps were designed to retain the original aromatic fraction and which steps deliberately favor another goal, such as a different consistency or a more neutral base.",
-          "Loss figures from postharvest research are ranges, not fixed rules for every cultivar and every lot. The project research record notes that terpene loss across drying, curing, and storage can reach half of the starting total. That upper-bound language explains why process history matters; it does not license a claim that every dried sample lost exactly fifty percent. Batch panels remain the evidence for what a specific product still contains.",
+          "Loss figures from postharvest research are ranges, not fixed rules for every cultivar and every lot. Process history matters. Batch panels remain the evidence for what a specific product still contains.",
           "Live-resin and live-rosin routes are useful comparisons because they advertise process choices aimed at aromatic retention. They do not invent a new class of molecules; they change which fraction of an already-present volatile set is more likely to survive into the finished extract. When a label names those process families, read the claim as processing history first, then confirm composition on the batch panel.",
         ],
         subsections: [{ heading: "Why do extraction methods change the terpene profile?", paragraphs: [[{ text: "Volatile compounds can change during drying, curing, and storage, so processing choices are part of flavor science. Live-resin production uses fresh-frozen material and controlled extraction conditions to keep more of that volatile fraction. Live rosin is solventless and is the lower-temperature starting point in the temperature guide. A terpene panel describes a mixture, such as caryophyllene with pepper and clove, limonene with bright citrus, and linalool with floral notes, rather than a single flavor word. Keep reading with " }, { text: "how live resin is made", href: "/science/live-resin" }, { text: ", " }, { text: "how live rosin is made", href: "/science/live-rosin" }, { text: ", or " }, { text: "what decarboxylation does", href: "/science/decarboxylation" }, { text: "." }]] }],
@@ -476,7 +476,7 @@ export const scienceCorePages: PageContent[] = [
     intro: [
       "Cannabinoids are a family of related compounds found in cannabis, and a laboratory panel separates them because each name represents a distinct analyte. THC and its acidic precursor THCa may dominate the label, but CBD, CBG, and CBN can appear in their own rows and should be read independently rather than folded into one generic potency number.",
       "The plant builds much of this chemistry in acidic forms. Heat can remove carbon dioxide from those precursors, while storage and oxidation can change the profile further; the label is therefore a measured snapshot of a particular batch.",
-      "This page is for adults twenty-one and older who want a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
+      "Covers a descriptive reading of cannabinoid panels on infused cannabis products—not medical advice, dosing guidance, or therapeutic claims about named compounds. Match each row to a distinct analyte, relate acidic precursors to their decarboxylated counterparts, and keep Total THC from swallowing every other name on the label.",
     ],
     sections: [
       {

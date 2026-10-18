@@ -18,7 +18,7 @@ export const statesPages: PageContent[] = [
         "id": "the-eight-markets",
         "heading": "Select state markets, each a distinct market",
         "paragraphs": [
-          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan and Arizona, and Washington is landing soon. The product is identical in every one of them. The markets around it are each their own thing.",
+          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan and Arizona, and Washington is landing soon. Each pack carries its own label wherever it is sold. The markets around it are each their own thing.",
           "All of them except Oklahoma run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
           "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers. Adult-use and medical are access rules, not style preferences."
         ]
@@ -337,7 +337,7 @@ export const statesPages: PageContent[] = [
           "Every product on a licensed California shelf has been through compliance testing, and the certificate for a given batch is available on request. That is a genuine benefit of a mature regulated market and it is worth using.",
           "Retail density is the other advantage. Across most of the state — the whole Los Angeles basin, the Bay Area, San Diego, the Central Valley, the coast — a licensed door is often close by. Exact store participation still changes over time, so live listings beat a fixed mental map.",
           "If a source cannot show that it is licensed and that the product traces to a regulated batch, it is not the channel this reference is describing. The constant is the licence itself; local practice can still vary by city and by shop.",
-          "Use that licence-first habit the same way you use live stock checks: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Los Angeles basin, Bay Area, San Diego, or coastal door you are visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
+          "Use that licence-first habit the same way you use live stock checks: confirm the current licensed door rather than relying on an old tip or a social post. The statewide adult-use structure is below; a live licensed source covers the last step for the Los Angeles basin, Bay Area, San Diego, or coastal door you are visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -764,7 +764,7 @@ export const statesPages: PageContent[] = [
           "A licensed Nevada purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that serves visitors and residents under the same adult-use rules.",
           "Local practice can still vary by city and by shop — hours, whether a lounge is attached or nearby, and how a particular retailer organises its floor. The constant is the licence itself: a Nevada adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Strip-adjacent, Reno, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. The statewide adult-use structure is below; a live licensed source covers the last step for the Strip-adjacent, Reno, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -1059,7 +1059,7 @@ export const statesPages: PageContent[] = [
           "A licensed Arizona purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed dispensary, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a regulated channel that already spent a decade practising medical retail before adult use arrived.",
           "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: an Arizona adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the Phoenix-metro, Tucson-corridor, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. The statewide adult-use structure is below; a live licensed source covers the last step for the Phoenix-metro, Tucson-corridor, or neighbourhood door you are actually visiting. Oklahoma takes a different, medical-card route, covered in the Oklahoma state guide."
         ]
       },
       {
@@ -1203,7 +1203,7 @@ export const statesPages: PageContent[] = [
           "A licensed Washington purchase is straightforward once you are twenty-one and carrying valid identification. You enter a licensed retailer, show ID, browse a menu of tested product, and leave with sealed packaging that carries the batch and labelling information the state requires.",
           "Every product on a licensed shelf has been through compliance testing. Asking for the certificate tied to a batch is a normal part of how this market works, not a special request. That habit is one of the quiet advantages of buying inside a long-running regulated channel.",
           "Local practice can still vary by city and by shop — hours, delivery options if offered, and how a particular retailer organises its floor. The constant is the licence itself: a Washington adult-use door should be able to show that it is licensed, and the product should trace to a regulated batch rather than an informal source. If a source cannot show that chain, it is not the channel this reference is describing.",
-          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. This page explains statewide adult-use structure; a live licensed source supplies the last step for the city you are actually in."
+          "Treat local variation the same way you treat stock: confirm the current licensed door rather than relying on an old tip or a social post. The statewide adult-use structure is below; a live licensed source covers the last step for the city you are actually in."
         ]
       },
       {

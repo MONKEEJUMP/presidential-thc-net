@@ -29,7 +29,7 @@ export const guidesHub: PageContent = {
       id: "storing-infused-cannabis",
       heading: "Protect the Product From Heat, Light, and Time",
       paragraphs: [
-        "Storage begins with three pressures: heat, light, and time. Terpenes are volatile, and the supplied research notes that heat and light take them first, so cool, dark storage and a securely closing container are the basic priorities.",
+        "Storage begins with three pressures: heat, light, and time. Terpenes are volatile, and heat and light take them first, so cool, dark storage and a securely closing container are the basic priorities.",
         "The storage guide covers container fit, separation between formats, handling practices, and visible changes worth noticing. It also offers a simple routine for opening, inspecting, and returning the product to storage promptly.",
         "Continue to how to store infused cannabis when the product will sit between sessions. Match the container to the format and close it after a short check.",
       ],
@@ -39,7 +39,7 @@ export const guidesHub: PageContent = {
       heading: "Use Temperature as a Control, Not a Contest",
       paragraphs: [
         "A boiling point is not an on-off switch. Compounds can evaporate below their listed boiling points over time, which means a device setting should be treated as one part of a heat-and-time system rather than a promise of exact internal temperature.",
-        "The temperature guide organizes the supplied reference points for caryophyllene, pinene, THC, myrcene, limonene, linalool, and CBD. It then explains the practical start-low, adjust-gradually method for rosin, resin, and diamond-based extracts.",
+        "The temperature guide lists reference points for caryophyllene, pinene, THC, myrcene, limonene, linalool, and CBD. It then explains the practical start-low, adjust-gradually method for rosin, resin, and diamond-based extracts.",
         "Use the cannabis extract temperature guide when adjustable hardware is involved. Begin low, change one step at a time, and keep the package beside the device.",
       ], subsections: [{ heading: "The science behind the temperature guide", paragraphs: [[{ text: "Heat changes cannabinoids as well as flavor. " }, { text: "The decarboxylation explainer", href: "/science/decarboxylation" }, { text: " and " }, { text: "the main cannabinoids", href: "/science/cannabinoids" }, { text: " explain what the temperature guide is working with." }]] }],
     },
@@ -299,7 +299,7 @@ export const howToSmokeMoonRocks: PageContent = {
   intro: [
     "Do not put a moon rock in a grinder. Break off a piece about the size of a pencil eraser by hand or with scissors, place it in a bowl with room for airflow, and light it slowly; for a steadier burn, layer the piece between ground flower. Glass is easier to manage than paper, and a relight is normal because the concentrate-rich piece is dense.",
     "That method follows the format's construction. A moon rock has cannabis flower at its center, a cannabis concentrate layer around it, and kief on the outside. Some menus describe the same build as flower coated in hash oil and rolled in kief. Preparation should keep those layers together while exposing enough surface for heat and air to move through the piece.",
-    "This page is for adults twenty-one and older who want an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim. Presidential THC publishes this routine as format education.",
+    "Covers an educational preparation routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat piece size as a handling reference rather than a universal serving claim. Presidential THC publishes this routine as format education.",
   ],
   sections: [
     {
@@ -323,7 +323,7 @@ export const howToSmokeMoonRocks: PageContent = {
       id: "start-with-a-small-piece",
       heading: "Separate One Small Piece",
       paragraphs: [
-        "The supplied handling guidance starts with a piece around the size of a pencil eraser. That is a preparation reference, not a universal serving promise. Infused cannabis can vary by flower, concentrate, kief, batch, and how evenly those layers are distributed, so the package remains the source for the specific product.",
+        "Start with a piece around the size of a pencil eraser. That is a preparation reference, not a universal serving promise. Infused cannabis can vary by flower, concentrate, kief, batch, and how evenly those layers are distributed, so the package remains the source for the specific product.",
         "Keep the separated piece compact enough to preserve its layers but open enough at the edges to catch heat. Avoid compressing it into a hard plug. If additional material is used, add it in separate steps rather than turning the bowl into one dense mass with no air path.",
         "When a rock is irregular, break from an edge rather than crushing the center. Edge cuts expose surface without collapsing the whole construction into one dense plug. If you need more material later, separate another small piece instead of stacking oversized chunks that choke airflow.",
       ],
@@ -506,7 +506,7 @@ export const howToStoreInfusedCannabis: PageContent = {
   intro: [
     "Store infused cannabis in a clean, airtight container in a cool, dark, dry place. Heat, light, humidity, and time are the main pressures to control, and terpenes are the first part of the product that heat and light take away. Keep different formats separated, minimize open-container time, and inspect the product before returning it to storage.",
     "Good storage does not freeze a product in its original state forever. It slows avoidable change and keeps the flower, concentrate, kief, or wrap from being exposed to conditions that work against its construction.",
-    "This page is for adults twenty-one and older who want an educational storage routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat each format as its own handling case instead of assuming one jar method fits every product.",
+    "Covers an educational storage routine, not medical advice or effect promises. Keep the product package nearby for the specific batch, follow local law, and treat each format as its own handling case instead of assuming one jar method fits every product.",
   ],
   sections: [
     {
@@ -648,15 +648,15 @@ export const temperatureGuide: PageContent = {
   wordTarget: [1100, 1250],
   intro: [
     "Start an adjustable device low and work upward in small steps. Rosin belongs at the lower end of the practical range, resin in the middle, and diamond-based material higher, but a boiling-point chart does not translate directly into a perfect device setting. Heat level, exposure time, hardware, and the extract itself all shape what happens.",
-    "A 2022 study supplied for this project found that vaporizers operating well below listed boiling points could still evaporate compounds almost completely over time. Boiling point marks where a compound leaves quickly, not the first temperature at which it can leave.",
-    "This page is for adults twenty-one and older who want an educational operating routine, not medical advice or guaranteed effects. Keep the product label and device instructions nearby, follow local law, and treat each extract and hardware combination as its own controlled comparison instead of copying one setting across formats. For the chemistry behind the heat ranges, see THCa-to-THC conversion by heat.",
+    "A 2022 study found that vaporizers operating well below listed boiling points could still evaporate compounds almost completely over time. Boiling point marks where a compound leaves quickly, not the first temperature at which it can leave.",
+    "Covers an educational operating routine, not medical advice or guaranteed effects. Keep the product label and device instructions nearby, follow local law, and treat each extract and hardware combination as its own controlled comparison instead of copying one setting across formats. For the chemistry behind the heat ranges, see THCa-to-THC conversion by heat.",
   ],
   sections: [
     {
       id: "reference-table",
       heading: "Reference Points for Major Compounds",
       paragraphs: [
-        "The table organizes the verified reference values supplied for this site. Aromas identify the familiar scent family associated with each terpene; they are descriptions, not predictions about a person's experience. CBD is shown as a range because the underlying sources do not agree on one value.",
+        "The table lists published reference values. Aromas identify the familiar scent family associated with each terpene; they are descriptions, not predictions about a person's experience. CBD is shown as a range because the underlying sources do not agree on one value.",
         "Read the table as relative order and volatility context, not as a dial-matching checklist. A compound listed higher on the scale is generally less volatile under the same conditions, but the chamber does not heat every part of the material to one exact laboratory point.",
         "Keep the table beside the package rather than treating either one as complete. The chemical references explain selected compounds; the label identifies the extract family, formulation, and hardware notes for the product in hand.",
       ],
@@ -725,7 +725,7 @@ export const temperatureGuide: PageContent = {
       heading: "Compare Settings With the Same Reference",
       paragraphs: [
         "A simple written note can keep the comparison honest: identify the extract family, device setting, and observable material behavior. The purpose is not to create a universal chart from one product. It is to avoid forgetting which variable changed and then crediting temperature for a difference caused by hardware, airflow, or loading.",
-        "Return to the supplied table as a chemical reference and to the package as the product reference. Together they provide better context than either one alone. The table orders selected compounds; the package identifies the actual extract and formulation being operated in the device.",
+        "Return to the table as a chemical reference and to the package as the product reference. Together they provide better context than either one alone. The table orders selected compounds; the package identifies the actual extract and formulation being operated in the device.",
         "Compare only under similar setup conditions. If piece size, warm-up, airflow, or battery state changes with the temperature dial, the result cannot isolate heat. Controlled notes keep each signal attached to the variable that actually changed.",
       ],
     },
@@ -770,6 +770,7 @@ export const temperatureGuide: PageContent = {
 export const whatToLookFor: PageContent = {
   path: "/guides/what-to-look-for",
   contextualLinks: [
+    { href: "/guides/beginners-guide", anchor: "a first-time buyer's path through infused formats", paragraphIndex: 0 },
     { href: "/states/michigan", anchor: "reading a package in Michigan", sectionId: "read-package", paragraphIndex: 0 },
     { href: "/formats/infused-pre-rolls", anchor: "the infused pre-roll reference", sectionId: "identify-format", paragraphIndex: 0 },
     {
@@ -793,9 +794,9 @@ export const whatToLookFor: PageContent = {
     "A practical framework for judging infused cannabis by construction, aroma, coating, labels, packaging, and burn behavior.",
   wordTarget: [1100, 1250],
   intro: [
-    "Judge infused cannabis with evidence you can inspect: the format should match its description, the construction should look intentional, the aroma should remain distinct, the package should identify what is inside, and the material should burn or operate consistently for that format. No single visual detail proves quality by itself, so compare several signals before reaching a conclusion.",
+    "Judge infused cannabis with evidence you can inspect: the format should match its description, the construction should look intentional, the aroma should remain distinct, the package should identify what is inside, and the material should burn or operate consistently for that format. No single visual detail proves quality by itself, so compare several signals before reaching a conclusion. If this is your first infused purchase, a first-time buyer's path through infused formats comes first.",
     "The point is not to reward the flashiest surface. It is to understand whether flower, concentrate, kief, wrap, or cartridge hardware appear to work as one coherent product and whether the package gives enough context to identify it.",
-    "This page is for adults twenty-one and older who want an educational inspection routine, not medical advice or guaranteed effects. Keep the label with the product, follow local law, and treat each batch as its own measured sample instead of assuming every package in a category looks or behaves the same.",
+    "Covers an educational inspection routine, not medical advice or guaranteed effects. Keep the label with the product, follow local law, and treat each batch as its own measured sample instead of assuming every package in a category looks or behaves the same.",
   ],
   sections: [
     {
@@ -945,7 +946,7 @@ export const beginnersGuide: PageContent = {
         "Size alone does not define the underlying material. A mini is smaller than a full blunt, and a cartridge uses hardware instead of a flower wrap, but each still needs a label that identifies what was made. Start with the format name and construction before comparing percentages across categories. The guide to mini blunts covers that size difference in detail.",
         "A short format checklist helps on a first pass: Is the product a coated flower piece, a filled paper roll, a wrapped blunt or mini, or a hardware cartridge? Does the package name a concentrate type such as resin, rosin, or diamonds? Once those answers are clear, move to the guide that matches the next practical question instead of jumping between unrelated formats.",
       ],
-        subsections: [{ heading: "Why can't two potency numbers be compared directly?", paragraphs: [[{ text: "Potency belongs to the specific tested material. A concentrate input and a finished moon rock are not interchangeable samples, because the finished product is a weighted blend of flower, concentrate, and kief. Comparing a concentrate-input percentage with a finished multi-layer product is one of the most common beginner mistakes. Keep the package with the product and read its format, cannabinoid information, and batch identifiers together. Keep reading with " }, { text: "THCa vs THC explained", href: "/science/thca-vs-thc" }, { text: ", " }, { text: "what to look for in quality", href: "/guides/what-to-look-for" }, { text: ", or " }, { text: "infused cannabis storage guide", href: "/guides/how-to-store-infused-cannabis" }, { text: "." }]] }, { heading: "Starting with moon rocks", paragraphs: [[{ text: "Moon rocks are a format newcomers often ask about, and they are easy to recognize once you know the layers. Flower sits at the center, concentrate coats it, and a kief finish covers the outside, which gives the piece its dusty or crystalline look. Because the concentrate stays tacky under the kief, moon rocks feel and handle differently from plain flower. The " }, { text: "layer-by-layer moon rock breakdown", href: "/formats/moon-rocks" }, { text: " explains how the three parts fit together. Read the package label for cannabinoid content and batch test results." }]] }],
+        subsections: [{ heading: "Starting with moon rocks", paragraphs: [[{ text: "Moon rocks are a format newcomers often ask about, and they are easy to recognize once you know the layers. Flower sits at the center, concentrate coats it, and a kief finish covers the outside, which gives the piece its dusty or crystalline look. Because the concentrate stays tacky under the kief, moon rocks feel and handle differently from plain flower. The " }, { text: "layer-by-layer moon rock breakdown", href: "/formats/moon-rocks" }, { text: " explains how the three parts fit together. Read the package label for cannabinoid content and batch test results." }]] }],
     },
     {
       id: "potency-context",
@@ -971,7 +972,7 @@ export const beginnersGuide: PageContent = {
       heading: "Use the Label, Storage, and Temperature Together",
       paragraphs: [
         "Keep the package with the product and read its format, cannabinoid information, batch identifiers, and printed handling directions. Store the product securely closed in a cool, dark place. Heat and light take volatile terpenes first, while unnecessary handling can move kief or concentrate away from the intended construction.",
-        "For adjustable hardware, start low and work upward gradually. Rosin begins lower, resin in the middle, and diamonds higher in the relative sequence supplied for this guide set. Boiling points are reference values, not direct device recipes, because compounds can evaporate below those points over time.",
+        "For adjustable hardware, start low and work upward gradually. Rosin begins lower, resin in the middle, and diamonds higher in the relative sequence the temperature guide uses. Boiling points are reference values, not direct device recipes, because compounds can evaporate below those points over time.",
         "Label, storage, and temperature form one loop rather than three separate chores. The label tells you what was made and which batch it belongs to. Storage protects that construction until you are ready to use it. Temperature and heat control then decide how the prepared material responds. Skipping any one of those steps makes the others harder to interpret.",
       ],
     },

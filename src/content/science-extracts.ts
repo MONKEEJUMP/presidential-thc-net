@@ -326,7 +326,7 @@ export const scienceExtractPages: PageContent[] = [
     intro: [
       "Cannabis distillate is a cannabinoid-rich fraction produced by distilling a previously extracted cannabis oil under vacuum. The refinement separates target cannabinoids from much of the oil's volatile aroma material and heavier residue, so the finished liquid is commonly translucent, highly concentrated, and nearly odorless.",
       "That neutrality is the defining practical feature. Distillate provides a consistent base whose flavor can be shaped separately, while a less-refined extract carries more of the original plant's mixed chemical profile into the finished material.",
-      "This page is for adults twenty-one and older. It covers what distillate is, how vacuum refinement differs from live resin and live rosin, purity-versus-terpene tradeoffs, and how the neutral fraction shows up in cartridges, edibles, and infusion.",
+      "Covers what distillate is, how vacuum refinement differs from live resin and live rosin, purity-versus-terpene tradeoffs, and how the neutral fraction shows up in cartridges, edibles, and infusion.",
     ],
     sections: [
       {
@@ -497,7 +497,7 @@ export const scienceExtractPages: PageContent[] = [
         id: "live-and-cured-are-process-choices",
         heading: "Live and cured describe different process choices",
         paragraphs: [
-          "The same cultivar can present a different measured volatile profile after fresh freezing than after drying and curing because postharvest time changes the material before extraction begins. Research on cannabis drying has found that preservation varies by drying method and by cultivar, while the supplied project record notes that terpene loss across drying, curing, and storage can reach half of the starting total. That figure is a possible loss, not a fixed rule for every batch.",
+          "The same cultivar can present a different measured volatile profile after fresh freezing than after drying and curing because postharvest time changes the material before extraction begins. Research on cannabis drying has found that preservation varies by drying method and by cultivar.",
           "Cured resin and live resin are therefore parallel categories rather than a ladder. One begins after a managed dry-and-cure stage; the other begins with a frozen harvest. Laboratory percentages and aroma profiles can compare the outputs, but neither category name guarantees a specific number without batch evidence.",
         ],
       },
