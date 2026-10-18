@@ -18,7 +18,7 @@ export const statesPages: PageContent[] = [
         "id": "the-eight-markets",
         "heading": "Select state markets, each a distinct market",
         "paragraphs": [
-          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan, Arizona and Washington. The product is identical in every one of them. The markets around it are each their own thing.",
+          "Presidential is carried in California, Oklahoma, New York, Nevada, Michigan and Arizona, and Washington is landing soon. The product is identical in every one of them. The markets around it are each their own thing.",
           "All of them except Oklahoma run adult-use cannabis programmes, where anyone twenty-one or older buys at a licensed retailer with identification. Oklahoma runs a medical programme, where a state patient card opens the door.",
           "Knowing which is which is the first useful thing about buying anywhere, and it is the first thing each reference here answers. Adult-use and medical are access rules, not style preferences."
         ]
@@ -897,7 +897,7 @@ export const statesPages: PageContent[] = [
         "paragraphs": [
           "Michigan runs an adult-use programme. Anyone twenty-one or older buys at a licensed retailer with valid identification — a driver's licence or other accepted government ID is the usual door requirement. No patient card is needed for adult-use retail.",
           "Michigan also permits home cultivation. Residents may grow a limited number of plants for personal use in an enclosed, locked space. Home grow does not replace licensed retail; it sits alongside it as an additional personal option under state rules.",
-          "The state's licensing has been comparatively accessible from the start, and the retail network reaches beyond the major cities into smaller towns. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
+          "The state's licensing has been comparatively accessible from the start. That breadth is part of why Michigan feels different from capped or metro-only markets: licensed doors follow where people already live and shop, not only where tourism or a handful of large operators concentrate.",
           "For a reference reader, the practical frame is simple. Adult-use buyers enter with identification and age eligibility; product on a licensed shelf has been through the compliance path the state requires; and current retailer listings matter more than any fixed mental map of which towns carry which brands on any given week."
         ]
       },
@@ -1047,7 +1047,7 @@ export const statesPages: PageContent[] = [
         "heading": "What placement means here",
         "paragraphs": [
           "Shelf space in a capped market carries different weight.",
-          "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona there is a finite number of doors, and every one of them chooses carefully what earns shelf space.",
+          "In a state with open licensing, a brand can find a home somewhere almost by persistence. In Arizona, licensed retailers choose carefully what earns shelf space.",
           "Placement is genuinely contested here, and it means more when it is won. A buyer walking an Arizona floor is not browsing an infinite catalogue of whoever managed to open a shop last month — they are looking at what established operators decided was worth carrying in a limited footprint.",
           "That is why this reference treats Arizona placement as structural context rather than a marketing slogan. A capped licence map does not guarantee every format at every store on every day. For the open-licence contrast, see how Michigan's adult-use market works."
         ]
