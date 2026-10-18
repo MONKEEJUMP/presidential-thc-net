@@ -150,7 +150,7 @@ export const scienceExtractPages: PageContent[] = [
         href: "/",
         label: "Return to Presidential THC",
         description:
-          "Explore the complete reference map for infused cannabis chemistry, construction, formats, and practical handling.",
+          "Explore the reference map for infused cannabis chemistry, construction, formats, and practical handling.",
       },
     ],
     contextualLinks: [
@@ -420,7 +420,7 @@ export const scienceExtractPages: PageContent[] = [
       {
         href: "/science",
         label: "Explore cannabis extract science",
-        description: "Return to the science hub for the complete chemistry map.",
+        description: "Return to the science hub for the chemistry map.",
       },
       {
         href: "/science/live-resin",
